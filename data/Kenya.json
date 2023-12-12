@@ -1,0 +1,1037 @@
+[
+  {
+    "name": "Seven Four Eight Air Services (K) Limited",
+    "IATA": "FE",
+    "ICAO": "IHO",
+    "website": "www.748airservices.com",
+    "notes": "IATA designator changed from H4*. ICAO callsign changed from Sefeas.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.464478"
+  },
+  {
+    "name": "Aberdair Aviation Limited",
+    "IATA": null,
+    "ICAO": "BDV",
+    "website": "www.aberdair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.464508"
+  },
+  {
+    "name": "Aerospace Consortium Limited",
+    "IATA": null,
+    "ICAO": "AKQ",
+    "website": "www.aerospace.co.ke",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.464527"
+  },
+  {
+    "name": "African Airlines International Limited",
+    "IATA": null,
+    "ICAO": "AIK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.464544"
+  },
+  {
+    "name": "African Express Airways (K) Limited",
+    "IATA": "XU",
+    "ICAO": "AXK",
+    "website": "africanexpress.net",
+    "notes": "ICAO designator changed from AEK",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.464562"
+  },
+  {
+    "name": "African Medical and Research Foundation",
+    "IATA": null,
+    "ICAO": "FDS",
+    "website": "www.amref.org",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.464580"
+  },
+  {
+    "name": "Air Cargo Transportation System Limited",
+    "IATA": null,
+    "ICAO": "ACU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.464597"
+  },
+  {
+    "name": "Airkenya Express Ltd.",
+    "IATA": "P2",
+    "ICAO": "XAK",
+    "website": "www.airkenya.com",
+    "notes": "IATA Designator changed from QP. Designator reinstated by P2 IATA. Name changed from Airkenya Aviation Ltd. d/b/a Regional Air. Formerly Airkenya Aviation Ltd.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.464616"
+  },
+  {
+    "name": "Airtraffic Limited",
+    "IATA": null,
+    "ICAO": "ATY",
+    "website": "airtrafficafrica.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.464633"
+  },
+  {
+    "name": "Astral Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "ACP",
+    "website": "www.astral-aviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.464651"
+  },
+  {
+    "name": "Aushaan Air Limited",
+    "IATA": null,
+    "ICAO": "HAN",
+    "website": "aushaanair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.464667"
+  },
+  {
+    "name": "Blue Bird Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "BBZ",
+    "website": "www.bluebirdaviation.com",
+    "notes": "Founded in 1999.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.464685"
+  },
+  {
+    "name": "Blue sky Aviation Services Ltd",
+    "IATA": null,
+    "ICAO": "SBK",
+    "website": "www.blueskyaviation.org",
+    "notes": "Founded in 1996.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.464701"
+  },
+  {
+    "name": "Boskovic, Z, Air Charters Limited",
+    "IATA": null,
+    "ICAO": "ZBA",
+    "website": "www.boskovicaircharters.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.464718"
+  },
+  {
+    "name": "Buff Air Services",
+    "IATA": null,
+    "ICAO": "BUF",
+    "website": "www.buffairservices.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.464733"
+  },
+  {
+    "name": "Capital Airlines Limited",
+    "IATA": null,
+    "ICAO": "CPD",
+    "website": "www.capitalairlines.biz",
+    "notes": "Founded in 1993.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.464750"
+  },
+  {
+    "name": "DAC Aviation (EC) Ltd.",
+    "IATA": "JX",
+    "ICAO": null,
+    "website": "dacaviation.com",
+    "notes": "IATA Designator changed from J5*",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.464767"
+  },
+  {
+    "name": "Everett Aviation",
+    "IATA": null,
+    "ICAO": "EVK",
+    "website": "www.everettaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.464782"
+  },
+  {
+    "name": "Fanjet Express Ltd.",
+    "IATA": null,
+    "ICAO": "FJE",
+    "website": "www.fanjett.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.464798"
+  },
+  {
+    "name": "Five Fourty Aviation Limited",
+    "IATA": null,
+    "ICAO": "FFV",
+    "website": "www.fly540.com",
+    "notes": "IATA Accounting and Prefix codes recalled.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.464815"
+  },
+  {
+    "name": "Freedom Airline Express Ltd.",
+    "IATA": "4F",
+    "ICAO": "FDT",
+    "website": "www.freedomairexpress.com",
+    "notes": "ICAO callsign changed from Freedom Ero",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.464832"
+  },
+  {
+    "name": "Global Airlift Limited",
+    "IATA": null,
+    "ICAO": "GAW",
+    "website": "www.globalairlift.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.464848"
+  },
+  {
+    "name": "I fly Air Solutions Limited t/a i-FLY AiR",
+    "IATA": null,
+    "ICAO": "IFY",
+    "website": "ifly.co.ke",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.464865"
+  },
+  {
+    "name": "Jambojet Limited",
+    "IATA": "JM",
+    "ICAO": "JMA",
+    "website": "www.jambojet.com",
+    "notes": "Low-cost subsidiary of Kenya Airways. Founded on 13 September 2013. Commenced operations on 01 April 2014.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.464885"
+  },
+  {
+    "name": "Jet Sky Cargo and Air Charter Limited",
+    "IATA": null,
+    "ICAO": "FJX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.464902"
+  },
+  {
+    "name": "Kenya Airways",
+    "IATA": "KQ",
+    "ICAO": "KQA",
+    "website": "www.kenya-airways.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.464919"
+  },
+  {
+    "name": "Mombasa Air Safari Ltd.",
+    "IATA": null,
+    "ICAO": "RRV",
+    "website": "www.mombasaairsafari.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.464936"
+  },
+  {
+    "name": "Penial Air Limited",
+    "IATA": null,
+    "ICAO": "PEL",
+    "website": "www.penialair.co.ke",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.464953"
+  },
+  {
+    "name": "Phoenix Aviation Limited",
+    "IATA": null,
+    "ICAO": "PHN",
+    "website": "www.phoenixaviation.co.ke",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.464970"
+  },
+  {
+    "name": "Regional Air Limited",
+    "IATA": null,
+    "ICAO": "RAW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.464985"
+  },
+  {
+    "name": "Renegade Air Limited",
+    "IATA": null,
+    "ICAO": "RNG",
+    "website": "flyrenegadeair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.465001"
+  },
+  {
+    "name": "Safari Express Cargo Limited",
+    "IATA": null,
+    "ICAO": "SXY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.465016"
+  },
+  {
+    "name": "Safarilink Aviation Limited",
+    "IATA": null,
+    "ICAO": "XLK",
+    "website": "www.flysafarilink.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.465033"
+  },
+  {
+    "name": "SAC (K) Limited",
+    "IATA": "K3",
+    "ICAO": "SAQ",
+    "website": "www.safeaircompany.com",
+    "notes": "Name changed from Safe Air Company Limited.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.465050"
+  },
+  {
+    "name": "Skylink Aviation Limited",
+    "IATA": null,
+    "ICAO": "SLL",
+    "website": "www.skylinkflights.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.465066"
+  },
+  {
+    "name": "Skyward Express Ltd.",
+    "IATA": "OW",
+    "ICAO": "SEW",
+    "website": "www.skywardexpress.co.ke",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.465082"
+  },
+  {
+    "name": "Sunline Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "JAM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.465097"
+  },
+  {
+    "name": "Superior Aviation Services Ltd.",
+    "IATA": null,
+    "ICAO": "SUK",
+    "website": null,
+    "notes": "Designator M& recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.465113"
+  },
+  {
+    "name": "Transafrican Air Limited",
+    "IATA": null,
+    "ICAO": "TAK",
+    "website": "www.transafricanair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.465128"
+  },
+  {
+    "name": "Trans-Eastern Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "TRE",
+    "website": "www.teaac-aviation.co.ke",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.465144"
+  },
+  {
+    "name": "Transliz Aviation (K) Ltd.",
+    "IATA": null,
+    "ICAO": "TKA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.465159"
+  },
+  {
+    "name": "Western Kenya Aircharters Co. Ltd.",
+    "IATA": null,
+    "ICAO": "WKC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.465175"
+  },
+  {
+    "name": "Westwind Aviation Ltd. (Kenya)",
+    "IATA": null,
+    "ICAO": "WWA",
+    "website": "westwind.co.ke",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.465191"
+  },
+  {
+    "name": "Yana Air Cargo (Kenya) Limited",
+    "IATA": null,
+    "ICAO": "KYA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.465206"
+  },
+  {
+    "name": "Yellow Wings Air Serivces Ltd.",
+    "IATA": null,
+    "ICAO": "ELW",
+    "website": "www.yellowwings.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:57.465221"
+  },
+  {
+    "name": "FlySAX",
+    "IATA": null,
+    "ICAO": null,
+    "website": "fly-sax.com",
+    "notes": "New Airlines pending codes",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465237"
+  },
+  {
+    "name": "Seven Four Eight Air Services (K) Limited",
+    "IATA": "FE",
+    "ICAO": "IHO",
+    "website": "www.748airservices.com",
+    "notes": "IATA designator changed from H4*. ICAO Callsign changed to Umoja.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465254"
+  },
+  {
+    "name": "Seven Four Eight Air Services (K) Limited",
+    "IATA": null,
+    "ICAO": "IHO",
+    "website": "www.748airservices.com",
+    "notes": "IATA designator changed to FE.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465271"
+  },
+  {
+    "name": "Aero Monbasa",
+    "IATA": null,
+    "ICAO": "AKF",
+    "website": null,
+    "notes": "Name changed from Gulf Falcon Air Services Limited",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465287"
+  },
+  {
+    "name": "Africa Aviation Handlers Limited",
+    "IATA": null,
+    "ICAO": "FRK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465303"
+  },
+  {
+    "name": "African Cargo Services Limited",
+    "IATA": null,
+    "ICAO": "ACB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465318"
+  },
+  {
+    "name": "African Express Airways (K) Limited",
+    "IATA": "XU",
+    "ICAO": "AXK",
+    "website": "www.africanexpress.co.ke",
+    "notes": "ICAO designator changed from AEK",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465335"
+  },
+  {
+    "name": "African Express Airways (Kenya) Limited",
+    "IATA": "QA",
+    "ICAO": "AEK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465350"
+  },
+  {
+    "name": "African Medical and Research Foundation",
+    "IATA": "FQ",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator FQ recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465367"
+  },
+  {
+    "name": "African Safari Airways Ltd.",
+    "IATA": "QS",
+    "ICAO": "QSC",
+    "website": "www.africansafariclub.com/html/flights.php",
+    "notes": "Ceased operations. Designator QS recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465385"
+  },
+  {
+    "name": "Air Direct Connect Limited",
+    "IATA": "DQ",
+    "ICAO": null,
+    "website": "www.airdc.co.ke",
+    "notes": "Name changed from Delta Connection Limited.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465402"
+  },
+  {
+    "name": "Air East Africa Ltd.",
+    "IATA": null,
+    "ICAO": "JND",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465417"
+  },
+  {
+    "name": "Airkenya Express Ltd.",
+    "IATA": "QP",
+    "ICAO": "XAK",
+    "website": "www.airkenya.com",
+    "notes": "Name changed from Airkenya Aviation Ltd. d/b/a Regional Air. Formerly Airkenya Aviation Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465434"
+  },
+  {
+    "name": "ALS Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.als.co.ke",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465450"
+  },
+  {
+    "name": "Avicon Limited",
+    "IATA": null,
+    "ICAO": "ACJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465468"
+  },
+  {
+    "name": "Caspair Ltd.",
+    "IATA": "QP",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465487"
+  },
+  {
+    "name": "Caspair Ltd.",
+    "IATA": "QP",
+    "ICAO": "SAL",
+    "website": null,
+    "notes": "Ceased operations. Designator QP recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465504"
+  },
+  {
+    "name": "Ceneast Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "CEL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465520"
+  },
+  {
+    "name": "CHS Aviation Limited",
+    "IATA": null,
+    "ICAO": "HSA",
+    "website": null,
+    "notes": "Name changed to East African Safari Air Limited",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465538"
+  },
+  {
+    "name": "Coast Air Ltd.",
+    "IATA": null,
+    "ICAO": "CQA",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465554"
+  },
+  {
+    "name": "Cooper Skybird Air Charters Ltd.",
+    "IATA": null,
+    "ICAO": "SKY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465570"
+  },
+  {
+    "name": "Cruisair Limited",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465586"
+  },
+  {
+    "name": "DAC Aviation (EC) Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "dacaviation.com",
+    "notes": "IATA Designator changed to JX",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465603"
+  },
+  {
+    "name": "Dairo air Service Ltd.",
+    "IATA": "WD",
+    "ICAO": "DSR",
+    "website": "www.dasair.com",
+    "notes": "Name changed from DAS Air Limited. IATA code changed from SE*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465619"
+  },
+  {
+    "name": "DAS Air Limited",
+    "IATA": "WD",
+    "ICAO": "DAZ",
+    "website": "www.dasair.com",
+    "notes": "Name changed to Dairo Air Service Ltd. IATA code changed from SE*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465636"
+  },
+  {
+    "name": "Delta Connection Limited",
+    "IATA": "DQ",
+    "ICAO": "DCP",
+    "website": "www.d-connection.co.ke",
+    "notes": "Name changed to Air Direct Connect Limited.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465652"
+  },
+  {
+    "name": "Directorate of Civil Aviation Flight Operations",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465668"
+  },
+  {
+    "name": "Eagle Aviation Ltd.",
+    "IATA": "Y4",
+    "ICAO": "EQA",
+    "website": "www.eaglekenya.com",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465684"
+  },
+  {
+    "name": "East African Safari Air Limited",
+    "IATA": "S9",
+    "ICAO": "HSA",
+    "website": null,
+    "notes": "ICAO Callsign changed to Duma. IATA designator changed from RX*. Name changed from CHS Aviation Limited",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465701"
+  },
+  {
+    "name": "East African Safari Air Limited",
+    "IATA": null,
+    "ICAO": "HSA",
+    "website": null,
+    "notes": "IATA designator changed to S9. Name changed from CHS Aviation Limited",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465717"
+  },
+  {
+    "name": "East African Safari Air Limited",
+    "IATA": "S9",
+    "ICAO": "HSA",
+    "website": null,
+    "notes": "Ceased operations. ICAO Callsign changed from Car Hire. IATA designator changed from RX*. Name changed from CHS Aviation Limited",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465734"
+  },
+  {
+    "name": "East African Safari Air Express Ltd.",
+    "IATA": "B5",
+    "ICAO": "EXZ",
+    "website": "www.eastafricansafariair.com",
+    "notes": "Designator B5 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465750"
+  },
+  {
+    "name": "East Coast Airlines Limited",
+    "IATA": null,
+    "ICAO": "ECK",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465766"
+  },
+  {
+    "name": "Equator Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "PKA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465781"
+  },
+  {
+    "name": "Five Fourty Aviation Limited",
+    "IATA": null,
+    "ICAO": "FFV",
+    "website": "www.fly540.com",
+    "notes": "IATA Accounting and Prefix codes recalled.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465797"
+  },
+  {
+    "name": "Flamingo Airways Limited",
+    "IATA": "F7",
+    "ICAO": "KFL",
+    "website": "www.kenya-airways.com",
+    "notes": "ICAO callsign changed to Batian / IATA designator changed from YS*. Subsidiary of Kenya Airways",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465813"
+  },
+  {
+    "name": "Flamingo Airways Limited",
+    "IATA": "F7",
+    "ICAO": "KFL",
+    "website": "www.kenya-airways.com",
+    "notes": "ICAO callsign changed from Nakuru / IATA designator changed from YS*. Subsidiary of Kenya Airways",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465830"
+  },
+  {
+    "name": "Flamingo Airways Limited",
+    "IATA": null,
+    "ICAO": "KFL",
+    "website": "www.kenya-airways.com",
+    "notes": "IATA designator changed to F7. Subsidiary of Kenya Airways",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465846"
+  },
+  {
+    "name": "Freight Air Service Transport",
+    "IATA": null,
+    "ICAO": "TFS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465862"
+  },
+  {
+    "name": "Gulf Falcon Air Services Limited",
+    "IATA": null,
+    "ICAO": "AKF",
+    "website": null,
+    "notes": "Name changed to Aero Monbasa",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465878"
+  },
+  {
+    "name": "Jambojet Limited",
+    "IATA": "JX",
+    "ICAO": null,
+    "website": "www.jambojet.com",
+    "notes": "Low-cost subsidiary of Kenya Airways. Founded on 13 September 2013. Commenced operations on 01 April 2014. Their Twitter account quotes IATA Code JX. Website uses KQ of Kenya Airways",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465896"
+  },
+  {
+    "name": "Jet Link Express Ltd.",
+    "IATA": "J0",
+    "ICAO": "JLX",
+    "website": "www.jetlink.co.ke",
+    "notes": "Founded in 2006. Ceased operations in 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465912"
+  },
+  {
+    "name": "Jetways Airlines Limited",
+    "IATA": "WU",
+    "ICAO": "JWX",
+    "website": "www.jetwaysairlines.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465928"
+  },
+  {
+    "name": "Jubba Airways (K) Limited",
+    "IATA": "JZ",
+    "ICAO": "JBW",
+    "website": "www.jubbaairways.co.ke",
+    "notes": "Designator 6J recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465944"
+  },
+  {
+    "name": "Jubba Airways (K) Limited",
+    "IATA": "6J",
+    "ICAO": "JBW",
+    "website": "www.jubbaairways.co.ke",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465960"
+  },
+  {
+    "name": "Kenya Aircharters Limited",
+    "IATA": "KB",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465975"
+  },
+  {
+    "name": "Lennox Airways",
+    "IATA": null,
+    "ICAO": "LAK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.465991"
+  },
+  {
+    "name": "Multiple Solutions Limited",
+    "IATA": "2W",
+    "ICAO": null,
+    "website": "multiplesolutions.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.466007"
+  },
+  {
+    "name": "OneJetOne Airways",
+    "IATA": null,
+    "ICAO": "OJO",
+    "website": null,
+    "notes": "Operations nevere started.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.466023"
+  },
+  {
+    "name": "Pan African Airways Ltd",
+    "IATA": "5F",
+    "ICAO": "ODM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.466039"
+  },
+  {
+    "name": "Airkenya Aviation Ltd. d/b/a Regional Air",
+    "IATA": "QP",
+    "ICAO": null,
+    "website": "www.regionalair.net",
+    "notes": "Name changed to Airkenya Express Ltd. Formerly Airkenya Aviation Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.466055"
+  },
+  {
+    "name": "Regional Air Ltd",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator RM* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.466071"
+  },
+  {
+    "name": "Royale Airlines International",
+    "IATA": null,
+    "ICAO": "RQA",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.466087"
+  },
+  {
+    "name": "Rufiji Airlines",
+    "IATA": null,
+    "ICAO": "RJK",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.466103"
+  },
+  {
+    "name": "Safari Air Services Ltd.",
+    "IATA": "QY",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.466118"
+  },
+  {
+    "name": "Safe Air Company Limited",
+    "IATA": "K3",
+    "ICAO": "SAQ",
+    "website": "www.safeaircompany.com",
+    "notes": "Name changed to SAC (K) Limited.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.466135"
+  },
+  {
+    "name": "Salaam Express Air Services",
+    "IATA": "N8",
+    "ICAO": "SEK",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.466151"
+  },
+  {
+    "name": "Salert Air Charters And Relief Services",
+    "IATA": null,
+    "ICAO": "SLT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.466167"
+  },
+  {
+    "name": "Seychelles-Kilimanjaro Air Transport Ltd.",
+    "IATA": "QG",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.466183"
+  },
+  {
+    "name": "Silverstone Air Services Ltd",
+    "IATA": "K5",
+    "ICAO": "SLR",
+    "website": "silverstoneair.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.466201"
+  },
+  {
+    "name": "Simba Air Cargo Ltd.",
+    "IATA": null,
+    "ICAO": "SMB",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.466218"
+  },
+  {
+    "name": "Simba Airlines Limited",
+    "IATA": null,
+    "ICAO": "SRE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.466234"
+  },
+  {
+    "name": "Skycy Freighters International Ltd.",
+    "IATA": null,
+    "ICAO": "SIF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.466250"
+  },
+  {
+    "name": "Superior Aviation Services Ltd.",
+    "IATA": "M7",
+    "ICAO": "SUK",
+    "website": null,
+    "notes": "Designator M& recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.466267"
+  },
+  {
+    "name": "Swiftlines Limited",
+    "IATA": null,
+    "ICAO": "SLC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.466283"
+  },
+  {
+    "name": "Tamara (Tana & Mara Aviation)",
+    "IATA": null,
+    "ICAO": "SAE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.466298"
+  },
+  {
+    "name": "Kenya homes Limited d/b/a Timbis Air Services",
+    "IATA": null,
+    "ICAO": "TBS",
+    "website": "timbisair.com",
+    "notes": "IATA Prefix code 212 recalled.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.466316"
+  },
+  {
+    "name": "Veraways Limited",
+    "IATA": null,
+    "ICAO": "VEL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.466332"
+  },
+  {
+    "name": "Wane Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "WAN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.466348"
+  },
+  {
+    "name": "Wilken Air Services Ltd.",
+    "IATA": "WI",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:57.466363"
+  }
+]

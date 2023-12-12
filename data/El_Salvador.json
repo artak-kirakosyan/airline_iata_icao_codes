@@ -1,0 +1,101 @@
+[
+  {
+    "name": "El Sal Air",
+    "IATA": null,
+    "ICAO": "ELS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:57.301652"
+  },
+  {
+    "name": "Veula El Salvador S.A. de C.V.",
+    "IATA": "N3",
+    "ICAO": "VOS",
+    "website": "www.volaris.com",
+    "notes": "AOC granted 03 june 2019.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:57.301681"
+  },
+  {
+    "name": "Aerodespachos de El Salvador",
+    "IATA": "DN",
+    "ICAO": "DNA",
+    "website": null,
+    "notes": "Designator DN recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:57.301700"
+  },
+  {
+    "name": "Aerolineas de El Salvador, S.A.",
+    "IATA": "SZ",
+    "ICAO": "SZA",
+    "website": null,
+    "notes": "Designator SZ recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:57.301716"
+  },
+  {
+    "name": "Aeropuma, S.A.",
+    "IATA": null,
+    "ICAO": "APU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:57.301733"
+  },
+  {
+    "name": "Avianca Central America",
+    "IATA": "TA",
+    "ICAO": "TAI",
+    "website": "www.grupotaca.com",
+    "notes": "Name changed from Avianca El Salvador and previously TACA International Airlines, S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:57.301750"
+  },
+  {
+    "name": "Avianca El Salvador",
+    "IATA": "TA",
+    "ICAO": "TAI",
+    "website": "www.grupotaca.com",
+    "notes": "Name changed from TACA International Airlines, S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:57.301767"
+  },
+  {
+    "name": "Max Sea Food S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MSF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:57.301783"
+  },
+  {
+    "name": "TACA International Airlines, S.A.",
+    "IATA": "TA",
+    "ICAO": "TAI",
+    "website": "www.grupotaca.com",
+    "notes": "Name changed to Avianca El Salvador on 21 May 2013.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:57.301800"
+  },
+  {
+    "name": "Transportes Aereos de El Salvador S.A. de Cal.",
+    "IATA": null,
+    "ICAO": "TES",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:57.301816"
+  },
+  {
+    "name": "Vuelos Economicos Centroamericanos S.A. (VECA)",
+    "IATA": "VU",
+    "ICAO": "VAR",
+    "website": "www.vecaairlines.com",
+    "notes": "Founded on 28 March 2014. Ceased operations on 18 January 2017.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:57.301834"
+  }
+]

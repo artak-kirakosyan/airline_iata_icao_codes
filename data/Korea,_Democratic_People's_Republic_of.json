@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Aero K Airlines",
+    "IATA": "RF",
+    "ICAO": "EOK",
+    "website": "aerok.com",
+    "notes": "AOC acquired on 28 December 2020. Commenced operations on 14 April 2021. Name changed from KAIR Airlines.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:00.000504"
+  },
+  {
+    "name": "Air Koryo",
+    "IATA": "JS",
+    "ICAO": "KOR",
+    "website": "www.airkoryo.kp",
+    "notes": "Name changed from Chosonmihang CAA of DPR of Korea",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:00.000531"
+  },
+  {
+    "name": "Island Air Co., Ltd. d/b/a sum air",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.sumair.kr",
+    "notes": "Planned start up with ATR72-600",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:00.000549"
+  },
+  {
+    "name": "Chosonmihang CAA of DPR of Korea",
+    "IATA": "JS",
+    "ICAO": "KCA",
+    "website": null,
+    "notes": "Name changed to Air Koryo. ICAO designator changed frm CSM",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:00.000567"
+  },
+  {
+    "name": "Chosonmihang CAA of DPR of Korea",
+    "IATA": "JS",
+    "ICAO": "KCA",
+    "website": null,
+    "notes": "ICAO designator changed frm CSM",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:00.000584"
+  },
+  {
+    "name": "Chosonmihang CAA of DPR of Korea",
+    "IATA": "JS",
+    "ICAO": "CSM",
+    "website": null,
+    "notes": "ICAO designator changed to KCA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:00.000600"
+  },
+  {
+    "name": "Chosonmihang CAA of DPR opf Korea",
+    "IATA": "JS",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:00.000616"
+  }
+]

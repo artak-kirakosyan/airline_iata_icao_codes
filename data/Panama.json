@@ -1,0 +1,371 @@
+[
+  {
+    "name": "Aerorental",
+    "IATA": null,
+    "ICAO": "DMB",
+    "website": "flyaerorental.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:08.246098"
+  },
+  {
+    "name": "Aeroservicios Centroamericanos S. de R.L.",
+    "IATA": null,
+    "ICAO": "AEY",
+    "website": "www.aeroserviciospanama.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:08.246127"
+  },
+  {
+    "name": "Aerotecnica Jet Services, Inc.",
+    "IATA": null,
+    "ICAO": "AJQ",
+    "website": "www.atsaven.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:08.246145"
+  },
+  {
+    "name": "Parsa S.A. d/b/a Air Panama",
+    "IATA": "7P",
+    "ICAO": "PST",
+    "website": "www.airpanama.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:08.246161"
+  },
+  {
+    "name": "Arrendamientos Aereos, S.A.",
+    "IATA": null,
+    "ICAO": "AAD",
+    "website": "www.aereos.com.pa",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:08.246177"
+  },
+  {
+    "name": "Cargo Three, Inc. (Cargo Tres, Sociedad An\u00f3nima)",
+    "IATA": null,
+    "ICAO": "CTW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:08.246193"
+  },
+  {
+    "name": "Copa Airlines, Inc",
+    "IATA": "CM",
+    "ICAO": "CMP",
+    "website": "www.copaair.com",
+    "notes": "Name changed from Compania Panamena de Aviacion, S.A. (COPA) and previously from COPA - Airlines. Name changed from COPA - Compania Panamena de Aviacion, S.A.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:08.246210"
+  },
+  {
+    "name": "DHL Aero Expreso, S.A.",
+    "IATA": null,
+    "ICAO": "DAE",
+    "website": "www.dhl.com/publish/g0/en/about/airline.low.html",
+    "notes": "Designator D5* recalled by IATA. IATA designator changed from DS*",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:08.246227"
+  },
+  {
+    "name": "Helicopteros Personales, S.A.",
+    "IATA": null,
+    "ICAO": "BLM",
+    "website": "helicopterospersonales.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:08.246243"
+  },
+  {
+    "name": "Helix-Craft Aviation",
+    "IATA": null,
+    "ICAO": "HTB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:08.246258"
+  },
+  {
+    "name": "Pacific International Airlines",
+    "IATA": null,
+    "ICAO": "PFC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:08.246274"
+  },
+  {
+    "name": "Pana Via, S.A.",
+    "IATA": null,
+    "ICAO": "PVI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:08.246289"
+  },
+  {
+    "name": "Panama Aircraft Rental and Sales, Inc.",
+    "IATA": null,
+    "ICAO": "RSL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:08.246304"
+  },
+  {
+    "name": "Panama Airways",
+    "IATA": "8A",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:08.246321"
+  },
+  {
+    "name": "Panama International Air, S.A.",
+    "IATA": null,
+    "ICAO": "PIW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:08.246337"
+  },
+  {
+    "name": "Panavia, S.A.",
+    "IATA": null,
+    "ICAO": "PNV",
+    "website": null,
+    "notes": "Designator 6Z recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:08.246353"
+  },
+  {
+    "name": "Rotor Jet S.A.",
+    "IATA": null,
+    "ICAO": "RJJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:08.246368"
+  },
+  {
+    "name": "Aero Skytropic, S.A.",
+    "IATA": null,
+    "ICAO": "SKT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:08.246385"
+  },
+  {
+    "name": "Transports Aereo de Carga del Caribe S.A. TAECA",
+    "IATA": null,
+    "ICAO": "JYR",
+    "website": "www.taecacargo.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:08.246401"
+  },
+  {
+    "name": "Uniworld Commercial Group, S.A. (Uniworld Air Cargo)",
+    "IATA": "U7",
+    "ICAO": "UCG",
+    "website": "www.uniworldaircargo.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:08.246420"
+  },
+  {
+    "name": "La Nueva Aerolinea, S.A. t/a wingo",
+    "IATA": "WH",
+    "ICAO": "WWP",
+    "website": "www.wingo.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:08.246437"
+  },
+  {
+    "name": "Aerol\u00edneas Islas de Las Perlas",
+    "IATA": "WL",
+    "ICAO": "APP",
+    "website": "www.aeroperlas.com",
+    "notes": "Ceased operations on 29 February 2012. TACA Regional Airline",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:08.246454"
+  },
+  {
+    "name": "Aerovias Internacional Balboa, S.A.",
+    "IATA": "AJ",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:08.246470"
+  },
+  {
+    "name": "Aerovias Las Americas, S.A.",
+    "IATA": null,
+    "ICAO": "AVL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:08.246486"
+  },
+  {
+    "name": "Air Panama International",
+    "IATA": "OP",
+    "ICAO": "API",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:08.246502"
+  },
+  {
+    "name": "Arrow Panama, S.A.",
+    "IATA": "8A",
+    "ICAO": "WAP",
+    "website": "www.arrowpanama.com",
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:08.246518"
+  },
+  {
+    "name": "Cargo Three, Inc.",
+    "IATA": null,
+    "ICAO": "CTW",
+    "website": "www.panaircargo.com",
+    "notes": "IATA Designator changed to 3J*. IATA Prefix code changed to 333.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:08.246536"
+  },
+  {
+    "name": "Compania Aero Transportes Panamenos",
+    "IATA": null,
+    "ICAO": "AEP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:08.246552"
+  },
+  {
+    "name": "Compania Panamena de Aviacion, S.A.",
+    "IATA": "CM",
+    "ICAO": null,
+    "website": null,
+    "notes": "Name changed to COPA - Compania Panamena de Aviacion, S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:08.246569"
+  },
+  {
+    "name": "COPA - Compania Panamena de Aviacion, S.A.",
+    "IATA": "CM",
+    "ICAO": "CMP",
+    "website": null,
+    "notes": "Name changed to COPA - Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:08.246585"
+  },
+  {
+    "name": "Compania Panamena de Aviacion, S.A. (COPA)",
+    "IATA": "CM",
+    "ICAO": "CMP",
+    "website": "www.copaair.com",
+    "notes": "Name changed from COPA - Airlines. Name changed from COPA - Compania Panamena de Aviacion, S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:08.246603"
+  },
+  {
+    "name": "COPA - Airlines",
+    "IATA": "CM",
+    "ICAO": "CMP",
+    "website": "www.copaair.com",
+    "notes": "Name changed to Compania Panamena de Aviacion, S.A. (COPA). Name changed from COPA - Compania Panamena de Aviacion, S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:08.246621"
+  },
+  {
+    "name": "DHL Aero Expreso, S.A.",
+    "IATA": null,
+    "ICAO": "DAE",
+    "website": null,
+    "notes": "IATA designator changed to D5",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:08.246638"
+  },
+  {
+    "name": "DHL Aero Express, S.A.",
+    "IATA": "XP",
+    "ICAO": "DAE",
+    "website": null,
+    "notes": "IAATA changed to DS",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:08.246655"
+  },
+  {
+    "name": "Ema Air, S.A.",
+    "IATA": null,
+    "ICAO": "EEF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:08.246672"
+  },
+  {
+    "name": "Internacional de Aviacion, S.A.",
+    "IATA": "IX",
+    "ICAO": "IAP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:08.246689"
+  },
+  {
+    "name": "Internacional de Aviacion (INAIR)",
+    "IATA": "IX",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:08.246706"
+  },
+  {
+    "name": "Millennium Air Corporation (MAC)",
+    "IATA": null,
+    "ICAO": "MLM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:08.246723"
+  },
+  {
+    "name": "Cargo Three Inc. d/b/a Pan Air Cargo",
+    "IATA": null,
+    "ICAO": "CTW",
+    "website": "www.panaircargo.com",
+    "notes": "IATA Designator changed from I3*. IATA Prefix code changed from 714.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:08.246740"
+  },
+  {
+    "name": "Panavia, S.A.",
+    "IATA": "6Z",
+    "ICAO": "PNV",
+    "website": null,
+    "notes": "Designator 6Z recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:08.246757"
+  },
+  {
+    "name": "Pinair Panamanian International Airlines",
+    "IATA": "2Q",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator 2Q recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:08.246774"
+  }
+]

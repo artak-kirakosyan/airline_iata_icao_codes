@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Air Austral",
+    "IATA": "UU",
+    "ICAO": "REU",
+    "website": "www.air-austral.com",
+    "notes": "Formerly Air Reunion",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:20.407059"
+  },
+  {
+    "name": "Air Bourbon",
+    "IATA": "ZN",
+    "ICAO": "BUB",
+    "website": "www.air-bourbon.com",
+    "notes": "Commenced operations on 07 June 2003. Ceased operations in December 2004.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:20.407089"
+  },
+  {
+    "name": "Air Reunion",
+    "IATA": "UU",
+    "ICAO": "REU",
+    "website": null,
+    "notes": "Name changed from Reunion Air Service",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:20.407106"
+  },
+  {
+    "name": "Reunion Air Service",
+    "IATA": null,
+    "ICAO": "REU",
+    "website": null,
+    "notes": "Name changed to Air Reunion",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:20.407123"
+  }
+]

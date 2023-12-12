@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Express Air Cargo",
+    "IATA": "7A",
+    "ICAO": "XRC",
+    "website": "www.express-aircargo.com",
+    "notes": "Setup by Logistic Express and UPS. AOC granted on 04 October 2016.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:22.450959"
+  },
+  {
+    "name": "Fly International Airways",
+    "IATA": null,
+    "ICAO": "NVJ",
+    "website": null,
+    "notes": "Name changed from Nouvelair International",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:22.450989"
+  },
+  {
+    "name": "Karthago Private Jet",
+    "IATA": null,
+    "ICAO": "KPJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:22.451008"
+  },
+  {
+    "name": "Nouvelair Tunisie",
+    "IATA": "BJ",
+    "ICAO": "LBT",
+    "website": "www.nouvelair.com",
+    "notes": "Designator reinstated by IATA. Name changed from Air Liberte Tunisie w.e.f. 01 September 1996.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:22.451027"
+  },
+  {
+    "name": "Syphax Airlines S.A.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Planned to start operations with 2 x CRJ-900.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:22.451044"
+  },
+  {
+    "name": "Syphax Airlines S A",
+    "IATA": "Y3",
+    "ICAO": "SYA",
+    "website": "flysyphaxairlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:22.451061"
+  },
+  {
+    "name": "Tunisair",
+    "IATA": "TU",
+    "ICAO": "TAR",
+    "website": "www.tunisair.com.tn",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:22.451079"
+  },
+  {
+    "name": "Tunisair Express",
+    "IATA": "UG",
+    "ICAO": "TUX",
+    "website": "www.tunisairexpress.com",
+    "notes": "Name changed from Sevenair w.e.f. 14 January 2011 and previously from Tuninter, S.A. w.e.f. 07 July 2007.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:22.451097"
+  },
+  {
+    "name": "Tunisavia - Soci\u00e9t\u00e9 de Transports, Services Et Travaux A\u00e9riens",
+    "IATA": null,
+    "ICAO": "TAJ",
+    "website": "www.tunisavia.com.tn",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:22.451115"
+  },
+  {
+    "name": "Tunisian Air Force",
+    "IATA": null,
+    "ICAO": "TUN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:22.451131"
+  },
+  {
+    "name": "Air Liberte Tunisie",
+    "IATA": "BJ",
+    "ICAO": "LBT",
+    "website": null,
+    "notes": "Change of Name to Nouvelair Tunisie w.e.f. 01 September 1996. Established in 1989. Commenced operations on 21 March 1990.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:22.451149"
+  },
+  {
+    "name": "Jasmin Airways",
+    "IATA": null,
+    "ICAO": "JAW",
+    "website": "www.jasmin-airways.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:22.451166"
+  },
+  {
+    "name": "Karthago Airlines",
+    "IATA": null,
+    "ICAO": "KAJ",
+    "website": "www.karthago.com.tn/airlines/pres.htm",
+    "notes": "Founded in 2001.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:22.451184"
+  },
+  {
+    "name": "Mediterranean Air Service",
+    "IATA": "DR",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:22.451200"
+  },
+  {
+    "name": "Mediterranean Air Service",
+    "IATA": "MG",
+    "ICAO": null,
+    "website": null,
+    "notes": "IATA designator changed to DR",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:22.451216"
+  },
+  {
+    "name": "Nouvelair International",
+    "IATA": null,
+    "ICAO": "NVJ",
+    "website": null,
+    "notes": "Name changed to Fly International Airways",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:22.451233"
+  },
+  {
+    "name": "Sevenair",
+    "IATA": "UG",
+    "ICAO": "SEN",
+    "website": "www.sevenair.com.tn",
+    "notes": "Name changed to Tunisair Express w.e.f. 14 January 2011. Name changed from Tuninter, S.A. w.e.f. 07 July 2007.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:22.451250"
+  },
+  {
+    "name": "Syphax Airlines",
+    "IATA": "FS",
+    "ICAO": "SYA",
+    "website": "www.flysyphax.com",
+    "notes": "Ceased operations on 30 July 2015. Founded ijn 2011. Commenced operations on 21 April 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:22.451267"
+  },
+  {
+    "name": "Tubelair",
+    "IATA": null,
+    "ICAO": "TBR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:22.451283"
+  },
+  {
+    "name": "Tuninter, S.A.",
+    "IATA": "UG",
+    "ICAO": "TUI",
+    "website": "www.tunisair.com.tn/tuninter.htm",
+    "notes": "Name changed to Sevenair w.e.f. 07 July 2007. ICAO code SEN",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:22.451300"
+  },
+  {
+    "name": "Tunisan Air Force",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:22.451315"
+  }
+]

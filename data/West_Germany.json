@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Air de Cologne",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:52.377662"
+  },
+  {
+    "name": "Abacus Air",
+    "IATA": "VM",
+    "ICAO": "ABA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:52.377694"
+  },
+  {
+    "name": "Air Commerz Fluggesellschaft mbH",
+    "IATA": "DU",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:52.377713"
+  },
+  {
+    "name": "Air Pegasus GmbH & Co.",
+    "IATA": "GP",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:52.377730"
+  },
+  {
+    "name": "Aquair Luftfahrt GmbH & Co.",
+    "IATA": "JI",
+    "ICAO": "AQU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:52.377746"
+  },
+  {
+    "name": "Atlantic Deutsche Luftverkehrs AG",
+    "IATA": "ID",
+    "ICAO": "ADH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:52.377762"
+  },
+  {
+    "name": "Atlantis - Luftverkehrsunternehmen",
+    "IATA": "NO",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:52.377777"
+  },
+  {
+    "name": "Aviaction, Hanseatische Luftreederei",
+    "IATA": "HC",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:52.377793"
+  },
+  {
+    "name": "Bavaria Flug-Gesellschaft",
+    "IATA": "BV",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:52.377809"
+  },
+  {
+    "name": "Evex Fluggsellschaft mbh & Co KG",
+    "IATA": "II",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:52.377824"
+  },
+  {
+    "name": "Flugdienst Pegasus",
+    "IATA": "AP",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:52.377840"
+  },
+  {
+    "name": "Germanair Bedarfsluftfahrtgesellschaft mhB",
+    "IATA": "DV",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:52.377856"
+  },
+  {
+    "name": "Holiday Express, Deutsche Luftverkehrsges",
+    "IATA": "HL",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:52.377871"
+  },
+  {
+    "name": "Interregional Fluggesellschaft mbH",
+    "IATA": "IP",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:52.377887"
+  },
+  {
+    "name": "Panair Luftverkehrsgesellschaft mbH & Co.",
+    "IATA": "DR",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:52.377902"
+  },
+  {
+    "name": "SAT  -  Special Air Transport Fluggesellschaft mbH",
+    "IATA": "ST",
+    "ICAO": null,
+    "website": null,
+    "notes": "Commenced operations on 05 Septemter 1978. Name changed to Germania Fluggesellschaft mbH on 01 June 1986.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:52.377920"
+  },
+  {
+    "name": "TF - Transportflug GmbH & Co.",
+    "IATA": "DZ",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:52.377936"
+  },
+  {
+    "name": "Pennair",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Ceased operations in December 1979",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:52.377957"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Briko Air Service Ltd",
+    "IATA": null,
+    "ICAO": "BKO",
+    "website": "www.brikoair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:21.301790"
+  },
+  {
+    "name": "Caribbean Airlines Limited",
+    "IATA": "BW",
+    "ICAO": "BWA",
+    "website": "www.caribbean-airlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:21.301820"
+  },
+  {
+    "name": "Air Caribbean Limited",
+    "IATA": "C2",
+    "ICAO": "CBB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:21.301837"
+  },
+  {
+    "name": "Arawak Airlines Ltd.",
+    "IATA": "LK",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:21.301853"
+  },
+  {
+    "name": "BWIA International Airways Limited",
+    "IATA": "BW",
+    "ICAO": "BWA",
+    "website": null,
+    "notes": "Name changed to BWIA West Indies Airways Limited",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:21.301870"
+  },
+  {
+    "name": "BWIA West Indies Airways Limited",
+    "IATA": "BW",
+    "ICAO": "BWA",
+    "website": null,
+    "notes": "Name changed to BWIA International Airways Limited",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:21.301888"
+  },
+  {
+    "name": "BWIA West Indies Airways Limited",
+    "IATA": "BW",
+    "ICAO": "BWA",
+    "website": "www.bwee.com",
+    "notes": "Ceased operations on 31 December 2006. Name changed from BWIA International Airways Limited",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:21.301906"
+  },
+  {
+    "name": "Tobago Express",
+    "IATA": null,
+    "ICAO": "TBX",
+    "website": null,
+    "notes": "ICAO Callsign changed to Tabex",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:21.301923"
+  },
+  {
+    "name": "Tobago Express",
+    "IATA": null,
+    "ICAO": "TBX",
+    "website": "sutra111.airkiosk.com/cgi-bin/tabx/181002i",
+    "notes": "ICAO Callsign changed from Tobago Express",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:21.301939"
+  }
+]

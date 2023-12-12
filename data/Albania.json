@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Air Albania Shpk",
+    "IATA": "ZB",
+    "ICAO": "ABN",
+    "website": "www.airalbania.com.al",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:29.400186"
+  },
+  {
+    "name": "Albanian Airways",
+    "IATA": null,
+    "ICAO": "LBN",
+    "website": "albanianairways.com.al",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:29.400212"
+  },
+  {
+    "name": "Albawings sh.p.k.",
+    "IATA": "2B",
+    "ICAO": "AWT",
+    "website": "albawings.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:29.400229"
+  },
+  {
+    "name": "Albatros Airways Sh.p.k.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.albatrosairways.info",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:29.400245"
+  },
+  {
+    "name": "Ada Air",
+    "IATA": "ZY",
+    "ICAO": "ADE",
+    "website": "www.adaair.com",
+    "notes": "Founded in 1991. Ceased operations in 2007. Desigantor ZY recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:29.400262"
+  },
+  {
+    "name": "Albanian Airlines MAK S.H.P.K.",
+    "IATA": "LV",
+    "ICAO": "LBC",
+    "website": "www.flyalbanian.com",
+    "notes": "Licence revoked by CAA on 11 November 2011.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:29.400279"
+  },
+  {
+    "name": "Albatros Airways",
+    "IATA": "4H",
+    "ICAO": "LBW",
+    "website": "www.albatrosairways.info",
+    "notes": "Ceased operations on 01 September 2006.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:29.400295"
+  },
+  {
+    "name": "Arberia Airlines",
+    "IATA": null,
+    "ICAO": "ABE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:29.400311"
+  },
+  {
+    "name": "Arberia Airways",
+    "IATA": null,
+    "ICAO": "ABW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:29.400326"
+  },
+  {
+    "name": "Belle Air Company",
+    "IATA": null,
+    "ICAO": "LBY",
+    "website": "www.belleair.al",
+    "notes": "IATA designator changed to LZ",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:29.400343"
+  },
+  {
+    "name": "Belle Air Company",
+    "IATA": "LZ",
+    "ICAO": "LBY",
+    "website": "www.belleair.al",
+    "notes": "Ceased operations on 25 November 2013. IATA designator changed from LB.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:29.400361"
+  },
+  {
+    "name": "Star Airways sh.p.k",
+    "IATA": "4S",
+    "ICAO": "STB",
+    "website": "www.starairways.it",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:29.400377"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Samoa Airways",
+    "IATA": "OL",
+    "ICAO": "PAO",
+    "website": "samoaairways.com",
+    "notes": "Name changed from Polynesian Limited in 2017.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:28.503592"
+  },
+  {
+    "name": "Polynesian Limited",
+    "IATA": "OL",
+    "ICAO": "PAO",
+    "website": "www.polynesianairlines.com",
+    "notes": "Name changed to Samoa Airways in 2017.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:28.503622"
+  },
+  {
+    "name": "Polynesian Limited",
+    "IATA": "PH",
+    "ICAO": "PAO",
+    "website": "www.polynesianairlines.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:28.503639"
+  },
+  {
+    "name": "Polynesian Airlines Ltd.",
+    "IATA": "PH",
+    "ICAO": "PAO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:28.503655"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Air Saint Pierre",
+    "IATA": "PJ",
+    "ICAO": "SPM",
+    "website": "www.airsaintpierre.com",
+    "notes": "Name changed from Air St. Pierre",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:58.815403"
+  },
+  {
+    "name": "Air St. Pierre",
+    "IATA": "PJ",
+    "ICAO": "SPM",
+    "website": "www.airsaintpierre.com",
+    "notes": "Name changed to Air Saint Pierre",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:58.815436"
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Air Horizon",
+    "IATA": null,
+    "ICAO": "TPK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:25.397978"
+  },
+  {
+    "name": "Aircraft Machine Works Chad (AMW)",
+    "IATA": null,
+    "ICAO": "TWK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:25.398007"
+  },
+  {
+    "name": "AirInter1",
+    "IATA": null,
+    "ICAO": "HRV",
+    "website": "airinter1.com",
+    "notes": "Name changed from Sahara Aero Service (SAS)",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:25.398025"
+  },
+  {
+    "name": "Chari Aviation Services",
+    "IATA": null,
+    "ICAO": "CSU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:25.398040"
+  },
+  {
+    "name": "LAT (Lignes Aeriennes du Tchad)",
+    "IATA": null,
+    "ICAO": "LKD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:25.398055"
+  },
+  {
+    "name": "Maiba Airways",
+    "IATA": null,
+    "ICAO": "NDJ",
+    "website": "www.maiba-airways.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:25.398071"
+  },
+  {
+    "name": "RJM Aviation",
+    "IATA": null,
+    "ICAO": "RKW",
+    "website": "rjm-aviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:25.398086"
+  },
+  {
+    "name": "Schmiedel Air Service Tchad",
+    "IATA": null,
+    "ICAO": "SAB",
+    "website": "schmiedelairservice.com/tchad/",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:25.398102"
+  },
+  {
+    "name": "Tchad Airlines",
+    "IATA": null,
+    "ICAO": "TCD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:25.398117"
+  },
+  {
+    "name": "Mid Express Tchad",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:25.398135"
+  },
+  {
+    "name": "Air Affaires Tchad",
+    "IATA": null,
+    "ICAO": "FTC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:25.398151"
+  },
+  {
+    "name": "Air Tchad, Soci\u00e9t\u00e9 de Transports A\u00e9riens",
+    "IATA": "HT",
+    "ICAO": "HTT",
+    "website": null,
+    "notes": "Designator HT recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:25.398168"
+  },
+  {
+    "name": "Fly Art Aviation",
+    "IATA": "T2",
+    "ICAO": "FLB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:25.398183"
+  },
+  {
+    "name": "Nada Air Service",
+    "IATA": null,
+    "ICAO": "NHZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:25.398198"
+  },
+  {
+    "name": "Sahara Aero Service (SAS)",
+    "IATA": null,
+    "ICAO": "HRV",
+    "website": null,
+    "notes": "Name changed to AirInter1",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:25.398214"
+  },
+  {
+    "name": "TChad Airways the Land of Toumai",
+    "IATA": null,
+    "ICAO": "THE",
+    "website": null,
+    "notes": "Name changed to Toumai Air Tchad",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:25.398230"
+  },
+  {
+    "name": "Tchadia Airlines",
+    "IATA": "OT",
+    "ICAO": "CDO",
+    "website": null,
+    "notes": "Founded in 2018. Commenced operations on 01 October 2018. Ceased operations in August 2022.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:25.398247"
+  },
+  {
+    "name": "Toumai Air Tchad",
+    "IATA": "9D",
+    "ICAO": "THE",
+    "website": "www.toumai-airtchad.com",
+    "notes": "Name changed from TChad Airways the Land of Toumai",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:25.398263"
+  }
+]

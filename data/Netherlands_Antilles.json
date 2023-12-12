@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Divi Divi Air NV",
+    "IATA": "3R",
+    "ICAO": "DVR",
+    "website": "www.flydivi.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:50.005107"
+  },
+  {
+    "name": "Fly Dom N.V. d/b/a Jet Budget",
+    "IATA": null,
+    "ICAO": "JTB",
+    "website": "www.jetbudget.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:50.005138"
+  },
+  {
+    "name": "Windward Islands Airways International N.V.",
+    "IATA": "WM",
+    "ICAO": "WIA",
+    "website": "www.fly-winair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:50.005156"
+  },
+  {
+    "name": "Windward Express Airways N.V.",
+    "IATA": null,
+    "ICAO": "WEA",
+    "website": "www.windwardexpress.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:50.005174"
+  },
+  {
+    "name": "ALM 1997 Airline Inc., d/b/a Air ALM",
+    "IATA": "LM",
+    "ICAO": "ALM",
+    "website": "www.alm.com",
+    "notes": "Ceased its operations in 2001. Name changed from ALM 1997 Airlines, Inc.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:50.005191"
+  },
+  {
+    "name": "Air Caribbean",
+    "IATA": "XC",
+    "ICAO": "CLT",
+    "website": null,
+    "notes": "Ceased operations on 23 October 2002.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:50.005208"
+  },
+  {
+    "name": "Antilliaanse Luchtvaart Maatschappij",
+    "IATA": "LM",
+    "ICAO": "ALM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:50.005224"
+  },
+  {
+    "name": "ALM 1997 Airlines, Inc.",
+    "IATA": "LM",
+    "ICAO": "ALM",
+    "website": "www.empg.com/alm",
+    "notes": "Name changed to ALM 1997 Airline Inc., d/b/a Air ALM. Name changed from ALM 1997 Airlines, Inc.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:50.005241"
+  },
+  {
+    "name": "Antillean Airlines (ALM)",
+    "IATA": "LM",
+    "ICAO": "ALM",
+    "website": "www.empg.com/alm",
+    "notes": "Name changed to ALM 1997 Airlines, Inc.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:50.005256"
+  },
+  {
+    "name": "Bonaire Express t/a BonairExel",
+    "IATA": "9H",
+    "ICAO": "BXL",
+    "website": null,
+    "notes": "Commenced operations on 18 August 2003. Name changed to Bonaire Express t/a BonairExpress.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:50.005272"
+  },
+  {
+    "name": "Bonaire Express t/a BonairExpress",
+    "IATA": "9H",
+    "ICAO": "BXL",
+    "website": null,
+    "notes": "Merged with Cura\u00e7ao Express to form Dutch Antilles Express on 30 April 2005.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:50.005289"
+  },
+  {
+    "name": "Caribbean Air Transport",
+    "IATA": "CJ",
+    "ICAO": "CLT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:50.005304"
+  },
+  {
+    "name": "Caribbean Air Transport Co. Inc.",
+    "IATA": "CJ",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:50.005319"
+  },
+  {
+    "name": "Curacao Express t/a CuracaoExel",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Commenced operations on 04 October 2004. Merged with Bonaire Express to form Dutch Antilles Express on 30 April 2005.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:50.005336"
+  },
+  {
+    "name": "Dutch Antilles Express B.V.",
+    "IATA": "9H",
+    "ICAO": "DNL",
+    "website": "www.flydae.com",
+    "notes": "Name changed from Dutch Eagle Express N.V. Founded in 2005. Commenced operations on 30 April 2005.  Ceased operations on 19 September 2013.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:50.005353"
+  },
+  {
+    "name": "Dutch Caribbean Airline N.V.",
+    "IATA": null,
+    "ICAO": "DCE",
+    "website": "www.flydca.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:50.005369"
+  },
+  {
+    "name": "Dutch Eagle Express N.V. (BonairExel)",
+    "IATA": "9H",
+    "ICAO": "BXL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:50.005384"
+  },
+  {
+    "name": "Dutch Eagle Express N.V.",
+    "IATA": "9H",
+    "ICAO": "BXL",
+    "website": null,
+    "notes": "Name changed to Dutch Antilles Express",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:50.005401"
+  },
+  {
+    "name": "Medicair N.V. d/b/a Ezair",
+    "IATA": null,
+    "ICAO": "EZR",
+    "website": "www.flyezair.com",
+    "notes": "Founded in 2000.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:50.005418"
+  },
+  {
+    "name": "Insel Air International N.V.",
+    "IATA": "7I",
+    "ICAO": "INC",
+    "website": "www.fly-inselair.com",
+    "notes": "Ceased operations on 16 February 2019.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:50.005434"
+  }
+]

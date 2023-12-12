@@ -1,0 +1,6842 @@
+[
+  {
+    "name": "Administracion Profesional de Aeronaves, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "RPR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.129495"
+  },
+  {
+    "name": "Adro Servicios Aereos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "DRO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.129530"
+  },
+  {
+    "name": "Aereo Cabo",
+    "IATA": null,
+    "ICAO": "CBV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.129554"
+  },
+  {
+    "name": "Aereo Taxi Paraza, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "PZA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.129575"
+  },
+  {
+    "name": "Aereo Transportes Los Angeles de America, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "AGI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.129598"
+  },
+  {
+    "name": "Aereo WWG, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "WWG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.129621"
+  },
+  {
+    "name": "Aereosaba, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ESB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.129643"
+  },
+  {
+    "name": "Aereotaxis, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TXI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.129665"
+  },
+  {
+    "name": "Aereotcla, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TLA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.129685"
+  },
+  {
+    "name": "Aero Albatros",
+    "IATA": null,
+    "ICAO": "ALB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.129705"
+  },
+  {
+    "name": "Aero Astra",
+    "IATA": null,
+    "ICAO": "OSA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.129726"
+  },
+  {
+    "name": "Aero Barloz, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "BLZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.129748"
+  },
+  {
+    "name": "Aero BG, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "BGG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.129768"
+  },
+  {
+    "name": "Aero Biniza, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "BZS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.129788"
+  },
+  {
+    "name": "Aero Copter, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "PTE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.129807"
+  },
+  {
+    "name": "Aero Costa Taxi Aereo, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "XCT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.129830"
+  },
+  {
+    "name": "Aero Davinci Internacional S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "DVI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.129852"
+  },
+  {
+    "name": "Aero Ejecutivo de Baja California, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "EBC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.129873"
+  },
+  {
+    "name": "Aero Ejecutivos R.C.G., S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ECG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.129892"
+  },
+  {
+    "name": "Aero Elite Acapulco, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "EPU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.129912"
+  },
+  {
+    "name": "Aero Empresa Mexicana, S.A.",
+    "IATA": null,
+    "ICAO": "AFO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.129933"
+  },
+  {
+    "name": "Aero Empresarial, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "EPE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.129954"
+  },
+  {
+    "name": "Aero Ermes, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "EOM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.129975"
+  },
+  {
+    "name": "Aero Express Intercontinental, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "XSS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.129995"
+  },
+  {
+    "name": "Aero GE, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "GEE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130014"
+  },
+  {
+    "name": "Aero Homex, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "HOM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130036"
+  },
+  {
+    "name": "Aero Huilango, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "HUI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130054"
+  },
+  {
+    "name": "Aero Jet Express, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "AJE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130075"
+  },
+  {
+    "name": "Aero JL S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "JLA",
+    "website": "aerojl.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130096"
+  },
+  {
+    "name": "Aero Jomacha, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MHC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130122"
+  },
+  {
+    "name": "Aero Lider, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "LDR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130142"
+  },
+  {
+    "name": "Aero Marat, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MOC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130162"
+  },
+  {
+    "name": "Aero Mcfly, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MFL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130182"
+  },
+  {
+    "name": "Aero Modelo, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "DLS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130203"
+  },
+  {
+    "name": "Aero Personal, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "PNL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130222"
+  },
+  {
+    "name": "Aero Premier de Mexico, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MIE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130240"
+  },
+  {
+    "name": "Aero Quimmco, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "QUI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130261"
+  },
+  {
+    "name": "Aero Renta de Coahuila, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "RCO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130280"
+  },
+  {
+    "name": "Aero Roa, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ROO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130300"
+  },
+  {
+    "name": "Aero Roca, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "RRC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130319"
+  },
+  {
+    "name": "Aero Salmon, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SOM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130337"
+  },
+  {
+    "name": "Aero Sami, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SMI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130356"
+  },
+  {
+    "name": "Aero Servicio Corporativo, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SRV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130375"
+  },
+  {
+    "name": "Aero Servicio Guerrero, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "GUE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130394"
+  },
+  {
+    "name": "Aero Servicio Tipy, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "PTD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130416"
+  },
+  {
+    "name": "Aero Servicios, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "RVI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130439"
+  },
+  {
+    "name": "Aero Servicios Azteca, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TED",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130460"
+  },
+  {
+    "name": "Aero Servicios Ejecutivas Del Pacifico, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SEF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130478"
+  },
+  {
+    "name": "Aero Servicios Ejecutivos Internacionales, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SII",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130498"
+  },
+  {
+    "name": "Aero Servicios Empresariales, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "EMS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130517"
+  },
+  {
+    "name": "Aero Servicios Especializados, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SVE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130537"
+  },
+  {
+    "name": "Aero Servicios Platinum, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "PNU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130555"
+  },
+  {
+    "name": "Aero Servicios Regiomontanos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ERI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130574"
+  },
+  {
+    "name": "Aero Servicios Vanguardia, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "VNG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130592"
+  },
+  {
+    "name": "Aero Silza, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SIZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130610"
+  },
+  {
+    "name": "Aero Sudpacifico, S.A.",
+    "IATA": null,
+    "ICAO": "SDP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130630"
+  },
+  {
+    "name": "Aero Taxi de los Cabos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "PBO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130647"
+  },
+  {
+    "name": "Aero Taxi Del Potosi, S.A.",
+    "IATA": null,
+    "ICAO": "TPO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130666"
+  },
+  {
+    "name": "Aero Taxis Y Servicios Alfe, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "FES",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130685"
+  },
+  {
+    "name": "Aero Toluca Internacicnal, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TLU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130704"
+  },
+  {
+    "name": "Aero Tomza, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TZA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130722"
+  },
+  {
+    "name": "Aero Transportes Del Humaya, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "HUY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130739"
+  },
+  {
+    "name": "Aero Transportes Empresariales",
+    "IATA": null,
+    "ICAO": "EPL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130757"
+  },
+  {
+    "name": "Aero Util, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TLE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130777"
+  },
+  {
+    "name": "Aero Vics, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ARI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130797"
+  },
+  {
+    "name": "Aero Virel, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "VLS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130815"
+  },
+  {
+    "name": "Aero Yaqui Mayo, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MYS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130834"
+  },
+  {
+    "name": "Aerobanana, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "OBA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130853"
+  },
+  {
+    "name": "Aerobona, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "BOC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130872"
+  },
+  {
+    "name": "Aerocorp, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ORP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130891"
+  },
+  {
+    "name": "Aerocorp, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "RCP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130909"
+  },
+  {
+    "name": "Aerocorporativos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "CTD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130929"
+  },
+  {
+    "name": "Aerocuahonte, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "CUO",
+    "website": null,
+    "notes": "Name changed from Enrique Cuahonte Delgado, C.C., Marta Amezclia de Cuahonte",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130949"
+  },
+  {
+    "name": "Aerodan, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ROD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130968"
+  },
+  {
+    "name": "Aerodinamica de Monterrey, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "DMC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.130988"
+  },
+  {
+    "name": "Aerodiplomatic, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ADP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131007"
+  },
+  {
+    "name": "Aeroejecutiva Nieto, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "NIE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131027"
+  },
+  {
+    "name": "Aeroferinco, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "FEO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131047"
+  },
+  {
+    "name": "Aerofly, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "RFY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131066"
+  },
+  {
+    "name": "Aerofreight, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "FGT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131083"
+  },
+  {
+    "name": "Aerofrisco",
+    "IATA": null,
+    "ICAO": "FCO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131101"
+  },
+  {
+    "name": "Aerogisa, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "OGI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131119"
+  },
+  {
+    "name": "Aerojet Tomza S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "EZI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131138"
+  },
+  {
+    "name": "Aerojobeni, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "JOB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131157"
+  },
+  {
+    "name": "Aerokaluz, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "KLZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131174"
+  },
+  {
+    "name": "Aerolab, C.V. de S.A.",
+    "IATA": null,
+    "ICAO": "ERL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131193"
+  },
+  {
+    "name": "Aerolima, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "LMA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131211"
+  },
+  {
+    "name": "Aerolineas Bonanza, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "BZA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131231"
+  },
+  {
+    "name": "Aerolineas Centauro, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "CTR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131248"
+  },
+  {
+    "name": "Aerolineas Chihuahua Al Pacifico, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "PFI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131267"
+  },
+  {
+    "name": "Aerolineas Comerciales, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ECM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131286"
+  },
+  {
+    "name": "Aerolineas de Tehuacan, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "HUC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131304"
+  },
+  {
+    "name": "Aerolineas Del Centro, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "RDC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131321"
+  },
+  {
+    "name": "Aerolineas del Golfo, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "DLG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131340"
+  },
+  {
+    "name": "Aerolineas Del Mayab, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MYB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131358"
+  },
+  {
+    "name": "Aerolineas Hidalgo, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "AHL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131376"
+  },
+  {
+    "name": "Aerolineas Marcos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MCO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131394"
+  },
+  {
+    "name": "Aerolineas Nacionales Albatros, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "BTS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131412"
+  },
+  {
+    "name": "Aerolineas Sol, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SOD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131431"
+  },
+  {
+    "name": "Aerolineas Sosa, S.A. de C.V.",
+    "IATA": "S0",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131449"
+  },
+  {
+    "name": "Aerolineas Turisticas Del Caribe, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TTB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131467"
+  },
+  {
+    "name": "Aeromaan, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ERM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131486"
+  },
+  {
+    "name": "Aeromagar, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MGS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131502"
+  },
+  {
+    "name": "Aeromedica, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "DIC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131520"
+  },
+  {
+    "name": "Aerovias de Mexico S.A. de C.V.",
+    "IATA": "AM",
+    "ICAO": "AMX",
+    "website": "www.aeromexico.com",
+    "notes": "Name changed from Aeromexico Aerovias de Mexico S.A. de C.V.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131540"
+  },
+  {
+    "name": "Aerolitoral, S.A. de C.V., d/b/a Aerom\u00e9xico Connect",
+    "IATA": "5D",
+    "ICAO": "SLI",
+    "website": "www.aerolitoral.com",
+    "notes": "Name changed from Aerolitoral S.A. de C.V. Designator 5D reinstated by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131560"
+  },
+  {
+    "name": "Aeromonky, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "NKY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131577"
+  },
+  {
+    "name": "Aeromover, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "OVE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131596"
+  },
+  {
+    "name": "Aeromundo Ejecutivo, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MUN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131614"
+  },
+  {
+    "name": "Aeronautica La Esperanza, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ESZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131634"
+  },
+  {
+    "name": "Aeronaves Ejecutivas GSF, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "GSF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131660"
+  },
+  {
+    "name": "Aeronaves Especializadas en Transportaciones Aereas, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "LMX",
+    "website": "www.asesa.com.mx",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131683"
+  },
+  {
+    "name": "Aeronaves Hafe, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ARS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131703"
+  },
+  {
+    "name": "Aeronaves TSM, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "VTM",
+    "website": "www.aeronavestsm.com",
+    "notes": "Founded in 1995.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131724"
+  },
+  {
+    "name": "Aeronor, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ONO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131743"
+  },
+  {
+    "name": "Aeropostal Cargo de Mexico, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "PCG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131763"
+  },
+  {
+    "name": "Aeropycsa, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "PYC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131785"
+  },
+  {
+    "name": "Aero-Rey, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "REY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131804"
+  },
+  {
+    "name": "Aerosaab, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SBH",
+    "website": "www.aerosaab.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131823"
+  },
+  {
+    "name": "Aerosafin, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "FIC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131842"
+  },
+  {
+    "name": "Aerosan, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "OSN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131861"
+  },
+  {
+    "name": "Aeroservicio Sipse, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "PSE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131883"
+  },
+  {
+    "name": "Aeroservicios California Pacifico, S. De R.L. De C.V.",
+    "IATA": null,
+    "ICAO": "PIF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131900"
+  },
+  {
+    "name": "Aeroservicios Corporativos de San Luis, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "PSL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131919"
+  },
+  {
+    "name": "Aeroservicios de la Costa, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TAA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131938"
+  },
+  {
+    "name": "Aeroservicios de Nuevo Leon, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "NUL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131957"
+  },
+  {
+    "name": "Aeroservicios de San Luis, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SUO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131976"
+  },
+  {
+    "name": "Aeroservicios Dimamicos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "DMI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.131994"
+  },
+  {
+    "name": "Aeroservicios Ejecutivos Corporativos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "EJP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132012"
+  },
+  {
+    "name": "Aeroservicios Jet, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "RJS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132031"
+  },
+  {
+    "name": "Aeroservicios Kratos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "KTO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132049"
+  },
+  {
+    "name": "Aerotaxi del Cabo, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "CBO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132068"
+  },
+  {
+    "name": "Aerotaxi del Caribe, S de R.L. de C.V.",
+    "IATA": null,
+    "ICAO": "DCA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132086"
+  },
+  {
+    "name": "Aerotaxi DVZ, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "DVZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132105"
+  },
+  {
+    "name": "Aerotaxi Grupo Tampico, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "GTP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132126"
+  },
+  {
+    "name": "Aerotaxi Mexicano, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MXO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132146"
+  },
+  {
+    "name": "Aerotaxi Villa Rica, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "VRI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132169"
+  },
+  {
+    "name": "Aerotaxis Alfe, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TXF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132189"
+  },
+  {
+    "name": "Aerotaxis de Aguascalientes, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "GUA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132209"
+  },
+  {
+    "name": "Aerotaxis de la Bahia",
+    "IATA": null,
+    "ICAO": "BHC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132229"
+  },
+  {
+    "name": "Aerotaxis Del Noroeste, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TXD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132258"
+  },
+  {
+    "name": "Aerotaxis Guamuchil, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "GMM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132277"
+  },
+  {
+    "name": "Aerotaxis Metropolitanos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MTB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132297"
+  },
+  {
+    "name": "Aerotaxis Paba, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "PBC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132315"
+  },
+  {
+    "name": "Aerotaxis Pegaso, S.A. De C.V.",
+    "IATA": null,
+    "ICAO": "PSO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132332"
+  },
+  {
+    "name": "Aerotours La Vina, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "RVG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132349"
+  },
+  {
+    "name": "Aerotranscargo, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TGS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132367"
+  },
+  {
+    "name": "Aerotransportes Corporativos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "CRP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132386"
+  },
+  {
+    "name": "Aerotransportes Huitzilin, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "HUT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132404"
+  },
+  {
+    "name": "Aerotransportes Internacionales de Torreon S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "RRE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132422"
+  },
+  {
+    "name": "Aerotransportes Rafilher, S.A. de C.V.",
+    "IATA": "ZV",
+    "ICAO": "RFD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132441"
+  },
+  {
+    "name": "Aerotransportes Zodiac, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ETZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132460"
+  },
+  {
+    "name": "Aerotresalia, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "OTS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132480"
+  },
+  {
+    "name": "Aerotropical, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TOC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132497"
+  },
+  {
+    "name": "Aerotucan, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "RTU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132515"
+  },
+  {
+    "name": "Aerouneas Ejecutivas, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "LET",
+    "website": "www.aerolineasejecutivas.com",
+    "notes": "Name changed from Aerouneas Ejecutivas, S.A.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132535"
+  },
+  {
+    "name": "Aerotransporte de Carga Union, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TNO",
+    "website": "www.aerounion.com.mx",
+    "notes": "Founded on 05 March 1998.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132555"
+  },
+  {
+    "name": "Aerovega, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "VEG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132572"
+  },
+  {
+    "name": "Aerovena, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "VNS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132591"
+  },
+  {
+    "name": "Aeroventas, S.A.",
+    "IATA": null,
+    "ICAO": "AEV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132609"
+  },
+  {
+    "name": "Aeroventas De Mexico, S.A. De C.V.",
+    "IATA": null,
+    "ICAO": "VMX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132629"
+  },
+  {
+    "name": "Aerovias Castillo, S.A.",
+    "IATA": null,
+    "ICAO": "CLL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132648"
+  },
+  {
+    "name": "Aerovias Del Golfo, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "GFO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132668"
+  },
+  {
+    "name": "Aerovitro, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "VRO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132687"
+  },
+  {
+    "name": "Aerovuelox, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "VUO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132709"
+  },
+  {
+    "name": "Aerowin, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "OWI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132728"
+  },
+  {
+    "name": "Aeroxtra, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "RXT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132746"
+  },
+  {
+    "name": "Air Palace, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "PCS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132766"
+  },
+  {
+    "name": "Albisa, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "LBI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132784"
+  },
+  {
+    "name": "Alquiladora de Casas, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "AQC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132802"
+  },
+  {
+    "name": "Alter Aeroservicios S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "BWK",
+    "website": "www.alteraeroservicios.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132822"
+  },
+  {
+    "name": "Antair, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TIR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132840"
+  },
+  {
+    "name": "Apoyo Aereo, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "POY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132858"
+  },
+  {
+    "name": "Arrendadora y Transortadora Aerea, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "END",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132877"
+  },
+  {
+    "name": "Arrendaminetos y Transportes Turisticos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ADT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132896"
+  },
+  {
+    "name": "Atlantis Helicopters de Mexico, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "AHM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132914"
+  },
+  {
+    "name": "Atuneros Unidos de California, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "UND",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132932"
+  },
+  {
+    "name": "Automotriz Baja Notre, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "AJN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132950"
+  },
+  {
+    "name": "Aves Flight Share, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "AVF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132969"
+  },
+  {
+    "name": "Aviacion Ejecutiva Del Noroeste, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "NST",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.132990"
+  },
+  {
+    "name": "Aviones de Renta de Quintana Roo, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "AQT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133009"
+  },
+  {
+    "name": "Aviones Para Serviale, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "PSQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133029"
+  },
+  {
+    "name": "Aviones Y Helicopteros Ejecutivos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "AHJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133047"
+  },
+  {
+    "name": "TM Aerolineas, S.A. de C.V. t/a Awesome Cargo",
+    "IATA": null,
+    "ICAO": "WIN",
+    "website": "awesome-cargo.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133067"
+  },
+  {
+    "name": "AX Transporter, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "AXT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133086"
+  },
+  {
+    "name": "Baja Air, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "BJA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133102"
+  },
+  {
+    "name": "Baja Fly S. de R.L. de C.V.",
+    "IATA": null,
+    "ICAO": "BJF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133120"
+  },
+  {
+    "name": "Banco de Mexico",
+    "IATA": null,
+    "ICAO": "BMX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133138"
+  },
+  {
+    "name": "Bizjet de Mexico, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "BIZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133154"
+  },
+  {
+    "name": "Blue Star Airlines, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "BSD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133172"
+  },
+  {
+    "name": "Bvg Viajes, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "BVG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133190"
+  },
+  {
+    "name": "Centro de Helicopteros Corporativos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "CCV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133208"
+  },
+  {
+    "name": "Centro de Servicio Aeronautico, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "JLH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133226"
+  },
+  {
+    "name": "Charters Ejecutivos S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "CTS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133243"
+  },
+  {
+    "name": "Chilchota Taxi Aereo, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "CCH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133260"
+  },
+  {
+    "name": "Coapa Air, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "OAP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133278"
+  },
+  {
+    "name": "Comercial Aerea, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "CRS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133294"
+  },
+  {
+    "name": "Comercializacion de Aviacion Ejecutiva, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "CVJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133312"
+  },
+  {
+    "name": "Commander Mexicana, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "CRM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133329"
+  },
+  {
+    "name": "Compania Ejecutiva, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "EJV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133346"
+  },
+  {
+    "name": "Compania Mexicana de Aeroplanos, S.A.",
+    "IATA": null,
+    "ICAO": "MDR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133363"
+  },
+  {
+    "name": "Consorcio Aereo de Xalapa",
+    "IATA": null,
+    "ICAO": "CAX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133379"
+  },
+  {
+    "name": "Corporacion Aereo Cencor, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "CNC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133395"
+  },
+  {
+    "name": "Corporacion Aeroangeles, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "CPG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133412"
+  },
+  {
+    "name": "Corporacion Ejecutiva de Transporte Aereo, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "CTC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133429"
+  },
+  {
+    "name": "Cosmopolitan Air Operations, S.A.P.I. de C.V.",
+    "IATA": null,
+    "ICAO": "CER",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133446"
+  },
+  {
+    "name": "Cox Aviacion, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "COX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133463"
+  },
+  {
+    "name": "Craft Avia Center Sapi de C.V.",
+    "IATA": null,
+    "ICAO": "CGL",
+    "website": "craftaviacenter.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133480"
+  },
+  {
+    "name": "Crelam, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ELM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133496"
+  },
+  {
+    "name": "CRI Helicopters Mexico, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "CRH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133512"
+  },
+  {
+    "name": "Crown Air, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "CRI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133529"
+  },
+  {
+    "name": "Desarrollo Milaz, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MIZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133545"
+  },
+  {
+    "name": "Destiladora de Alcoholes Y Mieles, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "DEM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133562"
+  },
+  {
+    "name": "Dgo Jet. S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "DGO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133579"
+  },
+  {
+    "name": "Distribuidora Y Comercializadora Jaz, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "DCO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133596"
+  },
+  {
+    "name": "Dmcfly, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "DMF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133611"
+  },
+  {
+    "name": "Durango Jet, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "DJE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133630"
+  },
+  {
+    "name": "Ecotour",
+    "IATA": null,
+    "ICAO": "ECD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133649"
+  },
+  {
+    "name": "Ecoturistica de Xcalac, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "XCC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133668"
+  },
+  {
+    "name": "Ejecutivo Aereo de Mexico, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "EEM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133686"
+  },
+  {
+    "name": "El Caminante Taxi Aereo, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "CMX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133701"
+  },
+  {
+    "name": "Elvetia Aviation S.A.P.I de C.V.",
+    "IATA": null,
+    "ICAO": "ELV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133718"
+  },
+  {
+    "name": "Energia Creadora, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ECR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133736"
+  },
+  {
+    "name": "Enerjet, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ENE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133753"
+  },
+  {
+    "name": "Ensenada Vuelos Especiales, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ESE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133772"
+  },
+  {
+    "name": "Eolo Plus, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "EOP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133787"
+  },
+  {
+    "name": "Estafeta Carga Aerea, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ESF",
+    "website": "www.estafeta.com.mx",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133806"
+  },
+  {
+    "name": "Eurus Aviation S.A.P.I. de C.V.",
+    "IATA": null,
+    "ICAO": "EUS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133823"
+  },
+  {
+    "name": "Executive Express Aviation, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "EEX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133841"
+  },
+  {
+    "name": "First Sabre, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "FTS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133859"
+  },
+  {
+    "name": "FlyFast, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "FMX",
+    "website": "www.flyfast.com.mx",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133878"
+  },
+  {
+    "name": "Flying Business Aviation, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "FBX",
+    "website": "flybusiness.mx",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133895"
+  },
+  {
+    "name": "Flying Fast, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "FLS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133912"
+  },
+  {
+    "name": "Servicios Integrales de Aviacion, S.A. de C.V. t/a FlyMex",
+    "IATA": null,
+    "ICAO": "NTG",
+    "website": "www.flymex.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133930"
+  },
+  {
+    "name": "Fuerza Aerea Mexicana",
+    "IATA": null,
+    "ICAO": "FAM",
+    "website": "www.sedena.gob.mx",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133947"
+  },
+  {
+    "name": "Fuxion Line Mexico, S.A. De C.V.",
+    "IATA": null,
+    "ICAO": "FUM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133963"
+  },
+  {
+    "name": "FX TerraDynamics, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "FTX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133981"
+  },
+  {
+    "name": "GATSA General de Aerotransorte, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "GGS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.133999"
+  },
+  {
+    "name": "Gof-Air, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "GOF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134027"
+  },
+  {
+    "name": "Golden Aviation de Mexico, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "GMX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134045"
+  },
+  {
+    "name": "Gospa Air, S.A. De C.V.",
+    "IATA": null,
+    "ICAO": "GOP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134061"
+  },
+  {
+    "name": "GPM Aeroservicio, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "GPR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134077"
+  },
+  {
+    "name": "Ground Handling Service de Mexico",
+    "IATA": null,
+    "ICAO": "GHV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134094"
+  },
+  {
+    "name": "Grupo Aeronautico AFA, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "GFV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134111"
+  },
+  {
+    "name": "Grupo Aeronautico Ova, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "GVA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134128"
+  },
+  {
+    "name": "Grupo de Aviacion Ejecutiva, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "EJC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134144"
+  },
+  {
+    "name": "Grupo Desarrollador Qpula",
+    "IATA": null,
+    "ICAO": "QPL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134162"
+  },
+  {
+    "name": "Grupo Integracion Comercializacion y Servicios, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "GID",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134178"
+  },
+  {
+    "name": "Guja, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "GUS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134195"
+  },
+  {
+    "name": "Hawk de Mexico S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "HMX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134212"
+  },
+  {
+    "name": "Heli Midwest de Mexico, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "HLM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134229"
+  },
+  {
+    "name": "Heliamerica de Mexico, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "HMC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134245"
+  },
+  {
+    "name": "Helicapital",
+    "IATA": null,
+    "ICAO": "HLG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134261"
+  },
+  {
+    "name": "Helico de Mexico, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "HEM",
+    "website": "helico.mx",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134278"
+  },
+  {
+    "name": "Helicopter Operations Mexico, . De R.L. de C.V.",
+    "IATA": null,
+    "ICAO": "HMO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134295"
+  },
+  {
+    "name": "Helicopteros Aero Personal, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "HAP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134311"
+  },
+  {
+    "name": "Helicopteros Ejecutivos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "HEV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134329"
+  },
+  {
+    "name": "Helicopteros Internacionales, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "HNT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134346"
+  },
+  {
+    "name": "Helicopteros Y Vehiculos Nacionales Aereos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "HEN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134365"
+  },
+  {
+    "name": "Heliejecutivo, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "HEE",
+    "website": "www.heliejecutivo.com.mx",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134381"
+  },
+  {
+    "name": "Heliservicio, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "HLV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134397"
+  },
+  {
+    "name": "Heliservicio Campeche, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "HEC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134416"
+  },
+  {
+    "name": "Helitaxi Ofavi, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "OFA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134435"
+  },
+  {
+    "name": "Holding International Group, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "HIN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134452"
+  },
+  {
+    "name": "Hoteles Dinamicos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "HDI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134470"
+  },
+  {
+    "name": "Hozca Aviation, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "HOZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134489"
+  },
+  {
+    "name": "Ildefonso rodriguez, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "IDL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134507"
+  },
+  {
+    "name": "Imperial Aerotransporte, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "IMI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134525"
+  },
+  {
+    "name": "Insignia Aviacion, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "LVS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134542"
+  },
+  {
+    "name": "Interaire, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "NTE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134559"
+  },
+  {
+    "name": "Intervuelos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ITU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134578"
+  },
+  {
+    "name": "Intervuelos Nacionales, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "VNC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134593"
+  },
+  {
+    "name": "J & P Corporate Flights, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "JYP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134609"
+  },
+  {
+    "name": "Jet Rent, S.A.",
+    "IATA": null,
+    "ICAO": "JRN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134625"
+  },
+  {
+    "name": "Med Jets, S.A. de C.V. t/a Jet Rescue Air Ambulance",
+    "IATA": null,
+    "ICAO": "MTS",
+    "website": "www.jet-rescue.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134642"
+  },
+  {
+    "name": "Jetpro, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "JPO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134661"
+  },
+  {
+    "name": "Jets Ejecutivos, S.A.",
+    "IATA": null,
+    "ICAO": "JEJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134678"
+  },
+  {
+    "name": "Jets Ejecutivos Y Servicios, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "JEV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134696"
+  },
+  {
+    "name": "Jetspremier",
+    "IATA": null,
+    "ICAO": "JPM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134713"
+  },
+  {
+    "name": "Jett Paqueteria, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "JPQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134729"
+  },
+  {
+    "name": "Jomartaxi Aereo, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "JMT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134745"
+  },
+  {
+    "name": "Kaua Transportes Aereos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "KUA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134761"
+  },
+  {
+    "name": "Leo Taxi Aereo, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "LTX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134780"
+  },
+  {
+    "name": "Lesortec, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "LST",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134796"
+  },
+  {
+    "name": "Linea Aerea Mexicana de Carga, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "LMC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134813"
+  },
+  {
+    "name": "Lineas Aereas Comerciales, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "LCM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134831"
+  },
+  {
+    "name": "Lineas Aereas de Ixtlan, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "IXT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134850"
+  },
+  {
+    "name": "Lineas Aereas Del Humaya, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "UMA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134867"
+  },
+  {
+    "name": "Lineas Aereas Monarca, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "LMN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134883"
+  },
+  {
+    "name": "Lineas Aereas San Jose, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "LIJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134899"
+  },
+  {
+    "name": "Lineas Aereas del Mayab, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MYV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134919"
+  },
+  {
+    "name": "Lynx Servicios Aereos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "LXS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134940"
+  },
+  {
+    "name": "Grupoaereo Monterrey, S.A. de C.V. d/b/a Magnicharters",
+    "IATA": null,
+    "ICAO": "GMT",
+    "website": "magnicharters.com.mx",
+    "notes": "Founded in 1994. Commenced operations in January 1995.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134963"
+  },
+  {
+    "name": "Aerotransportes Mas de Carga, S.A. de C.V. t/a MasAir",
+    "IATA": "M7",
+    "ICAO": "MAA",
+    "website": "www.masair.com",
+    "notes": "Name changed from Aerotransportes Mas de Carga, S.A. de C.V. d/b/a LATAM Cargo Mexico w.e.f. 01/12/2018. IATA designator changed from MY. Designator MY reinstated by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.134987"
+  },
+  {
+    "name": "Medifly, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MFY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135056"
+  },
+  {
+    "name": "Mex Blue, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MXB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135076"
+  },
+  {
+    "name": "Aerolinea del Estado Mexicano S.A. de C.V. (Mexicana de Aviaci\u00f3n)",
+    "IATA": null,
+    "ICAO": "MXA",
+    "website": "www.mexicana.gob.mx",
+    "notes": "Planned to launch services w.e.f. 01 Decmeber 2023.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135097"
+  },
+  {
+    "name": "Mexico Transportes Aereos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MXT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135118"
+  },
+  {
+    "name": "Midwest Helicopters de Mexico, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "HTE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135141"
+  },
+  {
+    "name": "Milenium Air Servicios Aereos Integrados, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MSN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135161"
+  },
+  {
+    "name": "Monky Aerotaxis, S.A.",
+    "IATA": null,
+    "ICAO": "MKY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135183"
+  },
+  {
+    "name": "MTC Aviacion, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MCV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135205"
+  },
+  {
+    "name": "Multi Taxi, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MTX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135225"
+  },
+  {
+    "name": "Myflight, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MYF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135247"
+  },
+  {
+    "name": "Naviera Mexicana, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "NVM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135266"
+  },
+  {
+    "name": "ND Aerotaxis, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "NDT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135287"
+  },
+  {
+    "name": "Nexton, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "NXN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135308"
+  },
+  {
+    "name": "Norjet, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "NJR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135329"
+  },
+  {
+    "name": "Nuevo Morizonte Internacional S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "NHR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135350"
+  },
+  {
+    "name": "Omniflys, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "OMF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135372"
+  },
+  {
+    "name": "Operaciones Aviacore, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "OPR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135392"
+  },
+  {
+    "name": "Operadora de Lineas Ejecutivas S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "OLE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135413"
+  },
+  {
+    "name": "Operadora de Transportes Aereos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "OTP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135436"
+  },
+  {
+    "name": "Operadora Llaminmex, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "OLL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135455"
+  },
+  {
+    "name": "Operadora Turistica Aurora, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ORR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135475"
+  },
+  {
+    "name": "Peninter Aerea S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "PNE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135497"
+  },
+  {
+    "name": "Perforadora Central, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "PCC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135516"
+  },
+  {
+    "name": "Performance Air S.A.P.I. de C.V.",
+    "IATA": null,
+    "ICAO": "PRZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135534"
+  },
+  {
+    "name": "Performance Transportacion, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "PTS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135555"
+  },
+  {
+    "name": "Personas Y Paquetes Por Aire, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "PPQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135578"
+  },
+  {
+    "name": "Pilatus PC-12 Center de Mexico, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "PLU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135599"
+  },
+  {
+    "name": "Plan Aeronaves, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "PVE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135620"
+  },
+  {
+    "name": "Policia Federal Preventiva",
+    "IATA": null,
+    "ICAO": "PFP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135641"
+  },
+  {
+    "name": "Porteadora de Cosola S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "POR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135663"
+  },
+  {
+    "name": "Potosina Del Aire, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "PSN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135682"
+  },
+  {
+    "name": "Primero Transportes Aereos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "PMI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135701"
+  },
+  {
+    "name": "Promotora Alfestival, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "PMF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135720"
+  },
+  {
+    "name": "Promotora Industra Totolapa, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "PTT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135740"
+  },
+  {
+    "name": "Publiservicios Aereos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "PSP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135759"
+  },
+  {
+    "name": "Pueblo Bonito Air, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "BAI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135776"
+  },
+  {
+    "name": "Puerto Vallarta Taxi Aereo, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TXV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135794"
+  },
+  {
+    "name": "Quest Mexicana, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "QMX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135812"
+  },
+  {
+    "name": "RA Jet Aeroservicios, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "RJT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135829"
+  },
+  {
+    "name": "Red Wings, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "RWN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135847"
+  },
+  {
+    "name": "Republicair, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "RBC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135862"
+  },
+  {
+    "name": "Ronso, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "RNS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135879"
+  },
+  {
+    "name": "Safe Servicios Aereos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SFV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135897"
+  },
+  {
+    "name": "Secretaria de Marina",
+    "IATA": null,
+    "ICAO": "ANX",
+    "website": "www.semar.gob.mx",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135915"
+  },
+  {
+    "name": "Servicios A La Navegacion En El Espacio Aereo Mexicano (SENEAM)",
+    "IATA": null,
+    "ICAO": "XMX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135934"
+  },
+  {
+    "name": "Se\u00f1or Air S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SEN",
+    "website": "www.senorair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135952"
+  },
+  {
+    "name": "Servicio Aereo Saltillo, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SES",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135970"
+  },
+  {
+    "name": "Servicio Leo Lopez S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "LLA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.135987"
+  },
+  {
+    "name": "Servicio Superior Ejecutivo S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SPT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136004"
+  },
+  {
+    "name": "Servicio Tecnico Aero de Mexico, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SDX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136020"
+  },
+  {
+    "name": "Servicio y Mantenimiento Tecnico DQ, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SDQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136036"
+  },
+  {
+    "name": "Servicios Aereos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "VWA",
+    "website": "www.sae.com.mx",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136054"
+  },
+  {
+    "name": "Servicios Aereos Across, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ACW",
+    "website": "flyacross.com",
+    "notes": "ICAO callsign changed from Seracro.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136072"
+  },
+  {
+    "name": "Servicios Aereos Automotriz, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SMO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136088"
+  },
+  {
+    "name": "Servicios Aereos Bio Pappel, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "EDD",
+    "website": null,
+    "notes": "Name changed from Lineas Aereas Ejecutivas de Durango, S.A. de C.V.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136106"
+  },
+  {
+    "name": "Servicios Aereos Corporativos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TRN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136124"
+  },
+  {
+    "name": "Servicios Aereos Dandy, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "DDY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136142"
+  },
+  {
+    "name": "Servicios Aereos de Chihuahua Aerochisa, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "AHI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136158"
+  },
+  {
+    "name": "Servicios Aereos del Altiplano, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ATP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136176"
+  },
+  {
+    "name": "Servicios Aereos Del Centro. S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SCV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136194"
+  },
+  {
+    "name": "Servicios Aereos Del Nazas, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "NAZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136211"
+  },
+  {
+    "name": "Servicios Aereos Denim, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "DNI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136229"
+  },
+  {
+    "name": "Servicios Aereos Ejecutivos de La Laguna, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "LGU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136246"
+  },
+  {
+    "name": "Servicios Aereos Elite, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ETE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136265"
+  },
+  {
+    "name": "Servicios Aereos Especializados Destina, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "DES",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136284"
+  },
+  {
+    "name": "Servicios Aereos Estrella, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "LLS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136300"
+  },
+  {
+    "name": "Servicios Aereos Fun Fly, S.A. De C.V.",
+    "IATA": null,
+    "ICAO": "FUF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136316"
+  },
+  {
+    "name": "Servicios Aereos Gana, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "GNA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136333"
+  },
+  {
+    "name": "Servicios Aereos Ilsa, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ILS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136349"
+  },
+  {
+    "name": "Servicios Aereos Interestatales, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TTD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136365"
+  },
+  {
+    "name": "Servicios Aereos Luce, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SEB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136383"
+  },
+  {
+    "name": "Servicios Aereos M.T.T., S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MTG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136401"
+  },
+  {
+    "name": "Servicios Aereos Milenio, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MLO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136417"
+  },
+  {
+    "name": "Servicios Aereos Monarrez, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "NRZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136433"
+  },
+  {
+    "name": "Servicios Aereos Moritani, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MRI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136451"
+  },
+  {
+    "name": "Servicios Aereos Noticiosos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "OSS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136469"
+  },
+  {
+    "name": "Servicios Aereos Palenque, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SPQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136487"
+  },
+  {
+    "name": "Servicios Aereos Poblanos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "POB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136503"
+  },
+  {
+    "name": "Servicios Aereos Premier, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "PMR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136520"
+  },
+  {
+    "name": "Servicios Aereos San Cristobal",
+    "IATA": null,
+    "ICAO": "SCI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136537"
+  },
+  {
+    "name": "Servicios Aereos Soffly, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "OFY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136552"
+  },
+  {
+    "name": "Servicios Aereos Tamazula, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TZU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136567"
+  },
+  {
+    "name": "Servicios Aereos Textra, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "XTA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136585"
+  },
+  {
+    "name": "Servicios Aereos Universitarios, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "UNT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136604"
+  },
+  {
+    "name": "Servicios Aeroes Mira, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MIR",
+    "website": "fbomira.com.mx",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136622"
+  },
+  {
+    "name": "Servicios Aeroes Regiomontanos",
+    "IATA": null,
+    "ICAO": "RGC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136639"
+  },
+  {
+    "name": "Servicios Aeronauticos de Nayarit, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SNY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136658"
+  },
+  {
+    "name": "Servicios Aeronauticos de Oriente, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SVO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136676"
+  },
+  {
+    "name": "Servicios Aeronauticos Z, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SZT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136692"
+  },
+  {
+    "name": "Servicios Corporativos Aereos de la Laguna, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SPL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136709"
+  },
+  {
+    "name": "Servicios de Alouiler Aereo, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SQL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136728"
+  },
+  {
+    "name": "Servicios de Aviacion Asertec, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ASE",
+    "website": "www.asertecfbo.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136748"
+  },
+  {
+    "name": "Servicios Dinamicos De Aviacion, S.A. De C.V.",
+    "IATA": null,
+    "ICAO": "SDI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136765"
+  },
+  {
+    "name": "Servicios Ejecutivos Aereos Viz, S.A de C.V.",
+    "IATA": null,
+    "ICAO": "SVZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136781"
+  },
+  {
+    "name": "Servicios Ejecutivos Continental, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SJC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136798"
+  },
+  {
+    "name": "Servicios Ejecutivos Gosa, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "HJE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136816"
+  },
+  {
+    "name": "Servicios Privados de Aviacion, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SPV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136833"
+  },
+  {
+    "name": "Servicos de Aerotransportacion de Aquascalientes, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "STD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136850"
+  },
+  {
+    "name": "Servivios Aereos Centrales, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "CEE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136866"
+  },
+  {
+    "name": "Sirvair, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "VRS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136882"
+  },
+  {
+    "name": "Sky Aeronautical Services, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "KYR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136899"
+  },
+  {
+    "name": "Skyjets & Support, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SJS",
+    "website": "skyjets.com.mx",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136917"
+  },
+  {
+    "name": "SMM Flight Services, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SMY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136935"
+  },
+  {
+    "name": "Soluciones Aereas de la Laguna, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "LRG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136951"
+  },
+  {
+    "name": "Stars de Mexico, C.V. de S.A.",
+    "IATA": null,
+    "ICAO": "SRM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136969"
+  },
+  {
+    "name": "Starship, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "HIP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.136987"
+  },
+  {
+    "name": "Link Conexion Aerea, S.A. de C.V. d/b/a TAR Aerolineas",
+    "IATA": "YQ",
+    "ICAO": "LCT",
+    "website": "tarmexico.com",
+    "notes": "Commenced operations on 15 January 2014.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137007"
+  },
+  {
+    "name": "Taxair Mexiquenses, S.A. De C.V.",
+    "IATA": null,
+    "ICAO": "TQE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137027"
+  },
+  {
+    "name": "Taxi Aereo Cozatl, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TXL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137046"
+  },
+  {
+    "name": "Taxi Aereo de Mexico",
+    "IATA": null,
+    "ICAO": "TXM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137066"
+  },
+  {
+    "name": "Taxi Aereo de Veracirliz",
+    "IATA": null,
+    "ICAO": "VRC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137084"
+  },
+  {
+    "name": "Taxi Aereo del Norte, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "XNR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137101"
+  },
+  {
+    "name": "Taxi Aereo Nacional del Evora, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TDV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137120"
+  },
+  {
+    "name": "Taxi Aereo Turistico, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TUO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137138"
+  },
+  {
+    "name": "Taxi Aero Bae, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TBE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137157"
+  },
+  {
+    "name": "Taxirey, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TXR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137173"
+  },
+  {
+    "name": "Taxis Aereos Del Noroeste, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TNE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137190"
+  },
+  {
+    "name": "Taxis Aereos Del Pacifico, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TPF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137207"
+  },
+  {
+    "name": "Taxis Aereos del Valle de Toluca, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TVT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137224"
+  },
+  {
+    "name": "Thebe Ingenieria y Consultoria S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "IYC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137240"
+  },
+  {
+    "name": "Tomzajet, S.A. De C.V.",
+    "IATA": null,
+    "ICAO": "TJE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137258"
+  },
+  {
+    "name": "Transcancun Services, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TNC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137275"
+  },
+  {
+    "name": "Transpais Aereo, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TPM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137293"
+  },
+  {
+    "name": "Transportacion Aerea de Queretaro, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TQR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137311"
+  },
+  {
+    "name": "Transportacion Aerea del Mar de Cortes, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MCT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137328"
+  },
+  {
+    "name": "Transportacion Aerea Del Norte, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TPN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137346"
+  },
+  {
+    "name": "Transportaciones Y Servicios Aereos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TTR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137362"
+  },
+  {
+    "name": "Transporte Aereo Ernesto Saenz, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TZE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137381"
+  },
+  {
+    "name": "Transporte Aereo Techico Ejecutivo, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TTS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137399"
+  },
+  {
+    "name": "Transporte Ejecutivo Aereo, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "EAR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137416"
+  },
+  {
+    "name": "Transportes Aereos Amparo, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MPO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137433"
+  },
+  {
+    "name": "Transportes Aereos de Acapulco, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "LWC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137449"
+  },
+  {
+    "name": "Transportes Aereos de Ixtlan, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TDI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137466"
+  },
+  {
+    "name": "Transportes Aereos de Xalapa, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TPX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137483"
+  },
+  {
+    "name": "Transportes Aereos del Pacifico, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TFO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137500"
+  },
+  {
+    "name": "Transportes Aereos Mexiquenses, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MXQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137517"
+  },
+  {
+    "name": "Transportes Aereos Pegaso, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TPG",
+    "website": "transportes-pegaso.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137534"
+  },
+  {
+    "name": "Transportes Aereos Regionales, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TGI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137555"
+  },
+  {
+    "name": "Transportes Aereos Sierra Alta. S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "RRT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137572"
+  },
+  {
+    "name": "Transportes Aereos Tauro, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TAU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137589"
+  },
+  {
+    "name": "Transportes Aeros Sierra Madre, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SEI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137605"
+  },
+  {
+    "name": "Transportes La Paz, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TPZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137624"
+  },
+  {
+    "name": "Transportes Peninsulares Terrestres Aereos Y Maritimos S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TPE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137641"
+  },
+  {
+    "name": "TUM AeroCarga de Mexico, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MCS",
+    "website": "www.mcs-aerocarga.com",
+    "notes": "IATA designator changed from T8. Name changed from MCS AeroCarga de Mexico, S.A. de C.V. w.e.f. 01 August 2018.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137662"
+  },
+  {
+    "name": "Universal Jet Rental de Mexico, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "UJR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137679"
+  },
+  {
+    "name": "Uvavemex, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "UVM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137696"
+  },
+  {
+    "name": "Vanguardia En Aviacion En Colima, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "VGC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137714"
+  },
+  {
+    "name": "Verataxis, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "VTX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137733"
+  },
+  {
+    "name": "Viajes Don Goyo, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "VDG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137751"
+  },
+  {
+    "name": "Viajes Ejecutivos Mexicanos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "VJM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137768"
+  },
+  {
+    "name": "Vifeomed, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "VFM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137786"
+  },
+  {
+    "name": "Vigo-Jet, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "VGJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137804"
+  },
+  {
+    "name": "Vip Empresarial, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "VIE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137821"
+  },
+  {
+    "name": "Vip Servicios Aereos Ejecutivos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "VIC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137839"
+  },
+  {
+    "name": "Visa Aereas Ejecutivas, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "VIA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137855"
+  },
+  {
+    "name": "Aeroenlaces Nacionales, S.A. de C.V. t/a viva aerobus",
+    "IATA": "VB",
+    "ICAO": "VIV",
+    "website": "www.vivaaerobus.com",
+    "notes": "ICAO designator changed from AEN",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137875"
+  },
+  {
+    "name": "Vjet, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "VYE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137892"
+  },
+  {
+    "name": "VL Servicios Nacionales, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "LSN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137909"
+  },
+  {
+    "name": "Volare 22 X, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "VLR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137926"
+  },
+  {
+    "name": "Concesionaria Vuela Compania De, SA de CV (Volaris)",
+    "IATA": null,
+    "ICAO": "VOI",
+    "website": "www.volaris.com.mx",
+    "notes": "ICAO callsign changed from Vuela Aviacion",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137944"
+  },
+  {
+    "name": "Vuelos Asesorias Y Representaciones, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "VSE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137960"
+  },
+  {
+    "name": "Vuelos Corporativos de Tehuacan, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "VTH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137977"
+  },
+  {
+    "name": "VZ Flights, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "VFT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.137995"
+  },
+  {
+    "name": "Xabre Aerolineas, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "XAB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:33.138014"
+  },
+  {
+    "name": "Azteca Cargo, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138032"
+  },
+  {
+    "name": "Administracion Aeronautica Internacional, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "AAO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138050"
+  },
+  {
+    "name": "Aereo Postal de Mexico, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "PTX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138067"
+  },
+  {
+    "name": "Aereo Taxi de Leon, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TXL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138084"
+  },
+  {
+    "name": "Aermilenio, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MNI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138101"
+  },
+  {
+    "name": "Aero Attie, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TTI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138120"
+  },
+  {
+    "name": "Aero Banobras, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "BNB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138138"
+  },
+  {
+    "name": "Aero California",
+    "IATA": "JR",
+    "ICAO": "SER",
+    "website": "www.aerocalifornia.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138162"
+  },
+  {
+    "name": "Aero Caly, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "AEL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138180"
+  },
+  {
+    "name": "Aero Campeche, C.A. de C.V.",
+    "IATA": null,
+    "ICAO": "CPC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138197"
+  },
+  {
+    "name": "Aero Centro, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "NTO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138216"
+  },
+  {
+    "name": "Aero Charter Los Cabos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "RCR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138234"
+  },
+  {
+    "name": "Aero Chombo, S.A.",
+    "IATA": null,
+    "ICAO": "CHM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138250"
+  },
+  {
+    "name": "Aero Citro, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ITO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138268"
+  },
+  {
+    "name": "Aero Comondu, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ACO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138284"
+  },
+  {
+    "name": "Aero Cuahonte, S.A. de C.V.",
+    "IATA": "5G",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138300"
+  },
+  {
+    "name": "Aero Ejecutiva, S.A.",
+    "IATA": null,
+    "ICAO": "EJT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138316"
+  },
+  {
+    "name": "Aero Fe, S.A.",
+    "IATA": null,
+    "ICAO": "RFE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138332"
+  },
+  {
+    "name": "Aero Fiesta Mexicana, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "FIT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138350"
+  },
+  {
+    "name": "Aero Gen, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ROH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138368"
+  },
+  {
+    "name": "Aero Internacional, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "INA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138386"
+  },
+  {
+    "name": "Aero Jalisco, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "AJL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138404"
+  },
+  {
+    "name": "Aero JBR, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "AJB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138424"
+  },
+  {
+    "name": "Aero Jets Corporativos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "AJP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138443"
+  },
+  {
+    "name": "Aero Juarez, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "JUA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138461"
+  },
+  {
+    "name": "Aero Norte, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "NTD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138480"
+  },
+  {
+    "name": "Aero Occidental, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "DTL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138497"
+  },
+  {
+    "name": "Aero Postal de Mexico, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138515"
+  },
+  {
+    "name": "Aero Quick",
+    "IATA": null,
+    "ICAO": "QIC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138533"
+  },
+  {
+    "name": "Aero Reservaciones Ejecutivas, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "REE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138550"
+  },
+  {
+    "name": "Aero Santos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "STO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138567"
+  },
+  {
+    "name": "Aero Servicio de Carga Mexicana S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SCM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138584"
+  },
+  {
+    "name": "Aero Servicio Del Norte, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SNV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138602"
+  },
+  {
+    "name": "Aero Servicios de Nuevo Laredo, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "NEL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138619"
+  },
+  {
+    "name": "Aero Servicios Pro-Bajio, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "PRJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138636"
+  },
+  {
+    "name": "Aero Sierra Eco, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ECO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138654"
+  },
+  {
+    "name": "Aero Siete, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ETE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138672"
+  },
+  {
+    "name": "Aero Sonora, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SNR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138691"
+  },
+  {
+    "name": "Aero Sucre, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138709"
+  },
+  {
+    "name": "Aero Taxi, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TLD",
+    "website": null,
+    "notes": "Name changed to Aero Taxi Autlan, S.A. de C.V.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138726"
+  },
+  {
+    "name": "Aero Taxi Autlan, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TLD",
+    "website": null,
+    "notes": "Name changed to Aero Taxi, S.A. de C.V.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138744"
+  },
+  {
+    "name": "Aero Taxi Del Centro de Mexico, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TME",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138762"
+  },
+  {
+    "name": "Aero Taxis Cessna, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TND",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138780"
+  },
+  {
+    "name": "Aero Tonala",
+    "IATA": null,
+    "ICAO": "TON",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138798"
+  },
+  {
+    "name": "Aero Transportes Consolidados, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138817"
+  },
+  {
+    "name": "Aero Veracrhz, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "VRZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138835"
+  },
+  {
+    "name": "Aeroamistad, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MST",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138853"
+  },
+  {
+    "name": "Aerocancun",
+    "IATA": null,
+    "ICAO": "ACU",
+    "website": null,
+    "notes": "Founded in 1989. Ceased operations in 1996.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138869"
+  },
+  {
+    "name": "Aerocaribe",
+    "IATA": "QA",
+    "ICAO": "CBE",
+    "website": "www.aerocaribe.com",
+    "notes": "Founded in 1972. Name changed to Mexicana Click in July 2005.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138887"
+  },
+  {
+    "name": "Aerocentral, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ATL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138905"
+  },
+  {
+    "name": "Aerocer, S.A.",
+    "IATA": null,
+    "ICAO": "RCE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138922"
+  },
+  {
+    "name": "Aerocheyenne, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "CYE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138940"
+  },
+  {
+    "name": "Aerochiapas, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "AHP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138958"
+  },
+  {
+    "name": "Aerocomponentes Internacionales, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "CPE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138976"
+  },
+  {
+    "name": "Aerocozumel, S.A.",
+    "IATA": "UZ",
+    "ICAO": "AZM",
+    "website": null,
+    "notes": "Designator UZ recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.138994"
+  },
+  {
+    "name": "Aerodin, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "DIN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139011"
+  },
+  {
+    "name": "Aeroenlaces Nacionales, S.A. de C.V.",
+    "IATA": "VB",
+    "ICAO": "AEN",
+    "website": "www.vivaaerobus.com",
+    "notes": "ICAO designator changed to VIV",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139030"
+  },
+  {
+    "name": "Aeroejecutivo S.A. de C.V.",
+    "IATA": "SX",
+    "ICAO": "AJO",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139047"
+  },
+  {
+    "name": "Aerojal, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "JAD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139064"
+  },
+  {
+    "name": "Aerojelk, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "JEL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139081"
+  },
+  {
+    "name": "Aerolinea Muri",
+    "IATA": null,
+    "ICAO": "MUR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139100"
+  },
+  {
+    "name": "Aerolineas Aereas Ejecutivas de Durango, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "LDG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139118"
+  },
+  {
+    "name": "Aerolineas Amanecer, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MNE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139137"
+  },
+  {
+    "name": "Aerolineas Bonanza, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "BNZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139156"
+  },
+  {
+    "name": "Aerolineas Coco Club Hoteles de Mexico, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "CCO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139176"
+  },
+  {
+    "name": "Aerolineas Comerciales Del Norte, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "CNO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139193"
+  },
+  {
+    "name": "Aerolineas de Michoacan",
+    "IATA": null,
+    "ICAO": "MIC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139211"
+  },
+  {
+    "name": "Aerolineas Del Mayab, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MYE",
+    "website": null,
+    "notes": "ICAO designator changed to MYB",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139229"
+  },
+  {
+    "name": "Aerolineas Del Oeste, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "AST",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139247"
+  },
+  {
+    "name": "Aerolineas Del Sol, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "LSO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139266"
+  },
+  {
+    "name": "Aerolineas Del Sureste, S.A.",
+    "IATA": null,
+    "ICAO": "SUE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139283"
+  },
+  {
+    "name": "Aerolineas Ejecutivas de San Luis Potosi, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ELP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139301"
+  },
+  {
+    "name": "Aerolineas Ejecutivas Del Sureste, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ESU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139318"
+  },
+  {
+    "name": "Aerolineas Ejecutivas Tarascas S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "RSC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139337"
+  },
+  {
+    "name": "Aerolineas Internacionales S.A. de C.V.",
+    "IATA": "N2",
+    "ICAO": "LNT",
+    "website": "www.aerolineas.cc/index-en.html",
+    "notes": "Designator N2 reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139356"
+  },
+  {
+    "name": "Aerolineas Mesoamericanas, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MSO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139372"
+  },
+  {
+    "name": "Aerolineas Mexicanas J.S., S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "LMX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139389"
+  },
+  {
+    "name": "Aerolineas Olve, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "OLV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139408"
+  },
+  {
+    "name": "Aerolineas Regionales, S.A. de C.V.",
+    "IATA": "F2",
+    "ICAO": "RCQ",
+    "website": null,
+    "notes": "Designator F2 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139426"
+  },
+  {
+    "name": "Aerolineas Regionales, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "RCQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139443"
+  },
+  {
+    "name": "Aerolineas Salvi, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "LVI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139461"
+  },
+  {
+    "name": "Aerolineas Villaverde, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "VLR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139478"
+  },
+  {
+    "name": "Aerolineas Yasi, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "RLY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139495"
+  },
+  {
+    "name": "Aerolitoral S.A. de C.V.",
+    "IATA": "5D",
+    "ICAO": "SLI",
+    "website": "www.aerolitoral.com",
+    "notes": "Name changed to Aerolitoral, S.A. de C.V., d/b/a Aerom\u00e9xico Connect. Designator 5D reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139513"
+  },
+  {
+    "name": "Transportes Aeromar, S.A. de C.V. t/a Aeromar",
+    "IATA": "VW",
+    "ICAO": "TAO",
+    "website": "www.aeromar.com.mx",
+    "notes": "Ceased operation on 15 February 2023.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139532"
+  },
+  {
+    "name": "Aeromexhaga, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "AXH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139548"
+  },
+  {
+    "name": "Aeromexico Aerovias de Mexico S.A. de C.V.",
+    "IATA": "AM",
+    "ICAO": "AMX",
+    "website": "www.aeromexico.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139566"
+  },
+  {
+    "name": "Aeromexpress S.A. de C.V.",
+    "IATA": "QO",
+    "ICAO": "MPX",
+    "website": "www.aeromexpress.com.mx",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139583"
+  },
+  {
+    "name": "Aeromonterrey, S.A.",
+    "IATA": null,
+    "ICAO": "MOT",
+    "website": null,
+    "notes": "Ceased operations on 28 February 1995.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139600"
+  },
+  {
+    "name": "Aeromorelos S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MRL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139617"
+  },
+  {
+    "name": "Aeromyl, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MYL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139634"
+  },
+  {
+    "name": "Aeronautica Interespacial, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ITS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139652"
+  },
+  {
+    "name": "Aeronaves Azteca, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TZA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139669"
+  },
+  {
+    "name": "Aeronaves de Mexico, S.A.",
+    "IATA": "AM",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139687"
+  },
+  {
+    "name": "Aeronaves del Centro, S.A.",
+    "IATA": "JZ",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139704"
+  },
+  {
+    "name": "Aeronaves del Este, S.A.",
+    "IATA": "JI",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139720"
+  },
+  {
+    "name": "Aeronaves Del Noreste, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "DRO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139737"
+  },
+  {
+    "name": "Aeronaves del Norte, S.A.",
+    "IATA": "JB",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139754"
+  },
+  {
+    "name": "Aeronaves del Oeste, S.A.",
+    "IATA": "JO",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139770"
+  },
+  {
+    "name": "Aeronaves del Sur, S.A.",
+    "IATA": "JS",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139786"
+  },
+  {
+    "name": "Aeroni, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "NID",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139803"
+  },
+  {
+    "name": "Aeropeninsular, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "PSU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139820"
+  },
+  {
+    "name": "Aerora, S.A.",
+    "IATA": null,
+    "ICAO": "ARR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139837"
+  },
+  {
+    "name": "Aero-Rent, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "REN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139854"
+  },
+  {
+    "name": "Aeroservicios Del Bajio, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "RBJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139873"
+  },
+  {
+    "name": "Aeroservicios Ejecutivos Del Occidente, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "AEO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139891"
+  },
+  {
+    "name": "Aeroservicios Ejecutivos Del Pacifico, S.A.",
+    "IATA": null,
+    "ICAO": "SPO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139910"
+  },
+  {
+    "name": "Aeroservicios Ejecutivos Sinaloenses, S.A.",
+    "IATA": null,
+    "ICAO": "SLS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139927"
+  },
+  {
+    "name": "Aeroservicios Gama, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "GMS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139944"
+  },
+  {
+    "name": "Aeroservicios Integrados de Norte, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "INO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139961"
+  },
+  {
+    "name": "Aeroservicios Monterrey, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SVM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139979"
+  },
+  {
+    "name": "Aerosi, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "OSI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.139995"
+  },
+  {
+    "name": "Aerosierra de Durango",
+    "IATA": null,
+    "ICAO": "SDG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140012"
+  },
+  {
+    "name": "Aerosiyusa, S.A.",
+    "IATA": null,
+    "ICAO": "SIY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140029"
+  },
+  {
+    "name": "Aerosuper, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SUP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140048"
+  },
+  {
+    "name": "Aerotamatan, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TAA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140065"
+  },
+  {
+    "name": "Aerotax Monse, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TXO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140082"
+  },
+  {
+    "name": "Aerotaxis Calzada, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "CLZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140101"
+  },
+  {
+    "name": "Aerotaxis Cimarron, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "IMN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140118"
+  },
+  {
+    "name": "Aerotaxis Corporativo, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "CRP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140135"
+  },
+  {
+    "name": "Aerotaxis de Atizapan",
+    "IATA": null,
+    "ICAO": "TZP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140153"
+  },
+  {
+    "name": "Aerotaxis Del Centro, S.A.",
+    "IATA": null,
+    "ICAO": "CTO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140169"
+  },
+  {
+    "name": "Aerotaxis Del Golfo, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TGF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140185"
+  },
+  {
+    "name": "Aerotaxis Dosmil, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "DML",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140202"
+  },
+  {
+    "name": "Aerotaxis Latinoamericanos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "LTI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140220"
+  },
+  {
+    "name": "Aerotaxis Pegaso, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "APG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140236"
+  },
+  {
+    "name": "Aerotour, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "OUR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140251"
+  },
+  {
+    "name": "Aerotransportacion Azteca, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TZS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140268"
+  },
+  {
+    "name": "Aerotransportacion de Norteamerica, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "AMM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140285"
+  },
+  {
+    "name": "Aerotransportes Barlovento, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "BLO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140301"
+  },
+  {
+    "name": "Aero-Transportes de Carga, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "OTC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140319"
+  },
+  {
+    "name": "Aerotransportes Privados, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "PVA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140336"
+  },
+  {
+    "name": "Aerotrebol, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TBL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140352"
+  },
+  {
+    "name": "Aerotur, S.A.",
+    "IATA": null,
+    "ICAO": "TUR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140368"
+  },
+  {
+    "name": "Aeroturquesa, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TQS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140384"
+  },
+  {
+    "name": "Aerouneas Ejecutivas, S.A.",
+    "IATA": null,
+    "ICAO": "LET",
+    "website": null,
+    "notes": "Name changed to Aerouneas Ejecutivas, S.A. de C.V.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140402"
+  },
+  {
+    "name": "Aerovallarta, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ALL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140419"
+  },
+  {
+    "name": "Aerovekel, S.A.",
+    "IATA": null,
+    "ICAO": "VKL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140435"
+  },
+  {
+    "name": "Aerovia Del Altiplano, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "APN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140451"
+  },
+  {
+    "name": "Aeroviajes Ejecutivos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "AVJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140467"
+  },
+  {
+    "name": "Aerovias de Lagos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "LAG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140483"
+  },
+  {
+    "name": "Aerovias de Poniente, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "PNI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140498"
+  },
+  {
+    "name": "Aerovias Ejecutivas, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "OVI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140514"
+  },
+  {
+    "name": "Aerovias Montes Azules, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MZL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140531"
+  },
+  {
+    "name": "Aerovias Oaxaquenas, S.A.",
+    "IATA": null,
+    "ICAO": "AVO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140548"
+  },
+  {
+    "name": "Aerovias Xalitic. S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "XAL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140565"
+  },
+  {
+    "name": "Air Class, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ASS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140580"
+  },
+  {
+    "name": "Air Monacrch Cargo, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MOC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140597"
+  },
+  {
+    "name": "Air Zano, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "RZN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140613"
+  },
+  {
+    "name": "Aladia Airlines, S.A. de C.V.",
+    "IATA": "9A",
+    "ICAO": "AYD",
+    "website": "www.aladia.com",
+    "notes": "Suspended operations in October 2008.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140631"
+  },
+  {
+    "name": "Alcon Servicios Aereos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "AOA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140648"
+  },
+  {
+    "name": "Alfa 4, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "FCU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140664"
+  },
+  {
+    "name": "Aerolineas Mesoamericanas, S.A. de C.V. d/b/a ALMA de Mexico",
+    "IATA": "C4",
+    "ICAO": "MSO",
+    "website": "www.alma.com.mx",
+    "notes": "Founded in 2005. Commenced operations on 12 June 2006. Ceased operations on 07 November 2008.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140682"
+  },
+  {
+    "name": "Almaver, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "VER",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140698"
+  },
+  {
+    "name": "Alternative Air, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TIV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140715"
+  },
+  {
+    "name": "Andromeda Taxi Aereo, S.A. De R.L.",
+    "IATA": null,
+    "ICAO": "AOM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140732"
+  },
+  {
+    "name": "Arrendamiento de Aviones Jets, S.A.",
+    "IATA": null,
+    "ICAO": "JTS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140748"
+  },
+  {
+    "name": "Arturo Rodriguez Martinez",
+    "IATA": null,
+    "ICAO": "MTI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140765"
+  },
+  {
+    "name": "Aurelio Y Gustavo Pompa Estrella",
+    "IATA": null,
+    "ICAO": "POM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140782"
+  },
+  {
+    "name": "Avesen, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ESE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140798"
+  },
+  {
+    "name": "Aviacion Comercial de America, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "VME",
+    "website": null,
+    "notes": "Name changed to Cemex Central, S.A. de C.V.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140816"
+  },
+  {
+    "name": "Aviacion Del Noroeste, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ANW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140832"
+  },
+  {
+    "name": "Aviacion Ejecutiva de Hildago, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "HID",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140848"
+  },
+  {
+    "name": "Aviacion Ejecutiva Mexicana, S.A.",
+    "IATA": null,
+    "ICAO": "AVM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140864"
+  },
+  {
+    "name": "AVIACSA-Consorcio Aviaxsa, S.A. de C.V.",
+    "IATA": "6A",
+    "ICAO": "CHP",
+    "website": "www.aviacsa.com.mx",
+    "notes": "Founded in 1990. Ceased operations on 04 May 2011.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140882"
+  },
+  {
+    "name": "Avijet, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "IJE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140897"
+  },
+  {
+    "name": "Aviones Are, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "NRE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140914"
+  },
+  {
+    "name": "Aviones de Sonora, S.A.",
+    "IATA": null,
+    "ICAO": "ADS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140930"
+  },
+  {
+    "name": "Aviones Ejecutivos J.F.A.",
+    "IATA": null,
+    "ICAO": "JFA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140946"
+  },
+  {
+    "name": "Aviones Para Servirle, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "PSG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140961"
+  },
+  {
+    "name": "Aviones Unidos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "AUN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140978"
+  },
+  {
+    "name": "Aviones Y Servicics Del Golfo, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ADG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.140995"
+  },
+  {
+    "name": "Aviorrenta, S.A.",
+    "IATA": null,
+    "ICAO": "AVI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141010"
+  },
+  {
+    "name": "Avolar Aerolineas, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "VLI",
+    "website": "www.avolar.com.mx",
+    "notes": "Founded in 2005. Ceased operations on 28 October 2008.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141027"
+  },
+  {
+    "name": "Avolar Airlines, SA de C.V.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.avolar.com.mx",
+    "notes": "Designator A5* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141044"
+  },
+  {
+    "name": "Axel Rent, S.A.",
+    "IATA": null,
+    "ICAO": "AXR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141059"
+  },
+  {
+    "name": "Aero Calafia, S.A. de C.V. t/a Calafia Airlines",
+    "IATA": "A7",
+    "ICAO": "CFV",
+    "website": "www.calafiaairlines.com",
+    "notes": "Suspended operations 15/08/2023. Designator A7 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141077"
+  },
+  {
+    "name": "Cancun Air, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "CUI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141093"
+  },
+  {
+    "name": "Cancun Avioturismo, S.A.",
+    "IATA": null,
+    "ICAO": "CAU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141111"
+  },
+  {
+    "name": "Cap. P.A. Hernando R. Ordonez Gutierrez",
+    "IATA": null,
+    "ICAO": "ORD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141128"
+  },
+  {
+    "name": "Carga Del Caribe, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "CDC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141144"
+  },
+  {
+    "name": "Carga Express Internacional, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "EST",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141160"
+  },
+  {
+    "name": "Carlos Cervantes Del Rio",
+    "IATA": null,
+    "ICAO": "CCD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141176"
+  },
+  {
+    "name": "Celmar Servicios Aereos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "CER",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141195"
+  },
+  {
+    "name": "Cemex Central, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "VME",
+    "website": null,
+    "notes": "Name changed to Cemex Operaciones Mexico, S.A. de C.V. Name changed from Aviacion Comercial de America, S.A. de C.V.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141214"
+  },
+  {
+    "name": "Cemex Operaciones Mexico, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "VME",
+    "website": null,
+    "notes": "Name changed from Cemex Central, S.A. de C.V. and previously Aviacion Comercial de America, S.A. de C.V.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141232"
+  },
+  {
+    "name": "Central de Discos de Reynosa, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "DRN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141248"
+  },
+  {
+    "name": "Century Aviation, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "URY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141263"
+  },
+  {
+    "name": "Cesar Augusto de La Cruz Lepe, C.P.A.",
+    "IATA": null,
+    "ICAO": "AUG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141280"
+  },
+  {
+    "name": "Cetty Taxi Aereo Nacional, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "CCT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141296"
+  },
+  {
+    "name": "Compania Mexicana de Taxis Aereos, S.A.",
+    "IATA": null,
+    "ICAO": "CMX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141311"
+  },
+  {
+    "name": "Consorcio Aereo, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "CRI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141326"
+  },
+  {
+    "name": "Corporacion Aerea Ejecutiva, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "CEJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141342"
+  },
+  {
+    "name": "Corporacion Aereo Internacional, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "CAI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141359"
+  },
+  {
+    "name": "Danaus Lineas Aereas, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "NAU",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141374"
+  },
+  {
+    "name": "Enrique Cuahonte Delgado, C.C., Marta Amezclia de Cuahonte",
+    "IATA": null,
+    "ICAO": "CUO",
+    "website": null,
+    "notes": "Name changed to Aerocuahonte, S.A. de C.V.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141391"
+  },
+  {
+    "name": "Estrellas Del Aire, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ETA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141408"
+  },
+  {
+    "name": "Expertos en Carga, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "EXR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141423"
+  },
+  {
+    "name": "Facts Air, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "FCS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141439"
+  },
+  {
+    "name": "Flywet, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "WET",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141455"
+  },
+  {
+    "name": "Gacela Air Cargo, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "GIG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141470"
+  },
+  {
+    "name": "GBM Aereo, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "GBM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141486"
+  },
+  {
+    "name": "Global Air, Grupo Aerolineas Damojh S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "DMJ",
+    "website": "www.globalair.aero",
+    "notes": "Founded in 1990. AOC revoked on 21 May 2018 by Mexican DGCA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141503"
+  },
+  {
+    "name": "Grupo Turistico Magno, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "GTM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141519"
+  },
+  {
+    "name": "Heli Trip, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "HTP",
+    "website": "www.heli-trip.com",
+    "notes": "Ceased Operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141536"
+  },
+  {
+    "name": "Helicopteros Xel-Ha, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "XEL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141551"
+  },
+  {
+    "name": "Heliserv, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "HLV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141567"
+  },
+  {
+    "name": "Horizontes Aereos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "HOZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141583"
+  },
+  {
+    "name": "Interamericana, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "INE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141599"
+  },
+  {
+    "name": "Interestatal de Aviacion, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ITE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141615"
+  },
+  {
+    "name": "ABC Aerolineas, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "AIJ",
+    "website": "www.interjet.com.mx",
+    "notes": "Ceased operations on 11 December 2020. Designator 4O* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141635"
+  },
+  {
+    "name": "International Charter Services, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ICS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141651"
+  },
+  {
+    "name": "Intervuelo, S.A.",
+    "IATA": null,
+    "ICAO": "ITV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141666"
+  },
+  {
+    "name": "Jet Norte, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "JNR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141681"
+  },
+  {
+    "name": "Jet Servisx, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "VIS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141696"
+  },
+  {
+    "name": "Jets Corporativos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "JTC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141713"
+  },
+  {
+    "name": "Jets Y Servicios Ejecutivos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "JSE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141729"
+  },
+  {
+    "name": "K2 Del Aire, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "KDS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141745"
+  },
+  {
+    "name": "La Tur Airlines",
+    "IATA": "LP",
+    "ICAO": "LPT",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141761"
+  },
+  {
+    "name": "LA Valenciana Taxi Aereo S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "LVT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141777"
+  },
+  {
+    "name": "Aerotransportes Mas de Carga, S.A. de C.V. d/b/a LATAM Cargo Mexico",
+    "IATA": "M7",
+    "ICAO": "MAA",
+    "website": "www.latamcargo.com",
+    "notes": "Name reverted to Aerotransportes Mas de Carga, S.A. de C.V. t/a MasAir w.e.f. 01/12/2018. Name changed from Aerotransportes Mas de Carga, S.A. de C.V. t/a MasAir w.e.f. 05/05/2016. IATA designator changed from MY. Designator MY reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141796"
+  },
+  {
+    "name": "Lineas Aereas Allegro, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "GRO",
+    "website": null,
+    "notes": "Founded in 1992. Ceased operations during 2004.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141812"
+  },
+  {
+    "name": "Lineas Aereas Azteca, S.A. de C.V.",
+    "IATA": "ZE",
+    "ICAO": "LCD",
+    "website": "www.aazteca.com.mx",
+    "notes": "Operations suspended by the government in March 2007. AOC cancelled in October 2007.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141830"
+  },
+  {
+    "name": "Lineas Aereas Ejecutivas de Durango, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "EDD",
+    "website": null,
+    "notes": "Name changed to Servicios Aereos Bio Pappel, S.A. de C.V.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141847"
+  },
+  {
+    "name": "Lineas Aereas Latur, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "LUR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141863"
+  },
+  {
+    "name": "Maria Elisa Gonzales Farelas",
+    "IATA": null,
+    "ICAO": "FRL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141878"
+  },
+  {
+    "name": "Aerotransportes Mas de Carga, S.A. de C.V. t/a MasAir",
+    "IATA": "MY",
+    "ICAO": "MAA",
+    "website": null,
+    "notes": "Founded in 1992. Commenced operations on 01/04/1992. IATA designator changed to M7. Designator MY reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141895"
+  },
+  {
+    "name": "Aerotransportes Mas de Carga, S.A. de C.V. t/a MasAir",
+    "IATA": "M7",
+    "ICAO": "MAA",
+    "website": null,
+    "notes": "Name changed to Aerotransportes Mas de Carga, S.A. de C.V. d/b/a LATAM Cargo Mexico w.e.f. 05/05/2016. IATA designator changed from MY. Designator MY reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141914"
+  },
+  {
+    "name": "Maya Carga Internacional, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MCI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141930"
+  },
+  {
+    "name": "Mayair, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MYI",
+    "website": "www.mayair.com.mx",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141946"
+  },
+  {
+    "name": "MCS AeroCarga de Mexico, S.A. de C.V.",
+    "IATA": "T8",
+    "ICAO": "MCS",
+    "website": "www.mcs-aerocarga.com",
+    "notes": "Name changed to TUM AeroCarga de Mexico, S.A. de C.V. w.e.f. 01 August 2018.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141963"
+  },
+  {
+    "name": "Compania Mexicana de Aviacion S.A. de C.V.",
+    "IATA": "MX",
+    "ICAO": "MXA",
+    "website": "www.mexicana.com.mx",
+    "notes": "Ceased operations on 28 August 2010.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141981"
+  },
+  {
+    "name": "Mexicana Inter, S.A. de C.A.",
+    "IATA": "I6",
+    "ICAO": "MXI",
+    "website": "www.mexicana.com.mx",
+    "notes": "Ceased operations on 28 August 2010.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.141998"
+  },
+  {
+    "name": "MexicanaClick",
+    "IATA": "QA",
+    "ICAO": "CBE",
+    "website": "www.mexicana.com.mx",
+    "notes": "Ceased all operations on 28 August 2010. Name changed from Aerocaribe",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142016"
+  },
+  {
+    "name": "Mexicargo, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MXC",
+    "website": null,
+    "notes": "Designator GJ* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142032"
+  },
+  {
+    "name": "Mex-Jet, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MJT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142049"
+  },
+  {
+    "name": "Multiservicios Aeronauticos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MUT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142064"
+  },
+  {
+    "name": "Polar Airlines de Mexico, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "PMO",
+    "website": null,
+    "notes": "Ceased Operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142080"
+  },
+  {
+    "name": "Organizacion de Transportes Aereos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "OTA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142097"
+  },
+  {
+    "name": "Pan-Air, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "PNC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142113"
+  },
+  {
+    "name": "Petroleos Mexicanos",
+    "IATA": null,
+    "ICAO": "PMX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142129"
+  },
+  {
+    "name": "PAL Aerolineas, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "LPA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142144"
+  },
+  {
+    "name": "Quassar de Mexico, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "QUA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142161"
+  },
+  {
+    "name": "Regioempresas, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "RGE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142177"
+  },
+  {
+    "name": "Restauraciones Aeronauticas, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "RES",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142193"
+  },
+  {
+    "name": "Sergio Gonzales Rogel, C.C., Ing. Fernado G. Rogel",
+    "IATA": null,
+    "ICAO": "ROG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142210"
+  },
+  {
+    "name": "Sertel (Servicios Telereservacios, S.A. de C.V.)",
+    "IATA": null,
+    "ICAO": "LOM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142225"
+  },
+  {
+    "name": "Servicio Mericano de Vuelose de Fletamento, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ATE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142242"
+  },
+  {
+    "name": "Servicios Aerecs Del Sol, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "AOS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142260"
+  },
+  {
+    "name": "Servicios Aereos Across, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ACW",
+    "website": null,
+    "notes": "ICAO callsign changed to Acro Jets.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142276"
+  },
+  {
+    "name": "Servicios Aereos Barsa, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SBS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142292"
+  },
+  {
+    "name": "Servicios Aereos Castaneda, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "CTD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142307"
+  },
+  {
+    "name": "Servicios Aereos de Los Angeles, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "AGE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142323"
+  },
+  {
+    "name": "Servicios Aereos Del Golfo, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "GOL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142339"
+  },
+  {
+    "name": "Servicios Aereos del Notre, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "NTB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142354"
+  },
+  {
+    "name": "Servicios Aereos Especiales de Jalisco, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SJA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142370"
+  },
+  {
+    "name": "Servicios Aereos Especializados Mexicanos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SXM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142387"
+  },
+  {
+    "name": "Servicios Aereos Gadel, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "GDE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142403"
+  },
+  {
+    "name": "Servicios Aereos la Marquesa, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SMD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142425"
+  },
+  {
+    "name": "Servicios Aereos Norte Sur, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SNE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142441"
+  },
+  {
+    "name": "Servicios Aereos Rutas Oriente S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SRO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142458"
+  },
+  {
+    "name": "Servicios Aereos Saar, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SVS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142474"
+  },
+  {
+    "name": "Servicios Aereos Slainte, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SLS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142493"
+  },
+  {
+    "name": "Servicios Aereos Sunset, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SSE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142509"
+  },
+  {
+    "name": "Servicios Aereos Tribasa, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TBS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142525"
+  },
+  {
+    "name": "Servicios Aereos Y Fotograficos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "FTG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142540"
+  },
+  {
+    "name": "Servicios Aerolineas Mexicanas, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SMS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142556"
+  },
+  {
+    "name": "Servicios Aeronauticos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SRN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142571"
+  },
+  {
+    "name": "Servicios Aeronauticos Integrales, S de R.L.",
+    "IATA": null,
+    "ICAO": "SIL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142587"
+  },
+  {
+    "name": "Servicios de Aerotransportacion de Aguascalientes, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SGU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142603"
+  },
+  {
+    "name": "Servicios de Rampa Y Mostrador, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "RMP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142618"
+  },
+  {
+    "name": "Servicios de Taxi Aereo, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SXT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142634"
+  },
+  {
+    "name": "Servicios de Transporte Aerec, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SVI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142650"
+  },
+  {
+    "name": "Servicios Empresariales Y Administrativos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ERD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142666"
+  },
+  {
+    "name": "Servicios Especiales del Pacifico Jalisco S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SJL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142683"
+  },
+  {
+    "name": "Sistemas Aeronauticos 2000, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "SUT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142700"
+  },
+  {
+    "name": "Transportes Aereos Ejecutivos, S.A. de C.V.",
+    "IATA": "GD",
+    "ICAO": "TEJ",
+    "website": null,
+    "notes": "Ceased operations on 24 February 2000. Designator GD recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142717"
+  },
+  {
+    "name": "Taxi Aereo Centro Sur, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "CSU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142732"
+  },
+  {
+    "name": "Taxi Aereo de Jimulco, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "JML",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142748"
+  },
+  {
+    "name": "Taxi Aereo Nacional Del Evora, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TDE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142764"
+  },
+  {
+    "name": "Taxi Aero Bae, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TAE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142780"
+  },
+  {
+    "name": "Taxis Aereos de Caborca, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TBO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142795"
+  },
+  {
+    "name": "Taxis Aereos de Los Cabos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TBO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142812"
+  },
+  {
+    "name": "Trans Caribe, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "CTA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142828"
+  },
+  {
+    "name": "Transportacion Aerea Mexicana (TAM)",
+    "IATA": null,
+    "ICAO": "TMX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142844"
+  },
+  {
+    "name": "Transportadora Fruyleg, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "FRU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142860"
+  },
+  {
+    "name": "Transportes ABC, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TBC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142877"
+  },
+  {
+    "name": "Transportes Aereos Del Mundo Maya, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "TMY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142892"
+  },
+  {
+    "name": "Transportes Aereos Mangino, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "MNO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142909"
+  },
+  {
+    "name": "Transportes Aereos Tamaulipas, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "ETM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142927"
+  },
+  {
+    "name": "Transportes Aeromar, S.A. de C.V.",
+    "IATA": "VW",
+    "ICAO": "TAO",
+    "website": "www.aeromar.com.mx",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142945"
+  },
+  {
+    "name": "Transportes de Carga Aerea Especializada Y Servicios Aeronauticos",
+    "IATA": null,
+    "ICAO": "TCS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142961"
+  },
+  {
+    "name": "TUM AeroCarga de Mexico, S.A. de C.V.",
+    "IATA": "T8",
+    "ICAO": "MCS",
+    "website": "www.mcs-aerocarga.com",
+    "notes": "IATA designator changed to T2*. Name changed from MCS AeroCarga de Mexico, S.A. de C.V. w.e.f. 01 August 2018.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142979"
+  },
+  {
+    "name": "Concesionaria Vuela Compania De, SA de CV (Volaris)",
+    "IATA": null,
+    "ICAO": "VOI",
+    "website": "www.volaris.com.mx",
+    "notes": "ICAO callsign changed to Volaris",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.142997"
+  },
+  {
+    "name": "Vuela Bus, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "VUS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.143013"
+  },
+  {
+    "name": "Vuelos Ejecutivos de Queretaro, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "VEQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.143030"
+  },
+  {
+    "name": "Vuelos Especializados Tollocan, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "VTC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.143047"
+  },
+  {
+    "name": "Vuelos Exclusivos de Mexico, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "EMX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.143064"
+  },
+  {
+    "name": "Westair de Mexico",
+    "IATA": null,
+    "ICAO": "WAM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.143079"
+  },
+  {
+    "name": "Aero Servicio Guerrero, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.143095"
+  },
+  {
+    "name": "Aerolineas Damoih, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.143111"
+  },
+  {
+    "name": "Servicios Empresariales y Administrativos, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:33.143128"
+  }
+]

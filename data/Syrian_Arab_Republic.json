@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Cham Wings Airlines",
+    "IATA": null,
+    "ICAO": "SAW",
+    "website": "www.chamwings.com",
+    "notes": "Designator 6Q recalled by IATA. Name changed from Sham Wings Airlines",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:09.240309"
+  },
+  {
+    "name": "Damascene Airlines",
+    "IATA": null,
+    "ICAO": "TYL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:09.240337"
+  },
+  {
+    "name": "East West Airlines",
+    "IATA": null,
+    "ICAO": "EWS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:09.240354"
+  },
+  {
+    "name": "Fly Aman",
+    "IATA": null,
+    "ICAO": "FAJ",
+    "website": "www.flyaman.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:09.240370"
+  },
+  {
+    "name": "Hala Fly Airlines",
+    "IATA": null,
+    "ICAO": "DAZ",
+    "website": "halafly.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:09.240386"
+  },
+  {
+    "name": "Pan Mediterranean Aviation (PMA)",
+    "IATA": null,
+    "ICAO": "KSH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:09.240403"
+  },
+  {
+    "name": "Peter Airlines",
+    "IATA": null,
+    "ICAO": "PMO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:09.240418"
+  },
+  {
+    "name": "Stars Airways",
+    "IATA": null,
+    "ICAO": "FOZ",
+    "website": "www.starsairways.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:09.240434"
+  },
+  {
+    "name": "Syrian Arab Airlines",
+    "IATA": "RB",
+    "ICAO": "SYR",
+    "website": "www.syrianair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:09.240450"
+  },
+  {
+    "name": "C Airjet Airlines",
+    "IATA": "7S",
+    "ICAO": "SRJ",
+    "website": "www.syrjet.com",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:09.240466"
+  },
+  {
+    "name": "Cham Wings Airlines",
+    "IATA": "6Q",
+    "ICAO": "SAW",
+    "website": "www.chamwings.com",
+    "notes": "Designator 6Q reinstated by IATA. Name changed from Sham Wings Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:09.240484"
+  },
+  {
+    "name": "Cham Wings Airlines",
+    "IATA": "6Q",
+    "ICAO": "SAW",
+    "website": "www.chamairlines.com",
+    "notes": "Designator 6Q reinstated by IATA. Name changed from Sham Wings Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:09.240501"
+  },
+  {
+    "name": "Flydamas Airlines",
+    "IATA": "4J",
+    "ICAO": "FDK",
+    "website": "www.flydamas.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:09.240517"
+  },
+  {
+    "name": "Kinda Airlines",
+    "IATA": "2S",
+    "ICAO": "KJA",
+    "website": "www.kinda-airlines.com",
+    "notes": "Never commenced operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:09.240533"
+  },
+  {
+    "name": "Sham Wings Airlines",
+    "IATA": "6Q",
+    "ICAO": "SAW",
+    "website": "www.shamairlines.com",
+    "notes": "Name changed to Cham Wings Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:09.240550"
+  },
+  {
+    "name": "Syrian Pearl Airlines",
+    "IATA": "PI",
+    "ICAO": "PSB",
+    "website": "www.flysyrianpearl.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:09.240566"
+  }
+]

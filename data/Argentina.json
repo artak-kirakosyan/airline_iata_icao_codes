@@ -1,0 +1,632 @@
+[
+  {
+    "name": "Aerolineas Argentinas",
+    "IATA": "AR",
+    "ICAO": "ARG",
+    "website": "www.aerolineas.com.ar",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:39.180635"
+  },
+  {
+    "name": "American Jet S.A.",
+    "IATA": null,
+    "ICAO": "AJB",
+    "website": "americanjet.com.ar/en/",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:39.180665"
+  },
+  {
+    "name": "Andes Lineas Aereas S.A.",
+    "IATA": "O4",
+    "ICAO": "ANS",
+    "website": "www.andesonline.com",
+    "notes": "Operations planned to be re-started",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:39.180684"
+  },
+  {
+    "name": "ARJet Airlines S.A.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.arjetairlinessa.com.ar",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:39.180702"
+  },
+  {
+    "name": "F.B. Lineas Aereas S.A. t/a Flybondi",
+    "IATA": "FO",
+    "ICAO": "FBZ",
+    "website": "www.flybondi.com",
+    "notes": "Commenced operations on 26 January 2018.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:39.180719"
+  },
+  {
+    "name": "Fuerza Aerea Argentina",
+    "IATA": null,
+    "ICAO": "FAG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:39.180736"
+  },
+  {
+    "name": "Grupo LASA S.r.l.",
+    "IATA": null,
+    "ICAO": "NQN",
+    "website": "www.aerolineaslasa.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:39.180752"
+  },
+  {
+    "name": "JetSmart Airlines S.A.",
+    "IATA": "WJ",
+    "ICAO": "JES",
+    "website": "jetsmart.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:39.180768"
+  },
+  {
+    "name": "Norwegian Air Argentina S.A.U.",
+    "IATA": "DN",
+    "ICAO": "NAA",
+    "website": "www.norwegian.com/ar/",
+    "notes": "Commenced operations on 16 October 2018.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:39.180785"
+  },
+  {
+    "name": "Techtimes Sudamericana S.A.",
+    "IATA": "C1",
+    "ICAO": null,
+    "website": null,
+    "notes": "Computer Reservations Systems (CRS)",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:39.180803"
+  },
+  {
+    "name": "Transportes Aereos Petroleros S.A. / TAPSA",
+    "IATA": null,
+    "ICAO": "TPS",
+    "website": "www.tapsa-com.ar",
+    "notes": "Name changed from Tapsa Aviacion. IATA designator V8* recalled.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:39.180820"
+  },
+  {
+    "name": "Aero 2000, S.A.",
+    "IATA": "4M",
+    "ICAO": "DSM",
+    "website": "www.lan.com",
+    "notes": "Name change to Aero 2000, S.A. dba LAN Argentina",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.180837"
+  },
+  {
+    "name": "Aero VIP, S.A.",
+    "IATA": "NJ",
+    "ICAO": "AOG",
+    "website": "www.flyaerovip.com",
+    "notes": "Established on 15 March 1999. Commenced operations on 23 June 1999. Ceased operations in November 2010.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.180854"
+  },
+  {
+    "name": "Aero VIP, S.A.",
+    "IATA": "2D",
+    "ICAO": "AOG",
+    "website": null,
+    "notes": "Designator 2D reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.180870"
+  },
+  {
+    "name": "Aerochaco L\u00edneas A\u00e9reas",
+    "IATA": "VM",
+    "ICAO": "PRV",
+    "website": "www.aerochaco.com.ar",
+    "notes": "Founded in 2008.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.180887"
+  },
+  {
+    "name": "Aeroposta, S.A.",
+    "IATA": null,
+    "ICAO": "RPO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.180904"
+  },
+  {
+    "name": "Aerotransporte Litoral Argentino, S.A.",
+    "IATA": "SG",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.180921"
+  },
+  {
+    "name": "Aerotransportes Entre Rios Srl",
+    "IATA": null,
+    "ICAO": "SFA",
+    "website": null,
+    "notes": "Designator RS recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.180937"
+  },
+  {
+    "name": "Aerotransportes Entre Rios Srl",
+    "IATA": "RS",
+    "ICAO": "SFA",
+    "website": null,
+    "notes": "Designator RS recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.180954"
+  },
+  {
+    "name": "Air Patagonia - Lineas Aereas del Sur, S.A.",
+    "IATA": null,
+    "ICAO": "PTG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.180969"
+  },
+  {
+    "name": "Air Plus Argentina, S.A.",
+    "IATA": "U3",
+    "ICAO": "LMP",
+    "website": null,
+    "notes": "Founded in 1999. Ceased operations during 2002. Name changed from Flight Bus S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.180986"
+  },
+  {
+    "name": "Alta, S.A.",
+    "IATA": null,
+    "ICAO": "LGN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181003"
+  },
+  {
+    "name": "American Falcon, S.A.",
+    "IATA": "WK",
+    "ICAO": "AFB",
+    "website": "www.americanfalcon.com.ar",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181019"
+  },
+  {
+    "name": "Andes Lineas Aereas S.A.",
+    "IATA": "OY",
+    "ICAO": "ANS",
+    "website": "www.andesonline.com",
+    "notes": "Suspended operations during 2020. Accounting code 650 recalled by IATA. Designator OY reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181036"
+  },
+  {
+    "name": "Andesmar Lineas Aereas, S.A.",
+    "IATA": null,
+    "ICAO": "NDR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181051"
+  },
+  {
+    "name": "ARG L\u00ednea Privada Argentina",
+    "IATA": "MJ",
+    "ICAO": "LPR",
+    "website": "www.lapa.com.ar",
+    "notes": "Name changed from Lineas Aereas Privadas Argentinas (LAPA) on 27 September 2001. Ceased operations in April 2003.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181068"
+  },
+  {
+    "name": "Compania Argentina de Transortes Aereos S.A.C. eI. - Austral",
+    "IATA": "AU",
+    "ICAO": null,
+    "website": null,
+    "notes": "Name changed to Austral Lineas Aereas",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181084"
+  },
+  {
+    "name": "Austral Lineas Aereas",
+    "IATA": "AU",
+    "ICAO": "AUT",
+    "website": null,
+    "notes": "Name changed to Cielos del Sur S.A. d/b/a Austral Lineas Aereas S.A. Name changed from Compania Argentina de Transortes Aereos S.A.C. eI. - Austral",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181100"
+  },
+  {
+    "name": "Cielos del Sur S.A. d/b/a Austral Lineas Aereas S.A.",
+    "IATA": "AU",
+    "ICAO": "AUT",
+    "website": "www.austral.com.ar",
+    "notes": "Merged into Aerolineas Argentinas w.e.f. 30 November 2020. Name changed from Austral Lineas Aereas.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181118"
+  },
+  {
+    "name": "Automotores Salta S.A.C.Y F.",
+    "IATA": null,
+    "ICAO": "LES",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181133"
+  },
+  {
+    "name": "Avian L\u00edneas A\u00e9reas S.A. t/a Avianca Argentina",
+    "IATA": "A0",
+    "ICAO": "ANC",
+    "website": "www.avianca.com.ar",
+    "notes": "Ceased operations on 07 June 2019. ICAO designator changed from MCJ. ICAO callsign changed from Jetmac. Name changed from Macair Jet S.A. w.e.f. December 2016.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181151"
+  },
+  {
+    "name": "Avian L\u00edneas A\u00e9reas S.A. t/a Avianca Argentina",
+    "IATA": "A0",
+    "ICAO": "MCJ",
+    "website": "www.avianca.com.ar",
+    "notes": "ICAO designator changed to ANC. ICAO callsign changed to Avian. Name changed from Macair Jet S.A. w.e.f. December 2016.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181168"
+  },
+  {
+    "name": "CATA S.A.C.I.F.I.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181184"
+  },
+  {
+    "name": "CATA S.A.C.I.F.I.",
+    "IATA": null,
+    "ICAO": "CTZ",
+    "website": null,
+    "notes": "Name changed to CATA Lineas Aereas",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181200"
+  },
+  {
+    "name": "CATA Lineas Aereas",
+    "IATA": null,
+    "ICAO": "CTZ",
+    "website": "www.cata.com.ar",
+    "notes": "Founded in 1986. Ceased operations during 2006. Declared bankrupt on 28 March 2008. Name changed from CATA S.A.C.I.F.I.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181217"
+  },
+  {
+    "name": "Cielos del Peru, S.A.",
+    "IATA": "A2",
+    "ICAO": "EXD",
+    "website": null,
+    "notes": "ICAO designator changed to CIU. ICAO Callsign changed from Export",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181233"
+  },
+  {
+    "name": "Cielos del Peru, S.A.",
+    "IATA": "A2",
+    "ICAO": "CIU",
+    "website": "www.cielos-airlines.com",
+    "notes": "Founded in 1997 and started operations in 1998. On 31 January 1998, Export Air was merged into Cielos. Ceased operations. ICAO designator changed from EXD. ICAO Callsign changed from Export",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181250"
+  },
+  {
+    "name": "Dinar Lineas Aereas, S.A.",
+    "IATA": "D7",
+    "ICAO": "RDN",
+    "website": "www.dinar.com.ar",
+    "notes": "Ceased operations on 30 September 2002.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181266"
+  },
+  {
+    "name": "Empresa Aeroias Halcon",
+    "IATA": "HL",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181281"
+  },
+  {
+    "name": "Empresa Aeroplan, S.A. Seronavegacion",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181297"
+  },
+  {
+    "name": "Flight Bus, S.A.",
+    "IATA": null,
+    "ICAO": "LMP",
+    "website": null,
+    "notes": "Name changed to Air Plus Argentina S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181312"
+  },
+  {
+    "name": "SOL S.A. Lineas Aereas d/b/a Flyest Lineas Aereas",
+    "IATA": "FQ",
+    "ICAO": null,
+    "website": "www.flyest.aero",
+    "notes": "Filed for bankruptcy in November 2020.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181329"
+  },
+  {
+    "name": "Hawk Air, S.A.",
+    "IATA": null,
+    "ICAO": "HKR",
+    "website": null,
+    "notes": "Founded in 1998. Ceased operations during 2006.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181345"
+  },
+  {
+    "name": "LAN Argentina S.A.",
+    "IATA": "4M",
+    "ICAO": "DSM",
+    "website": "www.lan.com",
+    "notes": "Name changed from Aero 2000, S.A. d/b/a LAN Argentina w.e.f. 05 May 2016. Name change from Aero 2000, S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181361"
+  },
+  {
+    "name": "Aero 2000, S.A. dba LAN Argentina",
+    "IATA": "4M",
+    "ICAO": "DSM",
+    "website": "www.lan.com",
+    "notes": "Name changed to LAN Argentina. Name change from Aero 2000, S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181377"
+  },
+  {
+    "name": "Lineas Aereas Privadas Argentinas (LAPA)",
+    "IATA": "MJ",
+    "ICAO": "LPR",
+    "website": "www.lapa.com.ar",
+    "notes": "Name changed to ARG L\u00ednea Privada Argentina on 27 September 2001.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181394"
+  },
+  {
+    "name": "Grupo LASA S.r.l. d/b/a LASA L\u00edneas A\u00e9reas",
+    "IATA": "L4",
+    "ICAO": null,
+    "website": "www.aerolineaslasa.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181409"
+  },
+  {
+    "name": "LAN Argentina S.A. d/b/a LATAM Airlines Argentina",
+    "IATA": "4M",
+    "ICAO": "DSM",
+    "website": "www.latamairlines.com",
+    "notes": "Ceased operations on 17 June 2020. Name changed from Aero 2000, S.A. dba LAN Argentina and previously from Aero 2000, S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181426"
+  },
+  {
+    "name": "Linea Federal Argentina S.E.M.",
+    "IATA": null,
+    "ICAO": "FED",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181441"
+  },
+  {
+    "name": "Lineas Aereas Del Estado (LADE)",
+    "IATA": "LD",
+    "ICAO": "LDE",
+    "website": null,
+    "notes": "Designator LD recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181457"
+  },
+  {
+    "name": "Lineas Aereas Del Estado (LADE)",
+    "IATA": null,
+    "ICAO": "LDE",
+    "website": "www.lade.com.ar",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181473"
+  },
+  {
+    "name": "Lineas Aereas del Sur S.A.",
+    "IATA": null,
+    "ICAO": "LDS",
+    "website": "ladssa.com",
+    "notes": "Founded in 2007 and commenced operations in 2008. Operating certificate suspened on 01 June 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181490"
+  },
+  {
+    "name": "Lineas Aereas Entre Rios Sociedad Del Estado",
+    "IATA": "2L",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator 2L reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181506"
+  },
+  {
+    "name": "Lineas Aereas Federales, S.A.",
+    "IATA": null,
+    "ICAO": "FED",
+    "website": null,
+    "notes": "Founded in 2003 and commenced operations on 02 October 2003. Mereged into LAN Argentina in March 2005.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181522"
+  },
+  {
+    "name": "Avian L\u00edneas A\u00e9reas S.A. t/a Avianca Argentina",
+    "IATA": null,
+    "ICAO": "MCJ",
+    "website": "www.avianca.com.ar",
+    "notes": "Name changed from Macair Jet S.A. w.e.f. December 2016. IATA designator changed from IA, Designator VM recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181539"
+  },
+  {
+    "name": "Macair Jet S.A.",
+    "IATA": "VM",
+    "ICAO": "MCJ",
+    "website": "www.macairjet.com.ar",
+    "notes": "Designator VM recalled by IATA. Founded in 1995.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181555"
+  },
+  {
+    "name": "Macair Jet S.A.",
+    "IATA": "A0",
+    "ICAO": "MCJ",
+    "website": "www.macairjet.com.ar",
+    "notes": "Name changed to Avian L\u00edneas A\u00e9reas S.A. w.e.f. December 2016. IATA designator changed from IA, Designator VM recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181571"
+  },
+  {
+    "name": "Macair Jet S.A.",
+    "IATA": "IA",
+    "ICAO": "MCJ",
+    "website": "www.macairjet.com.ar",
+    "notes": "IATA designator changed to A0. Designator VM recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181587"
+  },
+  {
+    "name": "Servicios de Transportes A\u00e9reos Fueguinos, S.A.",
+    "IATA": null,
+    "ICAO": "STU",
+    "website": null,
+    "notes": "Ceased operations 2005. Designator FS* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181603"
+  },
+  {
+    "name": "Skyways, S.A.",
+    "IATA": null,
+    "ICAO": "SYA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181619"
+  },
+  {
+    "name": "SOL S.A. Lineas Aereas",
+    "IATA": "8R",
+    "ICAO": "OLS",
+    "website": "www.sol.com.ar",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181634"
+  },
+  {
+    "name": "Southern Winds, S.A.",
+    "IATA": null,
+    "ICAO": "SWD",
+    "website": "www.sw.com.ar",
+    "notes": "Ceased Operations in 2005",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181650"
+  },
+  {
+    "name": "Tapsa Aviacion",
+    "IATA": null,
+    "ICAO": "TPS",
+    "website": null,
+    "notes": "Name changed to Transportes Aereos Petroleros S.A. / TAPSA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181666"
+  },
+  {
+    "name": "TAR",
+    "IATA": "HR",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181681"
+  },
+  {
+    "name": "Transporte Aereo Rioplatense",
+    "IATA": null,
+    "ICAO": "HRT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181696"
+  },
+  {
+    "name": "Transportes Aereos Neuguinos Sociedad Del Estado (T.A.N.S.E.)",
+    "IATA": null,
+    "ICAO": "NEQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181712"
+  },
+  {
+    "name": "Transportes Aereos Neuquen Sociedad Anonima",
+    "IATA": "T8",
+    "ICAO": "NQN",
+    "website": null,
+    "notes": "Ceased operations. Name changed from Transportes Aereos Neuquen Sociedad del Estado",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181728"
+  },
+  {
+    "name": "Transportes Aereos Neuquen Sociedad del Estado",
+    "IATA": "T8",
+    "ICAO": "NQN",
+    "website": null,
+    "notes": "Name changed to Transportes Aereos Neuquen Sociedad Anonima",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181744"
+  },
+  {
+    "name": "Transportes Aereos Petroleros S.A. / TAPSA",
+    "IATA": null,
+    "ICAO": "TPS",
+    "website": null,
+    "notes": "Name changed from Tapsa Aviacion",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181761"
+  },
+  {
+    "name": "Valls Lineas Aereas Y Servicios SRL Kaiken Lineas Aereas",
+    "IATA": "F7",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:39.181777"
+  }
+]

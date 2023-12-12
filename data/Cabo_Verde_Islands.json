@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Transportes Interilhas de Cabo Verde, Sociedade Unipessoal, SA. TICV",
+    "IATA": "3B",
+    "ICAO": "BCV",
+    "website": "bestfly.aero",
+    "notes": "ICAO designator changed from NTB. ICAO callsign changed from Morabeza. Name changed from Binter Cabo Verde",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:16.244852"
+  },
+  {
+    "name": "Transportes Aereos de Cabo Verde (TACV) d/b/a Cabo Verde Airlines",
+    "IATA": "VR",
+    "ICAO": "TCV",
+    "website": "www.caboverdeairlines.com",
+    "notes": "Name changed from Transportes Aereos de Cabo Verde (TACV) in May 2018. Designator VR reinstated by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:16.244883"
+  },
+  {
+    "name": "Inter Island Airlines Lda",
+    "IATA": null,
+    "ICAO": "IIN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:16.244902"
+  },
+  {
+    "name": "Smartlynx Airlines Cabo Verde",
+    "IATA": null,
+    "ICAO": "LCV",
+    "website": "www.smart-lynx.com/corporate/cabo-verde",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:16.244918"
+  },
+  {
+    "name": "Binter Cabo Verde",
+    "IATA": "3B",
+    "ICAO": "NTB",
+    "website": "www.binter.cv",
+    "notes": "Name changed to Transportes Interilhas de Cabo Verde, Sociedade Unipessoal, SA. TICV",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:16.244936"
+  },
+  {
+    "name": "Halcyonair Cabo Verde Airways",
+    "IATA": "7Z",
+    "ICAO": "HCV",
+    "website": "www.halcyonair.com",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:16.244952"
+  },
+  {
+    "name": "Inter Islands Airlines",
+    "IATA": "H4",
+    "ICAO": "IIN",
+    "website": null,
+    "notes": "Designator H4 reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:16.244969"
+  },
+  {
+    "name": "Transportes Aereos de Cabo Verde (TACV)",
+    "IATA": "VR",
+    "ICAO": "TCV",
+    "website": "www.flytacv.com",
+    "notes": "Name changed to Transportes Aereos de Cabo Verde (TACV) d/b/a Cabo Verde Airlines in May 2018. Designator VR reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:16.244986"
+  },
+  {
+    "name": "Transportes Interilhas de Cabo Verde, Sociedade Unipessoal, SA. TICV",
+    "IATA": "3B",
+    "ICAO": "NTB",
+    "website": "www.binter.cv",
+    "notes": "ICAO designator changed to BCV. ICAO callsign changed to Morabest. Name changed from Binter Cabo Verde",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:16.245003"
+  }
+]

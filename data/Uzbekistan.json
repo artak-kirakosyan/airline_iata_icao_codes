@@ -1,0 +1,245 @@
+[
+  {
+    "name": "OOO \"Sam Air\" d/b/a Air Samarkand",
+    "IATA": null,
+    "ICAO": null,
+    "website": "airsamarkand.con/en",
+    "notes": "Planned start up with A330-300, A321-200 and A320-200",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:41.603993"
+  },
+  {
+    "name": "Air Tashkent",
+    "IATA": null,
+    "ICAO": "ATT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:41.604023"
+  },
+  {
+    "name": "Asia Union Airlines JV LLC",
+    "IATA": null,
+    "ICAO": "AUV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:41.604041"
+  },
+  {
+    "name": "Avialeasing Aviation Company",
+    "IATA": "V2",
+    "ICAO": "TWN",
+    "website": "www.avialeasing.biz",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:41.604061"
+  },
+  {
+    "name": "Humo Air",
+    "IATA": null,
+    "ICAO": "USW",
+    "website": "humoair.uz",
+    "notes": "Low cost subsidary of Uzbekistan Airways. Name changed from Special Aviation Works (SAW)",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:41.604080"
+  },
+  {
+    "name": "My Freighter Airlines",
+    "IATA": "C6",
+    "ICAO": "MFX",
+    "website": "myf.global",
+    "notes": "IATA Designator changed from MF*.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:41.604096"
+  },
+  {
+    "name": "Panorama Airways Limited Liability Company",
+    "IATA": "5P",
+    "ICAO": "UZP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:41.604114"
+  },
+  {
+    "name": "Limited Liability Company Qanot Sharq",
+    "IATA": "HH",
+    "ICAO": "QNT",
+    "website": "www.qanotsharq.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:41.604131"
+  },
+  {
+    "name": "Silk Avia LLC",
+    "IATA": "US",
+    "ICAO": "USA",
+    "website": "www.silk-avia.com",
+    "notes": "Commenced operations on 21 April 2023",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:41.604147"
+  },
+  {
+    "name": "Tashkentair, LLC",
+    "IATA": null,
+    "ICAO": "TSK",
+    "website": null,
+    "notes": "Commenced operations on 23 September 2023. 1 x A330-200 Pax/Frieghter.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:41.604163"
+  },
+  {
+    "name": "UZ Aero Tech Group",
+    "IATA": null,
+    "ICAO": "UAT",
+    "website": "uatgroup.uz",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:41.604178"
+  },
+  {
+    "name": "Uzbekistan Airways Joint Stock Company",
+    "IATA": "HY",
+    "ICAO": "UZB",
+    "website": "www.uzairways.com",
+    "notes": "Name changed from Uzbekistan Havo Yullary - Uzbekistan Airways.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:41.604195"
+  },
+  {
+    "name": "Avialeasing Aviation Company",
+    "IATA": null,
+    "ICAO": "TWN",
+    "website": "www.avialeasing.com",
+    "notes": "IATA designator changed to EC",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:41.604211"
+  },
+  {
+    "name": "Avialeasing Aviation Company",
+    "IATA": "EC",
+    "ICAO": "TWN",
+    "website": "www.avialeasing.com",
+    "notes": "Designator EC recalled by IATA. IATA designator changed from AD*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:41.604228"
+  },
+  {
+    "name": "Inter-Cargo Service",
+    "IATA": null,
+    "ICAO": "ICF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:41.604243"
+  },
+  {
+    "name": "My Freighter Airlines",
+    "IATA": null,
+    "ICAO": "MFX",
+    "website": "myf.global",
+    "notes": "IATA Designator changed to C6.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:41.604259"
+  },
+  {
+    "name": "Closed Joint Stock Company Samarkand Airways",
+    "IATA": "C7",
+    "ICAO": "UZS",
+    "website": "www.samarkandair.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:41.604274"
+  },
+  {
+    "name": "Air Company LLC Silk Road Cargo Business",
+    "IATA": null,
+    "ICAO": "URS",
+    "website": "silkroadcargo.uz",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:41.604290"
+  },
+  {
+    "name": "Simurg, Joint-Stock Company Radio Electronic Plant",
+    "IATA": null,
+    "ICAO": "JRP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:41.604306"
+  },
+  {
+    "name": "Special Aviation Works (SAW)",
+    "IATA": null,
+    "ICAO": "USW",
+    "website": null,
+    "notes": "Name changed to Humo Air",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:41.604323"
+  },
+  {
+    "name": "Tapc Aviatrans Aircompany",
+    "IATA": null,
+    "ICAO": "UTM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:41.604338"
+  },
+  {
+    "name": "Tapoavia",
+    "IATA": null,
+    "ICAO": "TPR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:41.604353"
+  },
+  {
+    "name": "Tashkent Aircraft Production Corporation",
+    "IATA": null,
+    "ICAO": "CTP",
+    "website": null,
+    "notes": "IATA designator changed to 4C*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:41.604369"
+  },
+  {
+    "name": "Tashkent Aircraft Production Corporation",
+    "IATA": null,
+    "ICAO": "CTP",
+    "website": null,
+    "notes": "IATA designator changed from PQ*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:41.604384"
+  },
+  {
+    "name": "Tashkent Aircraft Production Corporation",
+    "IATA": null,
+    "ICAO": "CTP",
+    "website": null,
+    "notes": "IATA designator changed from PQ*, then to 4C*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:41.604400"
+  },
+  {
+    "name": "Uzavialeasing",
+    "IATA": null,
+    "ICAO": "UZL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:41.604416"
+  },
+  {
+    "name": "Uzbekistan Havo Yullary - Uzbekistan Airways",
+    "IATA": "HY",
+    "ICAO": "UZB",
+    "website": "www.uzairways.com",
+    "notes": "Name changed to Uzbekistan Airways Joint Stock Company.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:41.604431"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Norfolk Island Airlines",
+    "IATA": null,
+    "ICAO": "BNY",
+    "website": "www.norfolkairlines.com.au",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:58.604876"
+  },
+  {
+    "name": "The Administration of Norfolk Island d/b/a Norfolk Air",
+    "IATA": "N5",
+    "ICAO": null,
+    "website": "www.norfolkair.com",
+    "notes": "Commenced operations in May 2006. Ceased opeations on 26 February 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:58.604906"
+  }
+]

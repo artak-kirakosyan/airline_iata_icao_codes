@@ -1,0 +1,299 @@
+[
+  {
+    "name": "Astra Airways Limited d/b/a Air Astra",
+    "IATA": "2A",
+    "ICAO": "AWA",
+    "website": "airastra.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:51.121934"
+  },
+  {
+    "name": "Air Galaxy Limited",
+    "IATA": null,
+    "ICAO": "AGL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:51.121962"
+  },
+  {
+    "name": "Air Parabat Ltd.",
+    "IATA": null,
+    "ICAO": "PBT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:51.121979"
+  },
+  {
+    "name": "Arirang Aviation Limited",
+    "IATA": null,
+    "ICAO": "MGP",
+    "website": "www.arirangaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:51.121995"
+  },
+  {
+    "name": "Biman Bangladesh Airlines",
+    "IATA": "BG",
+    "ICAO": "BBC",
+    "website": "biman-airlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:51.122011"
+  },
+  {
+    "name": "Bismillah Airlines Ltd.",
+    "IATA": "BH",
+    "ICAO": "BML",
+    "website": "www.bismillahairlines.net",
+    "notes": "Designator 5Z recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:51.122028"
+  },
+  {
+    "name": "Easy Fly Express Limited",
+    "IATA": null,
+    "ICAO": "EFX",
+    "website": "easyfly-express.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:51.122043"
+  },
+  {
+    "name": "Novoair Limited",
+    "IATA": "VQ",
+    "ICAO": "NVQ",
+    "website": "www.flynovoair.com",
+    "notes": "Founded\t2012. Commenced operationon 09 February 2013.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:51.122060"
+  },
+  {
+    "name": "NXT Air Limited",
+    "IATA": null,
+    "ICAO": "NXA",
+    "website": "nxtaircargo.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:51.122076"
+  },
+  {
+    "name": "HG Aviation Limited",
+    "IATA": null,
+    "ICAO": "RGE",
+    "website": "www.flyregent.com",
+    "notes": "Designator RX recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:51.122092"
+  },
+  {
+    "name": "Sky Capital Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "AHW",
+    "website": "skycapitalcargo.com",
+    "notes": "Founded in 2009. Commenced operations on 26 January 2010.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:51.122109"
+  },
+  {
+    "name": "South Asian Airlines Ltd. (SAAL)",
+    "IATA": null,
+    "ICAO": "BDS",
+    "website": "www.southasian-airlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:51.122125"
+  },
+  {
+    "name": "US-Bangla Airlines Limited",
+    "IATA": "BS",
+    "ICAO": "UBG",
+    "website": "www.us-banglaairlines.com",
+    "notes": "Founded in 2013. Commenced operations on 17 July 2014.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:51.122142"
+  },
+  {
+    "name": "Z-Airways & Services Ltd.",
+    "IATA": null,
+    "ICAO": "ZAW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:51.122158"
+  },
+  {
+    "name": "Air Bangladesh (Pvt.) Limited",
+    "IATA": null,
+    "ICAO": "BGD",
+    "website": null,
+    "notes": "Founded in 1997.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:51.122174"
+  },
+  {
+    "name": "Bay Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "BAV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:51.122189"
+  },
+  {
+    "name": "Best Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "BEA",
+    "website": "www.bestairbd.com",
+    "notes": "Founded in 2007. Ceased operations in 2009.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:51.122206"
+  },
+  {
+    "name": "Bismillah Airlines Ltd.",
+    "IATA": "5Z",
+    "ICAO": "BML",
+    "website": "www.bismillahairlines.net",
+    "notes": "Designator 5Z recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:51.122222"
+  },
+  {
+    "name": "Budget Air Bangladesh Ltd",
+    "IATA": null,
+    "ICAO": "BGR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:51.122241"
+  },
+  {
+    "name": "GMG Airlines Ltd.",
+    "IATA": "Z5",
+    "ICAO": "GMG",
+    "website": "www.gmggroup.com",
+    "notes": "Founded in 1997. Commenced operations on 06 April 1998. Ceased operations in 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:51.122257"
+  },
+  {
+    "name": "Hello Airlines Limited",
+    "IATA": "H3",
+    "ICAO": null,
+    "website": null,
+    "notes": "IPSSL Group",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:51.122273"
+  },
+  {
+    "name": "MGH Global Airlines Limited",
+    "IATA": null,
+    "ICAO": "MGH",
+    "website": "www.mghgroup.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:51.122289"
+  },
+  {
+    "name": "HG Aviation Limited",
+    "IATA": "RX",
+    "ICAO": "RGE",
+    "website": "www.flyregent.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:51.122305"
+  },
+  {
+    "name": "R B Airline UK Ltd/Aviana Airways Ltd operating as Royal Bengal Airlines",
+    "IATA": "4A",
+    "ICAO": "RRY",
+    "website": "www.royalbengalairline.com",
+    "notes": "Founded in 2006. Commenced commercial operations on 31 January 2008.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:51.122322"
+  },
+  {
+    "name": "Sky Capital Airlines Ltd",
+    "IATA": null,
+    "ICAO": "AHW",
+    "website": "www.skycapitalairlines.com",
+    "notes": "Founded in 2009.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:51.122337"
+  },
+  {
+    "name": "Sky Capital Airlines Ltd. t/a SkyAir",
+    "IATA": null,
+    "ICAO": "AHW",
+    "website": "skycapitalcargo.com",
+    "notes": "Designator S8* recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:51.122355"
+  },
+  {
+    "name": "South Asia Airways",
+    "IATA": "6M",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator 6M recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:51.122371"
+  },
+  {
+    "name": "South Asian Airlines Ltd. (SAAL)",
+    "IATA": null,
+    "ICAO": "BDS",
+    "website": "www.southasian-airlines.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:51.122387"
+  },
+  {
+    "name": "THT Air Services (Pvt) Ltd",
+    "IATA": null,
+    "ICAO": "TAF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:51.122402"
+  },
+  {
+    "name": "True Aviation Limited",
+    "IATA": "7B",
+    "ICAO": "TUB",
+    "website": "www.trueaviationbd.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:51.122423"
+  },
+  {
+    "name": "United Airways Bangladesh Ltd",
+    "IATA": "4H",
+    "ICAO": "UBD",
+    "website": "www.uabdl.com",
+    "notes": "Founded in 2005. Commenced operations on 10 July 2007. Ceased operations on 06 March 2016.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:51.122439"
+  },
+  {
+    "name": "Voyager Airlines Ltd",
+    "IATA": null,
+    "ICAO": "VOG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:51.122454"
+  },
+  {
+    "name": "Zoom Airways Limited",
+    "IATA": null,
+    "ICAO": "XAW",
+    "website": "www.zoomairways.net",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:51.122472"
+  }
+]

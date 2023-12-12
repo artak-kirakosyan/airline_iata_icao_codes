@@ -1,0 +1,839 @@
+[
+  {
+    "name": "Air Arabia Egypt",
+    "IATA": "E5",
+    "ICAO": "RBG",
+    "website": "www.airarabia.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.091805"
+  },
+  {
+    "name": "Air Cairo",
+    "IATA": "SM",
+    "ICAO": "MSC",
+    "website": "flyaircairo.com",
+    "notes": "IATA designator changed to SM. Founded in 2003",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.091851"
+  },
+  {
+    "name": "Air Go Egypt",
+    "IATA": null,
+    "ICAO": "AGY",
+    "website": null,
+    "notes": "Designator EO recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.091876"
+  },
+  {
+    "name": "Air Master",
+    "IATA": null,
+    "ICAO": "RMX",
+    "website": "airmasteregypt.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.091900"
+  },
+  {
+    "name": "Air Memphis",
+    "IATA": null,
+    "ICAO": "MHS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.091921"
+  },
+  {
+    "name": "Egypt Air Holding Company d/b/a Air Sphinx",
+    "IATA": null,
+    "ICAO": "ASD",
+    "website": null,
+    "notes": "Name chanegd from Air Sinai. IATA Accounting and Prefix code recalled.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.091943"
+  },
+  {
+    "name": "airmaster Egypt",
+    "IATA": null,
+    "ICAO": null,
+    "website": "airmasteregypt.com",
+    "notes": "Planned start up with 1 x 737-800 SU-SFY.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.091964"
+  },
+  {
+    "name": "Ajwaa Airlines",
+    "IATA": null,
+    "ICAO": "AJY",
+    "website": "www.ajwaaairlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.091990"
+  },
+  {
+    "name": "Al Ahram Aviation",
+    "IATA": null,
+    "ICAO": "LHR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092009"
+  },
+  {
+    "name": "Alexandria Airlines",
+    "IATA": "DQ",
+    "ICAO": "KHH",
+    "website": "www.alexandriaairlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092027"
+  },
+  {
+    "name": "Alkan Air",
+    "IATA": null,
+    "ICAO": "ALN",
+    "website": "www.alkanair.com.eg",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092046"
+  },
+  {
+    "name": "Almasria Universal Airlines",
+    "IATA": "UJ",
+    "ICAO": "LMU",
+    "website": "www.almasriaairlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092064"
+  },
+  {
+    "name": "Aircraft Maintenance Company (AMC Airlines)",
+    "IATA": null,
+    "ICAO": "AMV",
+    "website": "www.amcairlines.com",
+    "notes": "Founded in 1992 Name changed from Aircraft Maintenance Company (AMC Aviation) during 2004. Designator MZ* recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092087"
+  },
+  {
+    "name": "Anka Aviation Cargo",
+    "IATA": null,
+    "ICAO": "NKA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092108"
+  },
+  {
+    "name": "Cairo Air Transport Company (Cairo Aviation)",
+    "IATA": null,
+    "ICAO": "CCE",
+    "website": "cairoaviation.com.eg",
+    "notes": "Designator OE recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092127"
+  },
+  {
+    "name": "CIAF Leasing",
+    "IATA": null,
+    "ICAO": "CIL",
+    "website": "ciafleasing.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092148"
+  },
+  {
+    "name": "Cloepatra Aviation",
+    "IATA": null,
+    "ICAO": "CLN",
+    "website": "www.cloepatraaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092168"
+  },
+  {
+    "name": "Cobra Jet Aviation",
+    "IATA": null,
+    "ICAO": "COB",
+    "website": "cobrajet.org",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092186"
+  },
+  {
+    "name": "Egyptair",
+    "IATA": "MS",
+    "ICAO": "MSR",
+    "website": "www.egyptair.com.eg",
+    "notes": "Name changed from United Arab Airlines (UAA). ICAO designator changed form EGY",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092206"
+  },
+  {
+    "name": "Egyptair Cargo",
+    "IATA": null,
+    "ICAO": "MSX",
+    "website": "www.egyptair-cargo.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092225"
+  },
+  {
+    "name": "Egyptian Air Force",
+    "IATA": null,
+    "ICAO": "EGY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092253"
+  },
+  {
+    "name": "Egyptian Aviation",
+    "IATA": null,
+    "ICAO": "EJX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092273"
+  },
+  {
+    "name": "Egyptian Aviation Academy",
+    "IATA": null,
+    "ICAO": "FMF",
+    "website": "www.eaaegypt.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092295"
+  },
+  {
+    "name": "Egyptian Aviation Company",
+    "IATA": null,
+    "ICAO": "EMA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092317"
+  },
+  {
+    "name": "Egyptian Leisure Airlines",
+    "IATA": null,
+    "ICAO": "ELU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092336"
+  },
+  {
+    "name": "Euro Mediterranean Airlines",
+    "IATA": null,
+    "ICAO": "EUD",
+    "website": null,
+    "notes": "Part of Air Italy Group",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092356"
+  },
+  {
+    "name": "flyegypt",
+    "IATA": "FT",
+    "ICAO": "FEG",
+    "website": "www.flyegypt.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092375"
+  },
+  {
+    "name": "Harty Aviation",
+    "IATA": null,
+    "ICAO": "HAO",
+    "website": "www.hartyaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092393"
+  },
+  {
+    "name": "International Air Cargo Corporation (IACC)",
+    "IATA": null,
+    "ICAO": "IAK",
+    "website": null,
+    "notes": "Desginator CC recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092412"
+  },
+  {
+    "name": "Lojy Air",
+    "IATA": null,
+    "ICAO": "LOJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092429"
+  },
+  {
+    "name": "Legend of the Nile Aviation",
+    "IATA": null,
+    "ICAO": "LON",
+    "website": "www.legendaviation.org",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092447"
+  },
+  {
+    "name": "Lotus Airline",
+    "IATA": null,
+    "ICAO": "TAS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092463"
+  },
+  {
+    "name": "Luxor Air",
+    "IATA": null,
+    "ICAO": "LXO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092479"
+  },
+  {
+    "name": "Mediterranean Airways",
+    "IATA": null,
+    "ICAO": "MDY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092499"
+  },
+  {
+    "name": "Misr Overseas Airways",
+    "IATA": null,
+    "ICAO": "MOS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092518"
+  },
+  {
+    "name": "National Aviation Company",
+    "IATA": null,
+    "ICAO": "GTY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092544"
+  },
+  {
+    "name": "National Overseas Airlines Company",
+    "IATA": null,
+    "ICAO": "NOL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092565"
+  },
+  {
+    "name": "Nesma Airlines Company Ltd.",
+    "IATA": "NA",
+    "ICAO": "NMA",
+    "website": "www.nesmaairlines.com",
+    "notes": "Commenced operations on on 18 July 2010. IATA Accounting Code 646 recalled.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092589"
+  },
+  {
+    "name": "Nile Air",
+    "IATA": "NP",
+    "ICAO": "NIA",
+    "website": "www.nileair.com",
+    "notes": "ICAO callsign changed from Hapi Air",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092613"
+  },
+  {
+    "name": "Orca Air",
+    "IATA": null,
+    "ICAO": "ORK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092634"
+  },
+  {
+    "name": "Orscom Tourist Installations Company",
+    "IATA": null,
+    "ICAO": "OAD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092655"
+  },
+  {
+    "name": "Petroleum Air Services",
+    "IATA": "UF",
+    "ICAO": "PER",
+    "website": "www.pas.com.eg",
+    "notes": "The airline was established and started operations in 1982",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092676"
+  },
+  {
+    "name": "Pyramid Air Lines",
+    "IATA": null,
+    "ICAO": "PYR",
+    "website": null,
+    "notes": "Designator UX recalled by IATA.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092700"
+  },
+  {
+    "name": "Raslan Air Service",
+    "IATA": null,
+    "ICAO": "MWR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092721"
+  },
+  {
+    "name": "Rea Sea Aviation",
+    "IATA": null,
+    "ICAO": "RDV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092740"
+  },
+  {
+    "name": "Red Sea Airlines",
+    "IATA": "4S",
+    "ICAO": "RSX",
+    "website": "redseaairlines.com",
+    "notes": "IATA designator changed tfrom RS*.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092762"
+  },
+  {
+    "name": "Sky Bird Airlines",
+    "IATA": null,
+    "ICAO": "SBL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092779"
+  },
+  {
+    "name": "Sky Vision Airlines Co.",
+    "IATA": null,
+    "ICAO": "SVI",
+    "website": "www.skyvisionairline.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092796"
+  },
+  {
+    "name": "Smart Aviation Company",
+    "IATA": null,
+    "ICAO": "SME",
+    "website": "www.smartaviation.com.eg",
+    "notes": "Designator M4 recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092817"
+  },
+  {
+    "name": "Sun Air",
+    "IATA": null,
+    "ICAO": "SUR",
+    "website": "www.sunair-eg.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092838"
+  },
+  {
+    "name": "Tristar Air",
+    "IATA": null,
+    "ICAO": "TSY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092862"
+  },
+  {
+    "name": "Zas Air",
+    "IATA": null,
+    "ICAO": "AZJ",
+    "website": "www.zasair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:56.092881"
+  },
+  {
+    "name": "Air Cairo",
+    "IATA": "CE",
+    "ICAO": "MSC",
+    "website": null,
+    "notes": "IATA designator changed to SM. Founded in 2003",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.092902"
+  },
+  {
+    "name": "Air Freight Egypt",
+    "IATA": "CC",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.092924"
+  },
+  {
+    "name": "Air Go Egypt",
+    "IATA": "EO",
+    "ICAO": "AGY",
+    "website": null,
+    "notes": "Designator EO recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.092946"
+  },
+  {
+    "name": "Air Leisure Egypt",
+    "IATA": null,
+    "ICAO": "ALD",
+    "website": "www.airleisure.org",
+    "notes": "Suspended operations on 22 October 2018. Founded in 2014.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.092969"
+  },
+  {
+    "name": "Air Sinai",
+    "IATA": "DP",
+    "ICAO": "ASD",
+    "website": null,
+    "notes": "Designator DP recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.092991"
+  },
+  {
+    "name": "Egypt Air Holding Company d/b/a Air Sinai",
+    "IATA": "4D",
+    "ICAO": "ASD",
+    "website": null,
+    "notes": "Name chanegd to Air Sphinx. IATA Accounting and Prefix code recalled.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.093015"
+  },
+  {
+    "name": "Egypt Air Holding Company d/b/a Air Sinai",
+    "IATA": "4D",
+    "ICAO": "ASD",
+    "website": null,
+    "notes": "Designator 4D recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.093037"
+  },
+  {
+    "name": "Al Farana Airline",
+    "IATA": null,
+    "ICAO": "PHR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.093059"
+  },
+  {
+    "name": "Aleem",
+    "IATA": null,
+    "ICAO": "LEM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.093079"
+  },
+  {
+    "name": "Aircraft Maintenance Company (AMC Airlines)",
+    "IATA": null,
+    "ICAO": "AMV",
+    "website": "www.amcairlines.com",
+    "notes": "Founded in 1992 Name changed from Aircraft Maintenance Company (AMC Aviation) during 2004. Designator MZ* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.093102"
+  },
+  {
+    "name": "Aircraft Maintenance Company (AMC Aviation)",
+    "IATA": null,
+    "ICAO": "AMV",
+    "website": "www.amcairlines.com",
+    "notes": "Founded in 1992. Name changed to Aircraft Maintenance Company (AMC Airlines) during 2004. Designator MZ* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.093126"
+  },
+  {
+    "name": "Arab Agricultural Aviation Company",
+    "IATA": null,
+    "ICAO": "AGC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.093146"
+  },
+  {
+    "name": "Arab International Aviation Company",
+    "IATA": "KK",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.093165"
+  },
+  {
+    "name": "Aviator Aviation",
+    "IATA": "T9",
+    "ICAO": "AVV",
+    "website": "www.fly-aviator.com",
+    "notes": "Founded on 14 January 2015.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.093188"
+  },
+  {
+    "name": "Cairo Air Transport Company (Cairo Aviation)",
+    "IATA": "OE",
+    "ICAO": "CCE",
+    "website": "cairoaviation.com.eg",
+    "notes": "Designator OE recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.093211"
+  },
+  {
+    "name": "Egypt Air",
+    "IATA": "MS",
+    "ICAO": "EGY",
+    "website": null,
+    "notes": "Name changed to Egyptair. ICAO designator changed to MSR. Name changed from United Arab Airlines (UAA)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.093232"
+  },
+  {
+    "name": "Flash Airlines",
+    "IATA": null,
+    "ICAO": "FSH",
+    "website": "www.flashtour.com/airlines.htm",
+    "notes": "Ceased operations in March 2004. Name changed from Heliopolis Airline during 2000.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.093252"
+  },
+  {
+    "name": "Heliopolis Airline",
+    "IATA": null,
+    "ICAO": "HEP",
+    "website": null,
+    "notes": "Name changed to Flash Airlines (7K/FSH) during 2000.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.093273"
+  },
+  {
+    "name": "International Air Cargo Corporation (IACC)",
+    "IATA": "CC",
+    "ICAO": "IAK",
+    "website": null,
+    "notes": "Desginator CC recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.093294"
+  },
+  {
+    "name": "KoralBlue Airlines",
+    "IATA": "K7",
+    "ICAO": "KBR",
+    "website": "www.flykoralblue.com",
+    "notes": "Ceased operations 2011",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.093314"
+  },
+  {
+    "name": "Lotus Airways",
+    "IATA": "UX",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator UX recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.093335"
+  },
+  {
+    "name": "Midwest Airlines",
+    "IATA": null,
+    "ICAO": "MWA",
+    "website": "www.mwestairlines.com",
+    "notes": "Designator MY* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.093356"
+  },
+  {
+    "name": "Mina Airline Company",
+    "IATA": null,
+    "ICAO": "NAB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.093376"
+  },
+  {
+    "name": "Misr Air",
+    "IATA": "MU",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.093396"
+  },
+  {
+    "name": "Nefertiti Aviation",
+    "IATA": "VZ",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.093416"
+  },
+  {
+    "name": "Nile Air",
+    "IATA": "NP",
+    "ICAO": "NIA",
+    "website": "www.nileair.com",
+    "notes": "ICAO callsign changed to Nile Bird",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.093438"
+  },
+  {
+    "name": "Nile Air",
+    "IATA": "NE",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.093458"
+  },
+  {
+    "name": "Nile Valley Aviation Company",
+    "IATA": "VV",
+    "ICAO": "VVC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.093476"
+  },
+  {
+    "name": "Nile Valley Aviation Company",
+    "IATA": null,
+    "ICAO": "NVA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.093496"
+  },
+  {
+    "name": "Pharaoh Airlines",
+    "IATA": null,
+    "ICAO": "PHR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.093523"
+  },
+  {
+    "name": "Pyramid Air Lines",
+    "IATA": "UX",
+    "ICAO": "PYR",
+    "website": null,
+    "notes": "Designator UX recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.093562"
+  },
+  {
+    "name": "Red Sea Airlines",
+    "IATA": null,
+    "ICAO": "RSX",
+    "website": "redseaairlines.com",
+    "notes": "IATA designator changed to 4S.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.093607"
+  },
+  {
+    "name": "Saber Airlines",
+    "IATA": null,
+    "ICAO": "SIS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.093649"
+  },
+  {
+    "name": "Scorpio Aviation",
+    "IATA": null,
+    "ICAO": "SCP",
+    "website": "www.scorpioaviation.com.eg",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.093689"
+  },
+  {
+    "name": "Shorouk Air",
+    "IATA": "7Q",
+    "ICAO": "SHK",
+    "website": null,
+    "notes": "Suspended operations on 13 July 2003.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.093747"
+  },
+  {
+    "name": "Smart Aviation Company",
+    "IATA": "M4",
+    "ICAO": "SME",
+    "website": "www.smartaviation.com.eg",
+    "notes": "Designator M4 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.093771"
+  },
+  {
+    "name": "The Medina Aviation Company",
+    "IATA": "TO",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.093791"
+  },
+  {
+    "name": "Transmed Airlines",
+    "IATA": null,
+    "ICAO": "TMD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.093810"
+  },
+  {
+    "name": "Tropican Air Services",
+    "IATA": null,
+    "ICAO": "TCA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.093832"
+  },
+  {
+    "name": "United Arab Airlines (UAA)",
+    "IATA": "MS",
+    "ICAO": null,
+    "website": null,
+    "notes": "Name changed to Egypt Air",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.093852"
+  },
+  {
+    "name": "ZAS Airlines Of Egypt",
+    "IATA": "ZA",
+    "ICAO": "ZAS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:56.093869"
+  }
+]

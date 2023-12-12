@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Khazar",
+    "IATA": null,
+    "ICAO": "KHR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:24.752753"
+  },
+  {
+    "name": "Lebap",
+    "IATA": null,
+    "ICAO": "LEB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:24.752780"
+  },
+  {
+    "name": "Government of Turkmenistan",
+    "IATA": null,
+    "ICAO": "TUG",
+    "website": "caa.gov.tm",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:24.752797"
+  },
+  {
+    "name": "Turkmenistan Airlines",
+    "IATA": "T5",
+    "ICAO": "TUA",
+    "website": "turkmenistanairlines.tm",
+    "notes": "Designator T5 reinstated by IATA. ICAO designator changed from AKH",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:24.752815"
+  },
+  {
+    "name": "Akhal - Turkmenistan Airlines",
+    "IATA": "T5",
+    "ICAO": "AKH",
+    "website": null,
+    "notes": "ICAO designator changed to TUA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:24.752832"
+  }
+]

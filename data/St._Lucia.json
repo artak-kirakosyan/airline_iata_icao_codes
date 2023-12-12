@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Helenair Corporation Limited",
+    "IATA": null,
+    "ICAO": "HCL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:56.457605"
+  },
+  {
+    "name": "St. Lucia Helicopters",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.stluciahelicopters.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:56.457634"
+  },
+  {
+    "name": "Caribbean Skyways St. Lucia Express",
+    "IATA": "SL",
+    "ICAO": "CSC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:56.457651"
+  },
+  {
+    "name": "Winlink (St. Lucia) Limited",
+    "IATA": null,
+    "ICAO": "WIN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:56.457667"
+  }
+]

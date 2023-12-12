@@ -1,0 +1,209 @@
+[
+  {
+    "name": "Bamboo Airways Joint Company Limited",
+    "IATA": "QH",
+    "ICAO": "BAV",
+    "website": "www.bambooairways.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:46.438113"
+  },
+  {
+    "name": "Bkue Sky Airways Joint Stock Company",
+    "IATA": null,
+    "ICAO": "BSF",
+    "website": "www.blueskyairways.vn",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:46.438147"
+  },
+  {
+    "name": "Hai Au Aviation Joint Stock Company",
+    "IATA": null,
+    "ICAO": "HAI",
+    "website": "www.haiauaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:46.438165"
+  },
+  {
+    "name": "Pacific Airlines Co. Ltd.",
+    "IATA": "BL",
+    "ICAO": "PIC",
+    "website": "www.pacificairlines.com.vn",
+    "notes": "Name changed from Jetstar Pacific Airlines Co. Ltd. and previously from Pacific Airlines Co. Ltd. w.e.f. 23 May 2008.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:46.438182"
+  },
+  {
+    "name": "Sun Air Limited Liability Company",
+    "IATA": null,
+    "ICAO": "SAV",
+    "website": null,
+    "notes": "Subsidiary of Sun Group.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:46.438198"
+  },
+  {
+    "name": "Vietnam Air Service Company - Vasco",
+    "IATA": null,
+    "ICAO": "VFC",
+    "website": "www.vasco.com.vn",
+    "notes": "Designator 0V* reinstated by IATA.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:46.438214"
+  },
+  {
+    "name": "Vietjet Aviation Joint Stock Company",
+    "IATA": "VJ",
+    "ICAO": "VJC",
+    "website": "www.vietjetair.com",
+    "notes": "Commenced Operations on 25 December 2011.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:46.438231"
+  },
+  {
+    "name": "Vietnam Airlines Corporation",
+    "IATA": "VN",
+    "ICAO": "HVN",
+    "website": "www.vietnamairlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:46.438246"
+  },
+  {
+    "name": "Vietnam Travel Airlines Joint stock company d/b/a Vietravel Airlines",
+    "IATA": "VU",
+    "ICAO": "VAG",
+    "website": "vietravelairlines.vn",
+    "notes": "Founded on 12 February 2019.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:46.438262"
+  },
+  {
+    "name": "Vietstar Airline Corp (Vietstar Airlines Multirole Corporation)",
+    "IATA": null,
+    "ICAO": "VSM",
+    "website": "vietstarairlines.vn",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:46.438278"
+  },
+  {
+    "name": "Vietstar Airlines",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.vietstarairlines.vn",
+    "notes": "Planned startup in Q1 2017",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:46.438294"
+  },
+  {
+    "name": "Mekong Aviation JSC (Air Mekong)",
+    "IATA": "P8",
+    "ICAO": "MKG",
+    "website": "www.airmekong.vn",
+    "notes": "Ceased operations on 01 March 2013. AOC revoked January 2015. ICAO callsign changed from Mekong",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:46.438311"
+  },
+  {
+    "name": "Mekong Aviation JSC (Air Mekong)",
+    "IATA": "P8",
+    "ICAO": "MKG",
+    "website": "www.airmekong.vn",
+    "notes": "ICAO callsign changed to Air Mekong",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:46.438328"
+  },
+  {
+    "name": "Air Saigon",
+    "IATA": null,
+    "ICAO": "SGA",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:46.438346"
+  },
+  {
+    "name": "Air Speed Up",
+    "IATA": null,
+    "ICAO": "AXC",
+    "website": "www.airspeedup.vn",
+    "notes": "Name changed to Indochina Airlines Joint Sotck Company",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:46.438362"
+  },
+  {
+    "name": "Hang Khong Veitnam",
+    "IATA": "VN",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:46.438377"
+  },
+  {
+    "name": "Indochina Airlines Joint Sotck Company",
+    "IATA": null,
+    "ICAO": "AXC",
+    "website": "www.indochinaairlines.vn",
+    "notes": "Name changed from Air Speed Up",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:46.438393"
+  },
+  {
+    "name": "Jetstar Pacific Airlines Co. Ltd.",
+    "IATA": "BL",
+    "ICAO": "PIC",
+    "website": "www.jetstar.com",
+    "notes": "Name changed to Pacific Airlines Co. Ltd. Name changed from Pacific Airlines Co. Ltd. w.e.f. 23 May 2008.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:46.438415"
+  },
+  {
+    "name": "Pacific Airlines Co. Ltd.",
+    "IATA": "BL",
+    "ICAO": "PIC",
+    "website": "www.pacificairlines.com.vn",
+    "notes": "Name changed to Jetstar Pacific w.e.f. 23 May 2008.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:46.438434"
+  },
+  {
+    "name": "Soci\u00e9t\u00e9 Aigle Azur Indochine",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:46.438449"
+  },
+  {
+    "name": "Soci\u00e9t\u00e9 de Transports A\u00e9riens en Extr\u00eame-Orient",
+    "IATA": "ST",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:46.438464"
+  },
+  {
+    "name": "Vietnam Air Service Company - Vasco",
+    "IATA": null,
+    "ICAO": "VFC",
+    "website": "www.vasco.com.vn",
+    "notes": "Designator 0V* recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:46.438481"
+  },
+  {
+    "name": "Vietnam Air Transport (VIAT)",
+    "IATA": "VX",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:46.438496"
+  }
+]

@@ -1,0 +1,605 @@
+[
+  {
+    "name": "Aban Air",
+    "IATA": null,
+    "ICAO": "ABE",
+    "website": "www.abanair.com",
+    "notes": "Designator K5 recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784270"
+  },
+  {
+    "name": "Air Macran",
+    "IATA": null,
+    "ICAO": "AMH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784305"
+  },
+  {
+    "name": "Air1Air",
+    "IATA": null,
+    "ICAO": "INA",
+    "website": "en.air1air.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784326"
+  },
+  {
+    "name": "Alborz Air",
+    "IATA": null,
+    "ICAO": "ALR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784344"
+  },
+  {
+    "name": "Aram Airline",
+    "IATA": null,
+    "ICAO": "IRW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784361"
+  },
+  {
+    "name": "Aria Tour",
+    "IATA": null,
+    "ICAO": "IRX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784382"
+  },
+  {
+    "name": "Arvand Airlines",
+    "IATA": null,
+    "ICAO": "IRD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784400"
+  },
+  {
+    "name": "Asa Jet Airlines",
+    "IATA": null,
+    "ICAO": "SJT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784417"
+  },
+  {
+    "name": "ATA Airlines",
+    "IATA": null,
+    "ICAO": "TBZ",
+    "website": "www.ataair.ir",
+    "notes": "Established in 2009. Designator I3 recalled by IATA.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784435"
+  },
+  {
+    "name": "Atlas Aviation Group",
+    "IATA": null,
+    "ICAO": "IRH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784453"
+  },
+  {
+    "name": "Atlas Khomein Kish Air Taxi Service Co.",
+    "IATA": null,
+    "ICAO": "ATS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784470"
+  },
+  {
+    "name": "Bonyad Airlines",
+    "IATA": null,
+    "ICAO": "IRJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784488"
+  },
+  {
+    "name": "Caspian Airlines Service Company Ltd.",
+    "IATA": null,
+    "ICAO": "CPN",
+    "website": "www.caspianairlines.com",
+    "notes": "Designator IV recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784507"
+  },
+  {
+    "name": "Chabahar Airline",
+    "IATA": null,
+    "ICAO": "IRU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784525"
+  },
+  {
+    "name": "flyPersia",
+    "IATA": null,
+    "ICAO": "FPI",
+    "website": "www.flypersia.aero",
+    "notes": "Commenced operations in December 2019.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784543"
+  },
+  {
+    "name": "Iran Air - The Airline of Islamic Republic of Iran",
+    "IATA": "IR",
+    "ICAO": "IRA",
+    "website": "www.iranair.com",
+    "notes": "Name changed from Iran National Airlines Corp. (Iran Air)",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784564"
+  },
+  {
+    "name": "Iran Airtour Airline",
+    "IATA": "B9",
+    "ICAO": "IRB",
+    "website": "www.iranairtour.ir",
+    "notes": "Name changed to Iran Air Tours Co. Desigantor B9 reinstated by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784583"
+  },
+  {
+    "name": "Iran Aseman Airline",
+    "IATA": "EP",
+    "ICAO": "IRC",
+    "website": "www.iaa.ir",
+    "notes": "Name changed from Iran Asseman Airlines",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784601"
+  },
+  {
+    "name": "Iran Helicopter Company",
+    "IATA": null,
+    "ICAO": "IHC",
+    "website": "www.ihc.me",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784618"
+  },
+  {
+    "name": "Karun Airlines",
+    "IATA": "NV",
+    "ICAO": "KRU",
+    "website": "www.karunair.ir/en",
+    "notes": "Name changed from Iranian Naft Airlines in September 2017.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784638"
+  },
+  {
+    "name": "Mahan Air",
+    "IATA": "W5",
+    "ICAO": "IRM",
+    "website": "www.mahan.aero",
+    "notes": "Name changed from Mahan Airlines.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784657"
+  },
+  {
+    "name": "Navidtec",
+    "IATA": null,
+    "ICAO": "IRI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784674"
+  },
+  {
+    "name": "Pariz Air",
+    "IATA": null,
+    "ICAO": "IRE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784692"
+  },
+  {
+    "name": "Pars Air",
+    "IATA": null,
+    "ICAO": "PRS",
+    "website": "parsair.ir",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784708"
+  },
+  {
+    "name": "Parsis",
+    "IATA": null,
+    "ICAO": "PIS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784724"
+  },
+  {
+    "name": "Pouya Air Lines",
+    "IATA": null,
+    "ICAO": "PYA",
+    "website": "www.pouyaair.com",
+    "notes": "IATA designator PY* recallled.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784741"
+  },
+  {
+    "name": "Qeshm Air",
+    "IATA": "QB",
+    "ICAO": "QSM",
+    "website": "qeshm-air.com",
+    "notes": "ICAO Designator changed from IRQ.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784759"
+  },
+  {
+    "name": "Safat Airlines",
+    "IATA": null,
+    "ICAO": "IRV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784774"
+  },
+  {
+    "name": "Saha Airlines Services",
+    "IATA": null,
+    "ICAO": "IRZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784792"
+  },
+  {
+    "name": "Sahand Airlines",
+    "IATA": null,
+    "ICAO": "IRS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784808"
+  },
+  {
+    "name": "Sepehran Airlines",
+    "IATA": "IS",
+    "ICAO": "SHI",
+    "website": "www.sepehranairlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784825"
+  },
+  {
+    "name": "Ta-Air Airline",
+    "IATA": null,
+    "ICAO": "IRF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784840"
+  },
+  {
+    "name": "Tara Air Line",
+    "IATA": null,
+    "ICAO": "IRR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784855"
+  },
+  {
+    "name": "Tehran Airline",
+    "IATA": null,
+    "ICAO": "THR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784871"
+  },
+  {
+    "name": "Toos Airlines",
+    "IATA": null,
+    "ICAO": "IRT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784886"
+  },
+  {
+    "name": "Varesh Air Lines",
+    "IATA": null,
+    "ICAO": "VRH",
+    "website": "varesh.aero/varesh-airline",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784901"
+  },
+  {
+    "name": "Varesh Airlines",
+    "IATA": null,
+    "ICAO": null,
+    "website": "vareshairline.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784918"
+  },
+  {
+    "name": "Yazd Airways",
+    "IATA": null,
+    "ICAO": "DZD",
+    "website": "yazdairways.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784934"
+  },
+  {
+    "name": "Zagros Airlines",
+    "IATA": null,
+    "ICAO": "IZG",
+    "website": "www.zagrosairlines.com",
+    "notes": "IATA Designator ZV recalled. Founded in 2005.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:43.784950"
+  },
+  {
+    "name": "Gheshm Air Lines",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.qeshmair.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:43.784966"
+  },
+  {
+    "name": "Jam Airways",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Planned startup with 1 x Boeing 737-400",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:43.784981"
+  },
+  {
+    "name": "Aban Air",
+    "IATA": "K5",
+    "ICAO": "ABE",
+    "website": "www.abanair.com",
+    "notes": "Designator K5 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:43.784998"
+  },
+  {
+    "name": "ATA Airlines",
+    "IATA": "I3",
+    "ICAO": "TBZ",
+    "website": "www.ataair.ir",
+    "notes": "Established in 2009. Designator I3 recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:43.785014"
+  },
+  {
+    "name": "Caspian Airlines Service Company Ltd.",
+    "IATA": "RV",
+    "ICAO": "CPN",
+    "website": "www.caspianairlines.com",
+    "notes": "Designator RV recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:43.785031"
+  },
+  {
+    "name": "Caspian Airlines Service Company Ltd.",
+    "IATA": "IV",
+    "ICAO": "CPN",
+    "website": "www.caspianairlines.com",
+    "notes": "Designator RV recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:43.785047"
+  },
+  {
+    "name": "Dena Airways",
+    "IATA": "D9",
+    "ICAO": "DAI",
+    "website": "denaairways.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:43.785062"
+  },
+  {
+    "name": "Eram Airlines",
+    "IATA": null,
+    "ICAO": "IRY",
+    "website": null,
+    "notes": "Name changed to Ilam Airline",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:43.785079"
+  },
+  {
+    "name": "Fars Qeshm Airlines",
+    "IATA": "QE",
+    "ICAO": "QFZ",
+    "website": "www.farsair.com",
+    "notes": "Founded in 2003. Ceased operations during 2013.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:43.785095"
+  },
+  {
+    "name": "Hesa Airlines",
+    "IATA": "H8",
+    "ICAO": "SON",
+    "website": "www.hesa.aero",
+    "notes": "Name changed to Sepahan Airlines during 2011.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:43.785111"
+  },
+  {
+    "name": "Ilam Airline",
+    "IATA": null,
+    "ICAO": "IRY",
+    "website": "www.eramair.com",
+    "notes": "Name changed from Eram Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:43.785127"
+  },
+  {
+    "name": "Iran Air Tours Co.",
+    "IATA": "B9",
+    "ICAO": "IRB",
+    "website": "www.iranairtours.com",
+    "notes": "Name changed to Iran Airtour Airline. Desigantor B9 reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:43.785144"
+  },
+  {
+    "name": "Iran Asseman Airlines",
+    "IATA": "EP",
+    "ICAO": "IRC",
+    "website": "www.iaa.ir",
+    "notes": "Name changed to Iran Aseman Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:43.785160"
+  },
+  {
+    "name": "Iran Asseman Airlines",
+    "IATA": "Y7",
+    "ICAO": null,
+    "website": null,
+    "notes": "IATA designator changed to EP",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:43.785176"
+  },
+  {
+    "name": "Iran National Airlines Corp. (Iran Air)",
+    "IATA": "IR",
+    "ICAO": "IRA",
+    "website": null,
+    "notes": "Name changed to Iran Air - The Airline of Islamic Republic of Iran",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:43.785193"
+  },
+  {
+    "name": "Iranian Naft Airlines",
+    "IATA": "NV",
+    "ICAO": "IRG",
+    "website": "www.naftairline.com",
+    "notes": "Name changed to Karun Airlines in September 2017.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:43.785209"
+  },
+  {
+    "name": "Kish Air",
+    "IATA": "Y9",
+    "ICAO": "IRK",
+    "website": "www.kishairline.com",
+    "notes": "ICAO Designator changed to KIS.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:43.785225"
+  },
+  {
+    "name": "Kish Air",
+    "IATA": "Y9",
+    "ICAO": "KIS",
+    "website": "www.kishairline.com",
+    "notes": "ICAO Designator changed from IRK.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:43.785241"
+  },
+  {
+    "name": "Mahan Airlines",
+    "IATA": "W5",
+    "ICAO": "IRM",
+    "website": "www.mahan.aero",
+    "notes": "Name changed to Mahan Air.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:43.785257"
+  },
+  {
+    "name": "Meraj Airlines",
+    "IATA": "JI",
+    "ICAO": "MRJ",
+    "website": "www.merajairlines.ir/en",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:43.785274"
+  },
+  {
+    "name": "Payam (IPTAS)",
+    "IATA": null,
+    "ICAO": "IRP",
+    "website": null,
+    "notes": "Designator 8P* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:43.785290"
+  },
+  {
+    "name": "Payam (IPTAS)",
+    "IATA": null,
+    "ICAO": "IRP",
+    "website": null,
+    "notes": "Designator 8P* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:43.785306"
+  },
+  {
+    "name": "Qeshm Air",
+    "IATA": null,
+    "ICAO": "IRQ",
+    "website": null,
+    "notes": "ICAO Designator changed to QSM.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:43.785321"
+  },
+  {
+    "name": "Safiran Airlines",
+    "IATA": null,
+    "ICAO": "SFN",
+    "website": null,
+    "notes": "Ceased operations during 2013.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:43.785337"
+  },
+  {
+    "name": "Sahand Asia Airlines",
+    "IATA": "DH",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:43.785352"
+  },
+  {
+    "name": "Sepahan Airlines",
+    "IATA": "H8",
+    "ICAO": "SPN",
+    "website": null,
+    "notes": "Founded in 2010. Ceased operations during 2014. Name changed from Hesa Airlines during 2011.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:43.785368"
+  },
+  {
+    "name": "Taban Airlines",
+    "IATA": "HH",
+    "ICAO": "TBN",
+    "website": "www.taban.aero",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:43.785385"
+  },
+  {
+    "name": "Zagros Airlines",
+    "IATA": "ZV",
+    "ICAO": "IZG",
+    "website": "zagrosairlines.com",
+    "notes": "IATA Designator ZV recalled. Founded in 2005.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:43.785401"
+  }
+]

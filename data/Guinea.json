@@ -1,0 +1,335 @@
+[
+  {
+    "name": "Africa Airlines",
+    "IATA": null,
+    "ICAO": "GIZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:29.841383"
+  },
+  {
+    "name": "Elysian Airlines",
+    "IATA": null,
+    "ICAO": "GIE",
+    "website": "www.elysianairlines.com",
+    "notes": "Designator E4 recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:29.841416"
+  },
+  {
+    "name": "Guinee Airways",
+    "IATA": null,
+    "ICAO": "GIJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:29.841436"
+  },
+  {
+    "name": "Probiuz Guinee Sarl",
+    "IATA": null,
+    "ICAO": "GIY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:29.841454"
+  },
+  {
+    "name": "Trans-Aeromax, S.A.",
+    "IATA": null,
+    "ICAO": "GIX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:29.841471"
+  },
+  {
+    "name": "Union Des Transports Africains de Guinee",
+    "IATA": null,
+    "ICAO": "GIH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:29.841489"
+  },
+  {
+    "name": "African International Transport SA",
+    "IATA": null,
+    "ICAO": "GIL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:29.841505"
+  },
+  {
+    "name": "Air Guinee",
+    "IATA": "GI",
+    "ICAO": "GIB",
+    "website": null,
+    "notes": "Designator GI recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:29.841522"
+  },
+  {
+    "name": "Air Guinee",
+    "IATA": null,
+    "ICAO": "GIB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:29.841538"
+  },
+  {
+    "name": "Air Guinee Express S.A.",
+    "IATA": "2U",
+    "ICAO": "GIP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:29.841555"
+  },
+  {
+    "name": "Air Guinee International",
+    "IATA": null,
+    "ICAO": "GIR",
+    "website": null,
+    "notes": "Did not commence operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:29.841573"
+  },
+  {
+    "name": "Association de Recherche Et D'exploitation de Diamant Et de L'or (Aredor)",
+    "IATA": null,
+    "ICAO": "GIN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:29.841589"
+  },
+  {
+    "name": "Brise Air",
+    "IATA": null,
+    "ICAO": "GIW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:29.841605"
+  },
+  {
+    "name": "Compagnie de Bauxites de Guinee",
+    "IATA": null,
+    "ICAO": "GIC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:29.841621"
+  },
+  {
+    "name": "Eagle Air Guinee, S.A.",
+    "IATA": null,
+    "ICAO": "GIF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:29.841638"
+  },
+  {
+    "name": "Galex-Guinee",
+    "IATA": null,
+    "ICAO": "GIX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:29.841654"
+  },
+  {
+    "name": "GR Air",
+    "IATA": null,
+    "ICAO": "GIB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:29.841670"
+  },
+  {
+    "name": "Guinea Air Transport",
+    "IATA": null,
+    "ICAO": "GIK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:29.841687"
+  },
+  {
+    "name": "Guinee Air Cargo S.A.",
+    "IATA": null,
+    "ICAO": "GJH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:29.841703"
+  },
+  {
+    "name": "Guinee Air Service",
+    "IATA": null,
+    "ICAO": "GIS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:29.841719"
+  },
+  {
+    "name": "Guinee Air Union, S.A.",
+    "IATA": null,
+    "ICAO": "GIR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:29.841735"
+  },
+  {
+    "name": "Guinee Airlines, S.A.",
+    "IATA": "J9",
+    "ICAO": "GIF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:29.841751"
+  },
+  {
+    "name": "Guinee Express Air",
+    "IATA": null,
+    "ICAO": "GIM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:29.841767"
+  },
+  {
+    "name": "Guinee Inter Air",
+    "IATA": null,
+    "ICAO": "GIE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:29.841783"
+  },
+  {
+    "name": "Guinee Paramount Airlines S.A.",
+    "IATA": null,
+    "ICAO": "GIO",
+    "website": null,
+    "notes": "Name changed to Oceanic Airlines Inc.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:29.841800"
+  },
+  {
+    "name": "Konair S.A.",
+    "IATA": null,
+    "ICAO": "GIK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:29.841815"
+  },
+  {
+    "name": "Mano River Airlines",
+    "IATA": null,
+    "ICAO": "GIU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:29.841831"
+  },
+  {
+    "name": "Network Aviation Guinee",
+    "IATA": null,
+    "ICAO": "GIT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:29.841846"
+  },
+  {
+    "name": "Oceanic Airlines Inc.",
+    "IATA": "O2",
+    "ICAO": "GIO",
+    "website": null,
+    "notes": "Designator O2 recalled by IATA. Name changed from Guinee Paramount Airlines S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:29.841863"
+  },
+  {
+    "name": "Probiz Guinee Sarl",
+    "IATA": null,
+    "ICAO": "GIY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:29.841879"
+  },
+  {
+    "name": "Sky Guinee Airlines",
+    "IATA": null,
+    "ICAO": "GIG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:29.841894"
+  },
+  {
+    "name": "Soci\u00e9t\u00e9 Des Transports A\u00e9riens de Guinee Sarl (SOTAG)",
+    "IATA": null,
+    "ICAO": "GIT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:29.841910"
+  },
+  {
+    "name": "South Rivers Airlines",
+    "IATA": null,
+    "ICAO": "GIS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:29.841926"
+  },
+  {
+    "name": "Star Equatorial Airlines",
+    "IATA": "2S",
+    "ICAO": null,
+    "website": "www.starequatorialairlines.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:29.841942"
+  },
+  {
+    "name": "Sud Air Transport, S.A.",
+    "IATA": null,
+    "ICAO": "GID",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:29.841957"
+  },
+  {
+    "name": "Transportes A\u00e9reos da Guin\u00e9 Portuguesa",
+    "IATA": "GE",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:29.841973"
+  },
+  {
+    "name": "Union Guineene de Transports",
+    "IATA": null,
+    "ICAO": "GIU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:29.841988"
+  }
+]

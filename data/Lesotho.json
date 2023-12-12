@@ -1,0 +1,56 @@
+[
+  {
+    "name": "African International Airlines",
+    "IATA": null,
+    "ICAO": "AFN",
+    "website": "www.aiaflycargo.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:09.861554"
+  },
+  {
+    "name": "Air Lesotho (Pty) Ltd.",
+    "IATA": null,
+    "ICAO": "LAI",
+    "website": null,
+    "notes": "Ceased operations on 06 Febraury 1999. Designator QL recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:09.861583"
+  },
+  {
+    "name": "Air Lesotho (Pty) Ltd.",
+    "IATA": "QL",
+    "ICAO": "LAI",
+    "website": null,
+    "notes": "Designator QL recalled by IATA. Name changed from Lesotho Airways Corporation",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:09.861602"
+  },
+  {
+    "name": "Antonair International (Pty) Ltd.",
+    "IATA": null,
+    "ICAO": "ANP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:09.861619"
+  },
+  {
+    "name": "Lesotho Airways Corporation",
+    "IATA": "QL",
+    "ICAO": "LAI",
+    "website": null,
+    "notes": "Name changed to Air Lesotho (Pty) Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:09.861635"
+  },
+  {
+    "name": "MGC Aviation t/a Maluti Sky",
+    "IATA": "7D",
+    "ICAO": "MSU",
+    "website": "www.flymalutisky.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:09.861652"
+  }
+]

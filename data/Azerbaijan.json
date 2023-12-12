@@ -1,0 +1,155 @@
+[
+  {
+    "name": "ASG Business Aviation LLC",
+    "IATA": null,
+    "ICAO": "ESW",
+    "website": "www.businessaviation.az",
+    "notes": "Name changed from Silk Way Business Aviation LLC. Previously changed from ESW Business Aviation Ltd.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:47.175901"
+  },
+  {
+    "name": "Azerbaijan Airlines CJSC",
+    "IATA": "J2",
+    "ICAO": "AHY",
+    "website": "www.azal.az",
+    "notes": "Name changed from Azerbaijan Hava Yollary.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:47.175929"
+  },
+  {
+    "name": "Buta Airways",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.butaairways.az",
+    "notes": "Low cost subsidary of CJSC Azerbaijan Airlines. Founded in December 2016. Using IATA designator J2 of parent company. To be merged into CJSC Azerbaijan Airlines.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:47.175949"
+  },
+  {
+    "name": "Silk Way Airlines",
+    "IATA": null,
+    "ICAO": "AZQ",
+    "website": "www.silkwayairlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:47.175967"
+  },
+  {
+    "name": "Silk Way West Airlines",
+    "IATA": null,
+    "ICAO": "AZG",
+    "website": "www.silkwaywest.com",
+    "notes": "Subsidary of Silk Way Airlines ZP*/AZQ",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:47.175984"
+  },
+  {
+    "name": "SW Helicopter Services",
+    "IATA": null,
+    "ICAO": "AZH",
+    "website": "www.swh.az",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:47.176000"
+  },
+  {
+    "name": "Silk Way East Airlines LLC",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Subsidary of Silk Way Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:47.176017"
+  },
+  {
+    "name": "Azalaviacargo",
+    "IATA": null,
+    "ICAO": "AHC",
+    "website": null,
+    "notes": "Name changed to Cargo Airline of the State Concern Azerbaijan Hava",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:47.176033"
+  },
+  {
+    "name": "Azalhelikopter",
+    "IATA": null,
+    "ICAO": "AZK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:47.176049"
+  },
+  {
+    "name": "Azerbaijan Hava Yollary",
+    "IATA": "J2",
+    "ICAO": "AHY",
+    "website": "www.azal.az",
+    "notes": "Name changed to Azerbaijan Airlines CJSC.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:47.176065"
+  },
+  {
+    "name": "Cargo Airline of the State Concern Azerbaijan Hava",
+    "IATA": null,
+    "ICAO": "AHC",
+    "website": "www.cacazal.com",
+    "notes": "Name changed from Azalaviacargo",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:47.176082"
+  },
+  {
+    "name": "Chirag Air",
+    "IATA": null,
+    "ICAO": "CHX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:47.176097"
+  },
+  {
+    "name": "ESW Business Aviation Ltd",
+    "IATA": null,
+    "ICAO": "ESW",
+    "website": null,
+    "notes": "Name changed to Silk Way Business Aviation LLC",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:47.176113"
+  },
+  {
+    "name": "IMAIR Airline",
+    "IATA": null,
+    "ICAO": "ITX",
+    "website": "www.averweb.com/schedule/Flight/imair.html",
+    "notes": "Founded in 1994. Ceased operations on 23 November 2009.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:47.176130"
+  },
+  {
+    "name": "Silk Way Business Aviation LLC",
+    "IATA": null,
+    "ICAO": "ESW",
+    "website": "www.businessaviation.az",
+    "notes": "Name changed to ASG Business Aviation LLC. Name changed from ESW Business Aviation Ltd",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:47.176148"
+  },
+  {
+    "name": "Sky Wind",
+    "IATA": null,
+    "ICAO": "AZH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:47.176163"
+  },
+  {
+    "name": "Turan Air Airline Company",
+    "IATA": "3T",
+    "ICAO": "URN",
+    "website": "www.turan-air.com",
+    "notes": "Ceased operations in 2013.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:47.176179"
+  }
+]

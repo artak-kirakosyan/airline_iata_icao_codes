@@ -1,0 +1,2027 @@
+[
+  {
+    "name": "43 Air School",
+    "IATA": null,
+    "ICAO": "PIU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.954365"
+  },
+  {
+    "name": "Absolute Flight Services (Pty) Ltd.",
+    "IATA": null,
+    "ICAO": "TTN",
+    "website": "www.absoluteaviation.co.za",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.954402"
+  },
+  {
+    "name": "Flying Ambulance (Pty) Ltd t/a Aerocare",
+    "IATA": null,
+    "ICAO": "SYD",
+    "website": "www.aerocare.co.za",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.954435"
+  },
+  {
+    "name": "Aeronexus Corporate Pty Ltd",
+    "IATA": null,
+    "ICAO": "ARN",
+    "website": "www.aeronexus.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.954458"
+  },
+  {
+    "name": "Aerosud Aviation",
+    "IATA": null,
+    "ICAO": "SYT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.954478"
+  },
+  {
+    "name": "Africa Charter Airlines CC",
+    "IATA": null,
+    "ICAO": "FSK",
+    "website": "http://www.africacharterairline.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.954499"
+  },
+  {
+    "name": "Fly Famg t/a Agulhas 360",
+    "IATA": null,
+    "ICAO": "STE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.954518"
+  },
+  {
+    "name": "Aircraft Systems South Africa",
+    "IATA": null,
+    "ICAO": "ATH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.954537"
+  },
+  {
+    "name": "Airlink (Pty) Ltd.",
+    "IATA": "4Z",
+    "ICAO": "LNK",
+    "website": "flyairlink.com",
+    "notes": "Name changed from SA Airlink (Pty) Ltd. d/b/a South African Airlink w.e.f. 26 October 2020.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.954558"
+  },
+  {
+    "name": "Airteam Charter (Pty) Ltd",
+    "IATA": null,
+    "ICAO": "TEW",
+    "website": "www.flyjetstream.co.za",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.954577"
+  },
+  {
+    "name": "Airworld (Pty) Ltd.",
+    "IATA": null,
+    "ICAO": "SPZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.954595"
+  },
+  {
+    "name": "Alpine Aviation (Pty) Ltd",
+    "IATA": null,
+    "ICAO": "LPC",
+    "website": "www.alpineaviation.co.za",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.954613"
+  },
+  {
+    "name": "Ambulance Air Africa",
+    "IATA": null,
+    "ICAO": "MCY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.954630"
+  },
+  {
+    "name": "Anglo American South Africa Limited",
+    "IATA": null,
+    "ICAO": "AJZ",
+    "website": "www.angloamerican.co.za",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.954651"
+  },
+  {
+    "name": "Atair Pty Ltd.",
+    "IATA": null,
+    "ICAO": "AOF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.954669"
+  },
+  {
+    "name": "AV8 Helicopters",
+    "IATA": null,
+    "ICAO": "AVK",
+    "website": "www.av8helicopters.co.za",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.954685"
+  },
+  {
+    "name": "Avcon Jet Africa (Pty) Ltd.",
+    "IATA": null,
+    "ICAO": "AJJ",
+    "website": "www.avconjet.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.954704"
+  },
+  {
+    "name": "AVIC - International Flight Training Academy (AIFA)",
+    "IATA": null,
+    "ICAO": "AVQ",
+    "website": "www.aifa.co.za",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.954727"
+  },
+  {
+    "name": "Avstar Aviation Pty Ltd",
+    "IATA": null,
+    "ICAO": "VSA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.954746"
+  },
+  {
+    "name": "Awesome Flight Services (PTY) Ltd.",
+    "IATA": null,
+    "ICAO": "ASM",
+    "website": "flyawesome.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.954767"
+  },
+  {
+    "name": "Bass Airways CC",
+    "IATA": null,
+    "ICAO": "BWS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.954786"
+  },
+  {
+    "name": "Bateleur Air Charter Services CC",
+    "IATA": null,
+    "ICAO": "BEU",
+    "website": "www.bateleurcharter.co.za",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.954804"
+  },
+  {
+    "name": "Bird Dog Aviation CC.",
+    "IATA": null,
+    "ICAO": "BDH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.954822"
+  },
+  {
+    "name": "Cemair (Pty) Ltd. t/a Cemair",
+    "IATA": "5Z",
+    "ICAO": "KEM",
+    "website": "www.flycemair.co.za",
+    "notes": "AOC renewed on 17 October 2019. AOC suspended on 14 December 2018.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.954842"
+  },
+  {
+    "name": "Cesszani Aviation",
+    "IATA": null,
+    "ICAO": "CEZ",
+    "website": "www.cesszani.co.za",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.954861"
+  },
+  {
+    "name": "Cfa Air Charters (Pty) Ltd",
+    "IATA": null,
+    "ICAO": "CFX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.954879"
+  },
+  {
+    "name": "Charters (South African Non Schedules Airways (PTY) Ltd.)",
+    "IATA": null,
+    "ICAO": "SCS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.954898"
+  },
+  {
+    "name": "Cloud 9 Air charters",
+    "IATA": null,
+    "ICAO": "CLZ",
+    "website": "members.africa-adverture.org/c/cloud9/index.htm",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.954918"
+  },
+  {
+    "name": "Cobra Aviation",
+    "IATA": null,
+    "ICAO": "CBR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.954937"
+  },
+  {
+    "name": "Cobra Aviation (Pty) Ltd",
+    "IATA": "0C",
+    "ICAO": null,
+    "website": "cobraaviation.co.za",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.954956"
+  },
+  {
+    "name": "Protea Coin Group (Pty) Ltd t/a Coin Aviation",
+    "IATA": null,
+    "ICAO": "PCI",
+    "website": "www.proteacoin.co.za",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.954975"
+  },
+  {
+    "name": "Comair Flight Services (Pty) Ltd.",
+    "IATA": null,
+    "ICAO": "AQL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.954994"
+  },
+  {
+    "name": "Comair Flight Services (Pty) Ltd",
+    "IATA": null,
+    "ICAO": "GCM",
+    "website": "www.flycfs.co.za",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955013"
+  },
+  {
+    "name": "CFS Aviation CC t/a Corporate Flight Services",
+    "IATA": null,
+    "ICAO": "BLQ",
+    "website": "www.flycfs.co.za",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955035"
+  },
+  {
+    "name": "Court Helicopters",
+    "IATA": null,
+    "ICAO": "CUT",
+    "website": "www.chc.ca/court.html",
+    "notes": "Name changed from Court Air",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955053"
+  },
+  {
+    "name": "Combined Private Investigations CC t/a CPI Aviation",
+    "IATA": null,
+    "ICAO": "TSJ",
+    "website": "combinedpi.co.za.www14.cpt1.host-h.net/",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955074"
+  },
+  {
+    "name": "DHL Aviation (Pty) Ltd.",
+    "IATA": null,
+    "ICAO": "DHV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955094"
+  },
+  {
+    "name": "East Coast Airways (Pty) Ltd.",
+    "IATA": null,
+    "ICAO": "ECT",
+    "website": "www.eastcoastairways.co.za",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955113"
+  },
+  {
+    "name": "ExecuJet Aviation (Pty) Ltd.",
+    "IATA": null,
+    "ICAO": "EXD",
+    "website": "www.execujet.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955132"
+  },
+  {
+    "name": "Executive Aerospace (Pty) Ltd.",
+    "IATA": null,
+    "ICAO": "EAS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955150"
+  },
+  {
+    "name": "Fair Aviation Pty Ltd.",
+    "IATA": null,
+    "ICAO": "FAV",
+    "website": "www.fairaviation.co.za",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955169"
+  },
+  {
+    "name": "Fair Aviation (PTY) Ltd. t/a Fair Aviation",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.fairaviation.co.za",
+    "notes": "Designator 2F recalled by IATA.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955188"
+  },
+  {
+    "name": "Federal Airlines (Pty) Ltd.",
+    "IATA": "7V",
+    "ICAO": "FDR",
+    "website": "www.fedair.com",
+    "notes": "Name changed from Federal Air (Pty) Ltd.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955207"
+  },
+  {
+    "name": "Fireblade Aviation (Pty) Ltd",
+    "IATA": null,
+    "ICAO": "OPM",
+    "website": "www.firebladeaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955226"
+  },
+  {
+    "name": "Fleetair",
+    "IATA": null,
+    "ICAO": "FLR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955244"
+  },
+  {
+    "name": "Fly Me (Pty) Ltd.",
+    "IATA": null,
+    "ICAO": "ANW",
+    "website": "www.flyme.co.za",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955261"
+  },
+  {
+    "name": "Fly Me (Pty) Ltd",
+    "IATA": null,
+    "ICAO": "OFS",
+    "website": "www.flyme.co.za",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955280"
+  },
+  {
+    "name": "Fly Modern Ark",
+    "IATA": null,
+    "ICAO": null,
+    "website": "flymodernark.com",
+    "notes": "Planned startup by end 2017.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955298"
+  },
+  {
+    "name": "Flyfofo Airways",
+    "IATA": null,
+    "ICAO": "FOF",
+    "website": "www.flyfofa.co.za",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955317"
+  },
+  {
+    "name": "Fortune Air (Pty) Ltd",
+    "IATA": null,
+    "ICAO": "FOA",
+    "website": "www.fortuneair.co.za",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955336"
+  },
+  {
+    "name": "G & L Aviation",
+    "IATA": null,
+    "ICAO": "GML",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955353"
+  },
+  {
+    "name": "Gauteng Air Cargo CC",
+    "IATA": null,
+    "ICAO": "EGO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955371"
+  },
+  {
+    "name": "Global Aviation Operations (Pty) Ltd",
+    "IATA": "GE",
+    "ICAO": "GBB",
+    "website": "www.g-airways.com",
+    "notes": "Designator QG recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955392"
+  },
+  {
+    "name": "Gryphon Airlines SA (Pty) Ltd",
+    "IATA": null,
+    "ICAO": "GRF",
+    "website": "flygryphon.com",
+    "notes": "Designator Y3 recalled by IATA.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955412"
+  },
+  {
+    "name": "Guardian Air Asset Management (Pty) Ltd.",
+    "IATA": null,
+    "ICAO": "GRA",
+    "website": "www.guardianair.co.za",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955430"
+  },
+  {
+    "name": "Hydro Air (PTY) Ltd.",
+    "IATA": null,
+    "ICAO": "HYC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955448"
+  },
+  {
+    "name": "Inter Air Lines (Pty) Ltd South Africa",
+    "IATA": null,
+    "ICAO": "ILN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955467"
+  },
+  {
+    "name": "K5 Transport Logistics (Pty) Ltd t/a K5 Aviation",
+    "IATA": null,
+    "ICAO": "KVT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955485"
+  },
+  {
+    "name": "KGFM Transport And Logistics (Pty) Ltd",
+    "IATA": null,
+    "ICAO": "CMO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955503"
+  },
+  {
+    "name": "King Air Charter",
+    "IATA": null,
+    "ICAO": "RXX",
+    "website": "www.kingair.co.za",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955522"
+  },
+  {
+    "name": "Kwena Air, South African Charter",
+    "IATA": null,
+    "ICAO": "KWN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955541"
+  },
+  {
+    "name": "Leo-Air CC",
+    "IATA": null,
+    "ICAO": "LOR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955559"
+  },
+  {
+    "name": "Luft Cargo (PTY) Ltd.",
+    "IATA": null,
+    "ICAO": "LUT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955576"
+  },
+  {
+    "name": "Madikwe Charter CC",
+    "IATA": null,
+    "ICAO": "MDK",
+    "website": "www.madikwecharter.co.za",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955594"
+  },
+  {
+    "name": "Mango Airlines (SOC) Ltd. t/a Mango",
+    "IATA": "JE",
+    "ICAO": "MNO",
+    "website": "www.flymango.com",
+    "notes": "Name changed from Mango (Pty) Ltd. And previously Tulca (Pty) Ltd. t/a Mango. Designator JE reinstated by IATA.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955614"
+  },
+  {
+    "name": "MCC Aviation",
+    "IATA": null,
+    "ICAO": "MCC",
+    "website": "www.mccgroup.co.za/aviation-main.htm",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955633"
+  },
+  {
+    "name": "Medair Charter (Pty) Ltd",
+    "IATA": null,
+    "ICAO": "MDX",
+    "website": "medair.co.za",
+    "notes": "Name changed from Aerosud Charter.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955651"
+  },
+  {
+    "name": "Multimedia Entertainment Group Air (Pty) Ltd t/a Mega",
+    "IATA": null,
+    "ICAO": "MME",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955669"
+  },
+  {
+    "name": "Metavia Airlines Pty. Ltd.",
+    "IATA": null,
+    "ICAO": "MNK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955688"
+  },
+  {
+    "name": "National Airways Corporation Cape Twon (PTY) Ltd. t/a National Airlines",
+    "IATA": null,
+    "ICAO": "KUS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955706"
+  },
+  {
+    "name": "NAC Aviation Business Centre (PTY) Ltd. d/b/a National Airlines",
+    "IATA": null,
+    "ICAO": "NTN",
+    "website": null,
+    "notes": "Designator YJ recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955725"
+  },
+  {
+    "name": "National Airways Corporation (Helicopters) Ltd, South Africa",
+    "IATA": null,
+    "ICAO": "LFI",
+    "website": "www.nac.co.za",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955743"
+  },
+  {
+    "name": "Naturelink Charter (PTY) Ltd.",
+    "IATA": null,
+    "ICAO": "NRK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955761"
+  },
+  {
+    "name": "Nelair Charter (PTY) Ltd.",
+    "IATA": null,
+    "ICAO": "NLC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955781"
+  },
+  {
+    "name": "New Heights 291 (PTY) Ltd.",
+    "IATA": null,
+    "ICAO": "NHT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955799"
+  },
+  {
+    "name": "Norse Air Charter",
+    "IATA": null,
+    "ICAO": "NRX",
+    "website": "www.norseair.co.za",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955818"
+  },
+  {
+    "name": "Freedom Air (Pty) Ltd. t/a North East Charters",
+    "IATA": null,
+    "ICAO": "FRI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955836"
+  },
+  {
+    "name": "Orion Air Charter",
+    "IATA": null,
+    "ICAO": "OED",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955854"
+  },
+  {
+    "name": "Out of the Blue Air Safaris (PTY) Ltd.",
+    "IATA": null,
+    "ICAO": "OOT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955873"
+  },
+  {
+    "name": "Owenair (Pty) Ltd.",
+    "IATA": null,
+    "ICAO": "OWE",
+    "website": "owenair.co.za",
+    "notes": "Designator UD* recalled by IATA.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955893"
+  },
+  {
+    "name": "P & P Floss Pick Manufacturers CC.",
+    "IATA": null,
+    "ICAO": "KTL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955912"
+  },
+  {
+    "name": "Pambele Aviation (Pty) Ltd.",
+    "IATA": null,
+    "ICAO": "PMX",
+    "website": "www.pambele.aero",
+    "notes": "Established in 2005 as Jemax Aviation. Subsidiary to Pambele Investments (Pty) Ltd.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955931"
+  },
+  {
+    "name": "Pambele Aviation (Pty) Ltd",
+    "IATA": null,
+    "ICAO": "JEM",
+    "website": "www.pambele.aero",
+    "notes": "Name changed to Pambele Aviation.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955948"
+  },
+  {
+    "name": "Pegase Aviation",
+    "IATA": null,
+    "ICAO": "PGV",
+    "website": "www.pegaseaviation.co.za",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955966"
+  },
+  {
+    "name": "Phoebus Apollo Aviation CC",
+    "IATA": null,
+    "ICAO": "PHB",
+    "website": "www.phoebusapollo.co.za",
+    "notes": "Designator PE recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.955985"
+  },
+  {
+    "name": "River Ministries Air Charter Services (Pty) Ltd",
+    "IATA": null,
+    "ICAO": "RVM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.956004"
+  },
+  {
+    "name": "Rossair (Pty) Ltd.",
+    "IATA": null,
+    "ICAO": "RSS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.956022"
+  },
+  {
+    "name": "Royal Air Cargo",
+    "IATA": null,
+    "ICAO": "RCG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.956040"
+  },
+  {
+    "name": "SA Airlink Regional (Pty) Ltd",
+    "IATA": null,
+    "ICAO": "REJ",
+    "website": "www.flyairlink.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.956059"
+  },
+  {
+    "name": "Safair Operations (Proprietary) Ltd. dba Safair",
+    "IATA": "FA",
+    "ICAO": "SFR",
+    "website": "www.flysafair.co.za",
+    "notes": "Name changed from Safair Operations (Proprietary) Limited t/a FlySafair. Name changed from Safair (Proprietary) Ltd.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.956079"
+  },
+  {
+    "name": "Sapphire Executive Air",
+    "IATA": null,
+    "ICAO": "SPH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.956098"
+  },
+  {
+    "name": "Sheltam Aviation CC",
+    "IATA": null,
+    "ICAO": "SHM",
+    "website": "www.sheltam.com/content/aviation",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.956117"
+  },
+  {
+    "name": "SKA SA Aircraft Leasing (Pty) Ltd",
+    "IATA": null,
+    "ICAO": "KLA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.956135"
+  },
+  {
+    "name": "Sky Messaging (Pty) Ltd",
+    "IATA": null,
+    "ICAO": "KYD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.956153"
+  },
+  {
+    "name": "Skyhaul Pty Ltd",
+    "IATA": null,
+    "ICAO": "HAU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.956173"
+  },
+  {
+    "name": "Skyrover CC",
+    "IATA": null,
+    "ICAO": "WLK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.956191"
+  },
+  {
+    "name": "Skyscapes Air Charters",
+    "IATA": null,
+    "ICAO": "SKR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.956210"
+  },
+  {
+    "name": "Solenta Aviation (Pty) Ltd",
+    "IATA": null,
+    "ICAO": "SET",
+    "website": "www.solenta.com",
+    "notes": "Founded in 2002.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.956229"
+  },
+  {
+    "name": "South African Air Force",
+    "IATA": null,
+    "ICAO": "LMG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.956247"
+  },
+  {
+    "name": "South African Airways SOC Limited",
+    "IATA": "SA",
+    "ICAO": "SAA",
+    "website": "www.flysaa.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.956266"
+  },
+  {
+    "name": "South African Historic Flight",
+    "IATA": null,
+    "ICAO": "SYY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.956284"
+  },
+  {
+    "name": "Spectrem Air Ltd",
+    "IATA": null,
+    "ICAO": "CDS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.956302"
+  },
+  {
+    "name": "Springbok Classic Air",
+    "IATA": null,
+    "ICAO": "SPB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.956319"
+  },
+  {
+    "name": "Spurwing Airlines (Pty) Ltd.",
+    "IATA": null,
+    "ICAO": "PUR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.956337"
+  },
+  {
+    "name": "Star Air Cargo (Pty) Ltd",
+    "IATA": null,
+    "ICAO": "BRH",
+    "website": "www.starair.co.za",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.956354"
+  },
+  {
+    "name": "Stargate Aviation CC",
+    "IATA": null,
+    "ICAO": "SGT",
+    "website": "www.stargate-aviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.956372"
+  },
+  {
+    "name": "Starlite Aviation Pty Ltd",
+    "IATA": null,
+    "ICAO": "TRL",
+    "website": "www.starliteaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.956392"
+  },
+  {
+    "name": "Stars Away Aviation",
+    "IATA": null,
+    "ICAO": "STX",
+    "website": "www.starsaway.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.956410"
+  },
+  {
+    "name": "Strato Air Services",
+    "IATA": null,
+    "ICAO": "SRZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.956428"
+  },
+  {
+    "name": "Streamline CC",
+    "IATA": null,
+    "ICAO": "SLE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.956449"
+  },
+  {
+    "name": "Biz Africa 1019 CC t/a Studio 88 Aviation",
+    "IATA": null,
+    "ICAO": "STZ",
+    "website": "www.studio88aviation.co.za",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.956469"
+  },
+  {
+    "name": "TAB Charters (Pty) Ltd.",
+    "IATA": null,
+    "ICAO": "BKT",
+    "website": "www.tabcharters.co.za",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.956490"
+  },
+  {
+    "name": "Titanium Air",
+    "IATA": null,
+    "ICAO": null,
+    "website": "titaniumair.co.za",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.956509"
+  },
+  {
+    "name": "Ultimate Airways (Pty) Ltd",
+    "IATA": null,
+    "ICAO": "ULR",
+    "website": "ultimate-aviation.net",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.956528"
+  },
+  {
+    "name": "Ultimate Heli (Pty) Ltd",
+    "IATA": null,
+    "ICAO": "ULH",
+    "website": "ultimate-aviation.net",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.956547"
+  },
+  {
+    "name": "Unique Air Charter (Pty) Ltd",
+    "IATA": null,
+    "ICAO": "UNQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.956565"
+  },
+  {
+    "name": "Valan International Cargo Charter SA Pty Ltd.",
+    "IATA": null,
+    "ICAO": "VLA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.956585"
+  },
+  {
+    "name": "Vukani Aviation CC",
+    "IATA": null,
+    "ICAO": "VUK",
+    "website": "www.vukaniaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.956604"
+  },
+  {
+    "name": "Wilderness Air South Africa (Pty) Ltd",
+    "IATA": null,
+    "ICAO": "WLD",
+    "website": "www.wilderness-air.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.956623"
+  },
+  {
+    "name": "FFA Aviation (Pty) Ltd t/a Working on Fire",
+    "IATA": null,
+    "ICAO": "WOF",
+    "website": "www.workingonfire.org",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:45.956643"
+  },
+  {
+    "name": "Executive Aerospace",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.fullhouse.co.za/aerospace/",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.956662"
+  },
+  {
+    "name": "1Time Airline (Pty) Ltd",
+    "IATA": "1T",
+    "ICAO": "RNX",
+    "website": "www.1time.aero",
+    "notes": "IATA designator changed to T6.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.956685"
+  },
+  {
+    "name": "1Time Airline (Pty) Ltd",
+    "IATA": "T6",
+    "ICAO": "RNX",
+    "website": "www.1time.aero",
+    "notes": "Founded 2003. Commenced operations on 25 February 2004. Ceased operations on 02 November 2012. Name changed from Aeronexus Corporate Pty Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.956706"
+  },
+  {
+    "name": "Absolute Flight Services (Pty) Ltd",
+    "IATA": null,
+    "ICAO": "COI",
+    "website": null,
+    "notes": "ICAO designator changed from FYB",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.956726"
+  },
+  {
+    "name": "Absolute Flight Services (Pty) Ltd",
+    "IATA": null,
+    "ICAO": "FYB",
+    "website": null,
+    "notes": "ICAO designator changed to COI",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.956748"
+  },
+  {
+    "name": "Aeronexus Corporate Pty Ltd.",
+    "IATA": null,
+    "ICAO": "RNX",
+    "website": "www.aeronexus.aero",
+    "notes": "Name changed to 1Time Airline (Pty) Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.956767"
+  },
+  {
+    "name": "Aerosud Charter",
+    "IATA": null,
+    "ICAO": "MDX",
+    "website": null,
+    "notes": "Name changed to Medair Charter (Pty) Ltd",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.956787"
+  },
+  {
+    "name": "Africair Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.956805"
+  },
+  {
+    "name": "African International Airways",
+    "IATA": "WS",
+    "ICAO": "AIN",
+    "website": "www.aiaflycargo.com",
+    "notes": "Founded in 1985. Ceased operations in 2008. Designator WS recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.956825"
+  },
+  {
+    "name": "African Star Airways (PTY) Ltd.",
+    "IATA": "4M",
+    "ICAO": "ASG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.956844"
+  },
+  {
+    "name": "Africar Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.956863"
+  },
+  {
+    "name": "Air Cape",
+    "IATA": null,
+    "ICAO": "ACP",
+    "website": null,
+    "notes": "Designator KP recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.956882"
+  },
+  {
+    "name": "Air Cape",
+    "IATA": "KP",
+    "ICAO": "ACP",
+    "website": null,
+    "notes": "Designator KP recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.956901"
+  },
+  {
+    "name": "Air Charter Services (Pty) Ltd, South Africa",
+    "IATA": null,
+    "ICAO": "IPL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.956920"
+  },
+  {
+    "name": "Air Lowveld PTY Ltd.",
+    "IATA": "LE",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.956939"
+  },
+  {
+    "name": "Air Panorama",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.956958"
+  },
+  {
+    "name": "Zambezi Transfer Services CC dba Air Reps",
+    "IATA": "M1",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator M1 recalled by IATA. Computer Reservations Systems (CRS)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.956977"
+  },
+  {
+    "name": "Aircraft Operating Co. (Aerial Surveys) Ltd.",
+    "IATA": "OC",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.956995"
+  },
+  {
+    "name": "Airline Control Systems (Pty) Ltd",
+    "IATA": "Z1",
+    "ICAO": null,
+    "website": "www.airlinescs.com",
+    "notes": "Computer Reservations Systems (CRS).",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957015"
+  },
+  {
+    "name": "AirQuarius Air Charter (PTY) Ltd.",
+    "IATA": null,
+    "ICAO": "SSN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957034"
+  },
+  {
+    "name": "AirQuarius Aviation",
+    "IATA": null,
+    "ICAO": "AQU",
+    "website": "www.airquarius.com",
+    "notes": "Founded in 1997. Ceased operations on 07 February 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957054"
+  },
+  {
+    "name": "Allegiance Air",
+    "IATA": null,
+    "ICAO": "ANJ",
+    "website": "www.allegiance-air.com",
+    "notes": "Commenced operations in Febraury 2008.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957074"
+  },
+  {
+    "name": "Alpine Aviation",
+    "IATA": null,
+    "ICAO": "LPC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957093"
+  },
+  {
+    "name": "Atlantic Air",
+    "IATA": null,
+    "ICAO": "CAO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957111"
+  },
+  {
+    "name": "Avia Airlines",
+    "IATA": null,
+    "ICAO": "AGW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957128"
+  },
+  {
+    "name": "Balmoral Central Contracts",
+    "IATA": null,
+    "ICAO": "PNT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957147"
+  },
+  {
+    "name": "Beechcraft Sales (PTY) Ltd.",
+    "IATA": "HS",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957165"
+  },
+  {
+    "name": "Bop Air (Pty) Ltd Trading As Sun Air",
+    "IATA": null,
+    "ICAO": "SSN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957184"
+  },
+  {
+    "name": "Border Airways",
+    "IATA": null,
+    "ICAO": "BDA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957203"
+  },
+  {
+    "name": "Chari Aviation Services",
+    "IATA": null,
+    "ICAO": "CAH",
+    "website": "www.charlan.co.za",
+    "notes": "ceased operations on 26 May 2006. Designator S8* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957223"
+  },
+  {
+    "name": "Chief Rat Flight Services (PTY) Ltd.",
+    "IATA": null,
+    "ICAO": "RAT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957240"
+  },
+  {
+    "name": "Ciskei International Airways Corp.",
+    "IATA": null,
+    "ICAO": "COK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957258"
+  },
+  {
+    "name": "Civair Airways",
+    "IATA": null,
+    "ICAO": "CIW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957275"
+  },
+  {
+    "name": "Comair Ltd. d/b/a Kulula.com",
+    "IATA": "MN",
+    "ICAO": "CAW",
+    "website": "www.comair.co.za",
+    "notes": "Suspended operations on 31 May 2022. Name changed from Commercial Airways (Pty.) Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957293"
+  },
+  {
+    "name": "Command Airways",
+    "IATA": null,
+    "ICAO": "CAH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957309"
+  },
+  {
+    "name": "Commercial Air Services (Pty.) Ltd.",
+    "IATA": "MN",
+    "ICAO": null,
+    "website": null,
+    "notes": "Name changed to Commercial Airways (Pty.) Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957328"
+  },
+  {
+    "name": "Commercial Airways (Pty.) Ltd.",
+    "IATA": "MN",
+    "ICAO": "CAW",
+    "website": null,
+    "notes": "Name changed to Comair Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957346"
+  },
+  {
+    "name": "Court Air",
+    "IATA": null,
+    "ICAO": "CUT",
+    "website": null,
+    "notes": "Name changed to Court Helicopters",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957363"
+  },
+  {
+    "name": "Denel Aviation",
+    "IATA": null,
+    "ICAO": "DEN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957379"
+  },
+  {
+    "name": "Exclusive Air (Pty) Ltd.",
+    "IATA": null,
+    "ICAO": "EXL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957398"
+  },
+  {
+    "name": "Execujet Flight Operations (PTY) Ltd.",
+    "IATA": null,
+    "ICAO": "EOP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957417"
+  },
+  {
+    "name": "Fair Aviation (PTY) Ltd. t/a Fair Aviation",
+    "IATA": "2F",
+    "ICAO": null,
+    "website": "www.fairaviation.co.za",
+    "notes": "Designator 2F recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957434"
+  },
+  {
+    "name": "Federal Air (Pty) Ltd.",
+    "IATA": "7V",
+    "ICAO": "FDR",
+    "website": "www.fedair.com",
+    "notes": "Name changed to Federal Airlines (Pty) Ltd. Name changed from Pelican Air Services CC d/b/a Pelican Air",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957452"
+  },
+  {
+    "name": "Fly Blue Crane (PTY) Ltd",
+    "IATA": "7B",
+    "ICAO": "FBC",
+    "website": "www.flybluecrane.com",
+    "notes": "Operations commenced on 01 September 2015. Suspended operations during Febraury 2017",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957470"
+  },
+  {
+    "name": "Fly Jetstream Aviation",
+    "IATA": null,
+    "ICAO": "SRE",
+    "website": "www.flyjetstream.co.za",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957487"
+  },
+  {
+    "name": "Safair Operations (Proprietary) Limited t/a FlySafair",
+    "IATA": null,
+    "ICAO": "SFR",
+    "website": "www.flysafair.co.za",
+    "notes": "Name changed to Safair Operations (Proprietary) Ltd. dba Safair. Name changed from Safair (Proprietary) Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957506"
+  },
+  {
+    "name": "Forest Airline South Africa",
+    "IATA": null,
+    "ICAO": "FOL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957524"
+  },
+  {
+    "name": "Freight On Wings CC",
+    "IATA": null,
+    "ICAO": "JRG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957541"
+  },
+  {
+    "name": "Global Aviation Operations (PTY) Ltd",
+    "IATA": "QG",
+    "ICAO": "GBB",
+    "website": "www.global-aviation.com",
+    "notes": "Designator QG recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957558"
+  },
+  {
+    "name": "Rovos Air (Pty) Ltd t/a Gryphon Airline",
+    "IATA": "6P",
+    "ICAO": "VOS",
+    "website": "www.gryphonholdings.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957575"
+  },
+  {
+    "name": "Gryphon Airlines SA (Pty) Ltd",
+    "IATA": "Y3",
+    "ICAO": "GRF",
+    "website": "flygryphon.com",
+    "notes": "Designator Y3 recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957592"
+  },
+  {
+    "name": "Innovative Software Design",
+    "IATA": null,
+    "ICAO": "ISD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957609"
+  },
+  {
+    "name": "Intensive Air (Pty) Ltd.",
+    "IATA": null,
+    "ICAO": "XRA",
+    "website": "www.intensiveair.co.za",
+    "notes": "Ceased opertions on 09 April 2002. Designator IM* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957628"
+  },
+  {
+    "name": "Inter-Aviation Services d/b/a Inter-Air",
+    "IATA": "D6",
+    "ICAO": "ILN",
+    "website": null,
+    "notes": "Name changed to Inter-Aviation Services d/b/a Interair South Africa",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957645"
+  },
+  {
+    "name": "Inter-Aviation Services d/b/a Interair South Africa",
+    "IATA": "D6",
+    "ICAO": "ILN",
+    "website": "www.interair.co.za",
+    "notes": "Name changed from Inter-Aviation Services d/b/a Inter-Air",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957664"
+  },
+  {
+    "name": "Interlink Airlines (Pty) Ltd.",
+    "IATA": "ID",
+    "ICAO": "ITK",
+    "website": "www.interlinkairlines.com",
+    "notes": "Designator ID restated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957683"
+  },
+  {
+    "name": "Interstate Air Services",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957702"
+  },
+  {
+    "name": "Jemax Aviation (Pty) Ltd",
+    "IATA": null,
+    "ICAO": "JEM",
+    "website": "www.jemaxaviation.co.za",
+    "notes": "Name changed to Pambele Aviation.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957722"
+  },
+  {
+    "name": "Jet-Time",
+    "IATA": null,
+    "ICAO": "JTM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957738"
+  },
+  {
+    "name": "Mango (Pty) Ltd.",
+    "IATA": "JE",
+    "ICAO": "MNO",
+    "website": "www.flymango.com",
+    "notes": "Name changed to Mango Airlines (SOC) Ltd. t/a Mango. Name changed from Tulca (Pty) Ltd. t/a Mango. Designator JE reinstated by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957758"
+  },
+  {
+    "name": "Tulca (Pty) Ltd. t/a Mango",
+    "IATA": "JE",
+    "ICAO": "MNO",
+    "website": "www.flymango.com",
+    "notes": "Name changed to Mango (Pty) Ltd. Designator JE reinstated by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957777"
+  },
+  {
+    "name": "Margate Air Services",
+    "IATA": null,
+    "ICAO": "MGT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957794"
+  },
+  {
+    "name": "Metavia Airlines Pty. Ltd.",
+    "IATA": null,
+    "ICAO": "MNK",
+    "website": null,
+    "notes": "Designator recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957812"
+  },
+  {
+    "name": "Namakwaland Lugdiens (EDMS) Bpk.",
+    "IATA": null,
+    "ICAO": "NLD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957828"
+  },
+  {
+    "name": "NAC Aviation Business Centre (PTY) Ltd. d/b/a National Airlines",
+    "IATA": "YJ",
+    "ICAO": "NTN",
+    "website": null,
+    "notes": "Designator YJ recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957846"
+  },
+  {
+    "name": "National Airways Corporation (PTY) Ltd.",
+    "IATA": "NF",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957863"
+  },
+  {
+    "name": "Nationwide Air",
+    "IATA": "CE",
+    "ICAO": "NTW",
+    "website": "www.nationwideair.co.za",
+    "notes": "Name changed to Nationwide Airlines (Pty) Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957880"
+  },
+  {
+    "name": "Nationwide Airlines (Pty) Ltd.",
+    "IATA": "CE",
+    "ICAO": "NTW",
+    "website": "www.nationwideair.co.za",
+    "notes": "Ceased Opdations on 29 April 2008. Designator CE reinstated by IATA. Name changed from Nationwide Air",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957898"
+  },
+  {
+    "name": "Northern Air Services",
+    "IATA": null,
+    "ICAO": "NLE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957914"
+  },
+  {
+    "name": "On Safari Airline",
+    "IATA": null,
+    "ICAO": "TMB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957931"
+  },
+  {
+    "name": "Oryx Aviation",
+    "IATA": null,
+    "ICAO": "ORX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957946"
+  },
+  {
+    "name": "Owenair (Pty) Ltd.",
+    "IATA": null,
+    "ICAO": "OWE",
+    "website": "owenair.co.za",
+    "notes": "Designator UD* recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957965"
+  },
+  {
+    "name": "Owenair (PTY) Ltd.",
+    "IATA": "OW",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.957982"
+  },
+  {
+    "name": "Pelican Air Services CC d/b/a Pelican Air",
+    "IATA": "7V",
+    "ICAO": "PDF",
+    "website": "bazarutoislands.com/pelicanaierservic.html",
+    "notes": "Name changed to Federal Air (Pty) Ltd. Designator 7V reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.958000"
+  },
+  {
+    "name": "Phoebus Apollo Aviation CC",
+    "IATA": "PE",
+    "ICAO": "PHB",
+    "website": "www.phoebusapollo.co.za",
+    "notes": "Designator PE recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.958018"
+  },
+  {
+    "name": "Phoenix Airways (Pty) Ltd.",
+    "IATA": null,
+    "ICAO": "PHO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.958034"
+  },
+  {
+    "name": "Protea Lugdiens (EDMS.) BPK",
+    "IATA": "PO",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.958052"
+  },
+  {
+    "name": "Rennies Express Air Services",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.958068"
+  },
+  {
+    "name": "Safair Operations (Proprietary) Ltd. dba Safair",
+    "IATA": null,
+    "ICAO": "SFR",
+    "website": "www.flysafair.co.za",
+    "notes": "Name changed from Safair Operations (Proprietary) Limited t/a FlySafair. Name changed from Safair (Proprietary) Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.958088"
+  },
+  {
+    "name": "Safair (Proprietary) Ltd.",
+    "IATA": null,
+    "ICAO": "SFR",
+    "website": "www.safair.co.za",
+    "notes": "Name changed to Safair Operations (Proprietary) Limited t/a FlySafair. Name changed from Safair Freighters (Pty) Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.958108"
+  },
+  {
+    "name": "Cabolar (Pty) Ltd t/a Skywise",
+    "IATA": "S8",
+    "ICAO": "SWZ",
+    "website": null,
+    "notes": "Designator S8 recalled by IATA. Low cost airlines planned to start operations in 2013 from the founder of 1Time Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.958126"
+  },
+  {
+    "name": "Cabolar (Pty) Ltd t/a Skywise",
+    "IATA": "C9",
+    "ICAO": "SWZ",
+    "website": "www.skywise.co.za",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.958144"
+  },
+  {
+    "name": "SA Airlink (Pty) Ltd. d/b/a South African Airlink",
+    "IATA": "4Z",
+    "ICAO": "LNK",
+    "website": "flyairlink.com",
+    "notes": "Name changed to Airlink (Pty) Ltd. w.e.f. 26 October 2020.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.958163"
+  },
+  {
+    "name": "South African Express Airways (Pty) Ltd.",
+    "IATA": "XZ",
+    "ICAO": "EXY",
+    "website": "www.flyexpress.aero",
+    "notes": "Suspended operation on 25 May 2018 due AOC revoked by SACAA. Operations re-started on 23 August 2018. Designator YB recalled by IATA. Designator YB reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.958183"
+  },
+  {
+    "name": "South African Express Airways (Pty) Ltd.",
+    "IATA": "YB",
+    "ICAO": "EXY",
+    "website": "www.saexpress.co.za",
+    "notes": "Designator YB recalled by IATA. Designator YB reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.958201"
+  },
+  {
+    "name": "South West Air Transport (pty) Ltd.",
+    "IATA": "SW",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.958219"
+  },
+  {
+    "name": "Southern Right Air Charter CC",
+    "IATA": null,
+    "ICAO": "SGC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.958236"
+  },
+  {
+    "name": "Spectrem Air Ltd.",
+    "IATA": null,
+    "ICAO": "ASN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.958252"
+  },
+  {
+    "name": "Bengis Aviation (Pty) Ltd d/b/a Sprint Airlines",
+    "IATA": null,
+    "ICAO": "SPT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.958269"
+  },
+  {
+    "name": "Starwelt Trans Lloyd Cargo Ltd. d/b/a Starwelt Airways",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.958286"
+  },
+  {
+    "name": "Bop Air (Pty) Ltd t/a Sun Air",
+    "IATA": null,
+    "ICAO": "SSN",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.958303"
+  },
+  {
+    "name": "Sunair 2001 (Pty) Ltd.",
+    "IATA": null,
+    "ICAO": "SJE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.958320"
+  },
+  {
+    "name": "Theron Airways",
+    "IATA": null,
+    "ICAO": "TRN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.958336"
+  },
+  {
+    "name": "Tramon Air CC",
+    "IATA": null,
+    "ICAO": "TMX",
+    "website": null,
+    "notes": "Founded in 1995. Commenced operations in 1998. Ceased operations during 2006.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.958355"
+  },
+  {
+    "name": "Transavia (Pty) Ltd.",
+    "IATA": null,
+    "ICAO": "TRV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.958372"
+  },
+  {
+    "name": "Transkei Airways",
+    "IATA": null,
+    "ICAO": "TAK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.958389"
+  },
+  {
+    "name": "Trek Airways",
+    "IATA": null,
+    "ICAO": "TKE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.958405"
+  },
+  {
+    "name": "Trek Airways (Pty) Ltd.",
+    "IATA": "JW",
+    "ICAO": "TKE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.958427"
+  },
+  {
+    "name": "United Air",
+    "IATA": null,
+    "ICAO": "UTD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.958442"
+  },
+  {
+    "name": "Utair South Africa (Pty) Ltd",
+    "IATA": null,
+    "ICAO": "UTR",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.958460"
+  },
+  {
+    "name": "Velvet Sky Aviation (Pty) Ltd",
+    "IATA": "VZ",
+    "ICAO": "VEL",
+    "website": "www.flyvelvetsky.com",
+    "notes": "Commenced operations on 22 March 2011. Ceased operations on 27 February 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.958478"
+  },
+  {
+    "name": "Venda Airways",
+    "IATA": null,
+    "ICAO": "VAA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.958495"
+  },
+  {
+    "name": "Wing Airways (Pty) Ltd.",
+    "IATA": null,
+    "ICAO": "WNG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.958511"
+  },
+  {
+    "name": "Zenith Air CC",
+    "IATA": null,
+    "ICAO": "AZR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.958527"
+  },
+  {
+    "name": "Air Survey Company of Africa Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:45.958544"
+  }
+]

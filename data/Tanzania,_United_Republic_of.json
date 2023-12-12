@@ -1,0 +1,281 @@
+[
+  {
+    "name": "Aerovista (T)",
+    "IATA": null,
+    "ICAO": "VTZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:12.751415"
+  },
+  {
+    "name": "Air Africa International Ltd.",
+    "IATA": null,
+    "ICAO": "GEM",
+    "website": "airafricainternational.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:12.751444"
+  },
+  {
+    "name": "Air Excel",
+    "IATA": null,
+    "ICAO": "XLL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:12.751462"
+  },
+  {
+    "name": "Air Tanzania Company Limited",
+    "IATA": "TC",
+    "ICAO": "ATC",
+    "website": "airtanzania.co.tz",
+    "notes": "Name changed from Air Tanzania Corporation. ICAO callsign changed from Tango Charlie",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:12.751481"
+  },
+  {
+    "name": "Auric Air Services Limited",
+    "IATA": null,
+    "ICAO": "AUK",
+    "website": "www.auricair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:12.751497"
+  },
+  {
+    "name": "Coastal Travels Limited",
+    "IATA": "CQ",
+    "ICAO": "CSV",
+    "website": "www.coastal.co.tz",
+    "notes": "IATA designator changed from 7I.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:12.751515"
+  },
+  {
+    "name": "Community Airlines",
+    "IATA": null,
+    "ICAO": "CML",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:12.751531"
+  },
+  {
+    "name": "Flightlink Limited",
+    "IATA": "YS",
+    "ICAO": "FLZ",
+    "website": "www.flightlink.co.tz",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:12.751547"
+  },
+  {
+    "name": "Jetlink Express (T) Limited",
+    "IATA": null,
+    "ICAO": "JLT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:12.751563"
+  },
+  {
+    "name": "Kahama Mining Corporation",
+    "IATA": null,
+    "ICAO": "KMC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:12.751578"
+  },
+  {
+    "name": "Precision Air Services Ltd.",
+    "IATA": "PW",
+    "ICAO": "PRF",
+    "website": "www.precisionairtz.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:12.751594"
+  },
+  {
+    "name": "Regional Air Services Limited",
+    "IATA": "8N",
+    "ICAO": "REG",
+    "website": "www.regionaltanzania.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:12.751610"
+  },
+  {
+    "name": "Coastal Aviation",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.coastal.cc",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:12.751626"
+  },
+  {
+    "name": "FastJet plc",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.fastjet.com",
+    "notes": "FastJet plc is the holding company for Fly540. Founded 2011. Planned start of operation Nov 2012",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:12.751643"
+  },
+  {
+    "name": "Air Express Limited",
+    "IATA": null,
+    "ICAO": "AEJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:12.751659"
+  },
+  {
+    "name": "Air Star Zanzibar",
+    "IATA": null,
+    "ICAO": "AZU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:12.751675"
+  },
+  {
+    "name": "Air Tanzania Corporation",
+    "IATA": "TC",
+    "ICAO": "ATC",
+    "website": "www.airtanzania.com",
+    "notes": "Name changed to Air Tanzania Company Ltd. ICAO callsign changed from Tango Charlie",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:12.751692"
+  },
+  {
+    "name": "Air Tanzania Corporation",
+    "IATA": "TC",
+    "ICAO": "ATC",
+    "website": "www.airtanzania.com",
+    "notes": "ICAO callsign changed to Tanzania",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:12.751709"
+  },
+  {
+    "name": "Air Zanzibar Limited",
+    "IATA": null,
+    "ICAO": "AZL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:12.751725"
+  },
+  {
+    "name": "Coastal Travels Limited",
+    "IATA": "7I",
+    "ICAO": "CSV",
+    "website": "www.coastal.co.tz",
+    "notes": "IATA designator changed to CQ.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:12.751742"
+  },
+  {
+    "name": "Continental International Airways",
+    "IATA": "NT",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:12.751758"
+  },
+  {
+    "name": "Eagle Air Ltd.",
+    "IATA": null,
+    "ICAO": "EFL",
+    "website": null,
+    "notes": "Designator EY* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:12.751775"
+  },
+  {
+    "name": "fastjet Airlines Limited.",
+    "IATA": "FN",
+    "ICAO": "FTZ",
+    "website": "www.fastjet.com",
+    "notes": "Name changed from Fly 540 Tanzania Ltd. Founded in 2011. Commenced operations on 29 November 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:12.751793"
+  },
+  {
+    "name": "Fly 540 Tanzania Ltd",
+    "IATA": "FN",
+    "ICAO": "FTZ",
+    "website": "www.fly540.com",
+    "notes": "Name changed to Fastjet Airlines Limited.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:12.751810"
+  },
+  {
+    "name": "Lion Air Cargo Tanzania Limited",
+    "IATA": "LE",
+    "ICAO": null,
+    "website": "www.lionaircargo.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:12.751827"
+  },
+  {
+    "name": "New ACS Ltd.",
+    "IATA": null,
+    "ICAO": "NWC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:12.751843"
+  },
+  {
+    "name": "Sahara Air Cargo Limited",
+    "IATA": null,
+    "ICAO": "SFQ",
+    "website": "www.saharaaviation.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:12.751860"
+  },
+  {
+    "name": "Skyplan East Africa Ltd.",
+    "IATA": null,
+    "ICAO": "SYP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:12.751877"
+  },
+  {
+    "name": "Space Cargo (T) Ltd.",
+    "IATA": null,
+    "ICAO": "SCF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:12.751893"
+  },
+  {
+    "name": "Tanavco Airways Ltd.",
+    "IATA": null,
+    "ICAO": "TNA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:12.751910"
+  },
+  {
+    "name": "ZanAir Limited",
+    "IATA": "B4",
+    "ICAO": "TAN",
+    "website": "www.zanair.com",
+    "notes": "Designator B4 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:12.751927"
+  }
+]

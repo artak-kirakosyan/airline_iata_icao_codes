@@ -1,0 +1,596 @@
+[
+  {
+    "name": "Airdeal Oy",
+    "IATA": null,
+    "ICAO": "ADU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:07.784380"
+  },
+  {
+    "name": "Airecon Oy",
+    "IATA": null,
+    "ICAO": "WLI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:07.784407"
+  },
+  {
+    "name": "Airfix Aviation",
+    "IATA": null,
+    "ICAO": "FIX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:07.784424"
+  },
+  {
+    "name": "Airwings Oy",
+    "IATA": null,
+    "ICAO": "WGS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:07.784440"
+  },
+  {
+    "name": "BF-Lento Oy",
+    "IATA": null,
+    "ICAO": "BKF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:07.784456"
+  },
+  {
+    "name": "Blue1 Oy",
+    "IATA": null,
+    "ICAO": "BLF",
+    "website": "www.blue1.com",
+    "notes": "Designator KF recalled by IATA. Sold to CityJet in October 2015. Name changed from Oy Air Botnia AB. ICAO designator changed from KFB. ICAO callsign changed from Botnia",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:07.784474"
+  },
+  {
+    "name": "Copterline OU",
+    "IATA": null,
+    "ICAO": "CPE",
+    "website": "www.copterline.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:07.784491"
+  },
+  {
+    "name": "Copterplus Finland Oy",
+    "IATA": null,
+    "ICAO": "CPP",
+    "website": "www.copterplus.fi",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:07.784507"
+  },
+  {
+    "name": "Euro-Flite Oy Ltd.",
+    "IATA": null,
+    "ICAO": "KOA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:07.784523"
+  },
+  {
+    "name": "Finnair Oyj",
+    "IATA": "AY",
+    "ICAO": "FIN",
+    "website": "www.finnair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:07.784538"
+  },
+  {
+    "name": "FinnHEMS Oy",
+    "IATA": null,
+    "ICAO": "FIH",
+    "website": "www.finnhems.fi",
+    "notes": "Name changed HEMS Hallinnointi Oy.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:07.784555"
+  },
+  {
+    "name": "Finnish Air Force",
+    "IATA": null,
+    "ICAO": "FNF",
+    "website": null,
+    "notes": "Head Quarters",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:07.784571"
+  },
+  {
+    "name": "Finnish Border Guard",
+    "IATA": null,
+    "ICAO": "FNG",
+    "website": "www.raja.fi",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:07.784586"
+  },
+  {
+    "name": "Fly7 Finland Oy",
+    "IATA": null,
+    "ICAO": "FSF",
+    "website": "www.fly7.ch",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:07.784602"
+  },
+  {
+    "name": "Go! Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "GGO",
+    "website": "goaviation.fi",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:07.784618"
+  },
+  {
+    "name": "Aerocom Aviation Oy t/a Helsinki Citycopter",
+    "IATA": null,
+    "ICAO": "HCX",
+    "website": "www.helsinkicitycopter.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:07.784633"
+  },
+  {
+    "name": "Hendell Aviation Oy",
+    "IATA": null,
+    "ICAO": "HDL",
+    "website": "www.hendellaviation.fi",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:07.784649"
+  },
+  {
+    "name": "Jet Time Oy",
+    "IATA": null,
+    "ICAO": "JTF",
+    "website": "www.jet-time.dk",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:07.784664"
+  },
+  {
+    "name": "Jetflite Oy",
+    "IATA": null,
+    "ICAO": "JEF",
+    "website": "www.jetflite.fi",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:07.784679"
+  },
+  {
+    "name": "JS Aviation",
+    "IATA": null,
+    "ICAO": "JSM",
+    "website": "JS Aviation",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:07.784694"
+  },
+  {
+    "name": "Nordicflite Oy Ltd",
+    "IATA": null,
+    "ICAO": "NFE",
+    "website": "www.nordicflite.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:07.784710"
+  },
+  {
+    "name": "Nordic Regional Airlines Oy",
+    "IATA": "N7",
+    "ICAO": "FCM",
+    "website": "flynorra.com",
+    "notes": "Formerly Flybe Finland Oy.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:07.784725"
+  },
+  {
+    "name": "Oulun Tilauslento Oy",
+    "IATA": null,
+    "ICAO": "FNL",
+    "website": "www.ouluntilauslento.fi",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:07.784741"
+  },
+  {
+    "name": "Patria Pilot Training Oy",
+    "IATA": null,
+    "ICAO": "PPT",
+    "website": "www.patriagroup.com/services/professional-pilot-training",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:07.784756"
+  },
+  {
+    "name": "Ronnair Oy",
+    "IATA": null,
+    "ICAO": "RIR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:07.784772"
+  },
+  {
+    "name": "Scanwings Oy",
+    "IATA": null,
+    "ICAO": "ABF",
+    "website": "www.scanwings.fi",
+    "notes": "Name changed from Aerial Oy.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:07.784787"
+  },
+  {
+    "name": "Skargardshavets Helikoptertjanst AB (SHT)",
+    "IATA": null,
+    "ICAO": "MHQ",
+    "website": "www.shtab.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:07.784803"
+  },
+  {
+    "name": "Snowbird Airlines Oy",
+    "IATA": null,
+    "ICAO": "SBW",
+    "website": "www.snowbird.fi",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:07.784818"
+  },
+  {
+    "name": "Turku Air Oy",
+    "IATA": null,
+    "ICAO": "TKI",
+    "website": "www.turkuair.fi",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:07.784833"
+  },
+  {
+    "name": "Viking International Airlines (VIA)",
+    "IATA": null,
+    "ICAO": "ICI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:07.784849"
+  },
+  {
+    "name": "Air Aland",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.airaland.com",
+    "notes": "Flights operated by Avitrans Nordic AB IATA Code 2Q",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:07.784865"
+  },
+  {
+    "name": "Aerial Oy",
+    "IATA": null,
+    "ICAO": "ABF",
+    "website": null,
+    "notes": "Name changed to Scanwings Oy.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:07.784881"
+  },
+  {
+    "name": "Air Aland",
+    "IATA": "9N",
+    "ICAO": "NVD",
+    "website": "www.airaland.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:07.784896"
+  },
+  {
+    "name": "Oy Air Botnia AB",
+    "IATA": "KF",
+    "ICAO": "KFB",
+    "website": "www.airbotnia.fi",
+    "notes": "Name changed to Blue 1 in January 2004. ICAO callsign changed to Bluefinn",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:07.784913"
+  },
+  {
+    "name": "Air Express A.S.",
+    "IATA": null,
+    "ICAO": "AXP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:07.784928"
+  },
+  {
+    "name": "Air Finland Ltd.",
+    "IATA": "OF",
+    "ICAO": "FIF",
+    "website": "www.airfinland.fi",
+    "notes": "Ceased operations and declared bankrupt on 26 June 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:07.784945"
+  },
+  {
+    "name": "A.S. Air-X",
+    "IATA": null,
+    "ICAO": "NAX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:07.784960"
+  },
+  {
+    "name": "Blue1 Oy",
+    "IATA": "KF",
+    "ICAO": "BLF",
+    "website": "www.blue1.com/fi/",
+    "notes": "Designator KF recalled by IATA. Sold to CityJet in October 2015. Name changed from Oy Air Botnia AB. ICAO designator changed from KFB. ICAO callsign changed from Botnia",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:07.784978"
+  },
+  {
+    "name": "Blue1 Oy",
+    "IATA": "KF",
+    "ICAO": "KFB",
+    "website": "www.blue1.com/fi/",
+    "notes": "Name changed from Oy Air Botnia AB. ICAO designator changed to BLF. ICAO callsign changed to Bluefinn",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:07.784994"
+  },
+  {
+    "name": "Cloudex Oy",
+    "IATA": null,
+    "ICAO": "CDX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:07.785008"
+  },
+  {
+    "name": "Copter Action Oy",
+    "IATA": null,
+    "ICAO": "AAQ",
+    "website": null,
+    "notes": "Name changed to Copterline Oy. ICAO callsign changed to Copterline",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:07.785025"
+  },
+  {
+    "name": "Copterline Oy",
+    "IATA": null,
+    "ICAO": "AAQ",
+    "website": "www.copterline.com",
+    "notes": "Name changed from Copter Action Oy",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:07.785041"
+  },
+  {
+    "name": "Deltacraft Oy",
+    "IATA": null,
+    "ICAO": "DEC",
+    "website": "www.deltacraft.net/",
+    "notes": "Designator 4L* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:07.785058"
+  },
+  {
+    "name": "Finnaviation O/Y",
+    "IATA": null,
+    "ICAO": "FAV",
+    "website": null,
+    "notes": "Designator FV recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:07.785073"
+  },
+  {
+    "name": "Finnaviation O/Y",
+    "IATA": "FV",
+    "ICAO": "FAV",
+    "website": null,
+    "notes": "Designator FV recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:07.785089"
+  },
+  {
+    "name": "Finnish Commuter Airlines Oy",
+    "IATA": "FC",
+    "ICAO": "WBA",
+    "website": "www.finncomm.fi",
+    "notes": "ICAO designator changed to FCM. ICAO callsign changed to Finncomm. Name changed from Finnish Commuter Airlines Oy dba West Bird Aviation",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:07.785107"
+  },
+  {
+    "name": "Finnish Commuter Airlines Oy d/b/a Finncomm Airines",
+    "IATA": "FC",
+    "ICAO": "FCM",
+    "website": "www.finncomm.fi",
+    "notes": "ICAO designator changed from WBA. ICAO callsign changed from Westbird. Name changed from Finnish Commuter Airlines Oy dba West Bird Aviation",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:07.785123"
+  },
+  {
+    "name": "HEMS Hallinnointi Oy",
+    "IATA": null,
+    "ICAO": "FIH",
+    "website": "www.finnhems.fi",
+    "notes": "Name changed to FinnHEMS Oy.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:07.785139"
+  },
+  {
+    "name": "Finnish Commuter Airlines Oy",
+    "IATA": "FC",
+    "ICAO": "WBA",
+    "website": "www.fc.fi/mainpage",
+    "notes": "Name changed to Finncomm",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:07.785155"
+  },
+  {
+    "name": "Etela-Pohjanmaan Lentokeskus Oy (West Bird Aviation)",
+    "IATA": "FC",
+    "ICAO": "WBA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:07.785171"
+  },
+  {
+    "name": "Flybe Finland Oy",
+    "IATA": "FC",
+    "ICAO": "FCM",
+    "website": "fi.flybe.com",
+    "notes": "Name changed from Finnish Commuter Airlines Oy d/b/a Finncomm Airines. ICAO designator changed from WBA. ICAO callsign changed from Westbird. Name changed from Finnish Commuter Airlines Oy dba West Bird Aviation",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:07.785189"
+  },
+  {
+    "name": "Flying Finn Airways Oy",
+    "IATA": null,
+    "ICAO": "FFW",
+    "website": "www.flyfi.net",
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:07.785205"
+  },
+  {
+    "name": "Henry Nielsen, Oy, Ab.",
+    "IATA": "HY",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:07.785220"
+  },
+  {
+    "name": "Inter Flight Ltd Oy",
+    "IATA": null,
+    "ICAO": "INF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:07.785236"
+  },
+  {
+    "name": "John Nurminen O/Y",
+    "IATA": null,
+    "ICAO": "JNA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:07.785251"
+  },
+  {
+    "name": "John Nurminen Oy",
+    "IATA": "JN",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:07.785265"
+  },
+  {
+    "name": "Kar-Air O/Y",
+    "IATA": null,
+    "ICAO": "KAR",
+    "website": null,
+    "notes": "Merged into Finnair",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:07.785281"
+  },
+  {
+    "name": "Kar-Air O/Y",
+    "IATA": "KR",
+    "ICAO": "KAR",
+    "website": null,
+    "notes": "Designator KR recalled by IATA. Merged into Finnair",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:07.785297"
+  },
+  {
+    "name": "Lillbacka Jetair Oy",
+    "IATA": null,
+    "ICAO": "FPC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:07.785312"
+  },
+  {
+    "name": "Morelfy A.S.",
+    "IATA": null,
+    "ICAO": "MOR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:07.785327"
+  },
+  {
+    "name": "Nordic Global Airlines Oy",
+    "IATA": null,
+    "ICAO": "NGB",
+    "website": "www.nordicglobalcargo.com",
+    "notes": "Founded on 11 April 2011. Ceased opeation on 31 May 2015. Subsidiary of Finnair Group and Neff Capital Management.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:07.785344"
+  },
+  {
+    "name": "Oulun Helikopteripalvelu Oy (Copterplus)",
+    "IATA": null,
+    "ICAO": "CPP",
+    "website": "www.copterplus.fi",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:07.785359"
+  },
+  {
+    "name": "Skargardsflyg AB",
+    "IATA": "5Q",
+    "ICAO": "LND",
+    "website": null,
+    "notes": "Designator 5Q recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:07.785374"
+  },
+  {
+    "name": "Oy Soder Air Ltd.",
+    "IATA": "OY",
+    "ICAO": "SDE",
+    "website": "www.soder.fi",
+    "notes": "Designator OY recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:07.785389"
+  },
+  {
+    "name": "Oy Soder Air Ltd.",
+    "IATA": null,
+    "ICAO": "SDE",
+    "website": "www.soder.fi",
+    "notes": "Name changed to Airlink. Designator OY recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:07.785405"
+  },
+  {
+    "name": "Wihuri-Yhtyn\u00e4 Oy",
+    "IATA": "WH",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:07.785420"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Aerovaradero, S.A.",
+    "IATA": null,
+    "ICAO": "AVY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:41.526053"
+  },
+  {
+    "name": "Cubana de Aviacion, S.A.",
+    "IATA": "CU",
+    "ICAO": "CUB",
+    "website": "www.cubana.cu",
+    "notes": "Name changed from Empresa Consolidada Cubana de Aviacion",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:41.526081"
+  },
+  {
+    "name": "Empresa Nacional de Servicios Aereos",
+    "IATA": null,
+    "ICAO": "CNI",
+    "website": null,
+    "notes": "Founded in 1995.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:41.526099"
+  },
+  {
+    "name": "Geocuba",
+    "IATA": null,
+    "ICAO": "GOC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:41.526114"
+  },
+  {
+    "name": "Empresa Aerocaribbean S.A. d/b/a Aero Caribbean",
+    "IATA": null,
+    "ICAO": "CRN",
+    "website": "aerocaribbean.cu",
+    "notes": "Founded in 1983. Designator 7L recalled IATA. Designator 7L reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:41.526132"
+  },
+  {
+    "name": "Empresa Aerocaribbean S.A. d/b/a Aero Caribbean",
+    "IATA": "7L",
+    "ICAO": "CRN",
+    "website": "www.aero-caribbean.com",
+    "notes": "Designator 7L recalled IATA. Designator 7L reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:41.526149"
+  },
+  {
+    "name": "Aerocaribbean S.A.",
+    "IATA": "CR",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:41.526166"
+  },
+  {
+    "name": "Empresa de Aviacion Aerogaviota, S.A.",
+    "IATA": "KG",
+    "ICAO": "GTV",
+    "website": "aerogaviota.com",
+    "notes": "Founded on 02 December 1982.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:41.526182"
+  },
+  {
+    "name": "Empresa Consolidada Cubana de Aviacion",
+    "IATA": "CU",
+    "ICAO": "CUB",
+    "website": "www.cubana.cu",
+    "notes": "Name changed to Cubana de Aviacion, S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:41.526199"
+  },
+  {
+    "name": "Viazul",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.viazul.com",
+    "notes": "Bus Service",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:41.526214"
+  }
+]

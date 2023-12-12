@@ -1,0 +1,209 @@
+[
+  {
+    "name": "Aerolift Company",
+    "IATA": null,
+    "ICAO": "LFT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:38.092905"
+  },
+  {
+    "name": "Africa Air Links",
+    "IATA": null,
+    "ICAO": "AFK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:38.092937"
+  },
+  {
+    "name": "Air Leone Company Ltd.",
+    "IATA": null,
+    "ICAO": "RLL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:38.092956"
+  },
+  {
+    "name": "Air Rum Ltd.",
+    "IATA": null,
+    "ICAO": "RUM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:38.092972"
+  },
+  {
+    "name": "Air Sultan Limited",
+    "IATA": null,
+    "ICAO": "SSL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:38.092987"
+  },
+  {
+    "name": "Air Universal Limited",
+    "IATA": null,
+    "ICAO": "UVS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:38.093002"
+  },
+  {
+    "name": "Central Airways Limited",
+    "IATA": null,
+    "ICAO": "CNY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:38.093017"
+  },
+  {
+    "name": "Inter Tropic Airlines (S.L.) Ltd.",
+    "IATA": null,
+    "ICAO": "NTT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:38.093033"
+  },
+  {
+    "name": "Pan African Air Services Limited",
+    "IATA": null,
+    "ICAO": "PFN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:38.093048"
+  },
+  {
+    "name": "Paramount Airlines Limited",
+    "IATA": null,
+    "ICAO": "PRR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:38.093063"
+  },
+  {
+    "name": "Sky Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "SSY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:38.093079"
+  },
+  {
+    "name": "Star Air Limited",
+    "IATA": null,
+    "ICAO": "SIM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:38.093094"
+  },
+  {
+    "name": "Trans Atlantic Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "TLL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:38.093110"
+  },
+  {
+    "name": "Transport Africa Limited",
+    "IATA": null,
+    "ICAO": "TLF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:38.093126"
+  },
+  {
+    "name": "West Coast Airways Limited",
+    "IATA": null,
+    "ICAO": "WCA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:38.093142"
+  },
+  {
+    "name": "Air Salone",
+    "IATA": "2O",
+    "ICAO": "RNE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:38.093157"
+  },
+  {
+    "name": "Bellview Airlines S/L Ltd.",
+    "IATA": null,
+    "ICAO": "BVU",
+    "website": "www.flybellviewair.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:38.093175"
+  },
+  {
+    "name": "Eagle Air",
+    "IATA": null,
+    "ICAO": "EGR",
+    "website": null,
+    "notes": "Founded in 2006. Ceased operations in 2016.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:38.093192"
+  },
+  {
+    "name": "Fly Salone Airways Ltd",
+    "IATA": "5L",
+    "ICAO": null,
+    "website": "fly-salone.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:38.093213"
+  },
+  {
+    "name": "Orange Air Sierra Leone Limited",
+    "IATA": null,
+    "ICAO": "ORJ",
+    "website": "www.orange-air.net",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:38.093230"
+  },
+  {
+    "name": "Sierra Leone Airways Ltd.",
+    "IATA": "LJ",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:38.093247"
+  },
+  {
+    "name": "Sierra National Airlines",
+    "IATA": "LJ",
+    "ICAO": "SLA",
+    "website": "www.sierranationalair.com",
+    "notes": "Designator LJ recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:38.093264"
+  },
+  {
+    "name": "Teebah Airlines",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:38.093282"
+  }
+]

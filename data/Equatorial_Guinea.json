@@ -1,0 +1,425 @@
+[
+  {
+    "name": "Air Consul, S.A.",
+    "IATA": null,
+    "ICAO": "RCS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:58.514133"
+  },
+  {
+    "name": "Air Maken",
+    "IATA": null,
+    "ICAO": "AKE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:58.514182"
+  },
+  {
+    "name": "Ceiba Intercontinental",
+    "IATA": null,
+    "ICAO": "CEL",
+    "website": "www.fly-ceiba.com",
+    "notes": "IATA designator C2 recalled",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:58.514209"
+  },
+  {
+    "name": "CET Aviation",
+    "IATA": null,
+    "ICAO": "CVN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:58.514233"
+  },
+  {
+    "name": "Cronos Airlines",
+    "IATA": null,
+    "ICAO": "CRA",
+    "website": "www.cronosair.com",
+    "notes": "Accounting code 498 recalled by IATA.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:58.514258"
+  },
+  {
+    "name": "Ducor World Airlines",
+    "IATA": null,
+    "ICAO": "DWA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:58.514287"
+  },
+  {
+    "name": "Equatorial Congo Airlines Branded ECAir",
+    "IATA": null,
+    "ICAO": "EQR",
+    "website": null,
+    "notes": "Planned start-up.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:58.514317"
+  },
+  {
+    "name": "Ecuato - Guineana de Aviacion",
+    "IATA": null,
+    "ICAO": "EGA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:58.514341"
+  },
+  {
+    "name": "Ecuatoguineana de Aviacion (EGA)",
+    "IATA": null,
+    "ICAO": "ECV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:58.514365"
+  },
+  {
+    "name": "Ecuatorial Cargo",
+    "IATA": null,
+    "ICAO": "EQC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:58.514389"
+  },
+  {
+    "name": "Equatorial Airlines, S.A.",
+    "IATA": null,
+    "ICAO": "EQT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:58.514429"
+  },
+  {
+    "name": "Gobierno de la Republica de Guinea Ecuatorial",
+    "IATA": null,
+    "ICAO": "GGE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:58.514481"
+  },
+  {
+    "name": "Guinea Cargo",
+    "IATA": null,
+    "ICAO": "GNC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:58.514521"
+  },
+  {
+    "name": "Lotus International Air",
+    "IATA": null,
+    "ICAO": "LUS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:58.514564"
+  },
+  {
+    "name": "Nagesa, Compania Aerea",
+    "IATA": null,
+    "ICAO": "NGS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:58.514602"
+  },
+  {
+    "name": "Presidencia de la Republica de Guinea Ecuatorial",
+    "IATA": null,
+    "ICAO": "ONM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:58.514639"
+  },
+  {
+    "name": "Punta Europa Aviacion",
+    "IATA": null,
+    "ICAO": "PEM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:58.514674"
+  },
+  {
+    "name": "Skimaster Guinea Ecuatorial",
+    "IATA": null,
+    "ICAO": "KIM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:58.514716"
+  },
+  {
+    "name": "Southern Gateway",
+    "IATA": null,
+    "ICAO": "SGE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:58.514752"
+  },
+  {
+    "name": "Unifly",
+    "IATA": null,
+    "ICAO": "UFL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:58.514787"
+  },
+  {
+    "name": "Union de Transportes Aereo de Guinea Ecuatorial",
+    "IATA": null,
+    "ICAO": "UTG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:58.514822"
+  },
+  {
+    "name": "Air Annob\u00f3n",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:58.514857"
+  },
+  {
+    "name": "Air Guinea Cargo, S.A.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:58.514894"
+  },
+  {
+    "name": "Air Services Guinea Ecuatorial",
+    "IATA": null,
+    "ICAO": "SVG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:58.514928"
+  },
+  {
+    "name": "Algesa, Aerolineas Guinea Ecuatorial",
+    "IATA": "IH",
+    "ICAO": "IHA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:58.514964"
+  },
+  {
+    "name": "Aviage",
+    "IATA": null,
+    "ICAO": "VGG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:58.514996"
+  },
+  {
+    "name": "Avirex Guinee Equatoriale",
+    "IATA": null,
+    "ICAO": "AXG",
+    "website": null,
+    "notes": "Ceased operations during 2006.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:58.515029"
+  },
+  {
+    "name": "Cargo Plus Aviation",
+    "IATA": null,
+    "ICAO": "CGP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:58.515065"
+  },
+  {
+    "name": "Ceiba Intercontinental",
+    "IATA": "C2",
+    "ICAO": "CEL",
+    "website": "www.fly-ceiba.com",
+    "notes": "IATA designator C2 recalled",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:58.515100"
+  },
+  {
+    "name": "Cess",
+    "IATA": null,
+    "ICAO": "CSS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:58.515132"
+  },
+  {
+    "name": "Compania Aerea de Guinea Ecuatorial (COAGE)",
+    "IATA": null,
+    "ICAO": "COG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:58.515165"
+  },
+  {
+    "name": "Compania Aerea Viages Guinea Airlines",
+    "IATA": "G2",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:58.515196"
+  },
+  {
+    "name": "Cronos Airlines",
+    "IATA": null,
+    "ICAO": "CRA",
+    "website": "www.cronosair.com",
+    "notes": "Accounting code 498 recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:58.515227"
+  },
+  {
+    "name": "Equatorial Congo Airlines Ltd (ECAir)",
+    "IATA": "LC",
+    "ICAO": null,
+    "website": "flyecair.com",
+    "notes": "Founded in 2011.  Commenced operations on 24 September 2011. Declared bankrupt in France courts in October 2016. Flights operated by Privatair (PTI)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:58.515268"
+  },
+  {
+    "name": "Ecuato Guineana de Aviaci\u00f3n",
+    "IATA": "8Y",
+    "ICAO": "GGE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:58.515321"
+  },
+  {
+    "name": "Federal Air G.E. Airlines",
+    "IATA": null,
+    "ICAO": "FGE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:58.515355"
+  },
+  {
+    "name": "GATS Guinea, S.A.",
+    "IATA": null,
+    "ICAO": "GTS",
+    "website": null,
+    "notes": "Name changed to GTS Bishkek Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:58.515399"
+  },
+  {
+    "name": "Guinea Ecuatorial Airlines, S.A. (GEASA)",
+    "IATA": null,
+    "ICAO": "GEA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:58.515448"
+  },
+  {
+    "name": "Guinea Ecuatorial de Transportes Aereos (GETRA)",
+    "IATA": null,
+    "ICAO": "GET",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:58.515490"
+  },
+  {
+    "name": "Jetline, Inc.",
+    "IATA": null,
+    "ICAO": "JLE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:58.515532"
+  },
+  {
+    "name": "Compania Aerea Lineas Ecuatoguineanas de Aviacion S.A. (LEASA)",
+    "IATA": null,
+    "ICAO": "LAS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:58.515575"
+  },
+  {
+    "name": "Litoral Airlines, Compania, (Colair)",
+    "IATA": null,
+    "ICAO": "CLO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:58.515625"
+  },
+  {
+    "name": "Prompt Air",
+    "IATA": null,
+    "ICAO": "POM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:58.515665"
+  },
+  {
+    "name": "Skymasters",
+    "IATA": null,
+    "ICAO": "SYM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:58.515718"
+  },
+  {
+    "name": "Space Cargo, Inc.",
+    "IATA": null,
+    "ICAO": "SGO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:58.515766"
+  },
+  {
+    "name": "Trans Africa Airways G.E.S.A.",
+    "IATA": null,
+    "ICAO": "TFR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:58.515817"
+  },
+  {
+    "name": "Victoria Air",
+    "IATA": null,
+    "ICAO": "VIT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:58.515854"
+  }
+]

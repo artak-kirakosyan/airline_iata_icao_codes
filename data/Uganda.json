@@ -1,0 +1,371 @@
+[
+  {
+    "name": "Aerolink Uganda Limited",
+    "IATA": null,
+    "ICAO": "XAU",
+    "website": "www.aerolinkuganda.com",
+    "notes": "Designator A8* reinstated by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:28.428164"
+  },
+  {
+    "name": "Air Bravo",
+    "IATA": null,
+    "ICAO": "BRF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:28.428191"
+  },
+  {
+    "name": "Air Memphis",
+    "IATA": null,
+    "ICAO": "MHU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:28.428208"
+  },
+  {
+    "name": "Air Uganda International Ltd.",
+    "IATA": null,
+    "ICAO": "AUX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:28.428225"
+  },
+  {
+    "name": "Almron Aviation Ltd",
+    "IATA": null,
+    "ICAO": "HPO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:28.428240"
+  },
+  {
+    "name": "Bond Air Services Ltd.",
+    "IATA": null,
+    "ICAO": "BOD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:28.428256"
+  },
+  {
+    "name": "Eagle Air Ltd.",
+    "IATA": null,
+    "ICAO": "EGU",
+    "website": "www.eagleair-ug.com",
+    "notes": "Designator H7* recalled by IATA. Designator H7* reinstated by IATA / Name changed from Eagle Aviation Uganda",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:28.428273"
+  },
+  {
+    "name": "East Afrian Airlines Limited",
+    "IATA": null,
+    "ICAO": "UGX",
+    "website": "www.flyeastafrican.com",
+    "notes": "Designator QU* recalled by IATA.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:28.428290"
+  },
+  {
+    "name": "Fika Salaama Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "HGK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:28.428305"
+  },
+  {
+    "name": "Five Forty Uganda Limited",
+    "IATA": null,
+    "ICAO": "FUL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:28.428320"
+  },
+  {
+    "name": "Friendship Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "FLF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:28.428336"
+  },
+  {
+    "name": "Great Lakes Airways (U) Ltd.",
+    "IATA": null,
+    "ICAO": "GLU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:28.428351"
+  },
+  {
+    "name": "Meridiana Africa Airlines (U) Ltd",
+    "IATA": null,
+    "ICAO": "UGB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:28.428366"
+  },
+  {
+    "name": "Pearl Air Services (U) Ltd.",
+    "IATA": null,
+    "ICAO": "PBY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:28.428381"
+  },
+  {
+    "name": "Shiv Air Limited",
+    "IATA": null,
+    "ICAO": "HJI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:28.428397"
+  },
+  {
+    "name": "SKA Air and Logistics (Uganda) Limited",
+    "IATA": null,
+    "ICAO": "UGS",
+    "website": "www.ska-arabia.com/skalive/",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:28.428413"
+  },
+  {
+    "name": "Sky Jet",
+    "IATA": null,
+    "ICAO": "SJU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:28.428427"
+  },
+  {
+    "name": "Transafric Uganda Limited",
+    "IATA": null,
+    "ICAO": "TKU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:28.428443"
+  },
+  {
+    "name": "Transarabian Transportation Services Co. Ltd.",
+    "IATA": null,
+    "ICAO": "UTT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:28.428458"
+  },
+  {
+    "name": "Triangle Airline (Uganda) Ltd.",
+    "IATA": null,
+    "ICAO": "TRU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:28.428474"
+  },
+  {
+    "name": "Uganda Air Cargo",
+    "IATA": null,
+    "ICAO": "UCC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:28.428488"
+  },
+  {
+    "name": "Uganda National Airlines Company Limited d/b/a/ Uganda Airlines",
+    "IATA": "UR",
+    "ICAO": "UGD",
+    "website": "ugandaairlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:28.428504"
+  },
+  {
+    "name": "Uganda Royal Airways",
+    "IATA": null,
+    "ICAO": "RAU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:28.428520"
+  },
+  {
+    "name": "Victoria International Airways Ltd",
+    "IATA": null,
+    "ICAO": "WEV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:28.428536"
+  },
+  {
+    "name": "Aerolink Uganda Limited",
+    "IATA": null,
+    "ICAO": "XAU",
+    "website": "www.aerolinkuganda.com",
+    "notes": "Designator A8* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:28.428552"
+  },
+  {
+    "name": "Meridiana African Airlines (U) Limited d/b/a Air Uganda",
+    "IATA": "U7",
+    "ICAO": "UGA",
+    "website": "www.air-uganda.com",
+    "notes": "Founded in 2007.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:28.428569"
+  },
+  {
+    "name": "African Joint Air Services d/b/a Alliance Air",
+    "IATA": "Y2",
+    "ICAO": "AFJ",
+    "website": null,
+    "notes": "Ceased operations on 08 October 2000.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:28.428585"
+  },
+  {
+    "name": "Dairo Air Services Ltd.",
+    "IATA": null,
+    "ICAO": "DSR",
+    "website": "www.dasair.com",
+    "notes": "Designator SE* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:28.428602"
+  },
+  {
+    "name": "Dairo Air Services Ltd.",
+    "IATA": null,
+    "ICAO": "DSR",
+    "website": "www.dasair.com",
+    "notes": "Designator SE* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:28.428618"
+  },
+  {
+    "name": "Eagle Air Ltd.",
+    "IATA": null,
+    "ICAO": "EGU",
+    "website": "www.flyeagleuganda.com",
+    "notes": "Designator H7* reinstated by IATA / Name changed from Eagle Aviation Uganda",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:28.428634"
+  },
+  {
+    "name": "Eagle Aviation Uganda",
+    "IATA": null,
+    "ICAO": "EGU",
+    "website": null,
+    "notes": "Designator H7* reinstated by IATA / Name changed to Eagle Air Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:28.428651"
+  },
+  {
+    "name": "East Afrian Airlines Limited",
+    "IATA": null,
+    "ICAO": "UGX",
+    "website": null,
+    "notes": "IATA designator changed to QU",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:28.428667"
+  },
+  {
+    "name": "East Afrian Airlines Limited",
+    "IATA": "QU",
+    "ICAO": "UGX",
+    "website": "www.flyeastafrican.com",
+    "notes": "IATA designator changed from QU*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:28.428683"
+  },
+  {
+    "name": "East Afrian Airlines Limited",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "IATA designator change to QU",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:28.428699"
+  },
+  {
+    "name": "Royal Daisy Airlines",
+    "IATA": "6D",
+    "ICAO": "KDR",
+    "website": "www.royaldaisy.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:28.428715"
+  },
+  {
+    "name": "Sky Jet Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "SJA",
+    "website": "www.fly-skyjet.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:28.428731"
+  },
+  {
+    "name": "Uganda Air Limited",
+    "IATA": "UJ",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:28.428746"
+  },
+  {
+    "name": "Uganda Airlines Corp.",
+    "IATA": "QU",
+    "ICAO": "UGA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:28.428761"
+  },
+  {
+    "name": "Uganda Airlines Holdings Ltd.",
+    "IATA": "QU",
+    "ICAO": "UGA",
+    "website": null,
+    "notes": "Name changed from Uganda Airlines Corp. Operations restarted. Ceased operations in October 2000",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:28.428778"
+  },
+  {
+    "name": "Uganda Airlines Corp.",
+    "IATA": "QU",
+    "ICAO": "UGA",
+    "website": null,
+    "notes": "Name changed to Uganda Airlines Holdings Ltd. Operations restarted. Ceased operations in October 2000",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:28.428794"
+  },
+  {
+    "name": "Uganda Aviation Services",
+    "IATA": "UG",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:28.428810"
+  }
+]

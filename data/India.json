@@ -1,0 +1,821 @@
+[
+  {
+    "name": "Air Deccan",
+    "IATA": null,
+    "ICAO": "DKN",
+    "website": "www.airdeccan.co.in",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:41.097932"
+  },
+  {
+    "name": "Air India Limited",
+    "IATA": "AI",
+    "ICAO": "AIC",
+    "website": "www.airindia.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:41.097961"
+  },
+  {
+    "name": "Air India Charters Limited",
+    "IATA": null,
+    "ICAO": "AXB",
+    "website": "www.airindiaexpress.in",
+    "notes": "Designator IX* reinstated by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:41.097981"
+  },
+  {
+    "name": "AIX Connect Private Limited t/a Air India Express",
+    "IATA": "I5",
+    "ICAO": "IAD",
+    "website": "www.airindiaexpress.com",
+    "notes": "Founded on 28 March 2013. Commenced operations on 12 June 2014. Name changed from AIX Connect Private Limited t/a AirAsia India and previously from Air Asia (India) Private Limited. ICAO callsign changed from Ariya.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:41.098001"
+  },
+  {
+    "name": "Air Taxi (Aviation Connectivity and Infrastructure Developers Pvt. Ltd.)",
+    "IATA": null,
+    "ICAO": "FAT",
+    "website": "www.flyairtaxi.in",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:41.098019"
+  },
+  {
+    "name": "SNV Aviation Pvt Ltd t/a Akasa Air",
+    "IATA": "QP",
+    "ICAO": "AKJ",
+    "website": "www.akasaair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:41.098036"
+  },
+  {
+    "name": "Airline Allied Services Limited d/b/a Alliance Air",
+    "IATA": "9I",
+    "ICAO": "LLR",
+    "website": "www.allianceair.in",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:41.098052"
+  },
+  {
+    "name": "Bird Information Systems Private Limited",
+    "IATA": "1Z",
+    "ICAO": null,
+    "website": "www.bis.co.in",
+    "notes": "Computer Reservation System",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:41.098069"
+  },
+  {
+    "name": "Blue Dart Aviation Ltd",
+    "IATA": null,
+    "ICAO": "BDA",
+    "website": "www.bluedart.com/aviation.html",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:41.098086"
+  },
+  {
+    "name": "Darwin travel Technology, Inc.",
+    "IATA": "N1",
+    "ICAO": null,
+    "website": "darwin.aero",
+    "notes": "Computer Reservations Systems (CRS)",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:41.098103"
+  },
+  {
+    "name": "Elbee Airlines",
+    "IATA": null,
+    "ICAO": "LBE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:41.098119"
+  },
+  {
+    "name": "Big Charter Pvt. Ltd. d/b/a FlyBig",
+    "IATA": "S9",
+    "ICAO": "FLG",
+    "website": "www.flybig.in",
+    "notes": "Commenced operations on 21 December 2020.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:41.098136"
+  },
+  {
+    "name": "India International Airways (P) Ltd.",
+    "IATA": null,
+    "ICAO": "IIL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:41.098152"
+  },
+  {
+    "name": "Indian Air Force",
+    "IATA": null,
+    "ICAO": "IFC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:41.098168"
+  },
+  {
+    "name": "GSEC Monarch and Deccan Aviation Private Limited d/b/a IndiaOne Air",
+    "IATA": "I7",
+    "ICAO": "IOA",
+    "website": "www.indiaoneair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:41.098186"
+  },
+  {
+    "name": "Interglobe Aviation Ltd. d/b/a Indigo",
+    "IATA": null,
+    "ICAO": "IGO",
+    "website": "www.goindigo.in",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:41.098203"
+  },
+  {
+    "name": "National Airports Authority Of India",
+    "IATA": null,
+    "ICAO": "YXA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:41.098220"
+  },
+  {
+    "name": "Pawan Hans Limited",
+    "IATA": null,
+    "ICAO": "PHE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:41.098236"
+  },
+  {
+    "name": "Pradhaan Air Express Private Ltd",
+    "IATA": null,
+    "ICAO": "PRX",
+    "website": "pradhaanair.com",
+    "notes": "JV between Astral Aviation (Kenya) and UAE-based lessor Vaayu Group. Planned start up with A320-200(P2F).",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:41.098255"
+  },
+  {
+    "name": "Quikjet Cargo Airlines Pvt. Ltd. d/b/a Quikjet Airlines",
+    "IATA": "QO",
+    "ICAO": "FQA",
+    "website": "www.quikjet.co.in",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:41.098272"
+  },
+  {
+    "name": "SpiceJet Ltd",
+    "IATA": "SG",
+    "ICAO": "SEJ",
+    "website": "www.spicejet.com",
+    "notes": "ICAO designator changed from MOD. ICAO callsign changed to Modiluft. Name changed from Royal Airlines Limited. IATA designator changed from 0S.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:41.098290"
+  },
+  {
+    "name": "Ghodawat Enterprises Pvt. Ltd. d/b/a Star Air",
+    "IATA": "S5",
+    "ICAO": "SDG",
+    "website": "starair.in",
+    "notes": "Name changed from Ghodawat Enterprises Pvt. Ltd. d/b/a Ghodawat Aviation. IATA designator changed from OG*.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:41.098308"
+  },
+  {
+    "name": "TATA SIA Airlines Limited t/a Vistara",
+    "IATA": "UK",
+    "ICAO": "VTI",
+    "website": "www.airvistara.com",
+    "notes": "Joint venture between India's Tata Sons and Singapore Airlines.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:41.098326"
+  },
+  {
+    "name": "YuvaJet Airways",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.yuvajet.com",
+    "notes": "Planned startup in December 2020 with 2 x E195. Founded in 2018.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:41.098343"
+  },
+  {
+    "name": "M/S Zexus Air Services Pvt. Ltd t/a Zoom Air",
+    "IATA": "ZO",
+    "ICAO": "ZOM",
+    "website": "www.zoomair.in",
+    "notes": "Founded April 2013. Commence domestic operations in February 2017. Operating licence suspended in July 2018. Restarted operations on 31 October 2019. Insolvency proceedings started on 25 March 2022.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:41.098362"
+  },
+  {
+    "name": "Jagson Airline",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Planned startup with 3 x Do.228 on domestic routes.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.098379"
+  },
+  {
+    "name": "Air Carnival Private Limited",
+    "IATA": "2S",
+    "ICAO": "ACV",
+    "website": "aircarnival.in",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.098395"
+  },
+  {
+    "name": "LEPL Projects Limited t/a Air Costa",
+    "IATA": "LB",
+    "ICAO": "LEP",
+    "website": "wwwaircosta.in",
+    "notes": "Commenced operations on 15 October 2013. Suspended operations on 28 February 2017.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.098425"
+  },
+  {
+    "name": "Air Deccan",
+    "IATA": null,
+    "ICAO": "DKN",
+    "website": "www.airdeccan.net",
+    "notes": "Now Kingfisher Red, known formerly as Simplifly Deccan and prior to that as Air Deccan, is a low-cost airline run by Kingfisher Airlines. Designator DN* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.098445"
+  },
+  {
+    "name": "Air India Charters Limited",
+    "IATA": null,
+    "ICAO": "AXB",
+    "website": "www.airindiaexpress.in",
+    "notes": "Designator IX* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.098462"
+  },
+  {
+    "name": "Air One Aviation Pvt Ltd d/b/a Air One Aviation",
+    "IATA": "AO",
+    "ICAO": null,
+    "website": "aironecharters.com",
+    "notes": "Designator AO recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.098479"
+  },
+  {
+    "name": "Air Pegasus Pvt. Ltd.",
+    "IATA": "OP",
+    "ICAO": "PPL",
+    "website": "www.airpegasus.in",
+    "notes": "Founded in 2014. Commenced operations on 12 April 2015. Ceased operations on 27 July 2016.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.098498"
+  },
+  {
+    "name": "Sahara Airlines Limited t/a Air Sahara",
+    "IATA": "S2",
+    "ICAO": "SHD",
+    "website": "www.airsahara.net",
+    "notes": "Name changed to Jet Lite (India) Limited. ICAO code JLL. Name changed from Sahara India Airlines Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.098516"
+  },
+  {
+    "name": "Air Asia (India) Private Limited t/a AirAsia India",
+    "IATA": "I5",
+    "ICAO": "IAD",
+    "website": "www.airasia.com/in/",
+    "notes": "Founded on 28 March 2013. Commenced operations on 12 June 2014. Name changed to Air Asia (India) Ltd. ICAO callsign changed to Red Knight.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.098534"
+  },
+  {
+    "name": "AIX Connect Private Limited t/a AirAsia India",
+    "IATA": "I5",
+    "ICAO": "IAD",
+    "website": "www.airasia.com/in/",
+    "notes": "Founded on 28 March 2013. Commenced operations on 12 June 2014. Name changed to AIX Connect Private Limited t/a Air India Express. Name changed from Air Asia (India) Private Limited. ICAO callsign changed from Ariya.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.098553"
+  },
+  {
+    "name": "Air Asia (India) Ltd. t/a AirAsia India",
+    "IATA": "I5",
+    "ICAO": "IAD",
+    "website": "www.airasia.com/in/",
+    "notes": "Founded on 28 March 2013. Commenced operations on 12 June 2014. Name changed from Air Asia (India) Private Limited. ICAO callsign changed from Ariya.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.098572"
+  },
+  {
+    "name": "Airways (India) Ltd.",
+    "IATA": "II",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator II recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.098588"
+  },
+  {
+    "name": "Alliance Air",
+    "IATA": null,
+    "ICAO": "LLR",
+    "website": "www.airindia.in/alliance-air.htm",
+    "notes": "Name changed from Air India Regional.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.098604"
+  },
+  {
+    "name": "Archana Airways Ltd.",
+    "IATA": "F5",
+    "ICAO": "ACY",
+    "website": null,
+    "notes": "Founded on 29 April 1991. Commenced operations in 1993. Ceased operations during 2000.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.098621"
+  },
+  {
+    "name": "Aryan Cargo & Express Logistics (P) Ltd. (ACE)",
+    "IATA": "YE",
+    "ICAO": "ACQ",
+    "website": "www.acex.in",
+    "notes": "Ceased operations on 01 June 2010.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.098641"
+  },
+  {
+    "name": "Baronair, M/S Limited",
+    "IATA": null,
+    "ICAO": "BNA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.098658"
+  },
+  {
+    "name": "Bharat Commerce and Industries Ltd.",
+    "IATA": "BI",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.098675"
+  },
+  {
+    "name": "Bird Information Systems Private",
+    "IATA": "1R",
+    "ICAO": null,
+    "website": "www.bird.in",
+    "notes": "Computer Reservation System",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.098693"
+  },
+  {
+    "name": "Cambata Aviation Ltd.",
+    "IATA": "CZ",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.098709"
+  },
+  {
+    "name": "Deccan Cargo & Express Logistics Pvt Ltd",
+    "IATA": "3C",
+    "ICAO": "DEC",
+    "website": "www.deccanexpress.in",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.098727"
+  },
+  {
+    "name": "East West Travel Trade Links Ltd. d/b/a East West Airlines",
+    "IATA": "4S",
+    "ICAO": null,
+    "website": null,
+    "notes": "Founded in 1991.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.098743"
+  },
+  {
+    "name": "Go Airlines (India) Pvt. Ltd.",
+    "IATA": null,
+    "ICAO": "GOW",
+    "website": "www.goair.in",
+    "notes": "Name changed to Go Airlines (India) Pvt. Ltd. d/b/a Go First w.e.f. 13/05/2021",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.098761"
+  },
+  {
+    "name": "Go Airlines (India) Pvt. Ltd. d/b/a Go First",
+    "IATA": null,
+    "ICAO": "GOW",
+    "website": "www.flygofirst.com",
+    "notes": "Name changed from Go Airlines (India) Pvt. Ltd. w.e.f. 13/05/2021",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.098779"
+  },
+  {
+    "name": "Go Airlines (India) Pvt. Ltd. d/b/a Go First",
+    "IATA": "G8",
+    "ICAO": "GOW",
+    "website": "www.flygofirst.com",
+    "notes": "Suspended operations on 02 May 2023. IATA designator chanegd from G8*. Name changed from Go Airlines (India) Pvt. Ltd. w.e.f. 13/05/2021",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.098797"
+  },
+  {
+    "name": "Gujarat Airways Limited",
+    "IATA": null,
+    "ICAO": "GUJ",
+    "website": "www.gujaratairways.com",
+    "notes": "IATA designator changed to G8",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.098813"
+  },
+  {
+    "name": "Gujarat Airways Limited",
+    "IATA": "G8",
+    "ICAO": "GUJ",
+    "website": "www.gujaratairways.com",
+    "notes": "IATA designator changed from G8*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.098830"
+  },
+  {
+    "name": "Helicopter Corporation of India",
+    "IATA": null,
+    "ICAO": "HEC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.098846"
+  },
+  {
+    "name": "Indian Airlines Corporation",
+    "IATA": "IC",
+    "ICAO": "IAC",
+    "website": "indian-airlines.nic.in",
+    "notes": "Name changed to NACIL d/b/a Indian Airlines.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.098863"
+  },
+  {
+    "name": "NACIL d/b/a Indian Airlines",
+    "IATA": "IC",
+    "ICAO": "IAC",
+    "website": "indian-airlines.nic.in",
+    "notes": "Meregd into Air India. Name changed from Indian Airlines Corporation.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.098880"
+  },
+  {
+    "name": "Indus Airways Private Limited",
+    "IATA": "O9",
+    "ICAO": null,
+    "website": "www.indusair.biz",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.098896"
+  },
+  {
+    "name": "International Airports Authority Of India",
+    "IATA": null,
+    "ICAO": "ATY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.098912"
+  },
+  {
+    "name": "Jagson Airlines Limited",
+    "IATA": "JA",
+    "ICAO": "JGL",
+    "website": "www.jagsonairlines.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.098929"
+  },
+  {
+    "name": "Jagson Airlines Limited",
+    "IATA": null,
+    "ICAO": "JGL",
+    "website": "www.jagsonairlines.com",
+    "notes": "Designator JA recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.098945"
+  },
+  {
+    "name": "Jamair Company Ltd.",
+    "IATA": "JC",
+    "ICAO": null,
+    "website": null,
+    "notes": "Ceased Operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.098961"
+  },
+  {
+    "name": "Jet Airways (India) Private Limited",
+    "IATA": "9W",
+    "ICAO": "JAI",
+    "website": "www.jetairways.com",
+    "notes": "Name changed to Jet Airways (India) Limited",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.098979"
+  },
+  {
+    "name": "Jet Airways (India) Limited",
+    "IATA": "9W",
+    "ICAO": "JAI",
+    "website": "www.jetairways.com",
+    "notes": "Temporarily suspended operations on 17 April 2019. Name changed from Jet Airways (India) Private Limited",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.098997"
+  },
+  {
+    "name": "Jet Lite (India) Limited",
+    "IATA": "S2",
+    "ICAO": "RSH",
+    "website": "www.jetlite.com",
+    "notes": "Name changed from Sahara Airlines Limited. ICAO designator changed to JLL. Name changed from Sahara India Airlines Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.099015"
+  },
+  {
+    "name": "JetKonnect",
+    "IATA": "S2",
+    "ICAO": "JLL",
+    "website": "www.jetairways.com",
+    "notes": "Name changed from Jet Lite (India) Limited on 25 March 2012. Name changed from Sahara Airlines Limited on 16 April 2007. ICAO designator changed from RSH",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.099033"
+  },
+  {
+    "name": "JetKonnect",
+    "IATA": "S2",
+    "ICAO": "JLL",
+    "website": "www.jetairways.com",
+    "notes": "Temporarily suspended operations on 17 April 2019. Name changed from Jet Lite (India) Limited on 25 March 2012. Name changed from Sahara Airlines Limited on 16 April 2007. ICAO designator changed from RSH",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.099053"
+  },
+  {
+    "name": "Jet Lite (India) Limited",
+    "IATA": "S2",
+    "ICAO": "JLL",
+    "website": "www.jetlite.com",
+    "notes": "Name changed to JetKonnect on 25 March 2012. Name changed from Sahara Airlines Limited on 16 April 2007. ICAO designator changed from RSH",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.099071"
+  },
+  {
+    "name": "Kalinga Airlines",
+    "IATA": "KA",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.099088"
+  },
+  {
+    "name": "Kasturi and Sons",
+    "IATA": "KY",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.099105"
+  },
+  {
+    "name": "Kingfisher Airlines Limited",
+    "IATA": "IT",
+    "ICAO": "KFR",
+    "website": "www.flykingfisher.com",
+    "notes": "AOC temporarily suspended by Indian DGAC due financial issues.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.099123"
+  },
+  {
+    "name": "Lufthansa Cargo (India)",
+    "IATA": null,
+    "ICAO": "LCI",
+    "website": null,
+    "notes": "Designator LF* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.099140"
+  },
+  {
+    "name": "MDLR Airlines Pvt. Ltd.",
+    "IATA": "9Y",
+    "ICAO": "MDD",
+    "website": "www.mdlrairlines.in",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.099158"
+  },
+  {
+    "name": "Modiluft Limited",
+    "IATA": null,
+    "ICAO": "MOD",
+    "website": null,
+    "notes": "Ceased operations in 1996. AOC transferred to Royal Airways t/a SpiceJet",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.099174"
+  },
+  {
+    "name": "NEPC Airlines ( A Division of NEPC Micon Limited)",
+    "IATA": "D5",
+    "ICAO": "NEP",
+    "website": null,
+    "notes": "Designator D5 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.099191"
+  },
+  {
+    "name": "Paramount Airways Pvt. Ltd.",
+    "IATA": null,
+    "ICAO": "PMW",
+    "website": "www.paramountairways.com",
+    "notes": "Founded in October 2005. AOC suspended as ceased operations in August 2010.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.099209"
+  },
+  {
+    "name": "Quikjet Cargo Airlines Pvt. Ltd",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.quikjet.co.in",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.099226"
+  },
+  {
+    "name": "Quikjet Cargo Airlines Pvt. Ltd.",
+    "IATA": "QO",
+    "ICAO": "FQA",
+    "website": "www.quikjet.co.in",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.099242"
+  },
+  {
+    "name": "Royal Airlines Limited",
+    "IATA": "0S",
+    "ICAO": "MOD",
+    "website": "www.royal-airways.com",
+    "notes": "Name changed to Royal Airlines Limited d/b/a Spice Jet",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.099260"
+  },
+  {
+    "name": "Sahara Airlines Limited",
+    "IATA": "S2",
+    "ICAO": "SHD",
+    "website": "www.airsahara.net",
+    "notes": "Name changed from Sahara India Airlines Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.099277"
+  },
+  {
+    "name": "Sahara India Airlines Ltd.",
+    "IATA": "S2",
+    "ICAO": "SHD",
+    "website": null,
+    "notes": "Name changed to Sahara Airlines Limited",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.099295"
+  },
+  {
+    "name": "Skyline NEPC Ltd.",
+    "IATA": "D2",
+    "ICAO": "SKV",
+    "website": null,
+    "notes": "Designator D2 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.099311"
+  },
+  {
+    "name": "Royal Airlines Limited d/b/a  Spice Jet",
+    "IATA": "0S",
+    "ICAO": "MOD",
+    "website": "www.royal-airways.com",
+    "notes": "Name changed from Royal Airlines Limited. IATA designator changed to SG.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.099329"
+  },
+  {
+    "name": "Royal Airlines Limited d/b/a  Spice Jet",
+    "IATA": "SG",
+    "ICAO": "SEJ",
+    "website": "www.spicejet.com",
+    "notes": "ICAO designator changed from MOD. ICAO callsign changed to Modiluft. Name changed from Royal Airlines Limited. IATA designator changed from 0S.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.099348"
+  },
+  {
+    "name": "Royal Airlines Limited d/b/a  Spice Jet",
+    "IATA": "SG",
+    "ICAO": "MOD",
+    "website": "www.spicejet.com",
+    "notes": "ICAO designator changed to SEJ. ICAO callsign changed to Spicejet. Name changed from Royal Airlines Limited. IATA designator changed from 0S.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.099366"
+  },
+  {
+    "name": "Ghodawat Enterprises Pvt. Ltd. d/b/a Ghodawat Aviation",
+    "IATA": null,
+    "ICAO": "SDG",
+    "website": "www.ghodawataviation.com",
+    "notes": "IATA designator changed to S5.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.099383"
+  },
+  {
+    "name": "Ghodawat Enterprises Pvt. Ltd. d/b/a Ghodawat Aviation",
+    "IATA": "S5",
+    "ICAO": "SDG",
+    "website": "starair.in",
+    "notes": "Name changed to Ghodawat Enterprises Pvt. Ltd. d/b/a Star Air. IATA designator changed from OG*.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.099400"
+  },
+  {
+    "name": "Turbo Mega Airways Pvt. Ltd. t/a trujet",
+    "IATA": "2T",
+    "ICAO": "TRJ",
+    "website": "www.trujet.com",
+    "notes": "Suspended operations on 15 February 2022.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.099418"
+  },
+  {
+    "name": "Unique Air",
+    "IATA": "6U",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator 6U recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.099434"
+  },
+  {
+    "name": "Visa Airways Private Ltd.",
+    "IATA": "9A",
+    "ICAO": null,
+    "website": "www.visaairways.com",
+    "notes": "Designator 9A recalled by IATA. IATA designator changed from V2",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.099452"
+  },
+  {
+    "name": "Visa Airways PVT Ltd.",
+    "IATA": "V2",
+    "ICAO": null,
+    "website": null,
+    "notes": "IATA designator changed to 9A",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.099469"
+  },
+  {
+    "name": "M/S Zexus Air Services Pvt. Ltd t/a Zoom Air",
+    "IATA": "ZO",
+    "ICAO": "ZOM",
+    "website": "www.zoomair.in",
+    "notes": "Founded April 2013. Commence domestic operations in February 2017. Operating licence suspended in July 2018. Restarted operations on 31 October 2019. Insolvency proceedings started on 25 March 2022.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.099488"
+  },
+  {
+    "name": "Air Survey Company of India Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.099504"
+  },
+  {
+    "name": "Airways (India) Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator II recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:41.099521"
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "name": "Air Afghanistan International",
+    "IATA": null,
+    "ICAO": "AFH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:26.847629"
+  },
+  {
+    "name": "Ariana Afghan Airlines",
+    "IATA": "FG",
+    "ICAO": "AFG",
+    "website": "www.flyariana.com",
+    "notes": "ICAO designator changed from FGA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:26.847664"
+  },
+  {
+    "name": "Bakhtar Star Airlines",
+    "IATA": null,
+    "ICAO": "FYT",
+    "website": "bakhtarstar.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:26.847682"
+  },
+  {
+    "name": "Balkh Airlines",
+    "IATA": null,
+    "ICAO": "BHI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:26.847699"
+  },
+  {
+    "name": "Kabul Air Company",
+    "IATA": null,
+    "ICAO": "KBL",
+    "website": "www.kabulair.org",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:26.847716"
+  },
+  {
+    "name": "Kam Air",
+    "IATA": null,
+    "ICAO": "KMF",
+    "website": "www.flykamair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:26.847733"
+  },
+  {
+    "name": "Khyber Afghan Airlines",
+    "IATA": null,
+    "ICAO": "KHY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:26.847750"
+  },
+  {
+    "name": "Marcopolo Airways",
+    "IATA": null,
+    "ICAO": "MCP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:26.847767"
+  },
+  {
+    "name": "Oxus Airways",
+    "IATA": null,
+    "ICAO": "OXS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:26.847783"
+  },
+  {
+    "name": "Afghan Jet International Airlines",
+    "IATA": null,
+    "ICAO": "AJA",
+    "website": "www.flyaji.com",
+    "notes": "Ceased operations on 15 June 2016.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:26.847801"
+  },
+  {
+    "name": "Air Afghanistan International",
+    "IATA": null,
+    "ICAO": "AFM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:26.847817"
+  },
+  {
+    "name": "Ariana Afghan Airlines",
+    "IATA": "FG",
+    "ICAO": "FGA",
+    "website": null,
+    "notes": "ICAO designator changed to AFG",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:26.847833"
+  },
+  {
+    "name": "Bakhtar Afghan Airlines",
+    "IATA": "BM",
+    "ICAO": "BFO",
+    "website": "bakhtarairline.com",
+    "notes": "Founded as Bakhtar Alwatana in 1967.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:26.847849"
+  },
+  {
+    "name": "Bakhtar Afghan Airlines",
+    "IATA": "BJ",
+    "ICAO": "BYJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:26.847864"
+  },
+  {
+    "name": "Bakhtar Afghan Airlines",
+    "IATA": "BJ",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:26.847879"
+  },
+  {
+    "name": "East Horizon Airlines",
+    "IATA": "EA",
+    "ICAO": "EHN",
+    "website": "www.flyeasthorizon.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:26.847894"
+  },
+  {
+    "name": "Pamir Air",
+    "IATA": null,
+    "ICAO": "PIR",
+    "website": null,
+    "notes": "Designator NR* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:26.847910"
+  },
+  {
+    "name": "Pamir Airways",
+    "IATA": "PM",
+    "ICAO": "PIR",
+    "website": "www.pamirairways.af",
+    "notes": "Ceased operations in 2011.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:26.847926"
+  },
+  {
+    "name": "Safi Airways Ltd.",
+    "IATA": "4Q",
+    "ICAO": "SFW",
+    "website": "www.safiairways.aero",
+    "notes": "Ceased operations during 2018.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:26.847942"
+  }
+]

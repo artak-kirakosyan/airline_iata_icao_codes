@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Air Pacific Ltd. t/a Fiji Airways",
+    "IATA": "FJ",
+    "ICAO": "FJI",
+    "website": "www.fijiairways.com",
+    "notes": "Name changed from Air Pacific Ltd. w.e.f. 27 June 2013. ICAO callsign changed from Pacific",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:06.711183"
+  },
+  {
+    "name": "Fiji Airlines Limited t/a Fiji Link",
+    "IATA": null,
+    "ICAO": "FJA",
+    "website": "www.fijiairways.com/about-fiji-airways/fiji-link",
+    "notes": "ICAO callsign changed from Pac Sun. Found in 2006.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:06.711212"
+  },
+  {
+    "name": "Island Air Limited",
+    "IATA": null,
+    "ICAO": "IML",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:06.711230"
+  },
+  {
+    "name": "Turtle Airways Ltd.",
+    "IATA": null,
+    "ICAO": "TLT",
+    "website": "www.turtleairways.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:06.711246"
+  },
+  {
+    "name": "Air Coral Coast Limited",
+    "IATA": null,
+    "ICAO": "CCK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:06.711265"
+  },
+  {
+    "name": "Air Fiji Ltd.",
+    "IATA": "PC",
+    "ICAO": "FAJ",
+    "website": "www.airfiji.com.fj",
+    "notes": "Ceased operations. Name changed from Fiji Air Services Limited",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:06.711283"
+  },
+  {
+    "name": "Air Pacific Ltd.",
+    "IATA": "FJ",
+    "ICAO": "FJI",
+    "website": "www.airpacific.com",
+    "notes": "Name changed to Air Pacific Ltd. t/a Fiji Airways w.e.f. 27 June 2013. ICAO callsign changed to Fiji",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:06.711299"
+  },
+  {
+    "name": "Fiji Air Services Limited",
+    "IATA": "PC",
+    "ICAO": "FAJ",
+    "website": null,
+    "notes": "Designator PC recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:06.711323"
+  },
+  {
+    "name": "Fiji Air Services Limited",
+    "IATA": null,
+    "ICAO": "FAJ",
+    "website": null,
+    "notes": "Name changed to Air Fiji Ltd. Designator PC recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:06.711340"
+  },
+  {
+    "name": "Fiji Airlines Limited t/a Fiji Link",
+    "IATA": null,
+    "ICAO": "FJA",
+    "website": "www.fijiairways.com/about-fiji-airways/fiji-link",
+    "notes": "ICAO callsign changed to Link Fiji. Found in 2006.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:06.711357"
+  },
+  {
+    "name": "Island Air Limited",
+    "IATA": "4M",
+    "ICAO": "IML",
+    "website": null,
+    "notes": "Designator 4M recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:06.711373"
+  },
+  {
+    "name": "Sun Air (Pacific) Limited.",
+    "IATA": "PI",
+    "ICAO": "SUF",
+    "website": "www.fiji.to",
+    "notes": "Designator PI recalled by IATA. Name changed from Sunflower Airlines Ltd. IATA designator changed from 2S",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:06.711390"
+  },
+  {
+    "name": "Sunflower Airlines Ltd.",
+    "IATA": "2S",
+    "ICAO": "SUF",
+    "website": null,
+    "notes": "IATA designator changed to PI",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:06.711406"
+  },
+  {
+    "name": "Sunflower Airlines Ltd.",
+    "IATA": "PI",
+    "ICAO": "SUF",
+    "website": "www.fiji.to",
+    "notes": "Name changed to Sun Air (Pacific) Limited. IATA designator changed from 2S",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:06.711422"
+  },
+  {
+    "name": "Turtle Airways Ltd.",
+    "IATA": "KT",
+    "ICAO": "TLT",
+    "website": null,
+    "notes": "Designator KT recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:06.711438"
+  }
+]

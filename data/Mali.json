@@ -1,0 +1,263 @@
+[
+  {
+    "name": "Sahel Aviation Service",
+    "IATA": null,
+    "ICAO": "SAO",
+    "website": "www.sahelaviationservice.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:24.001185"
+  },
+  {
+    "name": "Sky Mali",
+    "IATA": "ML",
+    "ICAO": "FML",
+    "website": "www.flyskymali.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:24.001212"
+  },
+  {
+    "name": "Aero Services Mali",
+    "IATA": null,
+    "ICAO": "GLM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:24.001229"
+  },
+  {
+    "name": "African Airlines",
+    "IATA": null,
+    "ICAO": "FDA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:24.001245"
+  },
+  {
+    "name": "Afrique Air Affaires",
+    "IATA": null,
+    "ICAO": "FAS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:24.001261"
+  },
+  {
+    "name": "Soci\u00e9t\u00e9 Nationale Air Mali",
+    "IATA": "MY",
+    "ICAO": "AMY",
+    "website": null,
+    "notes": "Founded on 27 October 1960. Ceased operations during 1988.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:24.001278"
+  },
+  {
+    "name": "Societe Nouvelle Air Mali",
+    "IATA": "I5",
+    "ICAO": "CMM",
+    "website": "www.camaero.com",
+    "notes": "Ceased operations on 27 December 2012. Name changed from Compagnie Aerienne du Mali S.A.  w.e.f. 15 May 2009. Designator I5 reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:24.001296"
+  },
+  {
+    "name": "Air Mali, S.A.",
+    "IATA": "L9",
+    "ICAO": "MLI",
+    "website": "www.datatech.toolnet.org/airmali/airmali.htm",
+    "notes": "Suspended operations on 07 April 2003. Designator L9 reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:24.001314"
+  },
+  {
+    "name": "Air Mali International",
+    "IATA": "XG",
+    "ICAO": "KLB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:24.001330"
+  },
+  {
+    "name": "Air Service",
+    "IATA": null,
+    "ICAO": "ODB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:24.001347"
+  },
+  {
+    "name": "Avion Express",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Name changed to Societe Avion Express (SAE)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:24.001364"
+  },
+  {
+    "name": "Centre de Maintenance Et de Vol",
+    "IATA": null,
+    "ICAO": "CMV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:24.001380"
+  },
+  {
+    "name": "Compagnie Aerienne du Mali S.A. (CAM)",
+    "IATA": "I5",
+    "ICAO": "CMM",
+    "website": "www.camaero.com",
+    "notes": "Commenced operations on 07 June 2005. Name changed to Societe Nouvelle Air Mali w.e.f. 15 May 2009. Designator I5 reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:24.001398"
+  },
+  {
+    "name": "CTK - Network Aviation Mali",
+    "IATA": null,
+    "ICAO": "CKV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:24.001414"
+  },
+  {
+    "name": "Douniah Airlines",
+    "IATA": "DH",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator DH recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:24.001430"
+  },
+  {
+    "name": "Lignes Aeriennes Felou",
+    "IATA": null,
+    "ICAO": "FBA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:24.001446"
+  },
+  {
+    "name": "Mali Air Express",
+    "IATA": null,
+    "ICAO": "VXP",
+    "website": null,
+    "notes": "Name changed from Soci\u00e9t\u00e9 Avion Express (SAE). Name changed from Avion Express",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:24.001462"
+  },
+  {
+    "name": "Mali Airways S.A.",
+    "IATA": "Z8",
+    "ICAO": "MTZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:24.001478"
+  },
+  {
+    "name": "Mali-tinbouctou Air Service (Malitas)",
+    "IATA": null,
+    "ICAO": "HBM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:24.001494"
+  },
+  {
+    "name": "Multi Air Services (MAS)",
+    "IATA": null,
+    "ICAO": "MYK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:24.001509"
+  },
+  {
+    "name": "Nas Air, S.A.",
+    "IATA": "P9",
+    "ICAO": "NCM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:24.001525"
+  },
+  {
+    "name": "S T A - Mali",
+    "IATA": null,
+    "ICAO": "SBA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:24.001540"
+  },
+  {
+    "name": "SAM Intercontinental Group S.A.",
+    "IATA": null,
+    "ICAO": "MMT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:24.001555"
+  },
+  {
+    "name": "Soci\u00e9t\u00e9 Avion Express (SAE)",
+    "IATA": null,
+    "ICAO": "VXP",
+    "website": null,
+    "notes": "Name changed from Avion Express",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:24.001571"
+  },
+  {
+    "name": "Soci\u00e9t\u00e9 de Taxis A\u00e9riens (SOTA)",
+    "IATA": null,
+    "ICAO": "OTS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:24.001586"
+  },
+  {
+    "name": "STA - Trans African Airlines",
+    "IATA": "T8",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:24.001602"
+  },
+  {
+    "name": "Tombouctou Aviation Company",
+    "IATA": null,
+    "ICAO": "TBT",
+    "website": "www.tombouctou-aviation.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:24.001618"
+  },
+  {
+    "name": "Trans-Sahel",
+    "IATA": null,
+    "ICAO": "TSH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:24.001633"
+  },
+  {
+    "name": "West African Air Services",
+    "IATA": null,
+    "ICAO": "WAM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:24.001649"
+  }
+]

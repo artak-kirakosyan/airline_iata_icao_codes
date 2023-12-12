@@ -1,0 +1,3962 @@
+[
+  {
+    "name": "Acme",
+    "IATA": null,
+    "ICAO": "AKM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.620531"
+  },
+  {
+    "name": "Adefa, S.A.",
+    "IATA": null,
+    "ICAO": "ADF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.620564"
+  },
+  {
+    "name": "Aerbrava S.C.P.",
+    "IATA": null,
+    "ICAO": "EBV",
+    "website": "www.aerbrava.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.620587"
+  },
+  {
+    "name": "Aerea",
+    "IATA": null,
+    "ICAO": "AEF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.620609"
+  },
+  {
+    "name": "Aerea Flying Training Organization, S.A.",
+    "IATA": null,
+    "ICAO": "ADG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.620630"
+  },
+  {
+    "name": "Aeris Gestion S.L.",
+    "IATA": null,
+    "ICAO": "RIS",
+    "website": "www.aerisgestion.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.620652"
+  },
+  {
+    "name": "Aero Albatros",
+    "IATA": null,
+    "ICAO": "ABM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.620674"
+  },
+  {
+    "name": "Aero Club de Castellon",
+    "IATA": null,
+    "ICAO": "RRB",
+    "website": "aeroclubcastellon.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.620695"
+  },
+  {
+    "name": "Aero Link Air Services S.L.",
+    "IATA": null,
+    "ICAO": "ARK",
+    "website": "www.aerolink.es/en",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.620716"
+  },
+  {
+    "name": "Aero Sky S.L.",
+    "IATA": null,
+    "ICAO": "ASK",
+    "website": "www.aerosky.es",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.620737"
+  },
+  {
+    "name": "Aeroaljarafe S.L.",
+    "IATA": null,
+    "ICAO": "AJH",
+    "website": "aeroaljarafe.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.620759"
+  },
+  {
+    "name": "Aerocenter, Escuela de Formacion de Pilotos Privados de Avion",
+    "IATA": null,
+    "ICAO": "ACR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.620780"
+  },
+  {
+    "name": "Aeroclub Barcelona-Sabadell",
+    "IATA": null,
+    "ICAO": "BSO",
+    "website": "www.aeroclub.es",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.620801"
+  },
+  {
+    "name": "Aeroclub de Albacete",
+    "IATA": null,
+    "ICAO": "NVA",
+    "website": "www.aeroclubdealbacete.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.620824"
+  },
+  {
+    "name": "Aeroclub De Alicante",
+    "IATA": null,
+    "ICAO": "LUE",
+    "website": "www.aeroclubalicante.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.620846"
+  },
+  {
+    "name": "Aeroclub de Mallorca",
+    "IATA": null,
+    "ICAO": "MLL",
+    "website": "www.aeroclub-malaga.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.620867"
+  },
+  {
+    "name": "Aeroclub de Vitoria",
+    "IATA": null,
+    "ICAO": "AVX",
+    "website": "www.aeroclubvitoria.net",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.620887"
+  },
+  {
+    "name": "Aerocombi, S.A.",
+    "IATA": null,
+    "ICAO": "HSW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.620905"
+  },
+  {
+    "name": "Aerodis Aviacion S.L.",
+    "IATA": null,
+    "ICAO": "DIS",
+    "website": "www.aerodis.es",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.620925"
+  },
+  {
+    "name": "Aerodynamics Malaga, S.L.",
+    "IATA": null,
+    "ICAO": "DNC",
+    "website": "aerodynamics.es",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.620944"
+  },
+  {
+    "name": "Aerofan",
+    "IATA": null,
+    "ICAO": "CFF",
+    "website": "www.aerofanfto.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.620964"
+  },
+  {
+    "name": "Aeroflota del Noroeste, S.L.",
+    "IATA": null,
+    "ICAO": "FNO",
+    "website": "www.aeroflota-noroeste.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.620986"
+  },
+  {
+    "name": "Aeronautica Castellana, S.A.",
+    "IATA": null,
+    "ICAO": "ECL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621005"
+  },
+  {
+    "name": "Aeronautica del Principado, S.L.",
+    "IATA": null,
+    "ICAO": "NEO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621026"
+  },
+  {
+    "name": "Aeronor",
+    "IATA": null,
+    "ICAO": "GCF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621046"
+  },
+  {
+    "name": "Aeroservicios de Almeria 2000, S.L.",
+    "IATA": null,
+    "ICAO": "AEC",
+    "website": "www.aeroal.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621069"
+  },
+  {
+    "name": "Aerotaxi Los Valles, S.L.",
+    "IATA": null,
+    "ICAO": "VAD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621088"
+  },
+  {
+    "name": "Aerotaxis del Mediterraneo S.L.",
+    "IATA": null,
+    "ICAO": "RYJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621107"
+  },
+  {
+    "name": "Aerotec Escuela de Pilotos, SL",
+    "IATA": null,
+    "ICAO": "AEP",
+    "website": "www.aerotec.es",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621128"
+  },
+  {
+    "name": "Aerovento, S.A.",
+    "IATA": null,
+    "ICAO": "OTO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621147"
+  },
+  {
+    "name": "Agricolair, S.L.",
+    "IATA": null,
+    "ICAO": "AGD",
+    "website": "www.agricolair.net",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621169"
+  },
+  {
+    "name": "Air Business, S.L.",
+    "IATA": null,
+    "ICAO": "BSS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621190"
+  },
+  {
+    "name": "Air Condal, S.A.",
+    "IATA": null,
+    "ICAO": "JID",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621211"
+  },
+  {
+    "name": "Air Consul",
+    "IATA": null,
+    "ICAO": "CNU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621230"
+  },
+  {
+    "name": "Air Europa Lineas Aereas, S.A.",
+    "IATA": "UX",
+    "ICAO": "AEA",
+    "website": "www.aireuropa.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621249"
+  },
+  {
+    "name": "aeronova S.L.U. d/b/a Air Europa Express",
+    "IATA": "X5",
+    "ICAO": "OVA",
+    "website": "www.aeronova.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621268"
+  },
+  {
+    "name": "Air Nostrum Lineas Aereas del Mediterraneo, S.A.",
+    "IATA": "YW",
+    "ICAO": "ANE",
+    "website": "www.airnostrum.com",
+    "notes": "ICAO designator changed from ANS",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621289"
+  },
+  {
+    "name": "Air Pal Escuela de Pilotos",
+    "IATA": null,
+    "ICAO": "PLL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621309"
+  },
+  {
+    "name": "Air Segura, S.L.",
+    "IATA": null,
+    "ICAO": "AIU",
+    "website": "www.airsegura.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621329"
+  },
+  {
+    "name": "Air SurEste - Compa\u00f1\u00eda de Aviaci\u00f3n",
+    "IATA": null,
+    "ICAO": "AIS",
+    "website": "www.airsureste.es",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621348"
+  },
+  {
+    "name": "Air Taxi & Charter International, S.L.",
+    "IATA": null,
+    "ICAO": "IBJ",
+    "website": "airtaxi-int.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621369"
+  },
+  {
+    "name": "Air Valencia",
+    "IATA": null,
+    "ICAO": "AVZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621388"
+  },
+  {
+    "name": "Air-Evan's, Escuela de Pilotos Privados",
+    "IATA": null,
+    "ICAO": "VAE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621409"
+  },
+  {
+    "name": "Airlink Solutions, S.L.",
+    "IATA": null,
+    "ICAO": "LKS",
+    "website": "www.airlinksolutions.es",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621428"
+  },
+  {
+    "name": "Airman, S.L.",
+    "IATA": null,
+    "ICAO": "AYM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621448"
+  },
+  {
+    "name": "Airnor - Aeronaves del Noroeste",
+    "IATA": null,
+    "ICAO": "ENW",
+    "website": "www.airnor.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621468"
+  },
+  {
+    "name": "Airpilot Escuela De Vuelo S.L.",
+    "IATA": null,
+    "ICAO": "FSM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621488"
+  },
+  {
+    "name": "Alamo Aviacion, S.L.",
+    "IATA": null,
+    "ICAO": "AVD",
+    "website": "alamoaviacion.com",
+    "notes": "Founded in 1994",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621507"
+  },
+  {
+    "name": "Alba Star, S.A. d/b/a Alba Star.es",
+    "IATA": "AP",
+    "ICAO": "LAV",
+    "website": "www.albastar.es",
+    "notes": "IATA designator changed from JQ*.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621529"
+  },
+  {
+    "name": "Alba-Air Aviacion, S.L.",
+    "IATA": null,
+    "ICAO": "ABI",
+    "website": "www.alba-air.es",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621549"
+  },
+  {
+    "name": "ALSA Grupo S.L.U.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.alsa.es",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621569"
+  },
+  {
+    "name": "Amadeus IT Group SA.",
+    "IATA": "1A",
+    "ICAO": "AGT",
+    "website": "www.amadeus.com",
+    "notes": "Changed from Amadeus Marketing S.A. Name changed from Amadeus Global Travel Distribution, S.A. Computer Reservation System",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621590"
+  },
+  {
+    "name": "Angel Martinez Ridao (SAETA)",
+    "IATA": null,
+    "ICAO": "AMO",
+    "website": "www.martinezridao.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621609"
+  },
+  {
+    "name": "Aqualata Air S.L. (Aqua Air)",
+    "IATA": null,
+    "ICAO": "AQB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621629"
+  },
+  {
+    "name": "Artac",
+    "IATA": null,
+    "ICAO": "AVS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621648"
+  },
+  {
+    "name": "ASL Airlines Spain, S.A.",
+    "IATA": null,
+    "ICAO": "PNR",
+    "website": "www.aslairlines.es",
+    "notes": "Designator PV recalled by IATA. Name changed from PAN AIR Lineas Aereas, S.A. 24 May 2016. IATA designator changed from PA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621668"
+  },
+  {
+    "name": "Asturavia",
+    "IATA": null,
+    "ICAO": "HYO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621689"
+  },
+  {
+    "name": "Atlas Executive Air, S.A.",
+    "IATA": null,
+    "ICAO": "LSX",
+    "website": "www.atlasjets.net",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621709"
+  },
+  {
+    "name": "Audeli Air Express",
+    "IATA": null,
+    "ICAO": "ADI",
+    "website": null,
+    "notes": "Member company of Grupo Gestair.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621731"
+  },
+  {
+    "name": "Aviacion Vap, S.L.",
+    "IATA": null,
+    "ICAO": "VAQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621750"
+  },
+  {
+    "name": "Aviat Aviacion Y Trabajos Aereos, S.L.",
+    "IATA": null,
+    "ICAO": "FOT",
+    "website": "www.aviat.es",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621771"
+  },
+  {
+    "name": "Aviation Vip, S.L.",
+    "IATA": null,
+    "ICAO": "VEP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621791"
+  },
+  {
+    "name": "Aviser, S.A.",
+    "IATA": null,
+    "ICAO": "AVH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621810"
+  },
+  {
+    "name": "Azimut, S.A.",
+    "IATA": null,
+    "ICAO": "AZT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621828"
+  },
+  {
+    "name": "Babcock Mission Critical Services Espa\u00f1a.",
+    "IATA": null,
+    "ICAO": "INR",
+    "website": "www.babcockinternational.com",
+    "notes": "IATA Designator UV* recalled. Name changed from INAER Helicopteros, S.A. Previosly name changed from Helicopteros del Sureste, S.A. ICAO designator changed from HSE.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621850"
+  },
+  {
+    "name": "Balear Express, S.L.",
+    "IATA": null,
+    "ICAO": "BEF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621868"
+  },
+  {
+    "name": "Bestfly, S.L.",
+    "IATA": null,
+    "ICAO": "BEY",
+    "website": "www.bestfly.es",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621887"
+  },
+  {
+    "name": "Bigas Grup Helicopters, S.L.",
+    "IATA": null,
+    "ICAO": "BGX",
+    "website": "www.bghelicopters.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621907"
+  },
+  {
+    "name": "Binter Canarias, S.A.",
+    "IATA": "NT",
+    "ICAO": "IBB",
+    "website": "www.bintercanarias.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621926"
+  },
+  {
+    "name": "Binter Mediterraneo, S.A.",
+    "IATA": null,
+    "ICAO": "BIM",
+    "website": "www.iberia.com",
+    "notes": "Designator AX* recalled by IATA. IATA designator changed from CH",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621944"
+  },
+  {
+    "name": "Blimp S.L",
+    "IATA": null,
+    "ICAO": "BLP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621963"
+  },
+  {
+    "name": "BLUE TEAM flight School",
+    "IATA": null,
+    "ICAO": "BTM",
+    "website": "blueteam.es",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.621983"
+  },
+  {
+    "name": "Canarias Airlines Compa\u00f1\u00eda de Aviaci\u00f3n, S.L.",
+    "IATA": null,
+    "ICAO": "RSC",
+    "website": null,
+    "notes": "Founded in 2011. Commenced operations on 20 September 2011. Flights operated for Binter Canarias using IATA designator NT.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622003"
+  },
+  {
+    "name": "Canarias Aeronautica, S.L.",
+    "IATA": null,
+    "ICAO": "CAU",
+    "website": "canariasaeronautica.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622022"
+  },
+  {
+    "name": "Canaryfly S.L.",
+    "IATA": "PM",
+    "ICAO": "CNF",
+    "website": "www.canaryfly.es",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622041"
+  },
+  {
+    "name": "Canavia L\u00edneas A\u00e9reas, SLU",
+    "IATA": null,
+    "ICAO": "CNA",
+    "website": "www.canavia.es",
+    "notes": "Founded in July 2009.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622061"
+  },
+  {
+    "name": "Cargosur",
+    "IATA": null,
+    "ICAO": "OWS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622078"
+  },
+  {
+    "name": "Cathelicopters S.L.",
+    "IATA": null,
+    "ICAO": "HCT",
+    "website": "www.cathelicopters.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622096"
+  },
+  {
+    "name": "Center Vol, S.A.",
+    "IATA": null,
+    "ICAO": "CVO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622113"
+  },
+  {
+    "name": "Centro de Formacion Aeronautica de Canarias",
+    "IATA": null,
+    "ICAO": "ACF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622131"
+  },
+  {
+    "name": "Clipper National Air, S.A.",
+    "IATA": null,
+    "ICAO": "ORO",
+    "website": "www.clipperjet.es",
+    "notes": "Name changed from C N Air, S.A.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622149"
+  },
+  {
+    "name": "Club Acrobatico Mediterraneo",
+    "IATA": null,
+    "ICAO": "CAG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622166"
+  },
+  {
+    "name": "Club Aero Vigo",
+    "IATA": null,
+    "ICAO": "VIJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622183"
+  },
+  {
+    "name": "Compania Aerea de Servicios Tur Air",
+    "IATA": null,
+    "ICAO": "TUU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622201"
+  },
+  {
+    "name": "Compania Aerotecnicas Fotograficas",
+    "IATA": null,
+    "ICAO": "ATF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622219"
+  },
+  {
+    "name": "Compania de Servicios Aereos, S.A. (SAESA)",
+    "IATA": null,
+    "ICAO": "SSS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622236"
+  },
+  {
+    "name": "Compania de Servicios Aereos Tavisa",
+    "IATA": null,
+    "ICAO": "TAV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622254"
+  },
+  {
+    "name": "Compania Transportes Aereos Del Sur, S.A.",
+    "IATA": null,
+    "ICAO": "HSS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622271"
+  },
+  {
+    "name": "Comunicacion Global Objetivo, S.L.",
+    "IATA": null,
+    "ICAO": "OBJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622288"
+  },
+  {
+    "name": "Cosmo Lineas Aereas S.L.",
+    "IATA": null,
+    "ICAO": "KOM",
+    "website": "www.cosmoairlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622304"
+  },
+  {
+    "name": "Cuerpo Nacional de Policia",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.policia.es",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622322"
+  },
+  {
+    "name": "Cuerpo Nacional de Policia",
+    "IATA": null,
+    "ICAO": "DGP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622339"
+  },
+  {
+    "name": "Corporacion Ygnus Air, S.A.",
+    "IATA": null,
+    "ICAO": "RGN",
+    "website": "cygnusair.com",
+    "notes": "Designator Y2* recalled by IATA. Name changed from Regional Lineas Aereas. ICAO callsign changed from Regional Lineas. Designator XG* recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622358"
+  },
+  {
+    "name": "Dominguez Toledo, S.A. (Grupo Mayoral)",
+    "IATA": null,
+    "ICAO": "MYO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622374"
+  },
+  {
+    "name": "Dream Flyers Training Center",
+    "IATA": null,
+    "ICAO": "DRF",
+    "website": "pilots.dflyers.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622391"
+  },
+  {
+    "name": "Dynamic Air, S.L.",
+    "IATA": null,
+    "ICAO": "DYM",
+    "website": "www.dynamicair.es",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622409"
+  },
+  {
+    "name": "EADS CASA",
+    "IATA": null,
+    "ICAO": "AED",
+    "website": "www.casa.eads.net",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622431"
+  },
+  {
+    "name": "Envuelo, S.L.",
+    "IATA": null,
+    "ICAO": "NVO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622448"
+  },
+  {
+    "name": "Estop Estudios de Fotografia, S.A.",
+    "IATA": null,
+    "ICAO": "EFO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622466"
+  },
+  {
+    "name": "Euravia",
+    "IATA": null,
+    "ICAO": "EUI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622483"
+  },
+  {
+    "name": "Euro Continental Air, S.L.",
+    "IATA": null,
+    "ICAO": "ECN",
+    "website": "www.eurocontinental.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622499"
+  },
+  {
+    "name": "euroairlines, S.L.",
+    "IATA": "Q4",
+    "ICAO": "ELE",
+    "website": "www.euroairlines.es",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622516"
+  },
+  {
+    "name": "Eurocommander, S.A.",
+    "IATA": null,
+    "ICAO": "ERA",
+    "website": null,
+    "notes": "ICAO desiganator changed from ECT",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622534"
+  },
+  {
+    "name": "European Aviation School of Barcelona S.L.",
+    "IATA": null,
+    "ICAO": "EAX",
+    "website": "easbcn.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622551"
+  },
+  {
+    "name": "European Flyers",
+    "IATA": null,
+    "ICAO": "FYS",
+    "website": "europeanflyers.com",
+    "notes": "Name changed from American Flyers. ICAO Callsign changed to European Flyers.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622570"
+  },
+  {
+    "name": "Europlane, S.L.",
+    "IATA": null,
+    "ICAO": "EPN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622588"
+  },
+  {
+    "name": "Privium S.L. (Excelair)",
+    "IATA": null,
+    "ICAO": "VDC",
+    "website": "www.excelair.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622605"
+  },
+  {
+    "name": "Executive Airlines, S.L.",
+    "IATA": null,
+    "ICAO": "EXU",
+    "website": "www.executive-airlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622622"
+  },
+  {
+    "name": "Feria Aviacion",
+    "IATA": null,
+    "ICAO": "FER",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622638"
+  },
+  {
+    "name": "Flightline, S.L.",
+    "IATA": null,
+    "ICAO": "FTL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622657"
+  },
+  {
+    "name": "Fly & Fun, S.L.",
+    "IATA": null,
+    "ICAO": "FFN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622673"
+  },
+  {
+    "name": "Fly Bai, S.L.",
+    "IATA": null,
+    "ICAO": "FBY",
+    "website": "www.flybai.es",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622690"
+  },
+  {
+    "name": "Fly Line, S.L.",
+    "IATA": null,
+    "ICAO": "FIL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622707"
+  },
+  {
+    "name": "Flyair",
+    "IATA": null,
+    "ICAO": "PRA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622723"
+  },
+  {
+    "name": "Flying Lamm S.L.",
+    "IATA": null,
+    "ICAO": "FLM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622739"
+  },
+  {
+    "name": "FlyLink Express",
+    "IATA": null,
+    "ICAO": "FLK",
+    "website": "www.flylinkexpress.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622756"
+  },
+  {
+    "name": "Fotografia F3, S.A.",
+    "IATA": null,
+    "ICAO": "FTE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622773"
+  },
+  {
+    "name": "Freeway Iberica, S.A.",
+    "IATA": null,
+    "ICAO": "FIB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622790"
+  },
+  {
+    "name": "Flight Training Europe S.L.",
+    "IATA": null,
+    "ICAO": "AYR",
+    "website": "ftejerez.com",
+    "notes": "Name changed from BAe Systems Flight Training (U.K.) Limited and previously British Aerospace Flight Training (U.K.) Limited and previously British Aerospace Flying College Limited.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622809"
+  },
+  {
+    "name": "Fumigacion Aerea Andaluza, S.A.",
+    "IATA": null,
+    "ICAO": "FMA",
+    "website": "www.faasa.org",
+    "notes": "ICAO designator changed from FAM",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622826"
+  },
+  {
+    "name": "Fundacion Rego",
+    "IATA": null,
+    "ICAO": "ROG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622844"
+  },
+  {
+    "name": "Gadair European Airlines, S.L.",
+    "IATA": null,
+    "ICAO": "GDR",
+    "website": "www.gadair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622861"
+  },
+  {
+    "name": "Gamisa Aviacion, S.L.",
+    "IATA": null,
+    "ICAO": "GMJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622878"
+  },
+  {
+    "name": "Gavina",
+    "IATA": null,
+    "ICAO": "GVN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622896"
+  },
+  {
+    "name": "Gestair, S.A.",
+    "IATA": null,
+    "ICAO": "GES",
+    "website": "www.gestair.com",
+    "notes": "Designator G5* recalled by IATA. Designator EJ recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622914"
+  },
+  {
+    "name": "Gestavi, S.L.",
+    "IATA": null,
+    "ICAO": "GEV",
+    "website": "www.aircatalunya.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622931"
+  },
+  {
+    "name": "Grup Air-Med, S.A.",
+    "IATA": null,
+    "ICAO": "GPM",
+    "website": "www.grupairmed.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622949"
+  },
+  {
+    "name": "Grupo Vuelos Mediterraneo",
+    "IATA": null,
+    "ICAO": "VMM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622966"
+  },
+  {
+    "name": "Habock Aviation, S.L.U.",
+    "IATA": null,
+    "ICAO": "HET",
+    "website": "www.habockaviationgroup.com",
+    "notes": "Name changed from TAF Helicopters, S.A.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.622984"
+  },
+  {
+    "name": "HASA - Hispanica de Aviacion S.A.",
+    "IATA": null,
+    "ICAO": "HSH",
+    "website": "www.hasahelicopteros.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623001"
+  },
+  {
+    "name": "Helicopter World",
+    "IATA": null,
+    "ICAO": "HWH",
+    "website": "www.helicopterworld.es",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623018"
+  },
+  {
+    "name": "Helicopteros de Cataluna, S.A.",
+    "IATA": null,
+    "ICAO": "HDC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623034"
+  },
+  {
+    "name": "Helicopteros Insulares, S.L.",
+    "IATA": null,
+    "ICAO": "HIC",
+    "website": "www.helicopterosinsulares.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623051"
+  },
+  {
+    "name": "Heli-Iberica, S.A.",
+    "IATA": null,
+    "ICAO": "HRA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623067"
+  },
+  {
+    "name": "Heli-Iberica Fotogrametria S.L.",
+    "IATA": null,
+    "ICAO": "HIF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623084"
+  },
+  {
+    "name": "Helijet SA",
+    "IATA": null,
+    "ICAO": "HJS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623101"
+  },
+  {
+    "name": "HELIMAR - Helicopteros del Mare Nostrum, S.A.",
+    "IATA": null,
+    "ICAO": "HEF",
+    "website": "www.helimar.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623118"
+  },
+  {
+    "name": "Helipistas, S.L.",
+    "IATA": null,
+    "ICAO": "HLP",
+    "website": "www.helipistas.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623134"
+  },
+  {
+    "name": "Global Aeronautics Solutions Corp, S.L. t/a HELITY Copter Airlines",
+    "IATA": null,
+    "ICAO": "HTY",
+    "website": "helity.es",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623151"
+  },
+  {
+    "name": "Iberia - Lineas Aereas de Espana",
+    "IATA": "IB",
+    "ICAO": "IBE",
+    "website": "www.iberia.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623168"
+  },
+  {
+    "name": "Compania Operadora de Corto y Medio Radio Iberia Express, S.A.U",
+    "IATA": "I2",
+    "ICAO": "IBS",
+    "website": "www.iberiaexpress.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623186"
+  },
+  {
+    "name": "Evelop Airlines S.L. d/b/a iberojet",
+    "IATA": "E9",
+    "ICAO": "EVE",
+    "website": "www.iberojet.com",
+    "notes": "Name changed from Evelop Airlines S.L.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623205"
+  },
+  {
+    "name": "Ibertour Servicios Aereos S.L.U.",
+    "IATA": null,
+    "ICAO": "IBR",
+    "website": "www.ibertour.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623223"
+  },
+  {
+    "name": "Ibertrans Aerea, S.L.",
+    "IATA": null,
+    "ICAO": "IBT",
+    "website": "www.ibertrans.net",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623241"
+  },
+  {
+    "name": "Icaro Servicios Aereos, S.L.",
+    "IATA": null,
+    "ICAO": "ICW",
+    "website": "www.icaroaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623257"
+  },
+  {
+    "name": "Ilerdair, S.L.",
+    "IATA": null,
+    "ICAO": "ILD",
+    "website": "www.ilerdair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623275"
+  },
+  {
+    "name": "IMD Airways, S.L.",
+    "IATA": null,
+    "ICAO": "IMD",
+    "website": "www.imdairways.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623294"
+  },
+  {
+    "name": "INAER Euskadi, S.A.",
+    "IATA": null,
+    "ICAO": "IEK",
+    "website": "www.inaer.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623311"
+  },
+  {
+    "name": "INAER Helicopteros Off-Shore, S.A.",
+    "IATA": null,
+    "ICAO": "IOF",
+    "website": "www.inaer.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623329"
+  },
+  {
+    "name": "Industrias Titan, S.A.",
+    "IATA": null,
+    "ICAO": "ITN",
+    "website": "www.titanlux.es",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623346"
+  },
+  {
+    "name": "Initium Aviation",
+    "IATA": null,
+    "ICAO": "INI",
+    "website": "www.initium-aviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623363"
+  },
+  {
+    "name": "Instituto Cartografico de Cataluna",
+    "IATA": null,
+    "ICAO": "ICC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623380"
+  },
+  {
+    "name": "Integra Map & Geoinfomormacion Consulting, S.L.",
+    "IATA": null,
+    "ICAO": "INT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623398"
+  },
+  {
+    "name": "Intercopters, S.A.",
+    "IATA": null,
+    "ICAO": "ICP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623415"
+  },
+  {
+    "name": "Intermodalidad de Levante S.A.",
+    "IATA": "I6",
+    "ICAO": null,
+    "website": "www.ilsarail.eu",
+    "notes": "Railway Service",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623434"
+  },
+  {
+    "name": "Inversiones Y Promociones Ducoy, S.L.",
+    "IATA": null,
+    "ICAO": "DCY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623451"
+  },
+  {
+    "name": "J.J. Gradin Aviacion",
+    "IATA": null,
+    "ICAO": "HEG",
+    "website": "www.grupogradin.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623468"
+  },
+  {
+    "name": "Jet Ready",
+    "IATA": null,
+    "ICAO": "JRY",
+    "website": "www.jetready.es",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623487"
+  },
+  {
+    "name": "Jetnova de Aviacion Ejecutiva, S.A.",
+    "IATA": null,
+    "ICAO": "JNV",
+    "website": "www.jetnova.net",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623503"
+  },
+  {
+    "name": "Jump Aviation, S.L.",
+    "IATA": null,
+    "ICAO": "JUM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623522"
+  },
+  {
+    "name": "Laminar Air S.L.",
+    "IATA": null,
+    "ICAO": "LAX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623540"
+  },
+  {
+    "name": "Lanza Air, S.L.",
+    "IATA": null,
+    "ICAO": "LZA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623556"
+  },
+  {
+    "name": "Lanzarote Aerocargo",
+    "IATA": null,
+    "ICAO": "LZT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623573"
+  },
+  {
+    "name": "Leonesa de Aviacion S.L.",
+    "IATA": null,
+    "ICAO": "LEL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623590"
+  },
+  {
+    "name": "Let's Fly",
+    "IATA": null,
+    "ICAO": "LLY",
+    "website": "www.letsfly.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623607"
+  },
+  {
+    "name": "Level",
+    "IATA": null,
+    "ICAO": null,
+    "website": "flylevel.com",
+    "notes": "IAG Longhaul LLC. All flights operated by Iberia.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623624"
+  },
+  {
+    "name": "Livian Air, S.L.",
+    "IATA": null,
+    "ICAO": "LVL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623640"
+  },
+  {
+    "name": "LNAir Air Services, S.L.",
+    "IATA": null,
+    "ICAO": "LNA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623657"
+  },
+  {
+    "name": "M G Aviacion, S.L.",
+    "IATA": null,
+    "ICAO": "MGA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623673"
+  },
+  {
+    "name": "M.A.C. Fotografica",
+    "IATA": null,
+    "ICAO": "MCF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623689"
+  },
+  {
+    "name": "Mabe Flights, S.L.",
+    "IATA": null,
+    "ICAO": "MBF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623705"
+  },
+  {
+    "name": "MAC Aviation, S.A.",
+    "IATA": null,
+    "ICAO": "MAQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623721"
+  },
+  {
+    "name": "Mango MG Bird SA",
+    "IATA": null,
+    "ICAO": "MGO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623736"
+  },
+  {
+    "name": "Meerblick, S.A.",
+    "IATA": null,
+    "ICAO": "MIK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623753"
+  },
+  {
+    "name": "NAYSA Servicios Aereos S.L.",
+    "IATA": null,
+    "ICAO": "NAY",
+    "website": null,
+    "notes": "Name changed from Navegacion y Servicios A\u00e9reos Canarios, S.A.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623771"
+  },
+  {
+    "name": "Nimbus",
+    "IATA": null,
+    "ICAO": "HBB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623787"
+  },
+  {
+    "name": "No Limits Air",
+    "IATA": null,
+    "ICAO": "NLM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623803"
+  },
+  {
+    "name": "Nordjet Airlines SL",
+    "IATA": null,
+    "ICAO": "SPG",
+    "website": "www.nordjet.es",
+    "notes": "Name changed from Sagolair Transportes Executoves SL.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623821"
+  },
+  {
+    "name": "Sagolair Transportes Ejecutivos S.L.",
+    "IATA": null,
+    "ICAO": "SGP",
+    "website": "www.nordjet.es",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623838"
+  },
+  {
+    "name": "Norestair, S.L.",
+    "IATA": null,
+    "ICAO": "NRT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623856"
+  },
+  {
+    "name": "Grupo One Air Aviacion, S.L.",
+    "IATA": null,
+    "ICAO": "OAR",
+    "website": "www.grupooneair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623872"
+  },
+  {
+    "name": "Paisajes Espanoles, S.A.",
+    "IATA": null,
+    "ICAO": "PAE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623888"
+  },
+  {
+    "name": "Panamedia, S.L.",
+    "IATA": null,
+    "ICAO": "PEI",
+    "website": "panamedia.org",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623905"
+  },
+  {
+    "name": "Pirinair Express",
+    "IATA": null,
+    "ICAO": "PRN",
+    "website": "www.pirinairexpress.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623924"
+  },
+  {
+    "name": "Planificacion y Soluciones Aereas SL",
+    "IATA": null,
+    "ICAO": "PSY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623941"
+  },
+  {
+    "name": "Plus Ultra Lineas Aereas, S.A.",
+    "IATA": "PU",
+    "ICAO": "PUE",
+    "website": "www.plusultra.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623959"
+  },
+  {
+    "name": "Privilege Style Lineas Aereas S.A.",
+    "IATA": "P6",
+    "ICAO": "PVG",
+    "website": "www.privilegestyle.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623976"
+  },
+  {
+    "name": "PRT Aviation, S.L.",
+    "IATA": null,
+    "ICAO": "PRP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.623992"
+  },
+  {
+    "name": "Quality Fly S.A.",
+    "IATA": null,
+    "ICAO": "QFY",
+    "website": "qualityfly.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624009"
+  },
+  {
+    "name": "Real Aero Club de Baleares",
+    "IATA": null,
+    "ICAO": "RCB",
+    "website": "www.racbaleares.es",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624025"
+  },
+  {
+    "name": "Real Aero Club de Jerez",
+    "IATA": null,
+    "ICAO": "VCC",
+    "website": "www.aeroclubdejerez.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624043"
+  },
+  {
+    "name": "Real Aero Club de Reus-Costa Dorada",
+    "IATA": null,
+    "ICAO": "CDT",
+    "website": "www.racreus.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624061"
+  },
+  {
+    "name": "Real Aero Club De Vizcaya",
+    "IATA": null,
+    "ICAO": "VCB",
+    "website": "realaeroclubdevizcaya.es",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624078"
+  },
+  {
+    "name": "Real Aeroclub de Gran Canaria",
+    "IATA": null,
+    "ICAO": "RGK",
+    "website": "aeroclubgrancanaria.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624095"
+  },
+  {
+    "name": "Real Aeroclub de Lleida",
+    "IATA": null,
+    "ICAO": "RLC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624111"
+  },
+  {
+    "name": "Real Aeroclub de Navarra",
+    "IATA": null,
+    "ICAO": "RAY",
+    "website": "www.aeroclubdenavarra.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624129"
+  },
+  {
+    "name": "Real Aeroclub de Tenerife",
+    "IATA": null,
+    "ICAO": "RCD",
+    "website": "realaeroclubdetenerife.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624145"
+  },
+  {
+    "name": "Real Aeroclub de Valencia",
+    "IATA": null,
+    "ICAO": "RCL",
+    "website": "www.realaeroclubvalencia.es",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624163"
+  },
+  {
+    "name": "Real Aeroclub Zaragoza",
+    "IATA": null,
+    "ICAO": "RAZ",
+    "website": "www.realaeroclubdezaragoza.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624181"
+  },
+  {
+    "name": "Real Aerolub de Malaga",
+    "IATA": null,
+    "ICAO": "RAO",
+    "website": "www.aeroclubmalaga.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624197"
+  },
+  {
+    "name": "Regional Geodata Air S.A.",
+    "IATA": null,
+    "ICAO": "JJM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624214"
+  },
+  {
+    "name": "Renfe Viajeros Sociedad Mercantil Estatal SA",
+    "IATA": "4R",
+    "ICAO": null,
+    "website": "www.renfe.com/viajeros/",
+    "notes": "IATA Designator changed from 4R*. Railway Service",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624235"
+  },
+  {
+    "name": "Rivaflecha S.L. (BKS Air)",
+    "IATA": null,
+    "ICAO": "CKM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624253"
+  },
+  {
+    "name": "Rotorsun, S.L.",
+    "IATA": null,
+    "ICAO": "RTH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624269"
+  },
+  {
+    "name": "Ruta",
+    "IATA": null,
+    "ICAO": "RTF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624288"
+  },
+  {
+    "name": "Serair Transworld Press, S.L.",
+    "IATA": null,
+    "ICAO": "SEV",
+    "website": "www.serair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624306"
+  },
+  {
+    "name": "Servicio Aereo de la Guardia Civil",
+    "IATA": null,
+    "ICAO": "DGC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624322"
+  },
+  {
+    "name": "Servicio de Helicopteros, S.L.",
+    "IATA": null,
+    "ICAO": "SDH",
+    "website": "helicopterosinsulares.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624340"
+  },
+  {
+    "name": "Sky Helicopteros S.A.",
+    "IATA": null,
+    "ICAO": "HSY",
+    "website": "www.skyhelicopteros.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624359"
+  },
+  {
+    "name": "Sociedad Aeronautica Peninsular S.L.",
+    "IATA": null,
+    "ICAO": "SAL",
+    "website": "www.sapaviacion.com/en/",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624376"
+  },
+  {
+    "name": "Sociedad de Promocion y Gestion del Turismo Aragones S.L.U.",
+    "IATA": null,
+    "ICAO": "VSC",
+    "website": null,
+    "notes": "Name changed from Aeronautic de los Pirineos, S.A.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624393"
+  },
+  {
+    "name": "Soko Aviation, S.L.",
+    "IATA": null,
+    "ICAO": "OKT",
+    "website": "www.soko.es",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624410"
+  },
+  {
+    "name": "Aeronave Militar Espanola. Ministerio de Defensa (Spanish Air Force)",
+    "IATA": null,
+    "ICAO": "AME",
+    "website": null,
+    "notes": "ICAO callsign changed from Airmil",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624427"
+  },
+  {
+    "name": "SPASA (Servicios Politecnicos Aereos, S.A.)",
+    "IATA": null,
+    "ICAO": "SPS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624443"
+  },
+  {
+    "name": "Speed Fly",
+    "IATA": null,
+    "ICAO": "SFD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624459"
+  },
+  {
+    "name": "Sporavia S.L.",
+    "IATA": null,
+    "ICAO": "SPO",
+    "website": "www.sporavia.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624477"
+  },
+  {
+    "name": "Sunair Air One S.L.",
+    "IATA": null,
+    "ICAO": "LEO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624494"
+  },
+  {
+    "name": "Sunfly, S.L.",
+    "IATA": null,
+    "ICAO": "SUC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624510"
+  },
+  {
+    "name": "Suravia, S.A. Fotograf\u00eda A\u00e9rea Comercial",
+    "IATA": null,
+    "ICAO": "SUH",
+    "website": "www.suravia.com",
+    "notes": "Founded in 1989.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624528"
+  },
+  {
+    "name": "Suraviation S.L.",
+    "IATA": null,
+    "ICAO": "DSP",
+    "website": "www.suraviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624545"
+  },
+  {
+    "name": "Swallow Aviacion, S.L.",
+    "IATA": null,
+    "ICAO": "PRK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624562"
+  },
+  {
+    "name": "Swiftair, S.A.",
+    "IATA": "WT",
+    "ICAO": "SWT",
+    "website": "www.swiftair.com",
+    "notes": "IATA Prefix code changed from 227.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624580"
+  },
+  {
+    "name": "Tadair, S.A.",
+    "IATA": null,
+    "ICAO": "TDC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624596"
+  },
+  {
+    "name": "TAG Aviation Espana, S.L.",
+    "IATA": null,
+    "ICAO": "TGM",
+    "website": "www.tagaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624614"
+  },
+  {
+    "name": "TAHIS - Transportes Aereos Hispanos, S.A.",
+    "IATA": null,
+    "ICAO": "THS",
+    "website": null,
+    "notes": "Designator VD recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624630"
+  },
+  {
+    "name": "TASA - Trabajos Aereos, S.A.",
+    "IATA": null,
+    "ICAO": "TGE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624647"
+  },
+  {
+    "name": "Taxijet",
+    "IATA": null,
+    "ICAO": "LJT",
+    "website": "www.taxijet.es",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624665"
+  },
+  {
+    "name": "Tecnicas Fotograficas, S.L.",
+    "IATA": null,
+    "ICAO": "TEF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624682"
+  },
+  {
+    "name": "Tecnoaviacion",
+    "IATA": null,
+    "ICAO": "TEB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624699"
+  },
+  {
+    "name": "Temple Aviacion S.L.",
+    "IATA": null,
+    "ICAO": "TPV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624716"
+  },
+  {
+    "name": "Terrain Sdp, S.A.",
+    "IATA": null,
+    "ICAO": "SDT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624732"
+  },
+  {
+    "name": "Top Helicopteros, S.L.",
+    "IATA": null,
+    "ICAO": "BRM",
+    "website": "www.tophelicopteros.es",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624750"
+  },
+  {
+    "name": "Top-Fly",
+    "IATA": null,
+    "ICAO": "TLY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624767"
+  },
+  {
+    "name": "Trabajos Aereos Espejo S.L.",
+    "IATA": null,
+    "ICAO": "EPJ",
+    "website": "www.taespejo.net",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624784"
+  },
+  {
+    "name": "Trabajos Aereos Fotografia Y Reportajes, S.L.",
+    "IATA": null,
+    "ICAO": "FYR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624803"
+  },
+  {
+    "name": "Trabajos Aereos Murcianos, S.L.",
+    "IATA": null,
+    "ICAO": "AIM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624819"
+  },
+  {
+    "name": "Trabajos Aereos Publicitarios, S.L.",
+    "IATA": null,
+    "ICAO": "TAQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624836"
+  },
+  {
+    "name": "Trabajos Aereos Vascongados, S.A.",
+    "IATA": null,
+    "ICAO": "TVH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624853"
+  },
+  {
+    "name": "Trabajos Aereos Y Publicidad Andaluza,  S.L.",
+    "IATA": null,
+    "ICAO": "CGM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624870"
+  },
+  {
+    "name": "Trabajos Aeroes de Cordoba S.L.",
+    "IATA": null,
+    "ICAO": "FZM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624887"
+  },
+  {
+    "name": "Tragsa (Medios Aereos)",
+    "IATA": null,
+    "ICAO": "TRG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624905"
+  },
+  {
+    "name": "uep Airways",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.uepfly.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624922"
+  },
+  {
+    "name": "Unidad de Helicopteros de la Ertzaintza",
+    "IATA": null,
+    "ICAO": "UHE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624938"
+  },
+  {
+    "name": "Unidades Aeromoviles del Ejercito De Tierra",
+    "IATA": null,
+    "ICAO": "ETF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624955"
+  },
+  {
+    "name": "United Aviation Services, S.A.",
+    "IATA": null,
+    "ICAO": "SAU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624971"
+  },
+  {
+    "name": "Urgemer Canarias, S.L.",
+    "IATA": null,
+    "ICAO": "UGC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.624988"
+  },
+  {
+    "name": "Victor Echo, S.A.",
+    "IATA": null,
+    "ICAO": "VEE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.625004"
+  },
+  {
+    "name": "Volemos Servicios Aereos, S.L.",
+    "IATA": null,
+    "ICAO": "VOY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.625021"
+  },
+  {
+    "name": "Volotea, S.A.",
+    "IATA": "V7",
+    "ICAO": "VOE",
+    "website": "www.volotea.com",
+    "notes": "Name changed from Alaeo S.L. t/a Volotea Airlines. Founded 2011. Commenced operations on 05 April 2012",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.625040"
+  },
+  {
+    "name": "Vueling Airlines, S.A.",
+    "IATA": "VY",
+    "ICAO": "VLG",
+    "website": "www.vueling.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.625057"
+  },
+  {
+    "name": "Wamos Air, S.A.",
+    "IATA": "EB",
+    "ICAO": "PLM",
+    "website": "www.wamosair.com",
+    "notes": "Name changed from Air Pullmantur. Designator EB recalled by IATA.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.625075"
+  },
+  {
+    "name": "Wondair On Demand Aviation S.L.",
+    "IATA": null,
+    "ICAO": "WNR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.625093"
+  },
+  {
+    "name": "world2fly, S.L.U.",
+    "IATA": "2W",
+    "ICAO": "WFL",
+    "website": "w2fly.es",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.625111"
+  },
+  {
+    "name": "Zona Blava, S.L.",
+    "IATA": null,
+    "ICAO": "OZB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.625127"
+  },
+  {
+    "name": "Zorex, S.A.",
+    "IATA": null,
+    "ICAO": "ORZ",
+    "website": "www.zorex.es",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:50.625144"
+  },
+  {
+    "name": "Air Catalunya Linies Aeries",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.aircatalunya.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625161"
+  },
+  {
+    "name": "CIA - Compania Aerea de Valencia",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.airmed.es",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625181"
+  },
+  {
+    "name": "Plus Ultra L\u00edneas A\u00e9reas S.A.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.plusultra.com",
+    "notes": "Planned startup with 2 x A340-300",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625200"
+  },
+  {
+    "name": "Hispania Airways S.L.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.hispania-airways.com",
+    "notes": "Aircraft operating under AOC of Avion Express X9/NVD",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625218"
+  },
+  {
+    "name": "Saicus Air",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.saicuair.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625236"
+  },
+  {
+    "name": "Ade, Aviacion Deportiva, S.L.",
+    "IATA": null,
+    "ICAO": "ADF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625252"
+  },
+  {
+    "name": "Aerolineas de Baleares Aebal",
+    "IATA": "DF",
+    "ICAO": "ABH",
+    "website": "www.aebal.es",
+    "notes": "Commenced operations on 05 July 2000. Ceased operations on 16 September 2008. Sold in January 2009 and name changed to Quantum Air. ICAO Code QTM.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625271"
+  },
+  {
+    "name": "Aero Madrid",
+    "IATA": null,
+    "ICAO": "AEM",
+    "website": "www.aeromadrid.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625287"
+  },
+  {
+    "name": "Aeroclub Flaps",
+    "IATA": null,
+    "ICAO": "FLP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625304"
+  },
+  {
+    "name": "Aerodromo de La Mancha, S.L.",
+    "IATA": null,
+    "ICAO": "MAM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625322"
+  },
+  {
+    "name": "Aeroflete S.A.",
+    "IATA": "FW",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625340"
+  },
+  {
+    "name": "Aeromarket Express",
+    "IATA": null,
+    "ICAO": "ARM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625358"
+  },
+  {
+    "name": "Aeronautic de los Pirineos, S.A.",
+    "IATA": null,
+    "ICAO": "VSC",
+    "website": null,
+    "notes": "Name changed to Sociedad de Promocion y Gestion del Turismo Aragones S.L.U.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625377"
+  },
+  {
+    "name": "Aeronaves La Dorada, S.A.",
+    "IATA": null,
+    "ICAO": "ALD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625395"
+  },
+  {
+    "name": "Aero-Palma, S.A.",
+    "IATA": null,
+    "ICAO": "AET",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625412"
+  },
+  {
+    "name": "Aeropublic, S.L.",
+    "IATA": null,
+    "ICAO": "PUB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625431"
+  },
+  {
+    "name": "Aerotaxis Axa, S.L.",
+    "IATA": null,
+    "ICAO": "AXT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625449"
+  },
+  {
+    "name": "Aerovento",
+    "IATA": null,
+    "ICAO": "VET",
+    "website": null,
+    "notes": "ICAO designator changed to OTO",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625467"
+  },
+  {
+    "name": "Aeroway, S.L.",
+    "IATA": null,
+    "ICAO": "AWY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625486"
+  },
+  {
+    "name": "Agrar-Aviacion, S.A.",
+    "IATA": null,
+    "ICAO": "AGI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625502"
+  },
+  {
+    "name": "Air Alboran S.L.",
+    "IATA": null,
+    "ICAO": "AHB",
+    "website": "www.airalboran.com",
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625520"
+  },
+  {
+    "name": "Air Asturias",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.airasturias.es",
+    "notes": "Established on 13 July 2005. Commenced operations on 06 November 2006 using LTE's AOC. Ceased operations on 26 January 2007. Never obtained own AOC.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625539"
+  },
+  {
+    "name": "Air Atlantic",
+    "IATA": "QD",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625557"
+  },
+  {
+    "name": "Air Canarias, S. Coop Ltda",
+    "IATA": null,
+    "ICAO": "CAN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625573"
+  },
+  {
+    "name": "Air Comet, S.A.",
+    "IATA": "A7",
+    "ICAO": "MPD",
+    "website": "www.aircomet.com",
+    "notes": "Ceased operations on 21 December 2009. IATA designator changed from 2Z*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625592"
+  },
+  {
+    "name": "Air Comet, S.A.",
+    "IATA": null,
+    "ICAO": "MPD",
+    "website": null,
+    "notes": "Established on 23 December 1996 as Air Plus Comet and started operations on 01 March 1997. Name changed from Air Plus Comet, S.A. w.e.f. January 2007. IATA designator changed to A7",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625611"
+  },
+  {
+    "name": "Air Cordoba",
+    "IATA": null,
+    "ICAO": "CDB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625629"
+  },
+  {
+    "name": "Air Este S.A.",
+    "IATA": null,
+    "ICAO": "EET",
+    "website": "air-este.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625645"
+  },
+  {
+    "name": "Air Europa",
+    "IATA": "DQ",
+    "ICAO": "AEA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625662"
+  },
+  {
+    "name": "Air Europa Canarias Lineas Aereas S.A.U.",
+    "IATA": null,
+    "ICAO": "GCE",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625681"
+  },
+  {
+    "name": "Air Europa Express",
+    "IATA": null,
+    "ICAO": "PMI",
+    "website": null,
+    "notes": "Ceased operations on 30 October 2001.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625698"
+  },
+  {
+    "name": "Air Executive, S.L.",
+    "IATA": null,
+    "ICAO": "IVE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625717"
+  },
+  {
+    "name": "Air Madrid Lineas Aereas, S.A.",
+    "IATA": "NM",
+    "ICAO": "DRI",
+    "website": "www.air-madrid.com",
+    "notes": "ICAO designator changed to DRD",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625734"
+  },
+  {
+    "name": "Air Madrid Lineas Aereas, S.A.",
+    "IATA": "NM",
+    "ICAO": "DRD",
+    "website": "www.air-madrid.com",
+    "notes": "Ceased operations on 15 December 2006. ICAO designator changed from DRI",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625751"
+  },
+  {
+    "name": "Air Nostrum L.A.M.S.A.",
+    "IATA": "YW",
+    "ICAO": "ANS",
+    "website": "www.airnostrum.com",
+    "notes": "ICAO designator changed to ANE. Founded on 23 May 1994.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625768"
+  },
+  {
+    "name": "Air Plus Comet, S.A.",
+    "IATA": null,
+    "ICAO": "MPD",
+    "website": null,
+    "notes": "Established on 23 December 1996. Name changed to Air Comet, S.A. w.e.f. January 2007",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625786"
+  },
+  {
+    "name": "Air Pullmantur",
+    "IATA": "EB",
+    "ICAO": "PLM",
+    "website": "www.airpullmantur.com",
+    "notes": "Name changed to Wamos Air. Designator EB recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625803"
+  },
+  {
+    "name": "Air Spain - Compania aerea espanola",
+    "IATA": "JA",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625820"
+  },
+  {
+    "name": "Air Sur",
+    "IATA": "KG",
+    "ICAO": "NCR",
+    "website": null,
+    "notes": "Formerly Canafrica Transportes A\u00e9reos SA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625839"
+  },
+  {
+    "name": "Air Truck Lineas Aereas, SA",
+    "IATA": "ZH",
+    "ICAO": "TRK",
+    "website": null,
+    "notes": "Designator ZH recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625857"
+  },
+  {
+    "name": "AirClass Airways",
+    "IATA": null,
+    "ICAO": "VSG",
+    "website": "www.airclass.es",
+    "notes": "Commenced operations during February 2003. Ceased operations in 2008.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625874"
+  },
+  {
+    "name": "Airlis, S.A.",
+    "IATA": null,
+    "ICAO": "LIS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625891"
+  },
+  {
+    "name": "CIA - Compania Aerea de Valencia",
+    "IATA": null,
+    "ICAO": "AIF",
+    "website": "www.airmed.es",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625909"
+  },
+  {
+    "name": "Alaire",
+    "IATA": null,
+    "ICAO": "ALI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625925"
+  },
+  {
+    "name": "Alba Star, S.A. d/b/a Alba Star.es",
+    "IATA": null,
+    "ICAO": "LAV",
+    "website": "www.albastar.es",
+    "notes": "IATA designator changed to AP.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625944"
+  },
+  {
+    "name": "Alfa Jet",
+    "IATA": "AK",
+    "ICAO": "AJE",
+    "website": null,
+    "notes": "Designator AK recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625963"
+  },
+  {
+    "name": "Alfa Jet",
+    "IATA": null,
+    "ICAO": "AJE",
+    "website": null,
+    "notes": "Formerly Delta Jet SA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.625982"
+  },
+  {
+    "name": "Alicante Internacional Airlines, S.L.",
+    "IATA": null,
+    "ICAO": "AIU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626000"
+  },
+  {
+    "name": "Amadeus Global Travel Distribution, S.A.",
+    "IATA": "1A",
+    "ICAO": "AGT",
+    "website": "www.amadeus.com",
+    "notes": "Changed from Amadeus Marketing S.A. Name changed to Amadeus IT Group SA. Computer Reservation System",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626019"
+  },
+  {
+    "name": "Amadeus Marketing, S.A.",
+    "IATA": "1A",
+    "ICAO": "AGT",
+    "website": null,
+    "notes": "Changed to Amadeus Global Travel Distribution S.A. Computer Reservation System",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626036"
+  },
+  {
+    "name": "Ambulancias Insulares, S.A.",
+    "IATA": null,
+    "ICAO": "AIM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626055"
+  },
+  {
+    "name": "American Flyers",
+    "IATA": null,
+    "ICAO": "FYS",
+    "website": null,
+    "notes": "Name changed to European Flyers. ICAO Callsign changed to European Flyers.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626075"
+  },
+  {
+    "name": "Andalus Lines Aereas",
+    "IATA": "EA",
+    "ICAO": "ANU",
+    "website": "www.andalus.es",
+    "notes": "Founded in 2008. Commenced operations on 27 February 2009. Ceased operations on 13 August 2010.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626093"
+  },
+  {
+    "name": "Andalusair",
+    "IATA": null,
+    "ICAO": "AAN",
+    "website": null,
+    "notes": "Name changed to Oasis Airlines during 1987.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626112"
+  },
+  {
+    "name": "ASL Airlines Spain, S.A.",
+    "IATA": "PV",
+    "ICAO": "PNR",
+    "website": "www.aslairlines.es",
+    "notes": "Designator PV recalled by IATA. Name changed from PAN AIR Lineas Aereas, S.A. 24 May 2016. IATA designator changed from PA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626133"
+  },
+  {
+    "name": "Atlantic, S.L.",
+    "IATA": null,
+    "ICAO": "RCU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626151"
+  },
+  {
+    "name": "Aura Airlines S.L.",
+    "IATA": null,
+    "ICAO": "GWR",
+    "website": "www.auraairlines.com",
+    "notes": "Ceased operation on 27 October 2022. Name changed from Aura Airlines S.L. t/a Gowair Vaction Airlines. Designator G6 recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626170"
+  },
+  {
+    "name": "Auto Res S.L.U. d/b/a Avanza Group",
+    "IATA": "6V",
+    "ICAO": null,
+    "website": "www.avanzabus.com",
+    "notes": "Designator 6V recalled by IATA. IATA designator changed from 6V*. Bus Service",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626189"
+  },
+  {
+    "name": "Auto Res S.L.U. d/b/a Avanza Group",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.avanzabus.com",
+    "notes": "IATA designator changed to 6V. Bus Service",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626207"
+  },
+  {
+    "name": "Aviacion Y Comercial S.A. (Aviaco)",
+    "IATA": "AO",
+    "ICAO": "AYC",
+    "website": null,
+    "notes": "Merged into Iberia w.e.f. 01 September 1999.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626226"
+  },
+  {
+    "name": "Aviones Y Helicopteros Illes Balears, S.A.",
+    "IATA": null,
+    "ICAO": "AIM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626245"
+  },
+  {
+    "name": "Babcock Mission Critical Services Espa\u00f1a.",
+    "IATA": null,
+    "ICAO": "INR",
+    "website": "www.babcockinternational.com",
+    "notes": "Name changed from INAER Helicopteros, S.A. Previosly name changed from Helicopteros del Sureste, S.A. ICAO designator changed from HSE.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626265"
+  },
+  {
+    "name": "Barair, S.A.",
+    "IATA": null,
+    "ICAO": "BAI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626282"
+  },
+  {
+    "name": "BCM Airlines, S.A.",
+    "IATA": null,
+    "ICAO": "BCM",
+    "website": null,
+    "notes": "Designator TY* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626302"
+  },
+  {
+    "name": "Binter Mediterraneo, S.A.",
+    "IATA": null,
+    "ICAO": "BIM",
+    "website": "www.iberia.com",
+    "notes": "Designator AX* recalled by IATA. IATA designator changed from CH",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626321"
+  },
+  {
+    "name": "Binter Mediterraneo, S.A.",
+    "IATA": "CH",
+    "ICAO": "BIM",
+    "website": null,
+    "notes": "IATA designator changed to AX*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626340"
+  },
+  {
+    "name": "Blue Jet",
+    "IATA": null,
+    "ICAO": "BLJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626357"
+  },
+  {
+    "name": "Boreal Aviacon SL",
+    "IATA": null,
+    "ICAO": "BRV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626375"
+  },
+  {
+    "name": "Bravo Airlines",
+    "IATA": "BQ",
+    "ICAO": "BBV",
+    "website": "www.bravoairlines.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626393"
+  },
+  {
+    "name": "C N Air, S.A.",
+    "IATA": null,
+    "ICAO": "ORO",
+    "website": "www.cnair.es",
+    "notes": "Name changed to Clipper National Air, S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626415"
+  },
+  {
+    "name": "C T C Air, S.A.",
+    "IATA": "MW",
+    "ICAO": "CTC",
+    "website": null,
+    "notes": "Designator MW recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626435"
+  },
+  {
+    "name": "Calima Aviaci\u00f3n S.L.",
+    "IATA": null,
+    "ICAO": "CMV",
+    "website": "www.calima.aero",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626453"
+  },
+  {
+    "name": "Canafrica Transportes A\u00e9reos SA",
+    "IATA": "KG",
+    "ICAO": "NCR",
+    "website": null,
+    "notes": "Renamed Air Sur",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626471"
+  },
+  {
+    "name": "Canarias Regional Air, S.A.",
+    "IATA": null,
+    "ICAO": "CNM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626488"
+  },
+  {
+    "name": "Cargosur",
+    "IATA": "OW",
+    "ICAO": "OWS",
+    "website": null,
+    "notes": "Designator OW recalled by IATA. Now uses IB prefix.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626505"
+  },
+  {
+    "name": "Centennial Airlines, S.A.",
+    "IATA": "BE",
+    "ICAO": "CNA",
+    "website": null,
+    "notes": "Ceased operations in 1996. Founded in 1991",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626521"
+  },
+  {
+    "name": "CETFA, S.A.",
+    "IATA": null,
+    "ICAO": "CTF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626538"
+  },
+  {
+    "name": "Clickair S.A.",
+    "IATA": "XG",
+    "ICAO": "CLI",
+    "website": "www.clickair.com",
+    "notes": "Meregd with Vueling Airlines S.A. Low cost subsidary of Iberia",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626557"
+  },
+  {
+    "name": "Compania Helicopteros de Transporte, S.A.",
+    "IATA": null,
+    "ICAO": "HSO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626574"
+  },
+  {
+    "name": "CoyotAir, S.A.",
+    "IATA": null,
+    "ICAO": "OCS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626590"
+  },
+  {
+    "name": "Cygnus Air, S.A.",
+    "IATA": null,
+    "ICAO": "RGN",
+    "website": "flycygnusair.com",
+    "notes": "Name changed from Regional Lineas Aereas. ICAO callsign changed from Regional Lineas. Designator XG* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626609"
+  },
+  {
+    "name": "Cygnus Air, S.A. - Regional Lineas Aereas",
+    "IATA": null,
+    "ICAO": "RGN",
+    "website": "flycygnusair.com",
+    "notes": "Name changed to Cygnus Air S.A. ICAO callsign changed to Cygnus Air. Designator XG* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626627"
+  },
+  {
+    "name": "Cygnus Air, S.A. - Regional Lineas Aereas",
+    "IATA": null,
+    "ICAO": "RGN",
+    "website": null,
+    "notes": "Designator XG* recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626645"
+  },
+  {
+    "name": "Delta Aviation, S.A.",
+    "IATA": null,
+    "ICAO": "DET",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626663"
+  },
+  {
+    "name": "Delta Jet, S.A.",
+    "IATA": null,
+    "ICAO": "DEJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626679"
+  },
+  {
+    "name": "Departamento de Agricultura de La Generalitat de Cataluna",
+    "IATA": null,
+    "ICAO": "FGC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626697"
+  },
+  {
+    "name": "Drenair",
+    "IATA": null,
+    "ICAO": "DRS",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626714"
+  },
+  {
+    "name": "ERA European Regions Airlines",
+    "IATA": "EA",
+    "ICAO": "EUA",
+    "website": null,
+    "notes": "Ceased operations on 13 October 2000",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626731"
+  },
+  {
+    "name": "Escuela de Pilotos Are Aviacion",
+    "IATA": null,
+    "ICAO": "CTV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626747"
+  },
+  {
+    "name": "Espana, Direccion General De Aviacion Civil Y Telecomunicaciones",
+    "IATA": "NA",
+    "ICAO": "ENA",
+    "website": null,
+    "notes": "Designator NA recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626764"
+  },
+  {
+    "name": "Euro Air Cargo",
+    "IATA": null,
+    "ICAO": "CCS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626780"
+  },
+  {
+    "name": "Euro First Air, S.A.",
+    "IATA": null,
+    "ICAO": "EFA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626796"
+  },
+  {
+    "name": "Eurocommander, S.A.",
+    "IATA": null,
+    "ICAO": "ECT",
+    "website": null,
+    "notes": "ICAO designator changed to ERA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626813"
+  },
+  {
+    "name": "Eurojet, S.A.",
+    "IATA": "JE",
+    "ICAO": "EUR",
+    "website": null,
+    "notes": "Designator JE recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626830"
+  },
+  {
+    "name": "European Regions Airlines",
+    "IATA": "EA",
+    "ICAO": "EEE",
+    "website": null,
+    "notes": "Declared bankrupt on 10 October 2000.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626848"
+  },
+  {
+    "name": "Evelop Airlines S.L.",
+    "IATA": "E9",
+    "ICAO": "EVE",
+    "website": "www.evelopair.com",
+    "notes": "Name changed to Evelop Airlines S.L. d/b/a iberojet",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626866"
+  },
+  {
+    "name": "Flyant",
+    "IATA": null,
+    "ICAO": "FYA",
+    "website": "www.flyant.es",
+    "notes": "Ceased operations in December 2008. Parent Company Servicios Aereos Integrales S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626882"
+  },
+  {
+    "name": "FlyColumbia",
+    "IATA": null,
+    "ICAO": "FCE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626899"
+  },
+  {
+    "name": "Flygo S.L.",
+    "IATA": null,
+    "ICAO": "FLY",
+    "website": "www.flygo.es",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626917"
+  },
+  {
+    "name": "Fumigacion Aerea Andaluza, S.A.",
+    "IATA": null,
+    "ICAO": "FAM",
+    "website": "www.faasa.org",
+    "notes": "ICAO designator changed to FMA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626935"
+  },
+  {
+    "name": "Compania Hispano Irlanhesa de Aviacion d/b/a Futura Internacional",
+    "IATA": "FH",
+    "ICAO": "FUA",
+    "website": "www.futura-aer.com",
+    "notes": "Name changed to Futura International Airways",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626953"
+  },
+  {
+    "name": "Futura International Airways",
+    "IATA": "FH",
+    "ICAO": "FUA",
+    "website": "www.futura-aer.com",
+    "notes": "Ceased operations on 07 September 2008. Name changed from Compania Hispano Irlanhesa de Aviacion d/b/a Futura Internacional",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626972"
+  },
+  {
+    "name": "Galistair",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.galistair.com",
+    "notes": "All flights operated by White Airways. (WHT)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.626989"
+  },
+  {
+    "name": "Gavinair, S.A.",
+    "IATA": null,
+    "ICAO": "GVA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627006"
+  },
+  {
+    "name": "Gestair, S.A.",
+    "IATA": null,
+    "ICAO": "GES",
+    "website": "www.gestair.es",
+    "notes": "Designator GP* recalled by IATA. Designator EJ recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627023"
+  },
+  {
+    "name": "Gestair, S.A.",
+    "IATA": null,
+    "ICAO": "GES",
+    "website": "www.gestair.es",
+    "notes": "Designator G5* recalled by IATA. Designator EJ recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627040"
+  },
+  {
+    "name": "Gestair Executive Jet",
+    "IATA": "EJ",
+    "ICAO": "GES",
+    "website": null,
+    "notes": "Designator EJ recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627057"
+  },
+  {
+    "name": "Gestion Aerea Ejecutiva, S.L.",
+    "IATA": null,
+    "ICAO": "GJT",
+    "website": "www.girjet.com",
+    "notes": "Founded on 28 Febraury 2003. Commenced operations on 31 July 2003. AOL revoked by April 2008.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627075"
+  },
+  {
+    "name": "Aura Airlines S.L. t/a Gowair Vaction Airlines",
+    "IATA": null,
+    "ICAO": "GWR",
+    "website": "www.gowair.com",
+    "notes": "Name changed to Aura Airlines S.L. Designator G6 recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627093"
+  },
+  {
+    "name": "Aura Airlines S.L. t/a Gowair Vaction Airlines",
+    "IATA": "G6",
+    "ICAO": "GWR",
+    "website": "www.gowair.com",
+    "notes": "Designator G6 recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627110"
+  },
+  {
+    "name": "Granada Aviacion",
+    "IATA": null,
+    "ICAO": "GAV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627126"
+  },
+  {
+    "name": "Heliarcos SA",
+    "IATA": null,
+    "ICAO": "ELI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627142"
+  },
+  {
+    "name": "Helicopteros del Sureste, S.A.",
+    "IATA": null,
+    "ICAO": "HSE",
+    "website": "www.helisureste.com",
+    "notes": "Name changed to INAER Helicopteros S.A. ICAO designator changed to INR. Designator UV* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627161"
+  },
+  {
+    "name": "Helicsa",
+    "IATA": null,
+    "ICAO": "HHH",
+    "website": "www.helicsa.com",
+    "notes": "Merged into Inaer.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627178"
+  },
+  {
+    "name": "Helitour, S.L.",
+    "IATA": null,
+    "ICAO": "ETR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627194"
+  },
+  {
+    "name": "Helitt Lineas Aereas",
+    "IATA": "H9",
+    "ICAO": "HTH",
+    "website": "www.helitt.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627211"
+  },
+  {
+    "name": "Hispania, S.A.",
+    "IATA": "XF",
+    "ICAO": "HSL",
+    "website": null,
+    "notes": "IATA designator changed to HH",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627227"
+  },
+  {
+    "name": "Hispania, S.A.",
+    "IATA": "HH",
+    "ICAO": "HSL",
+    "website": null,
+    "notes": "Ceased operations on 15 July 1989. IATA designator changed from XX",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627245"
+  },
+  {
+    "name": "Hispania Lineas Aereas, S.L.",
+    "IATA": null,
+    "ICAO": "HSL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627261"
+  },
+  {
+    "name": "Hispania Lineas Aereas, S.L.",
+    "IATA": "HI",
+    "ICAO": "HSL",
+    "website": null,
+    "notes": "IATA designator changed to XF.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627277"
+  },
+  {
+    "name": "Baleares Link Express S.L. t/a Hola Airlines",
+    "IATA": "H5",
+    "ICAO": "HOA",
+    "website": "www.holaairlines.com",
+    "notes": "Ceased operations on 15 February 2010. Formed by ex management from Air Europa Express",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627296"
+  },
+  {
+    "name": "Iberworld Airlines S.A.U.",
+    "IATA": null,
+    "ICAO": "IWD",
+    "website": "www.iberworld.com",
+    "notes": "Name changed to Orbest Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627315"
+  },
+  {
+    "name": "Ibicenca Air, S.L.",
+    "IATA": null,
+    "ICAO": "IBC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627332"
+  },
+  {
+    "name": "INAER Helicopteros, S.A.",
+    "IATA": null,
+    "ICAO": "INR",
+    "website": "www.inaer.com",
+    "notes": "Name changed to Babcock Mission Critical Services Espa\u00f1a. Name changed from Helicopteros del Sureste, S.A. ICAO designator changed from HSE.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627352"
+  },
+  {
+    "name": "Intermediacion Aerea S.L., Compania Aerea t/a InterMed",
+    "IATA": null,
+    "ICAO": "IEA",
+    "website": null,
+    "notes": "Established in 1997. Ceased operations in 2005.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627371"
+  },
+  {
+    "name": "Islas Airways",
+    "IATA": "IF",
+    "ICAO": "ISW",
+    "website": "www.islasairways.com",
+    "notes": "Founded in 2002. Commenced operations in February 2003. Ceased operations on 15 October 2012. Designator IF reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627390"
+  },
+  {
+    "name": "Jet Center Flight Training, S.A.",
+    "IATA": null,
+    "ICAO": "JCF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627406"
+  },
+  {
+    "name": "Jets Personales",
+    "IATA": null,
+    "ICAO": "JEP",
+    "website": "www.jetspersonales.com",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627424"
+  },
+  {
+    "name": "Lagun Air, S.L.",
+    "IATA": "N7",
+    "ICAO": "JEV",
+    "website": "www.lagunair.com",
+    "notes": "Ceased operations on 09 October 2008",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627441"
+  },
+  {
+    "name": "Lineas Aereas Alaire S.L.",
+    "IATA": null,
+    "ICAO": "ALR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627457"
+  },
+  {
+    "name": "Lineas Aereas Canarias, SA",
+    "IATA": "EN",
+    "ICAO": "LCN",
+    "website": null,
+    "notes": "Commenced operations in 1985.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627474"
+  },
+  {
+    "name": "Lineas Aereas Canarias, SA",
+    "IATA": "9L",
+    "ICAO": "LCN",
+    "website": null,
+    "notes": "Merged into Meridiana Air, SA on 01 March 1991.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627491"
+  },
+  {
+    "name": "Lineas Aereas Canarias",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627508"
+  },
+  {
+    "name": "LTE International Airways S.A.",
+    "IATA": "XO",
+    "ICAO": "LTE",
+    "website": "www.lte.es",
+    "notes": "Established on 29 April 1987. Commenced operations on 01 November 1987. Ceased operations on 17 October 2008. Name changed to Volar Airlines w.e.f. 24 May 2001. Name reverted back to LTE International Airways S.A. during 2005.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627528"
+  },
+  {
+    "name": "Marina Aeroservice, S.A.",
+    "IATA": null,
+    "ICAO": "MAV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627544"
+  },
+  {
+    "name": "Medical Air Rescue",
+    "IATA": null,
+    "ICAO": "MRC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627560"
+  },
+  {
+    "name": "Mediterranean Air Ambulance, S.L.",
+    "IATA": null,
+    "ICAO": "MEM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627577"
+  },
+  {
+    "name": "Meridiana Air, SA",
+    "IATA": "RH",
+    "ICAO": "MDN",
+    "website": null,
+    "notes": "Ceased operations on 16 October 1992.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627593"
+  },
+  {
+    "name": "Mint Lineas Aereas, S.L.",
+    "IATA": "IM",
+    "ICAO": "MIC",
+    "website": "www.mint-airways.com",
+    "notes": "Founded in 2009. Ceased operations on 22 May 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627611"
+  },
+  {
+    "name": "Missionair S.L.",
+    "IATA": null,
+    "ICAO": "MSN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627627"
+  },
+  {
+    "name": "Navegacion y Servicios A\u00e9reos Canarios, S.A.",
+    "IATA": null,
+    "ICAO": "NAY",
+    "website": null,
+    "notes": "Name changed to NAYSA Servicios Aereos S.L.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627644"
+  },
+  {
+    "name": "NAYSA Aerotaxis - Navegacion y Servicios A\u00e9reos Canarios, S.A.",
+    "IATA": "ZN",
+    "ICAO": "NAY",
+    "website": "www.naysa.info",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627661"
+  },
+  {
+    "name": "Nortjet",
+    "IATA": "EL",
+    "ICAO": "ENJ",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627679"
+  },
+  {
+    "name": "Oasis International Airlines",
+    "IATA": "OB",
+    "ICAO": "AAN",
+    "website": null,
+    "notes": "Ceased operations in December 1996",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627696"
+  },
+  {
+    "name": "One Airways, S.A.U.",
+    "IATA": "OX",
+    "ICAO": "OEW",
+    "website": "www.oneairways.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627713"
+  },
+  {
+    "name": "Orbest Orizonia Airlines S.A.",
+    "IATA": "IP",
+    "ICAO": "IWD",
+    "website": "www.orbest.com",
+    "notes": "Founded in 1998 as Iberworld. - Commenced operations on 11 April 1998. - Ceased operations on 05 May 2013. Name changed from Iberworld Airlines S.A.U. w.e.f. 01 May 2011. ORBEST is a member of the ORIZONIA CORPORACION group",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627732"
+  },
+  {
+    "name": "Orionair, S.L.",
+    "IATA": null,
+    "ICAO": "ORI",
+    "website": "www.orionair.es",
+    "notes": "Part of the TravelPlan group. Suspended operations on 04 June 2009.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627752"
+  },
+  {
+    "name": "PAN AIR Lineas Aereas, S.A.",
+    "IATA": "PV",
+    "ICAO": "PNR",
+    "website": null,
+    "notes": "IATA designator changed from PA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627770"
+  },
+  {
+    "name": "Panorama",
+    "IATA": null,
+    "ICAO": "PNM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627787"
+  },
+  {
+    "name": "Pronair Airlines",
+    "IATA": null,
+    "ICAO": "PRJ",
+    "website": "www.pronair.es",
+    "notes": "Established in 2007. Ceased operations in 2009.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627804"
+  },
+  {
+    "name": "Quantum Air - Lleg\u00f3 para quedarse",
+    "IATA": "QO",
+    "ICAO": "QTM",
+    "website": "www.quantum-air.com",
+    "notes": "Name changed from Aerolineas de Baleares Aebal in January 2009. Ceased operations on 26 January 2010.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627823"
+  },
+  {
+    "name": "Renfe Viajeros",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.renfe.com/viajeros/",
+    "notes": "IATA Designator changed to 4R. Railway Service",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627842"
+  },
+  {
+    "name": "Saga, S.A.",
+    "IATA": null,
+    "ICAO": "GSE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627859"
+  },
+  {
+    "name": "Servicios Aereos Helios, S.L.",
+    "IATA": null,
+    "ICAO": "HRM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627875"
+  },
+  {
+    "name": "Compania Aerea Canaria de Transporte Aereo, S.A. d/b/a Seven Air",
+    "IATA": null,
+    "ICAO": "CCU",
+    "website": null,
+    "notes": "Ceased operations on 01 November 2000.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627893"
+  },
+  {
+    "name": "Sky Services Aviation, S.L.",
+    "IATA": null,
+    "ICAO": "SKT",
+    "website": "www.skyserviceaviation.es",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627910"
+  },
+  {
+    "name": "South Atlantic Airways",
+    "IATA": null,
+    "ICAO": "HRC",
+    "website": null,
+    "notes": "ICAO designator changed from CEE",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627927"
+  },
+  {
+    "name": "South Atlantic Airways",
+    "IATA": null,
+    "ICAO": "CEE",
+    "website": null,
+    "notes": "Ceased operations on 20 November 2001. ICAO designator changed to HRC",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627944"
+  },
+  {
+    "name": "Spanair, S.A.",
+    "IATA": "JK",
+    "ICAO": "JKK",
+    "website": "www.spanair.com",
+    "notes": "Founded in 1986. Ceased operations on 27 January 2012. ICAO designator changed from SPP",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627962"
+  },
+  {
+    "name": "Spanair, S.A.",
+    "IATA": "JK",
+    "ICAO": "SPP",
+    "website": null,
+    "notes": "ICAO designator changed to JKK / Callsign to Spanair",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627979"
+  },
+  {
+    "name": "Aeronave Militar Espanola. Ministerio de Defensa (Spanish Air Force)",
+    "IATA": null,
+    "ICAO": "AME",
+    "website": null,
+    "notes": "ICAO callsign changed to AME",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.627996"
+  },
+  {
+    "name": "Compania \"SPANTAX\" (Servicios Y Transportes Aereos Air Charter)",
+    "IATA": "BX",
+    "ICAO": "BXS",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.628013"
+  },
+  {
+    "name": "Stellair",
+    "IATA": null,
+    "ICAO": "LCT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.628030"
+  },
+  {
+    "name": "Swiftair, S.A.",
+    "IATA": null,
+    "ICAO": "SWT",
+    "website": "www.swiftair.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.628048"
+  },
+  {
+    "name": "Swiftair, S.A.",
+    "IATA": null,
+    "ICAO": "SWT",
+    "website": "www.swiftair.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.628064"
+  },
+  {
+    "name": "Symbol Publicidad, S.A.",
+    "IATA": null,
+    "ICAO": "SYB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.628081"
+  },
+  {
+    "name": "TAE - Trabajos A\u00e9reos y Enlaces, S.A.",
+    "IATA": "JK",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.628098"
+  },
+  {
+    "name": "TAES (Tecnicas Aereas de Estudios Y Servicios, S.A.)",
+    "IATA": null,
+    "ICAO": "ESS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.628117"
+  },
+  {
+    "name": "TAF Helicopters, S.A.",
+    "IATA": null,
+    "ICAO": "HET",
+    "website": "www.tafhelicopters.es",
+    "notes": "Name changed to Habock Aviation, S.L.U.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.628135"
+  },
+  {
+    "name": "Taxi Fly Group S.A.",
+    "IATA": null,
+    "ICAO": "JPR",
+    "website": null,
+    "notes": "Designator P5* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.628153"
+  },
+  {
+    "name": "Thomas Cook Airlines Balearics S.L.",
+    "IATA": "H5",
+    "ICAO": "CTB",
+    "website": null,
+    "notes": "Established in October 2017. Ceased operations on 31 January 2021",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.628173"
+  },
+  {
+    "name": "Trabajos A\u00e9reos del Sahara, S.A.",
+    "IATA": "KI",
+    "ICAO": "TGE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.628190"
+  },
+  {
+    "name": "Trabajos Aereos Espejo S.L.",
+    "IATA": null,
+    "ICAO": "TES",
+    "website": "www.taespejo.et",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.628207"
+  },
+  {
+    "name": "Transaviation, S.A.",
+    "IATA": null,
+    "ICAO": "TVT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.628225"
+  },
+  {
+    "name": "Compania de Aviacion Trans-Europa",
+    "IATA": "TR",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.628243"
+  },
+  {
+    "name": "Transportes Aereos Hispanos, S.A.",
+    "IATA": "VD",
+    "ICAO": "THS",
+    "website": null,
+    "notes": "ICAO callsign changed from THS. Designator VD recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.628260"
+  },
+  {
+    "name": "Transportes Aereos Hispanos, S.A.",
+    "IATA": "VD",
+    "ICAO": "THS",
+    "website": null,
+    "notes": "ICAO callsign changed to Tahis",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.628277"
+  },
+  {
+    "name": "Universair, SA",
+    "IATA": "UN",
+    "ICAO": "UNA",
+    "website": null,
+    "notes": "Commenced operations in 1986. Merged into Meridiana Air, SA on 01 March 1991.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.628295"
+  },
+  {
+    "name": "Universal Airlines",
+    "IATA": null,
+    "ICAO": "UNI",
+    "website": null,
+    "notes": "LCC of Air Europa",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.628311"
+  },
+  {
+    "name": "Visig Operaciones Aereas S.A.",
+    "IATA": null,
+    "ICAO": "VSG",
+    "website": null,
+    "notes": "Subsiduary of a Travel Service (Czech Republic)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.628328"
+  },
+  {
+    "name": "VIVA, Vuelos Internacionales de Vacaciones, S.A. (VIVA Air)",
+    "IATA": "VI",
+    "ICAO": "VIV",
+    "website": null,
+    "notes": "IATA designator changed to FV",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.628347"
+  },
+  {
+    "name": "VIVA, Vuelos Internacionales de Vacaciones, S.A. (VIVA Air)",
+    "IATA": "FV",
+    "ICAO": "VIV",
+    "website": null,
+    "notes": "Merged into Iberia",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.628364"
+  },
+  {
+    "name": "Alaeo S.L. t/a Volotea Airlines",
+    "IATA": "V7",
+    "ICAO": "VOE",
+    "website": "www.volotea.com",
+    "notes": "Name changed to Volotea, S.L. Founded 2011. Commenced operations on 05 April 2012",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.628382"
+  },
+  {
+    "name": "Zacar\u00edas Moreno SL (Frigocontainer)",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Non-airline Unit Load Devices (ULD) companies",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.628400"
+  },
+  {
+    "name": "Transeuropa",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "absorted by National Institude of Industry in 1982",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:50.628418"
+  }
+]

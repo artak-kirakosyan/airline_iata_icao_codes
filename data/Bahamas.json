@@ -1,0 +1,317 @@
+[
+  {
+    "name": "Air Ambulance Services Limited",
+    "IATA": null,
+    "ICAO": "ABZ",
+    "website": "www.aaslifeflight.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:48.463711"
+  },
+  {
+    "name": "Azure Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "ALZ",
+    "website": "azureaviationltd.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:48.463740"
+  },
+  {
+    "name": "Bahamasair Holdings Limited",
+    "IATA": "UP",
+    "ICAO": "BHS",
+    "website": "www.bahamasair.com",
+    "notes": "Name changed from Bahamasair. Designator UP reinstated by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:48.463759"
+  },
+  {
+    "name": "Blessing Aviation Limited",
+    "IATA": null,
+    "ICAO": "TJJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:48.463774"
+  },
+  {
+    "name": "Mail Bonded Services International Limited t/a Bonded Excursions",
+    "IATA": null,
+    "ICAO": "BDX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:48.463790"
+  },
+  {
+    "name": "Butlers Aviation",
+    "IATA": null,
+    "ICAO": "BUT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:48.463805"
+  },
+  {
+    "name": "Cherokee Air Limited",
+    "IATA": null,
+    "ICAO": "FSS",
+    "website": "cherokeeair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:48.463822"
+  },
+  {
+    "name": "Echo Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "EBF",
+    "website": "www.echoairlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:48.463838"
+  },
+  {
+    "name": "Exclusive Aviation",
+    "IATA": null,
+    "ICAO": "REE",
+    "website": "www.flyexair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:48.463854"
+  },
+  {
+    "name": "Golden Wings Charter (Bahamas)",
+    "IATA": null,
+    "ICAO": "GWZ",
+    "website": "goldenwingscharter.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:48.463871"
+  },
+  {
+    "name": "Inter Island Air Charter",
+    "IATA": null,
+    "ICAO": "IIC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:48.463887"
+  },
+  {
+    "name": "Irose Limited",
+    "IATA": null,
+    "ICAO": "RSE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:48.463903"
+  },
+  {
+    "name": "Island Wings Limited",
+    "IATA": null,
+    "ICAO": "IWL",
+    "website": "www.islandwingscharter.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:48.463919"
+  },
+  {
+    "name": "KSA Charters Ltd. d/b/a Junkanoo Air",
+    "IATA": null,
+    "ICAO": "JKN",
+    "website": "www.junkanooair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:48.463935"
+  },
+  {
+    "name": "Leair Charter Services Ltd.",
+    "IATA": null,
+    "ICAO": "LSL",
+    "website": "www.flyleair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:48.463951"
+  },
+  {
+    "name": "Pineapple Air",
+    "IATA": null,
+    "ICAO": "PNP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:48.463966"
+  },
+  {
+    "name": "Regional Air",
+    "IATA": null,
+    "ICAO": "RGB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:48.463981"
+  },
+  {
+    "name": "Southern Air Charters Co. Ltd.",
+    "IATA": null,
+    "ICAO": "SOA",
+    "website": "www.southernaircharter.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:48.464000"
+  },
+  {
+    "name": "Topflight Aero-Services Limited",
+    "IATA": null,
+    "ICAO": "TAF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:48.464015"
+  },
+  {
+    "name": "Trans Island Airways Ltd.",
+    "IATA": null,
+    "ICAO": "GGT",
+    "website": "www.tia.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:48.464032"
+  },
+  {
+    "name": "Western Air Limited",
+    "IATA": "WU",
+    "ICAO": "WST",
+    "website": "www.westernairbahamas.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:48.464048"
+  },
+  {
+    "name": "Bahamas World Airlines (1974) Ltd.",
+    "IATA": "WQ",
+    "ICAO": "WQA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:48.464064"
+  },
+  {
+    "name": "Bahamasair",
+    "IATA": "UP",
+    "ICAO": "BHS",
+    "website": "www.bahamasair.com",
+    "notes": "Designator UP recall by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:48.464081"
+  },
+  {
+    "name": "Bahamasair",
+    "IATA": "UP",
+    "ICAO": "BHS",
+    "website": "www.bahamasair.com",
+    "notes": "Name changed to Bahamasair Holdings Limited. Designator UP reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:48.464098"
+  },
+  {
+    "name": "Bahamasair Holdings Ltd.",
+    "IATA": "BH",
+    "ICAO": "BHS",
+    "website": null,
+    "notes": "Name changed to Bahamasair",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:48.464115"
+  },
+  {
+    "name": "Blue Swan Aviation Ltd",
+    "IATA": null,
+    "ICAO": "BSJ",
+    "website": null,
+    "notes": "Name changed to Skybus Jet Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:48.464132"
+  },
+  {
+    "name": "Congo Air",
+    "IATA": null,
+    "ICAO": "CAK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:48.464149"
+  },
+  {
+    "name": "Destination Airlink Bahamas Ltd",
+    "IATA": null,
+    "ICAO": "DLB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:48.464164"
+  },
+  {
+    "name": "International Air Bahama",
+    "IATA": "IW",
+    "ICAO": null,
+    "website": null,
+    "notes": "Founded in June 1968. Ceased operations on 18 May 1981.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:48.464180"
+  },
+  {
+    "name": "Package Delivery Xpress Ltd",
+    "IATA": null,
+    "ICAO": "PDX",
+    "website": "www.pdxbahamas.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:48.464195"
+  },
+  {
+    "name": "Regal Bahamas International Airlines",
+    "IATA": "RH",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:48.464211"
+  },
+  {
+    "name": "Regal Bahamas International Airways Limited",
+    "IATA": null,
+    "ICAO": "RBH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:48.464226"
+  },
+  {
+    "name": "SkyBahamas Airlines",
+    "IATA": null,
+    "ICAO": "SBM",
+    "website": "www.skybahamas.net",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:48.464241"
+  },
+  {
+    "name": "Skybus Jet Ltd",
+    "IATA": null,
+    "ICAO": "BSJ",
+    "website": "www.skybusjets.com",
+    "notes": "Name changed from Blue Swan Aviation Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:48.464257"
+  },
+  {
+    "name": "Trinity Air Bahamas",
+    "IATA": null,
+    "ICAO": "TBH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:48.464272"
+  }
+]

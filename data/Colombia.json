@@ -1,0 +1,767 @@
+[
+  {
+    "name": "Aercaribe Aerolina del Caribe, S.A.",
+    "IATA": "JK",
+    "ICAO": "ACL",
+    "website": "www.aercaribe.com",
+    "notes": "Founded in 1997",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:31.709841"
+  },
+  {
+    "name": "Aeroatlas, S.A.",
+    "IATA": null,
+    "ICAO": "AQA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:31.709877"
+  },
+  {
+    "name": "Aeroejecutivos Colombia - Aeroejecutivos Aeroservicios Ejecutivos",
+    "IATA": null,
+    "ICAO": "AJS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:31.709896"
+  },
+  {
+    "name": "Aerolinea de Antioquia, S.A. (ADA)",
+    "IATA": null,
+    "ICAO": "ANQ",
+    "website": "www.ada-aero.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:31.709915"
+  },
+  {
+    "name": "Aerosucre, S.A.",
+    "IATA": null,
+    "ICAO": "KRE",
+    "website": "aerosucre.com.co",
+    "notes": "Designator 6N recalled by IATA. Founded in 1969.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:31.709937"
+  },
+  {
+    "name": "Aerotaxi Del Valle",
+    "IATA": null,
+    "ICAO": "AOX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:31.709954"
+  },
+  {
+    "name": "Aerotransporte Petrolero Ltda.",
+    "IATA": null,
+    "ICAO": "PET",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:31.709971"
+  },
+  {
+    "name": "Aerovilla Ltda.",
+    "IATA": null,
+    "ICAO": "VVG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:31.709987"
+  },
+  {
+    "name": "Aviacion Colombiana Ltda.",
+    "IATA": null,
+    "ICAO": "VCO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:31.710003"
+  },
+  {
+    "name": "Avianca - Aerovias Nacionales de Colombia, S.A.",
+    "IATA": "AV",
+    "ICAO": "AVA",
+    "website": "www.avianca.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:31.710021"
+  },
+  {
+    "name": "Transportes Aereos Mercantiles Panamericanos S.A., (TAMPA) t/a Avianca Cargo",
+    "IATA": "QT",
+    "ICAO": "TPA",
+    "website": "www.aviancacargo.com",
+    "notes": "Name changed from Transportes Aereos Mercantiles Panamericanos S.A., (TAMPA) w.e.f. 28 May 2013.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:31.710040"
+  },
+  {
+    "name": "Regional Express Americas SAS - Avianca Express",
+    "IATA": "EX",
+    "ICAO": "AVR",
+    "website": "www.avianca.com",
+    "notes": "Commenced operations in March 2019. Avianca subsidary. IATA accounting code 039 recalled.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:31.710058"
+  },
+  {
+    "name": "Easyfly S.A. (Empresa Aerea de Servicios Y Facilitacion Logistica Integral S.A.)",
+    "IATA": "VE",
+    "ICAO": "EFY",
+    "website": "www.easyfly.com.co",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:31.710074"
+  },
+  {
+    "name": "Gran Colombia de Aviacion SAS d/b/a GCA Airlines",
+    "IATA": "9A",
+    "ICAO": "GCA",
+    "website": "gcaair.com",
+    "notes": "Founded in June 2017. Subsidiary of the Avior Group. Commenced operations on 29 November 2019.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:31.710092"
+  },
+  {
+    "name": "GlobalX-Colombia",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Subsidiary of Global Crossing Airlines, Inc. Planned start-up with A321-200P2F.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:31.710111"
+  },
+  {
+    "name": "Helicol. Helicopteros Nacionales de Colombia",
+    "IATA": null,
+    "ICAO": "HEL",
+    "website": "www.helicol.com.co",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:31.710128"
+  },
+  {
+    "name": "Helistar S.A.S.",
+    "IATA": null,
+    "ICAO": "HTS",
+    "website": "www.helistar.com.co",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:31.710147"
+  },
+  {
+    "name": "Aerovias de Integration Regional d/b/a LATAM Airlines Colombia",
+    "IATA": "4C",
+    "ICAO": "ARE",
+    "website": "www.latamairlines.com",
+    "notes": "Name changed from Aires S.A. Aerovias de Integracion Regional S.A.) d/b/a LAN Colombia w.e.f. 05 May 2016.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:31.710167"
+  },
+  {
+    "name": "Lineas Aereas Carguera de Colombia S.A. d/b/a LATAM Cargo Colombia",
+    "IATA": "L7",
+    "ICAO": "LAE",
+    "website": "www.latamcargo.com",
+    "notes": "Name changed from Lineas Aereas Carguera de Colombia S.A.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:31.710186"
+  },
+  {
+    "name": "Lineas Aereas Suramericanas SA t/a LAS, S.A.",
+    "IATA": "4L",
+    "ICAO": "LAU",
+    "website": "www.lascargo.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:31.710202"
+  },
+  {
+    "name": "Aerolineas Panamericanas de Carga Lda. (Pan Airlines Cargo Colombia)",
+    "IATA": null,
+    "ICAO": "PGO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:31.710218"
+  },
+  {
+    "name": "Petroleum Helicopters de Colombia, S.A.",
+    "IATA": null,
+    "ICAO": "PHC",
+    "website": null,
+    "notes": "Subsidary of Petroleum Helicopters, Inc.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:31.710234"
+  },
+  {
+    "name": "SADELCA Colombia - Sociedad Aerea Del Caqueta Ltda",
+    "IATA": null,
+    "ICAO": "SDK",
+    "website": "www.sadelca.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:31.710250"
+  },
+  {
+    "name": "SATENA Servicio Aereo a Territorios Nacionales",
+    "IATA": null,
+    "ICAO": "NSE",
+    "website": "www.satena.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:31.710266"
+  },
+  {
+    "name": "Searca Ltda.",
+    "IATA": null,
+    "ICAO": "SRC",
+    "website": "www.searca.com.co",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:31.710283"
+  },
+  {
+    "name": "Selva Colombia - Servicios Aereos Del Vaupes Ltda.",
+    "IATA": null,
+    "ICAO": "SDV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:31.710298"
+  },
+  {
+    "name": "Servicios Aereos Especializados En Transportes Petroleros",
+    "IATA": null,
+    "ICAO": "KSP",
+    "website": "www.saepcolombia.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:31.710315"
+  },
+  {
+    "name": "AeroRep\u00fablica, S.A. t/a wingo",
+    "IATA": "P5",
+    "ICAO": "RPB",
+    "website": "www.wingo.com",
+    "notes": "Name changed from Copa Airlines Colombia and previously from Aero Republica, S.A. Designator P5 reinstated by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:31.710332"
+  },
+  {
+    "name": "Wingo",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.wingo.com",
+    "notes": "Planned startup on 01 December 2016. 4 x B737-700. Low cost carrier setup by Copa Holdings, S.A. Flights opreated by Aero Republica, S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710349"
+  },
+  {
+    "name": "Aerea Transportes Aereos del Pacifico",
+    "IATA": null,
+    "ICAO": "TAF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710365"
+  },
+  {
+    "name": "Aero Transcolombiana de Carga Ltda.",
+    "IATA": null,
+    "ICAO": "TCO",
+    "website": null,
+    "notes": "Founded in 1993. Ceased operations during 1999.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710381"
+  },
+  {
+    "name": "Aeroalas Colombia - Aerolineas Especiales de Colombia",
+    "IATA": null,
+    "ICAO": "ALE",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710397"
+  },
+  {
+    "name": "AerOasis",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.aeroasis.com",
+    "notes": "Founded in March 2006 as an LAN Airlines Subsidary. Did not start operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710422"
+  },
+  {
+    "name": "Aeroatlantico Colombia - Aerovias Del Atlantico Ltda.",
+    "IATA": null,
+    "ICAO": "AOK",
+    "website": null,
+    "notes": "Ceased operations during 1998.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710440"
+  },
+  {
+    "name": "Aerocesar, Aerovias Del Cesar",
+    "IATA": null,
+    "ICAO": "AEC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710466"
+  },
+  {
+    "name": "Aerocondor - Aerov\u00edas Condor de Colombia Ltda.",
+    "IATA": "OD",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710482"
+  },
+  {
+    "name": "Aerocosta",
+    "IATA": "CC",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710499"
+  },
+  {
+    "name": "Aeroexpreso Bogota SA - APSA",
+    "IATA": null,
+    "ICAO": "ABO",
+    "website": "www.apsa.com.co",
+    "notes": "Established in 1978. Ceased Opeations in 2007.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710515"
+  },
+  {
+    "name": "Aeroexpreso Interamericano",
+    "IATA": null,
+    "ICAO": "AEI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710532"
+  },
+  {
+    "name": "Aerolineas Centrales de Colombia S.A. (ACES)",
+    "IATA": "VX",
+    "ICAO": "AES",
+    "website": "www.acescolombia.com",
+    "notes": "Ceased operations on 20 August 2003.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710549"
+  },
+  {
+    "name": "Aerolineas Medellin",
+    "IATA": null,
+    "ICAO": "AMD",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710566"
+  },
+  {
+    "name": "Aerolineas Universal S.A.",
+    "IATA": null,
+    "ICAO": "UNE",
+    "website": "www.aerolineasuniversal.com",
+    "notes": "Never started operations in 2001.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710582"
+  },
+  {
+    "name": "Aeronorte, S.A.",
+    "IATA": null,
+    "ICAO": "ANR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710598"
+  },
+  {
+    "name": "AeroRep\u00fablica, S.A.",
+    "IATA": "P5",
+    "ICAO": "RPB",
+    "website": "www.aerorepublica.com.co",
+    "notes": "Name changed to Aero Republica, S.A. t/a Copa Airlines Colombia w.e.f. October 2010. Designator P5 reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710616"
+  },
+  {
+    "name": "Aerosucre, S.A.",
+    "IATA": "6N",
+    "ICAO": "KRE",
+    "website": "aerosucre.com.co",
+    "notes": "Designator 6N recalled by IATA. Founded in 1969.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710632"
+  },
+  {
+    "name": "Aerotaca Colombia - Aerotaxi Casanare Ltda.",
+    "IATA": null,
+    "ICAO": "ATK",
+    "website": null,
+    "notes": "Founded in 1965. Ceased operations during 2006.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710649"
+  },
+  {
+    "name": "Aerotal Aerolineas Territoriales de Colombia Ltda",
+    "IATA": null,
+    "ICAO": "ART",
+    "website": null,
+    "notes": "Founded in 1970. Ceased operations during 1983.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710665"
+  },
+  {
+    "name": "Aerovias Bueno Ltda.",
+    "IATA": null,
+    "ICAO": "ABU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710682"
+  },
+  {
+    "name": "Aerovias Especiales de Carga Ltd. (AVESCA)",
+    "IATA": null,
+    "ICAO": "VSC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710698"
+  },
+  {
+    "name": "Aires, Aerovias de Integracion Regional, S.A.",
+    "IATA": "4C",
+    "ICAO": "ARE",
+    "website": "www.aires.com.co",
+    "notes": "Name changed to LAN Colombia w.e.f. 03 December 2001.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710715"
+  },
+  {
+    "name": "Arca Aerovias Colombianas Ltda.",
+    "IATA": "ZU",
+    "ICAO": "AKC",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710731"
+  },
+  {
+    "name": "Arca Aerovias Colombianas Ltda.",
+    "IATA": "RH",
+    "ICAO": "AKC",
+    "website": null,
+    "notes": "Designator RH recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710747"
+  },
+  {
+    "name": "Arkas S.A.",
+    "IATA": null,
+    "ICAO": "KRA",
+    "website": "www.arkas.com.co",
+    "notes": "Founded in 2007. Ceased operations during 2011.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710765"
+  },
+  {
+    "name": "ASTRAL Colombia - Aerotransportes Especiales Ltda.",
+    "IATA": null,
+    "ICAO": "ATP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710781"
+  },
+  {
+    "name": "British Petroleum Exploration",
+    "IATA": null,
+    "ICAO": "BPX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710797"
+  },
+  {
+    "name": "C V Cargo S.A.",
+    "IATA": null,
+    "ICAO": "GSE",
+    "website": "www.cvcargo.net",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710814"
+  },
+  {
+    "name": "Compania Interandina de Aviacion",
+    "IATA": null,
+    "ICAO": "IAN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710830"
+  },
+  {
+    "name": "AeroRep\u00fablica, S.A. t/a Copa Airlines Colombia",
+    "IATA": "P5",
+    "ICAO": "RPB",
+    "website": "www.copaair.com/en/web/co",
+    "notes": "Name changed to AeroRep\u00fablica, S.A. t/a wingo. Name changed from Aero Republica, S.A. Designator P5 reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710848"
+  },
+  {
+    "name": "Coral Colombia - Coronado Aerolineas Ltda.",
+    "IATA": null,
+    "ICAO": "CRA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710863"
+  },
+  {
+    "name": "El Dorado Colombia - Lineas Aereas Eldorado Ltda.",
+    "IATA": null,
+    "ICAO": "EDR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710878"
+  },
+  {
+    "name": "Interamericana de Aviacon Ltda.",
+    "IATA": null,
+    "ICAO": "IIA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710893"
+  },
+  {
+    "name": "Intercontinental colombia - Intercontinental de Aviacion SA",
+    "IATA": "RS",
+    "ICAO": "ICT",
+    "website": null,
+    "notes": "Founded in 1965 as AeroPesca. Ceased operations during 2005.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710910"
+  },
+  {
+    "name": "Islena de Aviacion",
+    "IATA": null,
+    "ICAO": "ILA",
+    "website": null,
+    "notes": "Ceased operations in 1995",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710926"
+  },
+  {
+    "name": "LAC Colombia - Lineas Aereas Del Caribe",
+    "IATA": "LC",
+    "ICAO": "LIC",
+    "website": null,
+    "notes": "Founded in 1974. Ceased operations during 1996.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710943"
+  },
+  {
+    "name": "Aires S.A. Aerovias de Integracion Regional S.A.) d/b/a LAN Colombia",
+    "IATA": "4C",
+    "ICAO": "ARE",
+    "website": "www.lan.com",
+    "notes": "Name changed to Aerovias de Integration Regional d/b/a LATAM Airlines Colombia w.e.f. 05 May 2016. Name changed from Aires, Aerovias de Integracion Regional, S.A. w.e.f. 03 December 2011.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710961"
+  },
+  {
+    "name": "LAP Colombia - Lineas Aereas Petroleras, S.A.",
+    "IATA": null,
+    "ICAO": "APT",
+    "website": null,
+    "notes": "Founded in 1989. Ceased operations during 2006.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710978"
+  },
+  {
+    "name": "Lineas Aereas Carguera de Colombia S.A.",
+    "IATA": "L7",
+    "ICAO": "LAE",
+    "website": "www.lancargo.com",
+    "notes": "Name changed to Lineas Aereas Carguera de Colombia S.A. d/b/a LATAM Cargo Colombia",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.710995"
+  },
+  {
+    "name": "Lineas Aereas Colombianas Ltda.",
+    "IATA": null,
+    "ICAO": "LAE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.711010"
+  },
+  {
+    "name": "Sociedad Ecuatoriana de Transporles Aereos (SAETA), S.A.",
+    "IATA": "EH",
+    "ICAO": "SET",
+    "website": "www.hostingu.net/aseta/",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.711026"
+  },
+  {
+    "name": "SATENA Servicio Aereo a Territorios Nacionales",
+    "IATA": null,
+    "ICAO": "NSE",
+    "website": "www.satena.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.711042"
+  },
+  {
+    "name": "Satena, Servicios de Aeronavegacion A Territorios Nac",
+    "IATA": "ZT",
+    "ICAO": "NSE",
+    "website": null,
+    "notes": "Designator recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.711059"
+  },
+  {
+    "name": "Servicio Especializado de Carga Aerea (SEC)",
+    "IATA": null,
+    "ICAO": "SEZ",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.711074"
+  },
+  {
+    "name": "Servicios Aereos de La Capital",
+    "IATA": null,
+    "ICAO": "SAD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.711090"
+  },
+  {
+    "name": "Servicios Aereos Die Pilotos Ejecutivos",
+    "IATA": null,
+    "ICAO": "SAR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.711105"
+  },
+  {
+    "name": "Sociedad Aeronautica de Medellin Consolidada S.A. (SAM)",
+    "IATA": "MM",
+    "ICAO": "SAM",
+    "website": "www.avianca.com",
+    "notes": "Ceased operations in October 2010. Designator MM reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.711123"
+  },
+  {
+    "name": "Transportes Aereos Mercantiles Panamericanos S.A., (TAMPA)",
+    "IATA": "QT",
+    "ICAO": "TPA",
+    "website": "www.tampacargo.com",
+    "notes": "Name changed to Transportes Aereos Mercantiles Panamericanos S.A., (TAMPA) t/a Avianca Cargo w.e.f. 28 May 2013.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.711141"
+  },
+  {
+    "name": "Transportes Aereos Mercantiles Panamericanos S.A., (TAMPA)",
+    "IATA": "OD",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.711156"
+  },
+  {
+    "name": "Transamazonica Colombia - Transporte Aereo de La Amazonia",
+    "IATA": null,
+    "ICAO": "TAZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.711172"
+  },
+  {
+    "name": "Transcaribe Colombia - Transporte Del Caribe Ltda",
+    "IATA": null,
+    "ICAO": "TCB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.711188"
+  },
+  {
+    "name": "Transcolombiana de Aviacion, S.A.",
+    "IATA": null,
+    "ICAO": "TVN",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.711204"
+  },
+  {
+    "name": "Ultra Air S.A.S.",
+    "IATA": "U0",
+    "ICAO": "ULS",
+    "website": "www.ultraair.com",
+    "notes": "Suspended operation on 30 March 2023.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.711221"
+  },
+  {
+    "name": "Fast Colombia S.A.S d/b/a Viva Air Colombia",
+    "IATA": "VH",
+    "ICAO": "VVC",
+    "website": "vivaair.com/en-co",
+    "notes": "Suspended operations on 26 February 2023. IATA designtor changed from FC*. Name changed to Viva Air Colombia.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.711238"
+  },
+  {
+    "name": "Fast Colombia S.A.S d/b/a Viva Colombia",
+    "IATA": null,
+    "ICAO": "VVC",
+    "website": "www.vivacolombia.co",
+    "notes": "IATA designtor changed to VH.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.711255"
+  },
+  {
+    "name": "Fast Colombia S.A.S d/b/a Viva Colombia",
+    "IATA": "VH",
+    "ICAO": "VVC",
+    "website": "www.vivacolombia.co",
+    "notes": "IATA designtor changed from FC*.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.711272"
+  },
+  {
+    "name": "West Caribbean Airways, S.A.",
+    "IATA": "YH",
+    "ICAO": "WCW",
+    "website": "www.wca.com.co",
+    "notes": "Designator YH reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:31.711288"
+  }
+]

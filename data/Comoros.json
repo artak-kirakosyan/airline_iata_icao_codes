@@ -1,0 +1,110 @@
+[
+  {
+    "name": "AB Aviation",
+    "IATA": "Y6",
+    "ICAO": "CIK",
+    "website": "www.flyabaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:32.834295"
+  },
+  {
+    "name": "Continental Wings - Comoros Airlines",
+    "IATA": null,
+    "ICAO": "CWK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:32.834323"
+  },
+  {
+    "name": "Comoro Islands Airline",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:32.834341"
+  },
+  {
+    "name": "Air Comores",
+    "IATA": "OR",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator OR recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:32.834358"
+  },
+  {
+    "name": "Air Comores International",
+    "IATA": "GG",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:32.834375"
+  },
+  {
+    "name": "Comores Aviation",
+    "IATA": "KR",
+    "ICAO": "KMZ",
+    "website": "www.comores-aviation.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:32.834393"
+  },
+  {
+    "name": "Comores Aviation International",
+    "IATA": "O5",
+    "ICAO": "KMZ",
+    "website": "www.comoresaviation.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:32.834409"
+  },
+  {
+    "name": "Comoros International Airline",
+    "IATA": null,
+    "ICAO": "CIK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:32.834429"
+  },
+  {
+    "name": "Global Air Leasing PTY Ltd.",
+    "IATA": null,
+    "ICAO": "GAG",
+    "website": "www.globalairgroup.com",
+    "notes": "Name changed from Global Air Operations PTY. Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:32.834447"
+  },
+  {
+    "name": "Global Air Operations PTY. Ltd.",
+    "IATA": null,
+    "ICAO": "GAG",
+    "website": "www.globalairgroup.com",
+    "notes": "Name changed to Global Air Leasing PTY Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:32.834465"
+  },
+  {
+    "name": "Inter Iles Air",
+    "IATA": "I7",
+    "ICAO": "IIA",
+    "website": "www.inter-iles-air.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:32.834481"
+  },
+  {
+    "name": "Ocean Airlines",
+    "IATA": "4O",
+    "ICAO": "KMO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:32.834496"
+  }
+]

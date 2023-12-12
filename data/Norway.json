@@ -1,0 +1,938 @@
+[
+  {
+    "name": "Airlift A.S.",
+    "IATA": null,
+    "ICAO": "ALI",
+    "website": "www.airlift.no",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:02.433667"
+  },
+  {
+    "name": "Airwing AS",
+    "IATA": null,
+    "ICAO": "NWG",
+    "website": "www.airwing.no",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:02.433698"
+  },
+  {
+    "name": "Avinor AS",
+    "IATA": null,
+    "ICAO": "HQO",
+    "website": "www.avinor.no",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:02.433716"
+  },
+  {
+    "name": "Babcock Scandinavian AirAmbulance AS",
+    "IATA": null,
+    "ICAO": "BNO",
+    "website": "www.airamb.se",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:02.433733"
+  },
+  {
+    "name": "Benair Norway A/S",
+    "IATA": null,
+    "ICAO": "HAX",
+    "website": "www.benair.com",
+    "notes": "Name changed from Hangar 5 Air Services Norway A/S",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:02.433752"
+  },
+  {
+    "name": "Bristow Helikopter A/S",
+    "IATA": null,
+    "ICAO": "NOR",
+    "website": "www.norskhelikopter.no",
+    "notes": "Name changed from Norsk Helikopter A/S.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:02.433769"
+  },
+  {
+    "name": "CHC Helikopter Service AS",
+    "IATA": null,
+    "ICAO": "HKS",
+    "website": "www.chc.ca/norway.html",
+    "notes": "Designator L5 recalled by IATA. Name changed from Helikopter Service A/S",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:02.433788"
+  },
+  {
+    "name": "Field Group Aviation AS",
+    "IATA": null,
+    "ICAO": "LED",
+    "website": "field.group",
+    "notes": "Name changed to from Blom Geomatics AS and previously Fotonor AS.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:02.433805"
+  },
+  {
+    "name": "Fonnafly Sjo AS",
+    "IATA": null,
+    "ICAO": "NOF",
+    "website": "www.fonnafly.no",
+    "notes": "Name changed from Fonnafly A/S",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:02.433822"
+  },
+  {
+    "name": "Heliscan AS",
+    "IATA": null,
+    "ICAO": "HSE",
+    "website": "www.heliscan.no",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:02.433839"
+  },
+  {
+    "name": "Heli-Team AS",
+    "IATA": null,
+    "ICAO": "RDL",
+    "website": "heliteam.no",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:02.433855"
+  },
+  {
+    "name": "Helitrans AS",
+    "IATA": null,
+    "ICAO": "HDR",
+    "website": "helitrans.no",
+    "notes": "Name changed from Helikopterdrift AS. ICAO callsign changed to Helitdrift.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:02.433872"
+  },
+  {
+    "name": "Hesnes Air AS",
+    "IATA": null,
+    "ICAO": "HSG",
+    "website": "www.hesnesair.no",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:02.433888"
+  },
+  {
+    "name": "Lufttransport A/S",
+    "IATA": null,
+    "ICAO": "LTR",
+    "website": "www.lufttransport.no",
+    "notes": "Designator L5* recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:02.433904"
+  },
+  {
+    "name": "Nor Aviation",
+    "IATA": null,
+    "ICAO": "ROW",
+    "website": "www.noraviation.no",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:02.433920"
+  },
+  {
+    "name": "Norcopter AS",
+    "IATA": null,
+    "ICAO": "NOC",
+    "website": "www.norcopter.no",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:02.433937"
+  },
+  {
+    "name": "Nord Helikopter",
+    "IATA": null,
+    "ICAO": "NHE",
+    "website": "www.nordhelikopter.no",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:02.433954"
+  },
+  {
+    "name": "Nordic Unmanned AS",
+    "IATA": null,
+    "ICAO": "NOU",
+    "website": "nordicunmanned.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:02.433970"
+  },
+  {
+    "name": "Norse Atlantic Airways AS",
+    "IATA": "N0",
+    "ICAO": "NBT",
+    "website": "flynorse.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:02.433986"
+  },
+  {
+    "name": "Norsk Helikopterservice AS",
+    "IATA": null,
+    "ICAO": "NKH",
+    "website": "www.norskhelikopterservice.no",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:02.434003"
+  },
+  {
+    "name": "Norsk Luftambulanse A/S",
+    "IATA": null,
+    "ICAO": "DOC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:02.434019"
+  },
+  {
+    "name": "Norwegian Air Shuttle A.S. t/a Norwegian",
+    "IATA": "DY",
+    "ICAO": "NAX",
+    "website": "www.norwegian.no",
+    "notes": "IATA designator changed from DY*. IATA designator previously changed from N8.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:02.434036"
+  },
+  {
+    "name": "Norwegian Air Norway AS",
+    "IATA": null,
+    "ICAO": "NAN",
+    "website": "www.norwegian.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:02.434054"
+  },
+  {
+    "name": "Norwegian Air Shuttle AOC AS",
+    "IATA": null,
+    "ICAO": "NOZ",
+    "website": "www.norwegian.com",
+    "notes": "ICAO Callsign changed from Norseman.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:02.434072"
+  },
+  {
+    "name": "Norwegian Long Haul AS",
+    "IATA": null,
+    "ICAO": "NLH",
+    "website": "www.norwegian.no",
+    "notes": "Designator DU recalled by IATA.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:02.434089"
+  },
+  {
+    "name": "Oslo Politidistrikt, Helikoptertjenesten",
+    "IATA": null,
+    "ICAO": "HEP",
+    "website": "www.politi.no/oslo",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:02.434107"
+  },
+  {
+    "name": "Pegasus Helicopters AS",
+    "IATA": null,
+    "ICAO": "HAK",
+    "website": "www.pegasus-as.no",
+    "notes": "ICAO callsign changed from Helihawk",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:02.434124"
+  },
+  {
+    "name": "Pilot Flyskole Flygerforening (PIFF)",
+    "IATA": null,
+    "ICAO": "PIP",
+    "website": "www.pilot.no",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:02.434143"
+  },
+  {
+    "name": "Propellfly AS",
+    "IATA": null,
+    "ICAO": "LBD",
+    "website": "www.propellfly.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:02.434159"
+  },
+  {
+    "name": "Rely AS",
+    "IATA": null,
+    "ICAO": "RTG",
+    "website": "www.rely.no",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:02.434177"
+  },
+  {
+    "name": "Royal Norwegian Air Force",
+    "IATA": null,
+    "ICAO": "NOW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:02.434193"
+  },
+  {
+    "name": "Sundt Air",
+    "IATA": null,
+    "ICAO": "MDT",
+    "website": "www.sundtair.com",
+    "notes": "ICAO designator changed from NOO / Name changed from Nor Aviation A/S 01 July 2000.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:02.434210"
+  },
+  {
+    "name": "Sundt Air Management",
+    "IATA": null,
+    "ICAO": "AKK",
+    "website": "www.sundtair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:02.434227"
+  },
+  {
+    "name": "Universitetet I Tromso",
+    "IATA": null,
+    "ICAO": "UIT",
+    "website": "uit.no",
+    "notes": "ICAO Callsign changed from Spirit.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:02.434244"
+  },
+  {
+    "name": "Wideroe's Flyveselskap A/S",
+    "IATA": "WF",
+    "ICAO": "WIF",
+    "website": "www.wideroe.no/english",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:02.434261"
+  },
+  {
+    "name": "Vici Helicopter AS",
+    "IATA": null,
+    "ICAO": null,
+    "website": "vicihelicopter.no",
+    "notes": "Planned to commence operations with 2 x AW189.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434279"
+  },
+  {
+    "name": "Agderfly A/S",
+    "IATA": null,
+    "ICAO": "AGD",
+    "website": "www.agderfly.no",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434297"
+  },
+  {
+    "name": "Air Stord A.S.",
+    "IATA": "GO",
+    "ICAO": "SOR",
+    "website": null,
+    "notes": "founded in January 1990. Ceased operations on 19 January 1999.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434313"
+  },
+  {
+    "name": "Air Team A.S.",
+    "IATA": null,
+    "ICAO": "TTX",
+    "website": null,
+    "notes": "Designator 8W* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434330"
+  },
+  {
+    "name": "Arctic Air A.S.",
+    "IATA": "8A",
+    "ICAO": "AKR",
+    "website": "www.arctic-air.no",
+    "notes": "Founded in 1996. Ceased operations on 30 March 2003. Filed for bankruptcy in November 2003.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434349"
+  },
+  {
+    "name": "Ascor Flyservice A.S.",
+    "IATA": null,
+    "ICAO": "NOC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434367"
+  },
+  {
+    "name": "Bergen Air Transport",
+    "IATA": null,
+    "ICAO": "BGT",
+    "website": "www.bergenair.no",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434384"
+  },
+  {
+    "name": "Blom Geomatics AS",
+    "IATA": null,
+    "ICAO": "LED",
+    "website": "www.blomasa.com",
+    "notes": "Name changed to from Fotonor AS.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434401"
+  },
+  {
+    "name": "Blueway Offshore Norge AS",
+    "IATA": null,
+    "ICAO": "BWN",
+    "website": "www.blueway.no",
+    "notes": "Sold to Noordzee Helikopters Vlaanderen in 2014.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434426"
+  },
+  {
+    "name": "Braathens ASA",
+    "IATA": "BU",
+    "ICAO": "BRA",
+    "website": "www.braathens.no",
+    "notes": "ICAO callsign changed from Braathens. ICAO designator changed to CNO. Formerly Braathens South American and Far East Airtransport A/S",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434445"
+  },
+  {
+    "name": "Braathens ASA",
+    "IATA": "BU",
+    "ICAO": "BRA",
+    "website": "www.braathens.no",
+    "notes": "ICAO callsign changed to Scanor. Formerly Braathens South American and Far East Airtransport A/S",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434462"
+  },
+  {
+    "name": "Braathens South American and Far East Air Transport",
+    "IATA": "BU",
+    "ICAO": "BRA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434480"
+  },
+  {
+    "name": "Busy Bee Of Norway A/S",
+    "IATA": "BS",
+    "ICAO": "BEE",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434497"
+  },
+  {
+    "name": "CHC Helikopter Service AS",
+    "IATA": "L5",
+    "ICAO": "HKS",
+    "website": "www.chc.ca/norway.html",
+    "notes": "Designator L5 recalled by IATA. Name changed from Helikopter Service A/S",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434514"
+  },
+  {
+    "name": "Coast Aero Center",
+    "IATA": null,
+    "ICAO": "CST",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434531"
+  },
+  {
+    "name": "Coast Air K.S.",
+    "IATA": "BX",
+    "ICAO": "CST",
+    "website": "www.coastair.no",
+    "notes": "Filed for bankruptcy on 23 January 2008. ICAO callsign changed from Coast Center",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434548"
+  },
+  {
+    "name": "Coast Air K.S.",
+    "IATA": "BX",
+    "ICAO": "CST",
+    "website": "www.coastair.no",
+    "notes": "ICAO callsign changed to Coast Air",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434566"
+  },
+  {
+    "name": "Color Air",
+    "IATA": null,
+    "ICAO": "CLA",
+    "website": null,
+    "notes": "Commenced operations on 01 August 1998. Ceased operations on 27 September 1999. Commenced operations on 01 August 1998.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434583"
+  },
+  {
+    "name": "Den Sivile Flyskole",
+    "IATA": null,
+    "ICAO": "TTX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434600"
+  },
+  {
+    "name": "Eurosky Aviation AS",
+    "IATA": null,
+    "ICAO": "EUR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434617"
+  },
+  {
+    "name": "FlyNonstop AS",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.flynonstop.no",
+    "notes": "Founded in June 2011. Commenced operations on 25 April 2013. Filed for bankruptcy on 29 October 2013. Flight operated using Denim Air AOC J7*/DNM",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434635"
+  },
+  {
+    "name": "flyr AS",
+    "IATA": "FS",
+    "ICAO": "FOX",
+    "website": "www.flyr.no",
+    "notes": "Ceased operations on 31 Janaury 2023.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434653"
+  },
+  {
+    "name": "FlyViking AS",
+    "IATA": "VF",
+    "ICAO": "FVK",
+    "website": "www.flyviking.no",
+    "notes": "Owned by Viking Air Norway AS. Due to commence service in March 2017. Merged into Air Leap.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434670"
+  },
+  {
+    "name": "Fonnafly A/S",
+    "IATA": null,
+    "ICAO": "NOF",
+    "website": "www.fonnafly.no",
+    "notes": "Name changed to Fonnafly Sjo AS",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434688"
+  },
+  {
+    "name": "Fotonor AS",
+    "IATA": null,
+    "ICAO": "LED",
+    "website": null,
+    "notes": "Name changed to Blom Geomatics AS.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434703"
+  },
+  {
+    "name": "Fred Olsen Flyselskap A/S",
+    "IATA": "FO",
+    "ICAO": "FOF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434720"
+  },
+  {
+    "name": "Guard Systems ASA",
+    "IATA": null,
+    "ICAO": "GSY",
+    "website": "www.guardsystems.no",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434736"
+  },
+  {
+    "name": "Guardair A.S.",
+    "IATA": null,
+    "ICAO": "JAP",
+    "website": null,
+    "notes": "Ceased operations on 30 March 2001.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434753"
+  },
+  {
+    "name": "Hangar 5 Air Services Norway A/S",
+    "IATA": null,
+    "ICAO": "HAX",
+    "website": null,
+    "notes": "Name changed to Benair Norway A/S",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434770"
+  },
+  {
+    "name": "Helikopter Service A/S",
+    "IATA": "HK",
+    "ICAO": "HKS",
+    "website": "www.helikopterservice.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434785"
+  },
+  {
+    "name": "Helikopter Service A/S",
+    "IATA": "L5",
+    "ICAO": "HKS",
+    "website": "www.helikopterservice.com",
+    "notes": "Name changed to CHC Helikopter Service AS",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434802"
+  },
+  {
+    "name": "Helikopterdrift AS",
+    "IATA": null,
+    "ICAO": "HDR",
+    "website": "www.helikopter.no",
+    "notes": "Name changed to Helitrans AS. ICAO callsign changed to Helitrans.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434818"
+  },
+  {
+    "name": "Heli-Trans AS",
+    "IATA": null,
+    "ICAO": "HTA",
+    "website": "www.helitrans.no",
+    "notes": "Designator 5H recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434834"
+  },
+  {
+    "name": "Heli-Trans AS",
+    "IATA": "5H",
+    "ICAO": "HTA",
+    "website": null,
+    "notes": "Designator 5H recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434850"
+  },
+  {
+    "name": "Helitrans AS",
+    "IATA": "9I",
+    "ICAO": "HTA",
+    "website": "www.helitrans.no",
+    "notes": "Designator 9I recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434866"
+  },
+  {
+    "name": "Kato Airline AS",
+    "IATA": "6S",
+    "ICAO": "KAT",
+    "website": "www.katoair.no",
+    "notes": "Designator 6S recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434882"
+  },
+  {
+    "name": "Lufttransport A/S",
+    "IATA": null,
+    "ICAO": "LTR",
+    "website": "www.lufttransport.no",
+    "notes": "Designator L5* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434898"
+  },
+  {
+    "name": "Mey-Air Transoport A/S",
+    "IATA": "MT",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434914"
+  },
+  {
+    "name": "Nor Aviation A/S",
+    "IATA": null,
+    "ICAO": "NOO",
+    "website": "www.noraviation.no",
+    "notes": "ICAO designator changed to MDT / Name changed to Sundt Air 01 July 2000.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434930"
+  },
+  {
+    "name": "Norfly",
+    "IATA": "WN",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434945"
+  },
+  {
+    "name": "Nor-Fly A/S",
+    "IATA": "WN",
+    "ICAO": "NFC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434960"
+  },
+  {
+    "name": "Norsk Flytieneste",
+    "IATA": null,
+    "ICAO": "PEN",
+    "website": null,
+    "notes": "ICAO designator changed to NIR",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434976"
+  },
+  {
+    "name": "Norsk Flytjeneste AS",
+    "IATA": null,
+    "ICAO": "NIR",
+    "website": "www.nft.as",
+    "notes": "Founded in 1961. Merged into Wideroe in 1996. ICAO designator changed from PEN",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.434993"
+  },
+  {
+    "name": "Norsk Helikopter A/S",
+    "IATA": null,
+    "ICAO": "NOR",
+    "website": "www.norskhelikopter.no",
+    "notes": "Name changed to Bristow Helikopter A/S.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.435009"
+  },
+  {
+    "name": "North Atlantic Cargo AS",
+    "IATA": null,
+    "ICAO": "NFC",
+    "website": "www.northatlantic.no",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.435024"
+  },
+  {
+    "name": "Norving A/S",
+    "IATA": null,
+    "ICAO": "NOR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.435039"
+  },
+  {
+    "name": "Norway Airlines Charter",
+    "IATA": null,
+    "ICAO": "NOS",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.435055"
+  },
+  {
+    "name": "Norways Airlines",
+    "IATA": "JA",
+    "ICAO": "NOS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.435070"
+  },
+  {
+    "name": "Norwegian Air Shuttle A.S. t/a Norwegian",
+    "IATA": null,
+    "ICAO": "NAX",
+    "website": "www.norwegian.no",
+    "notes": "IATA designator changed from N8. IATA designator changed to DY.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.435086"
+  },
+  {
+    "name": "Norwegian Air Shuttle A.S.",
+    "IATA": "N8",
+    "ICAO": "NAX",
+    "website": "www.norwegian.no",
+    "notes": "Designator N8 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.435102"
+  },
+  {
+    "name": "Norwegian Air Shuttle AOC AS",
+    "IATA": null,
+    "ICAO": "NOZ",
+    "website": "www.norwegian.com",
+    "notes": "ICAO Callsign changed to Nordic.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.435117"
+  },
+  {
+    "name": "Norwegian Aviation College A/S (NAC)",
+    "IATA": null,
+    "ICAO": "TFN",
+    "website": null,
+    "notes": "Founded in 1997. Ceased operations in 2007.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.435133"
+  },
+  {
+    "name": "Norwegian Long Haul AS",
+    "IATA": "DU",
+    "ICAO": "NLH",
+    "website": "www.norwegian.no",
+    "notes": "Designator DU recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.435148"
+  },
+  {
+    "name": "Partnair",
+    "IATA": "WN",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.435163"
+  },
+  {
+    "name": "Partnair A/S",
+    "IATA": null,
+    "ICAO": "PAR",
+    "website": null,
+    "notes": "Name changed from Partner Air Services A/S",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.435178"
+  },
+  {
+    "name": "Partner Air Services A/S",
+    "IATA": null,
+    "ICAO": "PAR",
+    "website": null,
+    "notes": "Name changed to Partnair A/S",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.435194"
+  },
+  {
+    "name": "Pegasus Helicopters AS",
+    "IATA": null,
+    "ICAO": "HAK",
+    "website": "www.pegasus-as.no",
+    "notes": "ICAO callsign changed to Helifalcon",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.435209"
+  },
+  {
+    "name": "SAS Braathens AS",
+    "IATA": "BU",
+    "ICAO": "CNO",
+    "website": "www.sasbraathens.no",
+    "notes": "Integrated into mainline SAS 01 June 2007. Name changed from Braathens ASA. ICAO designator changed from BRA. ICAO callsign changed from Braathens. Formerly Braathens South American and Far East Airtransport A/S",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.435227"
+  },
+  {
+    "name": "Scanaviation AS",
+    "IATA": null,
+    "ICAO": "WOP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.435242"
+  },
+  {
+    "name": "Skyline",
+    "IATA": null,
+    "ICAO": "SEG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.435256"
+  },
+  {
+    "name": "Teddy Air A/S",
+    "IATA": null,
+    "ICAO": "TED",
+    "website": null,
+    "notes": "Designator recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.435271"
+  },
+  {
+    "name": "Teddy Air A/S",
+    "IATA": "TED",
+    "ICAO": null,
+    "website": "www.teddyair.no",
+    "notes": "IATA code recalled.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.435287"
+  },
+  {
+    "name": "Trans Wing A/S",
+    "IATA": null,
+    "ICAO": "TWG",
+    "website": "www.transwing.no",
+    "notes": "Name change to Trans Wing A.S. and ICAO callsign changed to Transwing",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.435303"
+  },
+  {
+    "name": "Trans Wing A.S.",
+    "IATA": null,
+    "ICAO": "TWG",
+    "website": "www.transwing.no",
+    "notes": "Name change from Trans Wing A/S and ICAO callsign changed to Transwing Cargo",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.435319"
+  },
+  {
+    "name": "Transpolar A/S",
+    "IATA": "BK",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.435334"
+  },
+  {
+    "name": "Tronderfly Air Service AS",
+    "IATA": null,
+    "ICAO": "TFL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.435349"
+  },
+  {
+    "name": "Universitetet I Tromso",
+    "IATA": null,
+    "ICAO": "UIT",
+    "website": "uit.no",
+    "notes": "ICAO Callsign changed to Artic.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.435365"
+  },
+  {
+    "name": "Westwing A/S",
+    "IATA": "WW",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator WW recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.435381"
+  },
+  {
+    "name": "Westwing A/S",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator WW recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:02.435396"
+  }
+]

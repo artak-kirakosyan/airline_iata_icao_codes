@@ -1,0 +1,236 @@
+[
+  {
+    "name": "Alpavia d.o.o.",
+    "IATA": "AL",
+    "ICAO": "APP",
+    "website": "alpavia.si",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:42.166874"
+  },
+  {
+    "name": "Aero4M d.o.o. d/b/a Amelia International",
+    "IATA": "NL",
+    "ICAO": "AEH",
+    "website": "flyamelia.com",
+    "notes": "ICAO Callsign changed from Aerocutter. Name changed from Aero4M d.o.o. w.e.f. 18 July 2019.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:42.166904"
+  },
+  {
+    "name": "Aviofun, D.o.o.",
+    "IATA": null,
+    "ICAO": "AFU",
+    "website": "www.aviofun.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:42.166922"
+  },
+  {
+    "name": "CAMEX Adria Airlines, letalske storitve, d.o.o.",
+    "IATA": null,
+    "ICAO": "CMM",
+    "website": "camex.aero",
+    "notes": "Subsidiary of CAMEX Airlines.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:42.166940"
+  },
+  {
+    "name": "Edacom d.o.o.",
+    "IATA": null,
+    "ICAO": "EDO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:42.166956"
+  },
+  {
+    "name": "Elit'Avia d.o.o.",
+    "IATA": null,
+    "ICAO": "EAV",
+    "website": "www.elitavia.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:42.166971"
+  },
+  {
+    "name": "Express Airways, D.o.o.",
+    "IATA": null,
+    "ICAO": "EPR",
+    "website": "www.express-airways.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:42.166987"
+  },
+  {
+    "name": "Flycom",
+    "IATA": null,
+    "ICAO": "FLO",
+    "website": "www.flycom.si",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:42.167004"
+  },
+  {
+    "name": "Gio d.o.o.",
+    "IATA": null,
+    "ICAO": "GIO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:42.167020"
+  },
+  {
+    "name": "Government of the Republic of Slovenia",
+    "IATA": null,
+    "ICAO": "GSI",
+    "website": "www.vlada.si",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:42.167037"
+  },
+  {
+    "name": "Lipican Aer d.o.o.",
+    "IATA": "8I",
+    "ICAO": "LIP",
+    "website": "www.lipicanaer.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:42.167053"
+  },
+  {
+    "name": "Sea Air Ltd.",
+    "IATA": null,
+    "ICAO": "SIB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:42.167069"
+  },
+  {
+    "name": "SiAvia, d.o.o.",
+    "IATA": null,
+    "ICAO": "SVB",
+    "website": "siavia.com",
+    "notes": "Designator KT recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:42.167085"
+  },
+  {
+    "name": "Solinair Latelsko Podjetjet d.o.o.",
+    "IATA": "ZS",
+    "ICAO": "SOP",
+    "website": "www.solinair.si",
+    "notes": "IATA designator changed from SP*.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:42.167102"
+  },
+  {
+    "name": "United Eagle d.o.o.",
+    "IATA": null,
+    "ICAO": "UEE",
+    "website": "eagleexpress.ch",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:42.167118"
+  },
+  {
+    "name": "Adria Airways - The Airline of Slovenia",
+    "IATA": "JP",
+    "ICAO": "ADR",
+    "website": "www.adria.si",
+    "notes": "Ceased operations on 30 September 2019. Name changed form Inex-Adria",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:42.167136"
+  },
+  {
+    "name": "Aero4M d.o.o.",
+    "IATA": "NL",
+    "ICAO": "AEH",
+    "website": "www.aero4m.com",
+    "notes": "Name changed to Aero4M d.o.o. d/b/a Amelia International w.e.f. 18 July 2019.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:42.167153"
+  },
+  {
+    "name": "Alfa Histria d.o.o.",
+    "IATA": null,
+    "ICAO": "LFH",
+    "website": "www.alfahistria.si",
+    "notes": "Founded in 1994. Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:42.167170"
+  },
+  {
+    "name": "Alpe Air",
+    "IATA": null,
+    "ICAO": "LPS",
+    "website": null,
+    "notes": "Founded in 1999. Ceased operaitons.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:42.167186"
+  },
+  {
+    "name": "Aero4M d.o.o. d/b/a Amelia International",
+    "IATA": "NL",
+    "ICAO": "AEH",
+    "website": "flyamelia.com",
+    "notes": "ICAO Callsign changed to Vega. Name changed from Aero4M d.o.o. w.e.f. 18 July 2019.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:42.167204"
+  },
+  {
+    "name": "Aurora Airlines",
+    "IATA": null,
+    "ICAO": "URR",
+    "website": "www.fly-aurora.com",
+    "notes": "Founded in 2005. Ceased operations in 2009.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:42.167221"
+  },
+  {
+    "name": "Linxair d.o.o.",
+    "IATA": null,
+    "ICAO": "LIX",
+    "website": "www.linxair.com",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:42.167236"
+  },
+  {
+    "name": "SiAvia, d.o.o.",
+    "IATA": "KT",
+    "ICAO": "SVB",
+    "website": "siavia.com",
+    "notes": "Designator KT recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:42.167253"
+  },
+  {
+    "name": "Slovenian Armed Forces",
+    "IATA": null,
+    "ICAO": "SIV",
+    "website": "www.slovenskavojska.si/en/",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:42.167269"
+  },
+  {
+    "name": "Solinair Latelsko Podjetjet d.o.o.",
+    "IATA": null,
+    "ICAO": "SOP",
+    "website": "www.solinair.si",
+    "notes": "IATA designator changed to ZS.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:42.167285"
+  },
+  {
+    "name": "VLM Airlines d.d.",
+    "IATA": "VO",
+    "ICAO": "WLM",
+    "website": "flyvlm.force3.be",
+    "notes": "AOC granted 11 May 2017. 100% owned by SHS Antwerp Aviation NV.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:42.167302"
+  }
+]

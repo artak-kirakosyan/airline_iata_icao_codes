@@ -1,0 +1,1136 @@
+[
+  {
+    "name": "Aero Ejecutivos, C.A.",
+    "IATA": null,
+    "ICAO": "VEJ",
+    "website": "www.aeroejecutivos.com.ve",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226339"
+  },
+  {
+    "name": "Aero Transporte La Montana, C.A.",
+    "IATA": null,
+    "ICAO": "RTE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226366"
+  },
+  {
+    "name": "Aerocaribe Airlines",
+    "IATA": null,
+    "ICAO": "CVZ",
+    "website": "www.aerocaribe.com.ve",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226383"
+  },
+  {
+    "name": "Aerocaribe Cord, \u0421.\u0410.",
+    "IATA": null,
+    "ICAO": "AOB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226403"
+  },
+  {
+    "name": "Aerohelicopteros, C.A.",
+    "IATA": null,
+    "ICAO": "ARH",
+    "website": "www.aerohelicopteros.com/Ahca/index.html",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226429"
+  },
+  {
+    "name": "Aerojet Executive C.A.",
+    "IATA": null,
+    "ICAO": "AEJ",
+    "website": "www.aerojetexecutive.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226446"
+  },
+  {
+    "name": "Aerolinea Aviasur, C.A.",
+    "IATA": null,
+    "ICAO": "VSU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226462"
+  },
+  {
+    "name": "Aerolineas Andinas",
+    "IATA": null,
+    "ICAO": "NDN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226478"
+  },
+  {
+    "name": "Aerolineas Jet Global, C.A.",
+    "IATA": null,
+    "ICAO": "JGB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226494"
+  },
+  {
+    "name": "Aerolineas Latinas, C.A.",
+    "IATA": null,
+    "ICAO": "LTN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226513"
+  },
+  {
+    "name": "Aeropanamericano C.A.",
+    "IATA": null,
+    "ICAO": "PNM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226529"
+  },
+  {
+    "name": "Aerorutas del Sur C.A.",
+    "IATA": null,
+    "ICAO": "AFC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226544"
+  },
+  {
+    "name": "Aeroservicios Fares C.A.",
+    "IATA": null,
+    "ICAO": "FEE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226559"
+  },
+  {
+    "name": "Aerotecnica S.A.",
+    "IATA": null,
+    "ICAO": "DUG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226575"
+  },
+  {
+    "name": "Aerotransporte Convalles",
+    "IATA": null,
+    "ICAO": "LLE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226591"
+  },
+  {
+    "name": "Aeroturpial, C.A.",
+    "IATA": null,
+    "ICAO": "TUR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226606"
+  },
+  {
+    "name": "Air Transport Iglesias S.A.",
+    "IATA": null,
+    "ICAO": "IGL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226622"
+  },
+  {
+    "name": "Airways Services & Support AS & S C.A.",
+    "IATA": null,
+    "ICAO": "AYV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226637"
+  },
+  {
+    "name": "Allanza Glancelot C.A.",
+    "IATA": "G0",
+    "ICAO": "GAL",
+    "website": "albatrosair.aero",
+    "notes": "Designator G2* recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226654"
+  },
+  {
+    "name": "Altair Jets, C.A.",
+    "IATA": null,
+    "ICAO": "MAP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226669"
+  },
+  {
+    "name": "APG Gold Aviation",
+    "IATA": null,
+    "ICAO": "PGG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226685"
+  },
+  {
+    "name": "AVE, C.A.",
+    "IATA": null,
+    "ICAO": "VZA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226699"
+  },
+  {
+    "name": "Aviones de Oriente, C.A. (AVIOR)",
+    "IATA": "9V",
+    "ICAO": "ROI",
+    "website": "www.avior.com.ve",
+    "notes": "Designator 3B recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226716"
+  },
+  {
+    "name": "Avior Regional, C.A.",
+    "IATA": null,
+    "ICAO": "RGR",
+    "website": "www.aviorair.com",
+    "notes": "Designator 9V recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226734"
+  },
+  {
+    "name": "Blue Star Aviation C.A.",
+    "IATA": null,
+    "ICAO": "BSV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226749"
+  },
+  {
+    "name": "Caribbean Flights",
+    "IATA": null,
+    "ICAO": "CIF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226766"
+  },
+  {
+    "name": "Centro Industrial Aeronautico C.A. (CIACA)",
+    "IATA": null,
+    "ICAO": "CVX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226782"
+  },
+  {
+    "name": "Coinspectra Aviacion, C.A.",
+    "IATA": null,
+    "ICAO": "COI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226798"
+  },
+  {
+    "name": "Comercial de Aviacion C.A. (Comeravia)",
+    "IATA": null,
+    "ICAO": "CVV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226814"
+  },
+  {
+    "name": "Commandair C.A.",
+    "IATA": null,
+    "ICAO": "WPC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226830"
+  },
+  {
+    "name": "Consorcio Helitec C.A.",
+    "IATA": null,
+    "ICAO": "VCH",
+    "website": "www.helitec.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226846"
+  },
+  {
+    "name": "Conviasa",
+    "IATA": "V0",
+    "ICAO": "VCV",
+    "website": "www.conviasa.aero",
+    "notes": "Designator V0 reinstated by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226862"
+  },
+  {
+    "name": "Costa Airlines, C.A.",
+    "IATA": null,
+    "ICAO": "COT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226877"
+  },
+  {
+    "name": "EC Charter C.A.",
+    "IATA": null,
+    "ICAO": "EXC",
+    "website": "www.eccharter.net",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226893"
+  },
+  {
+    "name": "Empresa de Transporte Aereocargo del Sur, S.A.",
+    "IATA": null,
+    "ICAO": "ESU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226908"
+  },
+  {
+    "name": "Estelar Latinoamerica C.A. d/b/a Estelar",
+    "IATA": "ES",
+    "ICAO": "ETR",
+    "website": "www.flyestelar.com",
+    "notes": "Designator E4 recalled by IATA.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226924"
+  },
+  {
+    "name": "Falcon Royal Air, S.A.",
+    "IATA": null,
+    "ICAO": "VFA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226941"
+  },
+  {
+    "name": "Global Avanti",
+    "IATA": null,
+    "ICAO": "GLV",
+    "website": "globalavantiair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226957"
+  },
+  {
+    "name": "Helicopteros del Caribe, C.A. (HELICA)",
+    "IATA": null,
+    "ICAO": "HCH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226972"
+  },
+  {
+    "name": "Inversiones Hucaven C.A.",
+    "IATA": null,
+    "ICAO": "HKV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.226987"
+  },
+  {
+    "name": "Inversiones Manduca, C.A.",
+    "IATA": null,
+    "ICAO": "INM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.227003"
+  },
+  {
+    "name": "Inversiones Moraima, C.A.",
+    "IATA": null,
+    "ICAO": "IMO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.227018"
+  },
+  {
+    "name": "Inversiones Tiryka C.A.",
+    "IATA": null,
+    "ICAO": "ICA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.227033"
+  },
+  {
+    "name": "Kavok Airlines, C.A.",
+    "IATA": null,
+    "ICAO": "KVA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.227047"
+  },
+  {
+    "name": "Linea Aerea de Servicio Ejecutivo Regional, C.A. d/b/a Laser",
+    "IATA": null,
+    "ICAO": "LER",
+    "website": "www.laserairlines.com",
+    "notes": "Name changed from Linea Aerea de Servicio Ejecutivo Regional, C.A. (LASER). Founded in 1993. Commenced operations in 1994.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.227066"
+  },
+  {
+    "name": "Lloyd Aviation, C.A.",
+    "IATA": null,
+    "ICAO": "LLD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.227081"
+  },
+  {
+    "name": "Midas Airlines, C.A.",
+    "IATA": null,
+    "ICAO": "MIO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.227096"
+  },
+  {
+    "name": "Multiservicios Aereos Vikingo, C.A.",
+    "IATA": null,
+    "ICAO": "VKO",
+    "website": "aereosvikingo.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.227112"
+  },
+  {
+    "name": "Nova West Aviation C.A.",
+    "IATA": null,
+    "ICAO": "WWN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.227127"
+  },
+  {
+    "name": "Pas Airlines",
+    "IATA": null,
+    "ICAO": "PLE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.227144"
+  },
+  {
+    "name": "Perla Airlines, C.A.",
+    "IATA": null,
+    "ICAO": "PLV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.227159"
+  },
+  {
+    "name": "Rainbow Air, C.A.",
+    "IATA": null,
+    "ICAO": "TZR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.227173"
+  },
+  {
+    "name": "Rentavion, C.A.",
+    "IATA": null,
+    "ICAO": "RNT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.227189"
+  },
+  {
+    "name": "RG Aviation, C.A.",
+    "IATA": null,
+    "ICAO": "RGV",
+    "website": "www.rgaviationca.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.227205"
+  },
+  {
+    "name": "Rutas Aereas, C.A. d/b/a Rutaca Airlines",
+    "IATA": "5R",
+    "ICAO": "RUC",
+    "website": "www.rutaca.com.ve",
+    "notes": "Name changed from Rutas Aereas, C.A. d/b/a RUTACA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.227222"
+  },
+  {
+    "name": "S&S Orinoco Aviation C.A.",
+    "IATA": null,
+    "ICAO": "SSO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.227237"
+  },
+  {
+    "name": "Serami, C.A.",
+    "IATA": null,
+    "ICAO": "SRE",
+    "website": "www.serami.com.ve",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.227254"
+  },
+  {
+    "name": "Servicios Aereos A&H, C.A.",
+    "IATA": null,
+    "ICAO": "AXH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.227270"
+  },
+  {
+    "name": "Servicios Aereos C\u00e9u Azul, C.A.",
+    "IATA": null,
+    "ICAO": "VCU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.227286"
+  },
+  {
+    "name": "Servicios Aereos Sucre C.A. (SASCA)",
+    "IATA": null,
+    "ICAO": "SSU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.227302"
+  },
+  {
+    "name": "Skyven Cielos de Venezuela, S.A.",
+    "IATA": null,
+    "ICAO": "VSK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.227317"
+  },
+  {
+    "name": "Solar Cargo, C.A.",
+    "IATA": null,
+    "ICAO": "OLC",
+    "website": "solarcargo.com",
+    "notes": "IATA designator 4S* recalled.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.227334"
+  },
+  {
+    "name": "Transaereo 5074, C.A.",
+    "IATA": null,
+    "ICAO": "TEO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.227350"
+  },
+  {
+    "name": "Transaven Airlines",
+    "IATA": null,
+    "ICAO": "VEN",
+    "website": "www.transaven.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.227366"
+  },
+  {
+    "name": "Transcarga International Airways, C.A.",
+    "IATA": null,
+    "ICAO": "TIW",
+    "website": "www.transcarga.net",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.227382"
+  },
+  {
+    "name": "Transmandu C.A.",
+    "IATA": null,
+    "ICAO": "TMD",
+    "website": "www.transmandu.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.227398"
+  },
+  {
+    "name": "Transporte Amazon Air C.A.",
+    "IATA": null,
+    "ICAO": "TMZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.227412"
+  },
+  {
+    "name": "Transportes Nacionales, C.A.",
+    "IATA": null,
+    "ICAO": "THC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.227427"
+  },
+  {
+    "name": "Turpial Airlines, C.A.",
+    "IATA": "T9",
+    "ICAO": "VTU",
+    "website": "turpialairlines.com",
+    "notes": "Commenced operations on 07 April 2017.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.227443"
+  },
+  {
+    "name": "Empresa Venezolana, Linea Aerea Bolivariana",
+    "IATA": null,
+    "ICAO": "VNE",
+    "website": "www.venezolana.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.227459"
+  },
+  {
+    "name": "Vensecar Internacional, C.A.",
+    "IATA": "V4",
+    "ICAO": "VEC",
+    "website": "www.vensecar.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:45.227474"
+  },
+  {
+    "name": "Transaven C.A. (Transporte Aereo Venezuela)",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.transaven.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.227490"
+  },
+  {
+    "name": "Aero 8 Venezuela",
+    "IATA": "BE",
+    "ICAO": "ABV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.227505"
+  },
+  {
+    "name": "Aerocanarias de Venezuela, S.A.",
+    "IATA": null,
+    "ICAO": "RCV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.227520"
+  },
+  {
+    "name": "Aeronautica Venezolana, C.A. (Aierovenca)",
+    "IATA": null,
+    "ICAO": "AVC",
+    "website": "www.aerovenca.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.227536"
+  },
+  {
+    "name": "Aeronaves Del Centro",
+    "IATA": "AG",
+    "ICAO": "AGA",
+    "website": null,
+    "notes": "Designator AG recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.227551"
+  },
+  {
+    "name": "Aeropostal Alas de Venezuela, C.A.",
+    "IATA": "VH",
+    "ICAO": "ALV",
+    "website": "www.aeropostal.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.227568"
+  },
+  {
+    "name": "Aeropostal Alas de Venezuela, C.A.",
+    "IATA": null,
+    "ICAO": "ALV",
+    "website": "www.aeropostal.com",
+    "notes": "Designator VH* reinstated  by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.227584"
+  },
+  {
+    "name": "Aeropostal de Venezuela, C.A.",
+    "IATA": "LV",
+    "ICAO": "ALV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.227599"
+  },
+  {
+    "name": "Aeroservicios Paraguana C.A. Aeropar",
+    "IATA": null,
+    "ICAO": "RPR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.227614"
+  },
+  {
+    "name": "Air Margarita",
+    "IATA": null,
+    "ICAO": "MAG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.227628"
+  },
+  {
+    "name": "Air Venezuela, Linea de Transporte Aereo Lta., C.A.",
+    "IATA": null,
+    "ICAO": "VZA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.227643"
+  },
+  {
+    "name": "Alas de Venezuela",
+    "IATA": null,
+    "ICAO": "ALV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.227660"
+  },
+  {
+    "name": "Alas del Sur C.A.",
+    "IATA": null,
+    "ICAO": "ALS",
+    "website": "www.alasdelsurla.com",
+    "notes": "Operations never started.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.227675"
+  },
+  {
+    "name": "Allanza Glancelot C.A.",
+    "IATA": null,
+    "ICAO": "GAL",
+    "website": "www.albatrosair.com.ve",
+    "notes": "Designator G2* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.227691"
+  },
+  {
+    "name": "Aserca Airlines, C.A.",
+    "IATA": "R7",
+    "ICAO": "OCA",
+    "website": "www.asercaairlines.com",
+    "notes": "Ceased operations on 22 May 2018",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.227707"
+  },
+  {
+    "name": "Aeroservicios Carabobo C.A. Aserca",
+    "IATA": "R7",
+    "ICAO": "OCA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.227722"
+  },
+  {
+    "name": "Aerovias Venezolanas, S.A. (AVENSA)",
+    "IATA": "VE",
+    "ICAO": "AVE",
+    "website": "www.avensa.com.ve",
+    "notes": "Declared bankrupt in 2002.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.227738"
+  },
+  {
+    "name": "Aviones de Oriente, C.A. (AVIOR)",
+    "IATA": "3B",
+    "ICAO": "ROI",
+    "website": "www.avior.com.ve",
+    "notes": "Designator 3B reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.227754"
+  },
+  {
+    "name": "Avior Regional, C.A.",
+    "IATA": "3R",
+    "ICAO": "RGR",
+    "website": "www.aviorair.com",
+    "notes": "Designator 9V recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.227779"
+  },
+  {
+    "name": "Carga Aerea Venezolana Caraven, S.A.",
+    "IATA": null,
+    "ICAO": "CCR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.227795"
+  },
+  {
+    "name": "El Sol de America, C.A.",
+    "IATA": "6S",
+    "ICAO": "ESC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.227810"
+  },
+  {
+    "name": "Empressa Aerotuy, C.A.",
+    "IATA": null,
+    "ICAO": "TUY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.227825"
+  },
+  {
+    "name": "Estelar Latinoamerica C.A.",
+    "IATA": "E4",
+    "ICAO": "ETR",
+    "website": "www.flyestelar.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.227840"
+  },
+  {
+    "name": "General Air Cargo G.A.C.",
+    "IATA": null,
+    "ICAO": "GAC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.227855"
+  },
+  {
+    "name": "J D Valenciana de Aviacion",
+    "IATA": null,
+    "ICAO": "JDV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.227870"
+  },
+  {
+    "name": "Jet Air Internacional Charters, C.A.",
+    "IATA": null,
+    "ICAO": "INC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.227885"
+  },
+  {
+    "name": "Linea Aerea I.A.A.C.A. (L.A.I.)",
+    "IATA": null,
+    "ICAO": "BNX",
+    "website": null,
+    "notes": "Founded in 1992. Ceased operations on 27 September 2006.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.227902"
+  },
+  {
+    "name": "Linea Aerea Merida Internacional de Aviacion C.A. (LiMia C.A.)",
+    "IATA": null,
+    "ICAO": "LMD",
+    "website": "www.limia.com.ve",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.227918"
+  },
+  {
+    "name": "Linea Aerea de Servicio Ejecutivo Regional, C.A. (LASER)",
+    "IATA": null,
+    "ICAO": "LER",
+    "website": "www.laser.com.ve",
+    "notes": "Name changed to Linea Aerea de Servicio Ejecutivo Regional, C.A. d/b/a Laser. Founded in 1993. Commenced operations in 1994.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.227935"
+  },
+  {
+    "name": "Latin Carga, Latinoamericana Aera de Carga",
+    "IATA": null,
+    "ICAO": "LTC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.227950"
+  },
+  {
+    "name": "Latinoamerican Airline (Latair)",
+    "IATA": null,
+    "ICAO": "LTM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.227965"
+  },
+  {
+    "name": "Linea Aerea Bolivariana LABSA",
+    "IATA": null,
+    "ICAO": "LBS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.227981"
+  },
+  {
+    "name": "Linea Aerea De Servicio Ejecutivo Regional, C.A.",
+    "IATA": null,
+    "ICAO": "LER",
+    "website": null,
+    "notes": "IATA designator changed to 8Z*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.227997"
+  },
+  {
+    "name": "Linea Aerea de Servicio Ejecutivo Regional, C.A.",
+    "IATA": null,
+    "ICAO": "LER",
+    "website": null,
+    "notes": "IATA designator changed from KZ*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.228013"
+  },
+  {
+    "name": "Linea Turistica Aereotuy Lta, C.A.",
+    "IATA": "LD",
+    "ICAO": "TUY",
+    "website": null,
+    "notes": "IATA designator changed to L4",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.228029"
+  },
+  {
+    "name": "Linea Turistica Aereotuy Lta, C.A.",
+    "IATA": "L4",
+    "ICAO": "TUY",
+    "website": "www.tuy.com",
+    "notes": "Ceased operations on 30 July 2018. IATA designator changed from LD.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.228046"
+  },
+  {
+    "name": "Rutas Aereas, C.A. d/b/a RUTACA",
+    "IATA": "5R",
+    "ICAO": "RUC",
+    "website": "www.rutaca.com.ve",
+    "notes": "Name changed to Rutas Aereas, C.A. d/b/a Rutaca Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.228063"
+  },
+  {
+    "name": "Rutas Aereas de Venezuela RAV, S.A.",
+    "IATA": null,
+    "ICAO": "RUC",
+    "website": "www.ravsa.com.ve",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.228079"
+  },
+  {
+    "name": "Sabana Airlines, C.A.",
+    "IATA": null,
+    "ICAO": "SBN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.228095"
+  },
+  {
+    "name": "Santa Barbara Airlines, C.A.",
+    "IATA": "S3",
+    "ICAO": "BBR",
+    "website": "www.santabarbaraairlines.com",
+    "notes": "AOC suspended on 31 January 2018. IATA designator changed from BJ*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.228112"
+  },
+  {
+    "name": "Santa Barbara Airlines, C.A.",
+    "IATA": null,
+    "ICAO": "BBR",
+    "website": null,
+    "notes": "IATA designator changed to S3",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.228128"
+  },
+  {
+    "name": "Servicios Avensa S.A. (SERVIVENSA)",
+    "IATA": "VC",
+    "ICAO": "SVV",
+    "website": null,
+    "notes": "Designator VC reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.228146"
+  },
+  {
+    "name": "Sociedad Anonima Empresa de Turismo Aerec",
+    "IATA": null,
+    "ICAO": "STM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.228162"
+  },
+  {
+    "name": "Solar Cargo, C.A.",
+    "IATA": null,
+    "ICAO": "OLC",
+    "website": "solarcargo.com",
+    "notes": "IATA designator 4S* recalled.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.228178"
+  },
+  {
+    "name": "Sundance Air Venezuela, S.A.",
+    "IATA": "R8",
+    "ICAO": "SUV",
+    "website": "sundance-airlines.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.228194"
+  },
+  {
+    "name": "Suramericana de Aviacion, C.A. (Surca)",
+    "IATA": null,
+    "ICAO": "SUC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.228211"
+  },
+  {
+    "name": "Transporte Aereo Andino, S.A. (TAAN)",
+    "IATA": null,
+    "ICAO": "EAA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.228227"
+  },
+  {
+    "name": "Transporte A\u00e9reo de Carga, S.A.",
+    "IATA": "TD",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.228242"
+  },
+  {
+    "name": "Venexcargo (Transporte Aereo de Carga S.A.)",
+    "IATA": null,
+    "ICAO": "VNX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.228257"
+  },
+  {
+    "name": "Venezolana",
+    "IATA": "RV",
+    "ICAO": "VAO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.228272"
+  },
+  {
+    "name": "Empresa Venezolana, Linea Aerea Bolivariana",
+    "IATA": "AW",
+    "ICAO": "VNE",
+    "website": "www.ravsa.com.ve",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.228287"
+  },
+  {
+    "name": "VIASA - Venezolana Internacional de Aviacion SA",
+    "IATA": "VA",
+    "ICAO": "VIA",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.228303"
+  },
+  {
+    "name": "Worldwide Aviation Services Ltd.",
+    "IATA": null,
+    "ICAO": "WWA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.228318"
+  },
+  {
+    "name": "Zuliana de Aviacion .C.A.",
+    "IATA": "OD",
+    "ICAO": "ULA",
+    "website": null,
+    "notes": "Designator OD recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.228333"
+  },
+  {
+    "name": "Aerobolivar, C.A.",
+    "IATA": null,
+    "ICAO": "IVA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:45.228347"
+  }
+]

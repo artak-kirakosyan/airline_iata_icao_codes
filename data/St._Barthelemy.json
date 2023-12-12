@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Saint Barth Commuter",
+    "IATA": null,
+    "ICAO": "SBU",
+    "website": "www.stbarthcommuter.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:52.965020"
+  },
+  {
+    "name": "St Barth Executive",
+    "IATA": "LE",
+    "ICAO": "STB",
+    "website": "www.stbarthexecutive.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:52.965049"
+  },
+  {
+    "name": "Air Saint Barthelemy",
+    "IATA": null,
+    "ICAO": "BTH",
+    "website": null,
+    "notes": "Designator PV* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:52.965069"
+  },
+  {
+    "name": "Air Saint Barthelemy",
+    "IATA": null,
+    "ICAO": "BTH",
+    "website": null,
+    "notes": "Designator PV* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:52.965087"
+  },
+  {
+    "name": "Barth's Aviation",
+    "IATA": null,
+    "ICAO": "BTH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:52.965104"
+  },
+  {
+    "name": "Barth's Aviation",
+    "IATA": null,
+    "ICAO": "BTH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:52.965121"
+  }
+]

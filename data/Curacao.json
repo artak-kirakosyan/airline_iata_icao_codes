@@ -1,0 +1,38 @@
+[
+  {
+    "name": "EZ Air BV",
+    "IATA": "7Z",
+    "ICAO": null,
+    "website": "flyezair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:42.722462"
+  },
+  {
+    "name": "Jetair Caribbean B.V.",
+    "IATA": "4J",
+    "ICAO": "JRC",
+    "website": "www.jetaircaribbean.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:42.722492"
+  },
+  {
+    "name": "United Caribbean Airlines B.V. d/b/a JetAir Caribbean",
+    "IATA": "4J",
+    "ICAO": "UCB",
+    "website": "www.flyuca.com",
+    "notes": "Name changed to Jetair Caribbean B.V. ICAO Designator changed to JRC. Name changed from United Caribbean Airlines B.V.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:42.722511"
+  },
+  {
+    "name": "United Caribbean Airlines B.V.",
+    "IATA": "4J",
+    "ICAO": "UCB",
+    "website": "www.flyuca.com",
+    "notes": "Name changed to United Caribbean Airlines B.V. d/b/a JetAir Caribbean.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:42.722528"
+  }
+]

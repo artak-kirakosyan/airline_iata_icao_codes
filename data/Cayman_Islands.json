@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Cayman Airways Limited",
+    "IATA": "KX",
+    "ICAO": "CAY",
+    "website": "www.caymanairways.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:21.972217"
+  },
+  {
+    "name": "Coral Jet",
+    "IATA": null,
+    "ICAO": "COJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:21.972242"
+  },
+  {
+    "name": "Gama Aviation (Cayman) SEZC",
+    "IATA": null,
+    "ICAO": "GKY",
+    "website": "www.gamaaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:21.972260"
+  },
+  {
+    "name": "Global Wings SEZC Ltd",
+    "IATA": null,
+    "ICAO": "GWW",
+    "website": "www.globalwings-sezc.com",
+    "notes": "A subsidiary of Arab Wings. Commenced operations in January 2022.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:21.972279"
+  },
+  {
+    "name": "Phenix Jet Cayman SEZC",
+    "IATA": null,
+    "ICAO": "CPJ",
+    "website": "www.phenixjet.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:21.972296"
+  },
+  {
+    "name": "Saad (A320) Ltd",
+    "IATA": null,
+    "ICAO": "MMS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:21.972312"
+  },
+  {
+    "name": "TAG Aviation (Cayman) SEZC",
+    "IATA": null,
+    "ICAO": "TCJ",
+    "website": "www.tagaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:21.972327"
+  },
+  {
+    "name": "Lion Air Services, Inc.",
+    "IATA": null,
+    "ICAO": "WGT",
+    "website": null,
+    "notes": "Wholly owned subsidary of Volkswagen AG.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:21.972343"
+  }
+]

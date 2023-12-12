@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Air Macau Company Limited",
+    "IATA": "NX",
+    "ICAO": "AMU",
+    "website": "www.airmacau.com.mo",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:16.912069"
+  },
+  {
+    "name": "Macau Jet International Co., Ltd.",
+    "IATA": null,
+    "ICAO": "MMJ",
+    "website": "www.macaujet.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:16.912096"
+  },
+  {
+    "name": "Cotai Ferry Company Limited",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.cotaijet.com.mo",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:16.912113"
+  },
+  {
+    "name": "East Asia Airlines Limited",
+    "IATA": null,
+    "ICAO": "EMU",
+    "website": "www.helihongkong.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:16.912130"
+  },
+  {
+    "name": "Viva Macau Limited",
+    "IATA": "ZG",
+    "ICAO": "VVM",
+    "website": "www.vivamacau.com",
+    "notes": "Air Operator Certificate was revoked end March 2010. Designator ZG reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:16.912148"
+  }
+]

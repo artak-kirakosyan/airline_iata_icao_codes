@@ -1,0 +1,20 @@
+[
+  {
+    "name": "His Majesty The Sultan's Flight",
+    "IATA": null,
+    "ICAO": "SFB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:10.155616"
+  },
+  {
+    "name": "Royal Brunei Airlines Sdn. Bhd.",
+    "IATA": "BI",
+    "ICAO": "RBA",
+    "website": "www.bruneiair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:10.155644"
+  }
+]

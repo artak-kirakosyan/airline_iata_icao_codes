@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Ezjet GT Inc.",
+    "IATA": null,
+    "ICAO": "EZJ",
+    "website": "www.ezjetgt.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:32.388925"
+  },
+  {
+    "name": "Heli-inter Guyane",
+    "IATA": null,
+    "ICAO": "HIG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:32.388953"
+  },
+  {
+    "name": "Roraima Airways",
+    "IATA": null,
+    "ICAO": "ROR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:32.388971"
+  },
+  {
+    "name": "Trans Guyana Airways",
+    "IATA": null,
+    "ICAO": "TGY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:32.388987"
+  },
+  {
+    "name": "Yankee Lima Helicopteres",
+    "IATA": null,
+    "ICAO": "LYH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:32.389002"
+  },
+  {
+    "name": "CAIRE d/b/a Air Antilles",
+    "IATA": "3S",
+    "ICAO": "GUY",
+    "website": "www.airantilles.com",
+    "notes": "Suspended operations on 29 September 2023. Name changed from Air Guyane S.P. w.e.f. June 2009.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:32.389020"
+  },
+  {
+    "name": "Air Guyane S.P.",
+    "IATA": "3S",
+    "ICAO": "GUY",
+    "website": "www.airguyane.com",
+    "notes": "Name changed to CAIRE d/b/a Air Antilles Express w.e.f. June 2009.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:32.389036"
+  },
+  {
+    "name": "Ejet Inc",
+    "IATA": "9J",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:32.389052"
+  },
+  {
+    "name": "Guyana Airways d/b/a Guyana Airways 2000 Inc.",
+    "IATA": "GY",
+    "ICAO": "GYA",
+    "website": "www.turq.com/guyana/guyanair.html",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:32.389068"
+  },
+  {
+    "name": "Guyana Airways Corp.",
+    "IATA": "BG",
+    "ICAO": null,
+    "website": null,
+    "notes": "ICAO callsign changed from Artair",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:32.389085"
+  },
+  {
+    "name": "Guyana Airways Corporation",
+    "IATA": "GY",
+    "ICAO": null,
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:32.389101"
+  },
+  {
+    "name": "Guyana Airways Corporation",
+    "IATA": "GY",
+    "ICAO": "GYA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:32.389116"
+  },
+  {
+    "name": "Guyana Airways Corp.",
+    "IATA": "BG",
+    "ICAO": null,
+    "website": null,
+    "notes": "ICAO callsign changed to Guyair",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:32.389132"
+  },
+  {
+    "name": "Laparkan Airways, Inc.",
+    "IATA": "LE",
+    "ICAO": null,
+    "website": "www.laparkan.com",
+    "notes": "IATA designator changed from L8*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:32.389147"
+  },
+  {
+    "name": "Laparkan Airways, Inc.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.laparkan.com",
+    "notes": "IATA designator changed to LE",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:32.389163"
+  },
+  {
+    "name": "Travelspan GT Inc",
+    "IATA": "9T",
+    "ICAO": null,
+    "website": "www.travelspan.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:32.389179"
+  },
+  {
+    "name": "Universal Airlines, Inc.",
+    "IATA": "UW",
+    "ICAO": "UVG",
+    "website": null,
+    "notes": "Designator UW recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:32.389194"
+  },
+  {
+    "name": "Wings Aviation Limited t/a Air guyana",
+    "IATA": null,
+    "ICAO": "WOL",
+    "website": "www.airguyana.biz",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:32.389210"
+  }
+]

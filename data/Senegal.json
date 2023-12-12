@@ -1,0 +1,254 @@
+[
+  {
+    "name": "Africair Service",
+    "IATA": null,
+    "ICAO": "FFB",
+    "website": null,
+    "notes": "Designator FF recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:33.236361"
+  },
+  {
+    "name": "Afrique Cargo Service Senegal",
+    "IATA": null,
+    "ICAO": "NFS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:33.236390"
+  },
+  {
+    "name": "Air Saint Louis",
+    "IATA": null,
+    "ICAO": "LOU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:33.236407"
+  },
+  {
+    "name": "Air Senegal S.A.",
+    "IATA": "HC",
+    "ICAO": "SZN",
+    "website": "flyairsenegal.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:33.236423"
+  },
+  {
+    "name": "Arc en Ciel Aviation S.A.",
+    "IATA": null,
+    "ICAO": "JMS",
+    "website": "www.arcenciel-aviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:33.236439"
+  },
+  {
+    "name": "Eagle International",
+    "IATA": null,
+    "ICAO": "SEG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:33.236455"
+  },
+  {
+    "name": "Georgian Cargo Airlines Africa S.A.",
+    "IATA": null,
+    "ICAO": "GGF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:33.236471"
+  },
+  {
+    "name": "Groupe Transair S.A.",
+    "IATA": "R2",
+    "ICAO": "GTS",
+    "website": "www.groupetransair.sn",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:33.236486"
+  },
+  {
+    "name": "ProJETS Aviation Senegal SAS",
+    "IATA": null,
+    "ICAO": "PEC",
+    "website": "www.projetsaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:33.236502"
+  },
+  {
+    "name": "Sunu Air SA",
+    "IATA": null,
+    "ICAO": "SUG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:33.236518"
+  },
+  {
+    "name": "Transport Aerien Ouest African",
+    "IATA": null,
+    "ICAO": "OUA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:33.236533"
+  },
+  {
+    "name": "Turbot Air Cargo",
+    "IATA": null,
+    "ICAO": "TAC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:33.236548"
+  },
+  {
+    "name": "West African Air Transport",
+    "IATA": null,
+    "ICAO": "WTF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:33.236564"
+  },
+  {
+    "name": "Aero Services",
+    "IATA": null,
+    "ICAO": "RSG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:33.236579"
+  },
+  {
+    "name": "Africair Service",
+    "IATA": "FF",
+    "ICAO": "FFB",
+    "website": null,
+    "notes": "Designator FF recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:33.236595"
+  },
+  {
+    "name": "African West Air (AWA)",
+    "IATA": null,
+    "ICAO": "AFC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:33.236611"
+  },
+  {
+    "name": "Air Fret Afrique",
+    "IATA": null,
+    "ICAO": "FRF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:33.236626"
+  },
+  {
+    "name": "Air Fret Senegal",
+    "IATA": null,
+    "ICAO": "ABN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:33.236641"
+  },
+  {
+    "name": "Air Senegal, Soci\u00e9t\u00e9 Nationale de Transport Aerien",
+    "IATA": "DS",
+    "ICAO": "DSB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:33.236656"
+  },
+  {
+    "name": "Air Senegal International",
+    "IATA": null,
+    "ICAO": "SNG",
+    "website": "www.air-senegal-international.com",
+    "notes": "Founded in 1962. Ceased operations on 24 April 2009.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:33.236674"
+  },
+  {
+    "name": "Atlantis Airlines",
+    "IATA": "9V",
+    "ICAO": "ALS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:33.236690"
+  },
+  {
+    "name": "Compagnie Senegalaise de Transports A\u00e9riens",
+    "IATA": "DS",
+    "ICAO": null,
+    "website": null,
+    "notes": "Name changed to Air Senegal, Societe Nationale de Transport Aerien",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:33.236707"
+  },
+  {
+    "name": "Maritalia",
+    "IATA": null,
+    "ICAO": "MLT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:33.236722"
+  },
+  {
+    "name": "New Air",
+    "IATA": null,
+    "ICAO": "NWF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:33.236737"
+  },
+  {
+    "name": "Senegal Air Transport (SAT)",
+    "IATA": null,
+    "ICAO": "STP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:33.236753"
+  },
+  {
+    "name": "Groupe Air Senegal (Senegal Airlines)",
+    "IATA": "DN",
+    "ICAO": "SGG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:33.236768"
+  },
+  {
+    "name": "Senegalair",
+    "IATA": null,
+    "ICAO": "SGL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:33.236782"
+  },
+  {
+    "name": "Senegalair",
+    "IATA": null,
+    "ICAO": "SGR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:33.236798"
+  }
+]

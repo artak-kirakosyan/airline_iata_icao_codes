@@ -1,0 +1,515 @@
+[
+  {
+    "name": "Aerotours Dominicana, C. Por. A.",
+    "IATA": null,
+    "ICAO": "ATD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:51.397953"
+  },
+  {
+    "name": "Air Century, S.A.",
+    "IATA": "Y2",
+    "ICAO": "CEY",
+    "website": "www.aircentury.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:51.397983"
+  },
+  {
+    "name": "DW Dominican Wings. S.A. d/b/a Arajet",
+    "IATA": "DM",
+    "ICAO": "DWI",
+    "website": "www.arajet.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:51.398003"
+  },
+  {
+    "name": "Compania Lineas Aereas Nacionales turisticas (LANTUR)",
+    "IATA": null,
+    "ICAO": "LNR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:51.398020"
+  },
+  {
+    "name": "Servicios Aereos GECA S.A. d/b/a GECA",
+    "IATA": "D6",
+    "ICAO": "GCA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:51.398036"
+  },
+  {
+    "name": "Helidosa Aviation Group",
+    "IATA": null,
+    "ICAO": "DMR",
+    "website": "www.helidosa.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:51.398052"
+  },
+  {
+    "name": "Hispaniola Airways, C. Por. A.",
+    "IATA": null,
+    "ICAO": "HIS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:51.398068"
+  },
+  {
+    "name": "Evelop Airlines Dominicana, S.A. d/b/a Iberojet",
+    "IATA": null,
+    "ICAO": "IDR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:51.398084"
+  },
+  {
+    "name": "Red Air S.r.l.",
+    "IATA": "L5",
+    "ICAO": "REA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:51.398100"
+  },
+  {
+    "name": "LogicPaq Btd, s.r.l. d/b/a Sky Cana",
+    "IATA": "RD",
+    "ICAO": "SNA",
+    "website": "skycana.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:51.398115"
+  },
+  {
+    "name": "SKYhigh Aviation Services Dominicana S.A.",
+    "IATA": "DO",
+    "ICAO": "SHH",
+    "website": "www.skyhighdominicana.com",
+    "notes": "Founded in 2012. Name changed from Sky High Aviation Services S.A. ICAO Callsign changed from Sky High.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:51.398132"
+  },
+  {
+    "name": "TCA Jet Charters",
+    "IATA": null,
+    "ICAO": "TJC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:51.398147"
+  },
+  {
+    "name": "Transporte Aereo Dominicano (TRADO)",
+    "IATA": null,
+    "ICAO": "TDO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:51.398163"
+  },
+  {
+    "name": "Antillas Air",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.antillasair.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398178"
+  },
+  {
+    "name": "Aero Continente Dominicana",
+    "IATA": "9D",
+    "ICAO": "CND",
+    "website": null,
+    "notes": "Designator 9D recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398194"
+  },
+  {
+    "name": "Aerochago Airlines SA",
+    "IATA": null,
+    "ICAO": "AHG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398209"
+  },
+  {
+    "name": "Aerolineas Dominicanas S.A.",
+    "IATA": "SS",
+    "ICAO": "ADM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398224"
+  },
+  {
+    "name": "Aerolineas MAS, S.A.",
+    "IATA": "N3",
+    "ICAO": "MAF",
+    "website": "www.aerolineasmas.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398241"
+  },
+  {
+    "name": "Aeromar C. Por. A.",
+    "IATA": "BQ",
+    "ICAO": "ROM",
+    "website": "www.aeromarairlines.com",
+    "notes": "Name changed to Aeromar Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398257"
+  },
+  {
+    "name": "Aeromar Airlines",
+    "IATA": null,
+    "ICAO": "ERM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398271"
+  },
+  {
+    "name": "Aeromar Airlines",
+    "IATA": "BQ",
+    "ICAO": "ROM",
+    "website": "www.aeromarairlines.com",
+    "notes": "Name changed from Aeromar C. Por. A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398287"
+  },
+  {
+    "name": "Aerovias Quisqueyana Ltda.",
+    "IATA": "QQ",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398303"
+  },
+  {
+    "name": "Air Ambar, S.A.",
+    "IATA": null,
+    "ICAO": "AMY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398318"
+  },
+  {
+    "name": "Air Atlantic Dominicana",
+    "IATA": null,
+    "ICAO": "ADC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398333"
+  },
+  {
+    "name": "Air Dominicana S.A.",
+    "IATA": "ED",
+    "ICAO": "RDO",
+    "website": "www.airdominicana.com.do",
+    "notes": "Founded in 2008. Ceased operations during 2009.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398350"
+  },
+  {
+    "name": "Air Dominicana S.A.",
+    "IATA": null,
+    "ICAO": "RDO",
+    "website": "www.airdominicana.com.do",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398366"
+  },
+  {
+    "name": "Aerolineas Santo Domingo, S.A.",
+    "IATA": "EX",
+    "ICAO": "SDO",
+    "website": "www.airsantodomingo.com",
+    "notes": "Founded in 1996. Merged with Servicios Aereos Profesionales, Inc. (SAP Air) during 2005.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398383"
+  },
+  {
+    "name": "ALAS de transporte Internacional SA",
+    "IATA": "RW",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398399"
+  },
+  {
+    "name": "Alas Nacionales, S.A.",
+    "IATA": null,
+    "ICAO": "ALW",
+    "website": null,
+    "notes": "Ceased operations during 1996.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398420"
+  },
+  {
+    "name": "Antillana de Navegacion Aerea, S.A. - Sun Airways",
+    "IATA": null,
+    "ICAO": "SUN",
+    "website": null,
+    "notes": "Founded in 1989. Ceased operations during 1990.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398436"
+  },
+  {
+    "name": "APA International Air Republica Dominicana, S.A.",
+    "IATA": "7P",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398452"
+  },
+  {
+    "name": "Argo, S.A.",
+    "IATA": null,
+    "ICAO": "RGO",
+    "website": null,
+    "notes": "founded in 1971. Ceased operations during 1987.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398468"
+  },
+  {
+    "name": "Carga Aerea Dominicana",
+    "IATA": null,
+    "ICAO": "CDM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398482"
+  },
+  {
+    "name": "Caribair, S.A.",
+    "IATA": null,
+    "ICAO": "CBC",
+    "website": "www.caribair.com.do",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398498"
+  },
+  {
+    "name": "Caribbean International Airlines, Inc.",
+    "IATA": "B9",
+    "ICAO": "CBC",
+    "website": "www.caribair.com.do",
+    "notes": "Desigantor B9 recalled by IATA. Desigantor B9 reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398514"
+  },
+  {
+    "name": "Compania Dominicana de Aviacion, S.A.",
+    "IATA": null,
+    "ICAO": "DOA",
+    "website": "www.dominicana.com",
+    "notes": "Founded\tin 1944. Ceased operations during 1999.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398531"
+  },
+  {
+    "name": "Aerolineas Dominicanas S.A. d/b/a Dominair",
+    "IATA": "YU",
+    "ICAO": "ADM",
+    "website": null,
+    "notes": "Designator YU restated IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398548"
+  },
+  {
+    "name": "DW Dominican Wings, S.A.",
+    "IATA": null,
+    "ICAO": "DWI",
+    "website": "dominicanwings.com",
+    "notes": "Rebranded as flycana on 15 May 2018.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398564"
+  },
+  {
+    "name": "Compania Dominicana de Aviacion, S.A.",
+    "IATA": "DO",
+    "ICAO": "DOA",
+    "website": null,
+    "notes": "Designator DO recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398580"
+  },
+  {
+    "name": "Dorado Air",
+    "IATA": null,
+    "ICAO": "DAD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398596"
+  },
+  {
+    "name": "Dos Mundos",
+    "IATA": null,
+    "ICAO": "DOM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398610"
+  },
+  {
+    "name": "flycana",
+    "IATA": null,
+    "ICAO": "DWI",
+    "website": "flycana.com",
+    "notes": "Commenced operations during May 2015.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398626"
+  },
+  {
+    "name": "Hispaniola Airways, C. Por. A.",
+    "IATA": "ZS",
+    "ICAO": "HIS",
+    "website": null,
+    "notes": "Designator ZS recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398641"
+  },
+  {
+    "name": "L\u00edneas A\u00e9reas Nacionales de Navegaci\u00f3n Dominicana, S.A (LAN Dominicana)",
+    "IATA": "4M",
+    "ICAO": "LNC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398657"
+  },
+  {
+    "name": "Linea Aerea Nacional (LANSA)",
+    "IATA": null,
+    "ICAO": "LSA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398672"
+  },
+  {
+    "name": "Pan Am World Airways Dominicana, CXA",
+    "IATA": "7N",
+    "ICAO": "PWD",
+    "website": "www.pawadominicana.com",
+    "notes": "Operations suspended on 28 January 2018.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398688"
+  },
+  {
+    "name": "Queen Air",
+    "IATA": "5G",
+    "ICAO": "QNA",
+    "website": null,
+    "notes": "IATA designator changed from 7Q*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398704"
+  },
+  {
+    "name": "Aeronaves Queen S.A. (Queen Air)",
+    "IATA": null,
+    "ICAO": "QNA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398720"
+  },
+  {
+    "name": "Queen Air",
+    "IATA": "7Q",
+    "ICAO": "QNA",
+    "website": null,
+    "notes": "IATA designator changed to 5G",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398736"
+  },
+  {
+    "name": "Robinton Aereo, C. Por. A.",
+    "IATA": null,
+    "ICAO": "RBT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398751"
+  },
+  {
+    "name": "Servicios Aereos Profesionales, S.A.",
+    "IATA": null,
+    "ICAO": "PSV",
+    "website": "www.sapair.com",
+    "notes": "IATA code changed from P2*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398767"
+  },
+  {
+    "name": "Sky High Aviation Services S.A.",
+    "IATA": "DO",
+    "ICAO": "SHH",
+    "website": "www.skyhighdominicana.com",
+    "notes": "Founded in 2012. ICAO Callsign changed to Sky Domenicana.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398783"
+  },
+  {
+    "name": "Sky High Aviation Services S.A.",
+    "IATA": "DO",
+    "ICAO": "SHH",
+    "website": "www.skyhighdominicana.com",
+    "notes": "Founded in 2012. Name changed to Sky High Aviation Services S.A. ICAO Callsign changed from Sky High.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398800"
+  },
+  {
+    "name": "Taino Airlines",
+    "IATA": null,
+    "ICAO": "TIN",
+    "website": "www.flytaino.com",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398815"
+  },
+  {
+    "name": "Transporte Aereo Dominicano, S.A.",
+    "IATA": null,
+    "ICAO": "TAD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398830"
+  },
+  {
+    "name": "Crownair",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Name changed from Dorado Wings",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398845"
+  },
+  {
+    "name": "Dorado Wings",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Name changed to Crownair",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:51.398861"
+  }
+]

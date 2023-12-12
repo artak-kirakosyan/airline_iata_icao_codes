@@ -1,0 +1,623 @@
+[
+  {
+    "name": "Academia Romana de Aviatie",
+    "IATA": null,
+    "ICAO": "RFT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:22.902850"
+  },
+  {
+    "name": "Air Bucharest",
+    "IATA": null,
+    "ICAO": "BUR",
+    "website": "www.airbucharest.ro",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:22.902879"
+  },
+  {
+    "name": "Air Company",
+    "IATA": null,
+    "ICAO": "CPY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:22.902897"
+  },
+  {
+    "name": "Air Connect Aviation Group",
+    "IATA": "KS",
+    "ICAO": "KON",
+    "website": "air-connect.com",
+    "notes": "Plans to launch flights with an ATR72-600 turboprop in May 2022.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:22.902915"
+  },
+  {
+    "name": "Anima Wings Aviation S.A.",
+    "IATA": "A2",
+    "ICAO": "AWG",
+    "website": "animawings.com",
+    "notes": "Founded on 17 July 2019.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:22.902932"
+  },
+  {
+    "name": "Atom Airways",
+    "IATA": null,
+    "ICAO": "ROA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:22.902948"
+  },
+  {
+    "name": "Aviro Air S.R.L. t/a AviroAir Airlines",
+    "IATA": null,
+    "ICAO": "AVW",
+    "website": "aviroair.ro",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:22.902964"
+  },
+  {
+    "name": "Bees Airlines S.r.l.",
+    "IATA": null,
+    "ICAO": "BES",
+    "website": "beesromania.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:22.902980"
+  },
+  {
+    "name": "C&I Corporation",
+    "IATA": null,
+    "ICAO": "CIJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:22.902995"
+  },
+  {
+    "name": "Carpatair, S.A.",
+    "IATA": "V3",
+    "ICAO": "KRP",
+    "website": "www.carpatair.com",
+    "notes": "ICAO designator changed form VEG, Name changed from Veg Air S.R.L. ICAO callsign changed from Vegflight",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:22.903013"
+  },
+  {
+    "name": "Carpatair Flight Training",
+    "IATA": null,
+    "ICAO": "SMW",
+    "website": "www.carpatair.com/About_us/Training/EN/",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:22.903029"
+  },
+  {
+    "name": "S.C. COBREX Trans S.R.L.",
+    "IATA": null,
+    "ICAO": "CBX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:22.903045"
+  },
+  {
+    "name": "Dan Air (AOC) S.r.l.",
+    "IATA": null,
+    "ICAO": "JOC",
+    "website": "just-us.aero",
+    "notes": "Name changed from Just-Us Air S.r.l.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:22.903062"
+  },
+  {
+    "name": "Direct Aero Services",
+    "IATA": null,
+    "ICAO": "DSV",
+    "website": "www.aeroservices.ro",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:22.903078"
+  },
+  {
+    "name": "Fly Company Ltd.",
+    "IATA": null,
+    "ICAO": "FCY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:22.903094"
+  },
+  {
+    "name": "SC Fly Lili S.r.l.",
+    "IATA": "FL",
+    "ICAO": "LIL",
+    "website": "flylili.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:22.903110"
+  },
+  {
+    "name": "Fly One Airlines S.r.l.",
+    "IATA": "OE",
+    "ICAO": "FOE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:22.903125"
+  },
+  {
+    "name": "Aerro Direkt S.r.l. d/b/a Flyyo",
+    "IATA": null,
+    "ICAO": "DIR",
+    "website": "aerro.ro",
+    "notes": "Name changed Aerro Direkt S.r.l. Due to re-start operations as Flyyo an ACMI carrier with A320's.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:22.903143"
+  },
+  {
+    "name": "Hello Jets S.r.l.",
+    "IATA": "H3",
+    "ICAO": "HLJ",
+    "website": "hellojets.com",
+    "notes": "Subsidiary of Blue Air's owner Teodor Rada.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:22.903159"
+  },
+  {
+    "name": "HiSky Europe",
+    "IATA": "H4",
+    "ICAO": "HYS",
+    "website": "hisky.md",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:22.903175"
+  },
+  {
+    "name": "S.C. Ion Tiriac, S.r.l.",
+    "IATA": null,
+    "ICAO": "TIH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:22.903191"
+  },
+  {
+    "name": "Jet Technics S.R.L.",
+    "IATA": null,
+    "ICAO": "JTW",
+    "website": "www.jettechnics.ro",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:22.903208"
+  },
+  {
+    "name": "Legend Airlines",
+    "IATA": null,
+    "ICAO": "LAL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:22.903223"
+  },
+  {
+    "name": "My Jet",
+    "IATA": null,
+    "ICAO": "MYJ",
+    "website": "myjet.ro",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:22.903239"
+  },
+  {
+    "name": "Regional Air Services",
+    "IATA": null,
+    "ICAO": "RTZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:22.903255"
+  },
+  {
+    "name": "Romaero Ltd.",
+    "IATA": null,
+    "ICAO": "RMR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:22.903271"
+  },
+  {
+    "name": "Romanian Air Force",
+    "IATA": null,
+    "ICAO": "ROF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:22.903286"
+  },
+  {
+    "name": "Romcargo Airlines S.r.l.",
+    "IATA": null,
+    "ICAO": "RCR",
+    "website": "www.romcargo.com",
+    "notes": "Name changed from Fly Sky. ICAO designator changed from FSG.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:22.903302"
+  },
+  {
+    "name": "S.C. Euroject Romania S.A.",
+    "IATA": null,
+    "ICAO": "RDP",
+    "website": null,
+    "notes": "Name changed from S.C. Rompetrol Logistics, S.A.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:22.903318"
+  },
+  {
+    "name": "Star East Airline s.r.l.",
+    "IATA": null,
+    "ICAO": "SEK",
+    "website": "www.stareast.net",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:22.903335"
+  },
+  {
+    "name": "Compnia Nationala de Transporturi Aeriene Romane TAROM S.A.",
+    "IATA": "RO",
+    "ICAO": "ROT",
+    "website": "www.tarom.ro",
+    "notes": "Name changed from TAROM - Romanian Air Transport.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:22.903351"
+  },
+  {
+    "name": "S.C. Toyo Aviation S.R.L.",
+    "IATA": null,
+    "ICAO": "TOY",
+    "website": "www.toyoaviation.ro",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:22.903367"
+  },
+  {
+    "name": "Transylvania International Airlines",
+    "IATA": null,
+    "ICAO": "TYC",
+    "website": "www.transilvaniaairlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:22.903383"
+  },
+  {
+    "name": "United European Airlines ( S.C. ) S.R.L.",
+    "IATA": null,
+    "ICAO": "UEU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:22.903399"
+  },
+  {
+    "name": "S.C. Valahia Air S.r.l.",
+    "IATA": null,
+    "ICAO": "VLH",
+    "website": "www.valahiaair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:22.903414"
+  },
+  {
+    "name": "Fly Romania",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.flyromania.com",
+    "notes": "Schedules on website us IATA Code X5* of Ten Airways of Romania",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:22.903432"
+  },
+  {
+    "name": "Acvila Air",
+    "IATA": null,
+    "ICAO": "RRM",
+    "website": "www.acvila-air.ro",
+    "notes": "Ceased operations on 30 April 2006. Designator WZ recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:22.903448"
+  },
+  {
+    "name": "Aerro Direkt S.r.l.",
+    "IATA": null,
+    "ICAO": "DIR",
+    "website": "aerro.ro",
+    "notes": "Suspended operations on 22 March 2023. To re-launch as Aerro Direkt S.r.l. d/b/a Flyyo.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:22.903465"
+  },
+  {
+    "name": "Air Tracia",
+    "IATA": "6P",
+    "ICAO": null,
+    "website": "www.dntcj.ro/tracia/",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:22.903481"
+  },
+  {
+    "name": "AiRom 2000 S.R.L.",
+    "IATA": null,
+    "ICAO": "RMM",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:22.903497"
+  },
+  {
+    "name": "S.C. Alfa Air Services S.R.L.",
+    "IATA": null,
+    "ICAO": "ALR",
+    "website": "www.alfa-air.eu",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:22.903513"
+  },
+  {
+    "name": "Angel Airlines, S.A.",
+    "IATA": "8K",
+    "ICAO": "KOZ",
+    "website": "www.angelairlines.ro",
+    "notes": "Founded in August 2001. Declared bankruptcy and ceased operations in 2004. Designator 8K recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:22.903529"
+  },
+  {
+    "name": "Atlas Airlines, S.A.",
+    "IATA": null,
+    "ICAO": "JPL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:22.903545"
+  },
+  {
+    "name": "ATS-Aviation Transport Services (ATS-Servicii de Transport Aerian)",
+    "IATA": null,
+    "ICAO": "ROS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:22.903561"
+  },
+  {
+    "name": "Aviatia Utilitara SA",
+    "IATA": null,
+    "ICAO": "UTL",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:22.903577"
+  },
+  {
+    "name": "Blue Air Aviation S.A.",
+    "IATA": null,
+    "ICAO": "BMS",
+    "website": "www.blueair-web.com",
+    "notes": "ICAO code changed to BLA and ICAO callsign changed to Blue Air w.e.f. 18 February 2020. Name changed from Blue Air - Airline Management Solution S.R.L. w.e.f. 03 August 2018.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:22.903595"
+  },
+  {
+    "name": "Blue Air - Airline Management Solution S.R.L.",
+    "IATA": null,
+    "ICAO": "BMS",
+    "website": "www.blueair-web.com",
+    "notes": "Name changed to Blue Air Aviation S.A. w.e.f. 03 August 2018.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:22.903612"
+  },
+  {
+    "name": "Blue Air Transport Aerian",
+    "IATA": null,
+    "ICAO": "JOR",
+    "website": "www.blueair-web.com",
+    "notes": "On the 17 May 2013, a press release was issued announcing that BlueAir Transport Aerian SA's flight operations will be transferred to Airline Management Solution SRL.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:22.903629"
+  },
+  {
+    "name": "Blue Air Aviation S.A.",
+    "IATA": null,
+    "ICAO": "BLA",
+    "website": "www.blueair-web.com",
+    "notes": "Suspended operations on 06 September 2022. ICAO code changed from BMS and ICAO callsign changed to Blue Messanger w.e.f. 18 February 2020. Name changed from Blue Air - Airline Management Solution S.R.L. w.e.f. 03 August 2018.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:22.903648"
+  },
+  {
+    "name": "Buzz Aero S.r.l.",
+    "IATA": "F6",
+    "ICAO": "FXP",
+    "website": "www.buzz.aero",
+    "notes": "Name changed from FlyCompass Service S.r.l.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:22.903664"
+  },
+  {
+    "name": "Carpatair",
+    "IATA": "V3",
+    "ICAO": "VEG",
+    "website": null,
+    "notes": "ICAO designator changed to  KRP, Name changed from Veg Air S.R.L.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:22.903680"
+  },
+  {
+    "name": "DAC Air, S.A.",
+    "IATA": null,
+    "ICAO": "GCP",
+    "website": "www.dntcj.ro/dacair/",
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:22.903696"
+  },
+  {
+    "name": "S.C. Fly 365 Aviation S.r.l.",
+    "IATA": null,
+    "ICAO": "FLA",
+    "website": "www.fly365.ro",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:22.903712"
+  },
+  {
+    "name": "Fly Sky",
+    "IATA": null,
+    "ICAO": "FSG",
+    "website": null,
+    "notes": "Name changed to ROM Cargo Airlines. ICAO designator changed to RCR.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:22.903728"
+  },
+  {
+    "name": "FlyCompass Service S.r.l.",
+    "IATA": "F6",
+    "ICAO": "FXP",
+    "website": "www.flycompass.ro",
+    "notes": "Name changed to Buzz Aero S.r.l. Main share holder Valan International Cargo Charter. (Moldova)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:22.903744"
+  },
+  {
+    "name": "S.C. Grivco Air, S.A.",
+    "IATA": null,
+    "ICAO": "GIV",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:22.903759"
+  },
+  {
+    "name": "Inter Aviation",
+    "IATA": null,
+    "ICAO": "IAN",
+    "website": "www.interaviation.ro",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:22.903775"
+  },
+  {
+    "name": "Interaviation Charter",
+    "IATA": null,
+    "ICAO": "IAC",
+    "website": "interaviation.eu",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:22.903791"
+  },
+  {
+    "name": "Jaro International, S.A.",
+    "IATA": null,
+    "ICAO": "MDJ",
+    "website": null,
+    "notes": "Founded in 1991. Ceased operations in 2001.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:22.903807"
+  },
+  {
+    "name": "SC JeTran Air S.r.l.",
+    "IATA": null,
+    "ICAO": "MDJ",
+    "website": "www.jetranair.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:22.903823"
+  },
+  {
+    "name": "Just-Us Air S.r.l.",
+    "IATA": null,
+    "ICAO": "JOC",
+    "website": "just-us.aero",
+    "notes": "AOC received April 2018. Name changed to Dan Air )AOC) S.r.l.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:22.903840"
+  },
+  {
+    "name": "Medallion Air",
+    "IATA": null,
+    "ICAO": "MDP",
+    "website": "medallionair.ro",
+    "notes": "Founded in 2009. Merged into Ten Airways in July 2013.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:22.903856"
+  },
+  {
+    "name": "Mia Airlines",
+    "IATA": null,
+    "ICAO": "JLA",
+    "website": "www.miaairlines.com",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:22.903872"
+  },
+  {
+    "name": "Miravia Romanian Airlines",
+    "IATA": "N3",
+    "ICAO": "MRV",
+    "website": null,
+    "notes": "Designator N3 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:22.903888"
+  },
+  {
+    "name": "Romanian Aviation Company ROMAVIA R.A.",
+    "IATA": "WQ",
+    "ICAO": "RMV",
+    "website": "www.romavia.ro",
+    "notes": "Designator WQ reinstated by IATA. Declared bankrupt and ceased operations in August 2014.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:22.903904"
+  },
+  {
+    "name": "S.C. Rompetrol Logistics, S.A.",
+    "IATA": null,
+    "ICAO": "RDP",
+    "website": null,
+    "notes": "Name changed to S.C. Euroject Romania S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:22.903921"
+  },
+  {
+    "name": "TAROM - Romanian Air Transport",
+    "IATA": "RO",
+    "ICAO": "ROT",
+    "website": "www.tarom.ro",
+    "notes": "Name changed to Compnia Nationala de Transporturi Aeriene Romane TAROM S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:22.903938"
+  },
+  {
+    "name": "S.C. Ten Airways S.R.L.",
+    "IATA": null,
+    "ICAO": "OTJ",
+    "website": "www.tenairways.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:22.903955"
+  },
+  {
+    "name": "Veg Air S.R.L.",
+    "IATA": "V3",
+    "ICAO": "VEG",
+    "website": null,
+    "notes": "Name changed to Carpatair",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:22.903972"
+  }
+]

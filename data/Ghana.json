@@ -1,0 +1,515 @@
+[
+  {
+    "name": "Africa World Airlines Limited",
+    "IATA": null,
+    "ICAO": "AFW",
+    "website": "www.flyafricaworld.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:18.984561"
+  },
+  {
+    "name": "Air Ghana Limited",
+    "IATA": null,
+    "ICAO": "GHN",
+    "website": "www.airghana.com",
+    "notes": "Designator AG* recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:18.984614"
+  },
+  {
+    "name": "AirFutures Airlines Limited",
+    "IATA": null,
+    "ICAO": "AFD",
+    "website": "airfutures.com.gh",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:18.984637"
+  },
+  {
+    "name": "Baby Jet Airlines Limied",
+    "IATA": null,
+    "ICAO": "FBJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:18.984658"
+  },
+  {
+    "name": "CTK Network Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "CTQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:18.984677"
+  },
+  {
+    "name": "Eagle Atlantic Airlines Limited",
+    "IATA": null,
+    "ICAO": "EAB",
+    "website": "www.eagleatlanticairlines.com",
+    "notes": "Designator E2 recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:18.984698"
+  },
+  {
+    "name": "Fan Airways Limited",
+    "IATA": null,
+    "ICAO": "FGH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:18.984719"
+  },
+  {
+    "name": "540 Ghana Ltd. t/a Fly-GH",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.fly-gh.com",
+    "notes": "Due to commence domestic and regional operations in Ghana by 1Q 2019 with ATR 72.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:18.984741"
+  },
+  {
+    "name": "Ghana Air Force",
+    "IATA": null,
+    "ICAO": "GHF",
+    "website": "www.ghanaairforce.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:18.984760"
+  },
+  {
+    "name": "Gianair Ltd",
+    "IATA": null,
+    "ICAO": "GIN",
+    "website": "gianairltd.com",
+    "notes": "Incorporated 29 May 2009.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:18.984783"
+  },
+  {
+    "name": "Gulf Wing Aviation Ltd",
+    "IATA": null,
+    "ICAO": "GWH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:18.984806"
+  },
+  {
+    "name": "Mframa Airlines Limited",
+    "IATA": null,
+    "ICAO": "GOG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:18.984827"
+  },
+  {
+    "name": "NHV Aviation",
+    "IATA": null,
+    "ICAO": "NHV",
+    "website": "www.nhv.be",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:18.984843"
+  },
+  {
+    "name": "DAC International Airlines Ltd. d/b/a PassionAir",
+    "IATA": "OP",
+    "ICAO": "DIG",
+    "website": "flypassionair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:18.984861"
+  },
+  {
+    "name": "Rainbow Cargo Express",
+    "IATA": null,
+    "ICAO": "RBO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:18.984878"
+  },
+  {
+    "name": "Real Aviation Limited",
+    "IATA": null,
+    "ICAO": "RLV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:18.984894"
+  },
+  {
+    "name": "Tropicana Airlines",
+    "IATA": null,
+    "ICAO": "TGP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:18.984912"
+  },
+  {
+    "name": "Unicorn Air Charter Services",
+    "IATA": null,
+    "ICAO": "UHI",
+    "website": "www.flyunicornair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:18.984929"
+  },
+  {
+    "name": "West Coast Airlines Limited",
+    "IATA": null,
+    "ICAO": "WCG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:18.984944"
+  },
+  {
+    "name": "Zaab Air",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.zaabair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:18.984960"
+  },
+  {
+    "name": "Goldstar Air",
+    "IATA": null,
+    "ICAO": null,
+    "website": "flygoldstar.com",
+    "notes": "Founded in 2014. Planned startup March 2017. 2 x B733 and 3 x B763.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:18.984977"
+  },
+  {
+    "name": "540 Ghana Ltd.",
+    "IATA": "5G",
+    "ICAO": "FOX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:18.984993"
+  },
+  {
+    "name": "Aero Survey Ltd",
+    "IATA": null,
+    "ICAO": "IKM",
+    "website": null,
+    "notes": "Name changed to Aero Survey Ltd t/a Starbow. ICAO callsign changed from Ghana Survey",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:18.985010"
+  },
+  {
+    "name": "Aero Survey Ltd",
+    "IATA": null,
+    "ICAO": "IKM",
+    "website": null,
+    "notes": "ICAO callsign changed to Easy Shuttle",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:18.985027"
+  },
+  {
+    "name": "Aerogem Cargo Ltd.",
+    "IATA": null,
+    "ICAO": "GCK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:18.985043"
+  },
+  {
+    "name": "African Star Airlines",
+    "IATA": null,
+    "ICAO": "AFN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:18.985058"
+  },
+  {
+    "name": "Afrinat (Gambia) International Airlines, Inc.",
+    "IATA": "Q9",
+    "ICAO": "AFU",
+    "website": "www.afrinat.com",
+    "notes": "Designator Q9 reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:18.985074"
+  },
+  {
+    "name": "Air Charter Express Limited",
+    "IATA": null,
+    "ICAO": "ACE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:18.985089"
+  },
+  {
+    "name": "Air Ghana Limited",
+    "IATA": null,
+    "ICAO": "GHN",
+    "website": "www.airghana.com",
+    "notes": "Designator AG* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:18.985107"
+  },
+  {
+    "name": "Air Transafrik Limited",
+    "IATA": "PQ",
+    "ICAO": "TRF",
+    "website": null,
+    "notes": "Designator PQ recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:18.985124"
+  },
+  {
+    "name": "Antrak Air Limited",
+    "IATA": "O4",
+    "ICAO": "ABV",
+    "website": "www.antrakair.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:18.985140"
+  },
+  {
+    "name": "Avia Airlines",
+    "IATA": null,
+    "ICAO": "VIL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:18.985155"
+  },
+  {
+    "name": "Cargo Dor Limited",
+    "IATA": null,
+    "ICAO": "CDO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:18.985170"
+  },
+  {
+    "name": "Cargo Plus Aviation of Ghana",
+    "IATA": null,
+    "ICAO": "ACE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:18.985186"
+  },
+  {
+    "name": "Continental Aviation Limited (Contical)",
+    "IATA": null,
+    "ICAO": "CCL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:18.985202"
+  },
+  {
+    "name": "Eagle Atlantic Airlines Limited",
+    "IATA": "E2",
+    "ICAO": "EAB",
+    "website": "www.eagleatlanticairlines.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:18.985217"
+  },
+  {
+    "name": "Excelsior Airlines Limited",
+    "IATA": null,
+    "ICAO": "ESR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:18.985233"
+  },
+  {
+    "name": "Ganaman Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "GNM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:18.985248"
+  },
+  {
+    "name": "Gemini Airlines Ltd.",
+    "IATA": "GP",
+    "ICAO": "GAL",
+    "website": null,
+    "notes": "Designator GP recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:18.985265"
+  },
+  {
+    "name": "Ghana Air Shuttle Ltd.",
+    "IATA": null,
+    "ICAO": "GST",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:18.985279"
+  },
+  {
+    "name": "Ghana Airways Corp.",
+    "IATA": "GH",
+    "ICAO": "GHA",
+    "website": "www.ghana-airways.com",
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:18.985295"
+  },
+  {
+    "name": "Ghana International Airlines Ltd.",
+    "IATA": "G0",
+    "ICAO": "GHB",
+    "website": "www.fly-ghana.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:18.985311"
+  },
+  {
+    "name": "Imperial Cargo Airlines Limited",
+    "IATA": null,
+    "ICAO": "IMG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:18.985327"
+  },
+  {
+    "name": "Jet Trans Aviation (Ghana) Ltd.",
+    "IATA": null,
+    "ICAO": "JTC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:18.985342"
+  },
+  {
+    "name": "Johnsons Air Limited",
+    "IATA": null,
+    "ICAO": "JON",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:18.985357"
+  },
+  {
+    "name": "Meridan Airways Ltd.",
+    "IATA": null,
+    "ICAO": "MAG",
+    "website": "www.meridianairways.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:18.985373"
+  },
+  {
+    "name": "MK Airlines Limited",
+    "IATA": "7G",
+    "ICAO": "MKA",
+    "website": "www.mkairlines.com",
+    "notes": "Registered country changed to United Kingdom",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:18.985389"
+  },
+  {
+    "name": "Muk Air (GH) Ltd.",
+    "IATA": null,
+    "ICAO": "MUG",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:18.985405"
+  },
+  {
+    "name": "Pison Airways Limited",
+    "IATA": "3I",
+    "ICAO": "KWA",
+    "website": "www.pisonairways.com",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:18.985420"
+  },
+  {
+    "name": "Race Cargo Airlines",
+    "IATA": null,
+    "ICAO": "ACE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:18.985435"
+  },
+  {
+    "name": "Royal Ghanian Airlines Limited",
+    "IATA": null,
+    "ICAO": "RGA",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:18.985451"
+  },
+  {
+    "name": "Southern Aviation Limited",
+    "IATA": null,
+    "ICAO": "STV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:18.985466"
+  },
+  {
+    "name": "Star Jet Airlines",
+    "IATA": null,
+    "ICAO": "SJG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:18.985481"
+  },
+  {
+    "name": "Aero Survey Ltd t/a Starbow",
+    "IATA": "S9",
+    "ICAO": "IKM",
+    "website": "www.flystarbow.com",
+    "notes": "Name changed from Aero Survey Ltd. ICAO callsign changed from Ghana Survey",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:18.985497"
+  },
+  {
+    "name": "West Afica AirCargo",
+    "IATA": "KY",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:18.985512"
+  },
+  {
+    "name": "West Africa Airlines Ltd.",
+    "IATA": "WH",
+    "ICAO": "WCB",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:18.985527"
+  },
+  {
+    "name": "Ashanti Aviation",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:18.985542"
+  }
+]

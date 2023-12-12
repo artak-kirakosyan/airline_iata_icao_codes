@@ -1,0 +1,1793 @@
+[
+  {
+    "name": "Air Glaciers",
+    "IATA": null,
+    "ICAO": "AGV",
+    "website": "www.air-glaciers.ch",
+    "notes": "Designator 7T* recalled by IATA. IATA designator changed from GB*",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:07.999948"
+  },
+  {
+    "name": "Air Grischa Hikopter AG",
+    "IATA": null,
+    "ICAO": "AGG",
+    "website": "www.airgrischa.ch",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:07.999984"
+  },
+  {
+    "name": "Air Mountain",
+    "IATA": null,
+    "ICAO": "AMT",
+    "website": "www.air-mountain.ch",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000006"
+  },
+  {
+    "name": "Air Zermatt AG",
+    "IATA": null,
+    "ICAO": "AZF",
+    "website": "www.air-zermatt.ch",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000026"
+  },
+  {
+    "name": "Airport Helicopter Basel AHB AG",
+    "IATA": null,
+    "ICAO": "AHE",
+    "website": "www.airportheli.ch",
+    "notes": "Name changed from Airport Helicopter Basel, Muller & Co.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000045"
+  },
+  {
+    "name": "Albinati Aeronautics S.A.",
+    "IATA": null,
+    "ICAO": "LUC",
+    "website": "www.albinati.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000065"
+  },
+  {
+    "name": "AMAC Corporate Jet AG",
+    "IATA": null,
+    "ICAO": "AMK",
+    "website": "www.amacaerospace.com/aircraft-management-charter-request/",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000085"
+  },
+  {
+    "name": "AXIS Aviation Switzerland AG",
+    "IATA": null,
+    "ICAO": "BQA",
+    "website": "axis-aviation.com",
+    "notes": "Name changed from Boutique Aviation AG.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000104"
+  },
+  {
+    "name": "BHS Aviation AG",
+    "IATA": null,
+    "ICAO": "BHZ",
+    "website": "bhs-aviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000122"
+  },
+  {
+    "name": "CAT Aviation AG",
+    "IATA": null,
+    "ICAO": "CAZ",
+    "website": "www.cat-aviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000143"
+  },
+  {
+    "name": "Chair Airlines AG t/a chair",
+    "IATA": null,
+    "ICAO": "GSW",
+    "website": "www.chair.ch",
+    "notes": "Founded in August 2014. Name changed from Germania Flug AG t/a Holiday Jet in November 2015 then changed from Germania Flug AG w.e.f. 11 June 2019.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000164"
+  },
+  {
+    "name": "Dasnair SA",
+    "IATA": null,
+    "ICAO": "DGX",
+    "website": "www.dasnair.ch",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000184"
+  },
+  {
+    "name": "Easyjet Switzerland S.A.",
+    "IATA": "DS",
+    "ICAO": "EZS",
+    "website": "www.easyjet.com",
+    "notes": "IATA Designator BH* recalled. Name changed from TEA Basel AG",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000206"
+  },
+  {
+    "name": "E-Aviation Swiss SAGL",
+    "IATA": null,
+    "ICAO": "LUG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000229"
+  },
+  {
+    "name": "Edelweiss Air AG",
+    "IATA": "WK",
+    "ICAO": "EDW",
+    "website": "www.edelweissair.ch",
+    "notes": "IATA Designator changed from 8R*. IATA desigantor changed 1I, then from 5H*",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000250"
+  },
+  {
+    "name": "EDS Air Services",
+    "IATA": null,
+    "ICAO": "EDS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000270"
+  },
+  {
+    "name": "Office Federal de Aviation Civile",
+    "IATA": null,
+    "ICAO": "FOC",
+    "website": "www.bazl.admin.ch",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000293"
+  },
+  {
+    "name": "Flugschule Basel AG",
+    "IATA": null,
+    "ICAO": "FLU",
+    "website": "www.fsb.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000313"
+  },
+  {
+    "name": "Flugschule Eichenberger AG",
+    "IATA": null,
+    "ICAO": "EZB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000333"
+  },
+  {
+    "name": "flyBAIR AG",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.flybair.ch",
+    "notes": "Founded on 29 October 2019. Planned startup on 18 July 2020 with one E195-E1 operated by Helvetic Airways AG (2L/OAW).",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000355"
+  },
+  {
+    "name": "Flying Devil SA",
+    "IATA": null,
+    "ICAO": "FYD",
+    "website": "www.flying-devil.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000375"
+  },
+  {
+    "name": "Gofir, S.A.",
+    "IATA": null,
+    "ICAO": "GOI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000394"
+  },
+  {
+    "name": "Haute Aviation",
+    "IATA": null,
+    "ICAO": "HUE",
+    "website": "www.haute-aviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000413"
+  },
+  {
+    "name": "Heli Bernina AG",
+    "IATA": null,
+    "ICAO": "HEB",
+    "website": "www.helibernina.ch",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000433"
+  },
+  {
+    "name": "Heliswiss International AG",
+    "IATA": null,
+    "ICAO": "HSZ",
+    "website": "www.heliswissinternational.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000452"
+  },
+  {
+    "name": "Helitrans AG",
+    "IATA": null,
+    "ICAO": "HEH",
+    "website": "www.helitrans.ch",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000470"
+  },
+  {
+    "name": "Helvetic Airways AG",
+    "IATA": "2L",
+    "ICAO": "OAW",
+    "website": "www.helvetic.com",
+    "notes": "ICAO Callsign changed from Arabella. Name changed from Odette Airways AG.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000489"
+  },
+  {
+    "name": "HFIS - Happy Flight International Support Sarl",
+    "IATA": null,
+    "ICAO": "HFI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000510"
+  },
+  {
+    "name": "Horizon Air-Taxi Ltd.",
+    "IATA": null,
+    "ICAO": "HOR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000529"
+  },
+  {
+    "name": "International Federation of Red Cross And Red Crescent Societies (IFRC)",
+    "IATA": null,
+    "ICAO": "RXC",
+    "website": "www.ifrc.org",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000549"
+  },
+  {
+    "name": "Jet Aviation Business Jets AG",
+    "IATA": "PP",
+    "ICAO": "PJS",
+    "website": "www.jetaviation.com",
+    "notes": "Name changed from Private Jet Services AG",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000570"
+  },
+  {
+    "name": "Jet-Link AG",
+    "IATA": null,
+    "ICAO": "JLK",
+    "website": "www.jet-link.ch",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000589"
+  },
+  {
+    "name": "Ju-Air",
+    "IATA": null,
+    "ICAO": "JUR",
+    "website": "www.ju-air.ch",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000612"
+  },
+  {
+    "name": "Lions Air Skymedia AG d/b/a Lions Air",
+    "IATA": null,
+    "ICAO": "LEU",
+    "website": "www.lionsairgroup.ch",
+    "notes": "Name changed from Lions-Air AG.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000632"
+  },
+  {
+    "name": "Mountain Flyers 80 Ltd",
+    "IATA": null,
+    "ICAO": "MFB",
+    "website": "www.mountainflyers.ch",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000651"
+  },
+  {
+    "name": "MSC Air Cargo",
+    "IATA": null,
+    "ICAO": null,
+    "website": "msc.com/pt/solutions/air-cargo-solution",
+    "notes": "Planned start-up with 4 x 777F operated by Atlas Air (5Y/GTI)",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000671"
+  },
+  {
+    "name": "Nomad Aviation AG",
+    "IATA": null,
+    "ICAO": "NUM",
+    "website": "www.nomadjet.eu",
+    "notes": "ICAO Callsign changed from Bully.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000690"
+  },
+  {
+    "name": "Pilatus Flugzeugwerke AG",
+    "IATA": null,
+    "ICAO": "PCH",
+    "website": "www.pilatus-aircrat.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000712"
+  },
+  {
+    "name": "Premium Jet AG",
+    "IATA": "0J",
+    "ICAO": "PJZ",
+    "website": "www.premiumjet.eu",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000731"
+  },
+  {
+    "name": "Comite International de La Croix-Rouge Red Cross (International Committee)",
+    "IATA": null,
+    "ICAO": "RED",
+    "website": "www.icrc.org",
+    "notes": "Designator RX recalled by IATA. Non-airline Org. in airline industry",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000751"
+  },
+  {
+    "name": "Lions Air Skymedia AG d/b/a Skymedia",
+    "IATA": null,
+    "ICAO": "LAS",
+    "website": "www.lionsairgroup.ch",
+    "notes": "Name changed from Skymedia AG. ICAO designator changed from RBL",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000772"
+  },
+  {
+    "name": "Speedwings SA",
+    "IATA": null,
+    "ICAO": "SPW",
+    "website": "www.flyspeedwings.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000792"
+  },
+  {
+    "name": "Swift Copters SA",
+    "IATA": null,
+    "ICAO": "WFC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000811"
+  },
+  {
+    "name": "Swiss International Airlines Ltd. d/b/a Swiss",
+    "IATA": "LX",
+    "ICAO": "SWR",
+    "website": "www.swiss.com",
+    "notes": "ICAO designator changed from CRX. Name changed from Crossair Ltd. d/b/a Swiss International Airlines Ltd. Name changed from Crossair Limited Company for European Regional Air Transport on 31 March 2002.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000832"
+  },
+  {
+    "name": "Bundesamt Fur Betriebe Der Luftwaffe (BABLW) (Swiss Airforce)",
+    "IATA": null,
+    "ICAO": "SUI",
+    "website": "www.lw.admin.ch/internet/luftwaffe/en/home/die_luftwaffe.html",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000852"
+  },
+  {
+    "name": "Swiss Air-Ambulance Ltd.",
+    "IATA": null,
+    "ICAO": "SAZ",
+    "website": "www.rega.ch/en/swiss-air-ambulance.aspx",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000871"
+  },
+  {
+    "name": "Swiss Air Ambulance Ltd. (Helicopter Rescue Guard)",
+    "IATA": null,
+    "ICAO": "RGA",
+    "website": "www.rega.ch",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000891"
+  },
+  {
+    "name": "Swiss Airtainer SA",
+    "IATA": "SW",
+    "ICAO": null,
+    "website": "www.swissairtainer.com",
+    "notes": "Non-airlines United Load Devices (ULD) Company.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000910"
+  },
+  {
+    "name": "Swiss Flight Services SA",
+    "IATA": null,
+    "ICAO": "SFS",
+    "website": "www.sfsaviation.ch",
+    "notes": "Designator ZV* recalled by IATA.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000928"
+  },
+  {
+    "name": "Swiss Helicopter AG",
+    "IATA": null,
+    "ICAO": "HSI",
+    "website": "www.swisshelicopter.ch",
+    "notes": "Name changed from Heliswiss International AG and previously from Heliswiss, Schweizerische Helikopter AG.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000950"
+  },
+  {
+    "name": "Swiss Private Jet SA",
+    "IATA": null,
+    "ICAO": "SWW",
+    "website": "www.swissprivatejet.ch",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000968"
+  },
+  {
+    "name": "Transwings Ltd.",
+    "IATA": null,
+    "ICAO": "TSW",
+    "website": "www.transwing.ch",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.000986"
+  },
+  {
+    "name": "Unilode Aviation Solutions Switzerland Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.unilode.com",
+    "notes": "Name changed from Unilode Aviation Solutions Switzerland Ltd. and previously changed from Unitpool AG. Non-airline Unit Load Device (ULD) companies",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.001008"
+  },
+  {
+    "name": "Valair AG",
+    "IATA": null,
+    "ICAO": "VHS",
+    "website": "www.valair.ch",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.001028"
+  },
+  {
+    "name": "Valair AG (Helicoptere)",
+    "IATA": null,
+    "ICAO": "RDW",
+    "website": "www.valair.ch",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.001045"
+  },
+  {
+    "name": "Zimex Aviation Limited",
+    "IATA": "XM",
+    "ICAO": "IMX",
+    "website": "www.zimex.ch",
+    "notes": "IATA designator changed from C4*",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:08.001066"
+  },
+  {
+    "name": "Alpliner AG",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.alpliner.ch",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001084"
+  },
+  {
+    "name": "Heli Bernina AG",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.helibernina.ch",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001104"
+  },
+  {
+    "name": "PowdAir",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.powdair.ski",
+    "notes": "Startup planned from December 2017 with 1 x Fokker 100 leased from Trade Air (Croatia) based at Sion.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001124"
+  },
+  {
+    "name": "Ad Astra Aero",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Merged with Air Basel AG to form Swissair - Schweizerische Luftverkehr-AG on 26 March 1931.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001145"
+  },
+  {
+    "name": "Darwin Airline SA d/b/a Adria Airways Switzerland",
+    "IATA": "F7",
+    "ICAO": "DWT",
+    "website": "www.adriaairways.ch",
+    "notes": "Ceased operations on 12 December 2017. Name changed from Darwin Airline SA Lugano d/b/a Etihad Regional on 20 July 2017. Previosuly changed from Darwin Airline SA Lugano. Designator 0D reinstated by IATA. IATA designator changed from 4Y*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001166"
+  },
+  {
+    "name": "Aero-Jet, S.A.",
+    "IATA": null,
+    "ICAO": "AOJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001187"
+  },
+  {
+    "name": "Aeroleasing, S.A.",
+    "IATA": "FP",
+    "ICAO": "FPG",
+    "website": null,
+    "notes": "ICAO callsign changed to Aeroleasing",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001209"
+  },
+  {
+    "name": "Aeroleasing, S.A.",
+    "IATA": "FP",
+    "ICAO": "FPG",
+    "website": null,
+    "notes": "Name changed to TAG Aviation, S.A. ICAO callsign changed from Fox Papa",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001231"
+  },
+  {
+    "name": "Air City SA",
+    "IATA": "CE",
+    "ICAO": "ACY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001250"
+  },
+  {
+    "name": "Air Engiadina",
+    "IATA": "RQ",
+    "ICAO": "RQX",
+    "website": null,
+    "notes": "Name changed to Swisswings Airlines on 01 April 2001. Operates as KLM Alps",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001271"
+  },
+  {
+    "name": "Air Glaciers",
+    "IATA": null,
+    "ICAO": "AGV",
+    "website": "www.air-glaciers.ch",
+    "notes": "Designator 7T* recalled by IATA. IATA designator changed from GB*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001294"
+  },
+  {
+    "name": "Air Glaciers",
+    "IATA": null,
+    "ICAO": "AGV",
+    "website": null,
+    "notes": "IATA designator changed to 7T*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001314"
+  },
+  {
+    "name": "Air Material AG",
+    "IATA": null,
+    "ICAO": "AMG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001334"
+  },
+  {
+    "name": "Air Sarina AG",
+    "IATA": null,
+    "ICAO": "AST",
+    "website": "www.air-sarina.ch",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001352"
+  },
+  {
+    "name": "Air Switzerland",
+    "IATA": null,
+    "ICAO": "RSW",
+    "website": "www.air-switzerland.net",
+    "notes": "Planned startup 4Q02 with ex SQA A340-300 lsd frm Boeing",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001372"
+  },
+  {
+    "name": "Air-Alpes SA",
+    "IATA": null,
+    "ICAO": "CCV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001392"
+  },
+  {
+    "name": "Airport Helicopter Basel, Muller & Co.",
+    "IATA": null,
+    "ICAO": "AHE",
+    "website": "www.airportheli.ch",
+    "notes": "Name changed to Airport Helicopter Basel AHB AG.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001411"
+  },
+  {
+    "name": "Airtaxi Wings AG",
+    "IATA": null,
+    "ICAO": "AWG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001429"
+  },
+  {
+    "name": "Alp-Air Bern AG",
+    "IATA": null,
+    "ICAO": "LAX",
+    "website": "www.alp-air.ch",
+    "notes": "Name changed from Alpar Flug-Und Flugplatzgesellschaft AG",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001450"
+  },
+  {
+    "name": "Alpar Flug-Und Flugplatzgesellschaft AG",
+    "IATA": null,
+    "ICAO": "LAX",
+    "website": null,
+    "notes": "Name changed to Alp-Air Bern AG",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001468"
+  },
+  {
+    "name": "Alpine Luft-Transport AG",
+    "IATA": null,
+    "ICAO": "ALU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001486"
+  },
+  {
+    "name": "Alpliner AG",
+    "IATA": null,
+    "ICAO": "ALP",
+    "website": "www.alpliner.ch",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001504"
+  },
+  {
+    "name": "Alpsteinair",
+    "IATA": null,
+    "ICAO": "ALI",
+    "website": "www.alpsteinair.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001526"
+  },
+  {
+    "name": "ASA, Air Starline AG",
+    "IATA": null,
+    "ICAO": "ACR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001545"
+  },
+  {
+    "name": "ASL Airlines Switzerland AG",
+    "IATA": null,
+    "ICAO": "FAT",
+    "website": "www.farnair.com",
+    "notes": "Ceased operations on 01 February 2018. Name changed from Farnair Switzerland AG. Designator FT recalled by IATA. Prefix Code 552 recalled by IATA. Formerly Farner Air Transport AG",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001567"
+  },
+  {
+    "name": "Astra Airlines SA",
+    "IATA": null,
+    "ICAO": "ARN",
+    "website": "www.astra-airlines.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001586"
+  },
+  {
+    "name": "Avcon, Aviation Consulting Ltd.",
+    "IATA": null,
+    "ICAO": "VCN",
+    "website": null,
+    "notes": "Name changed to Execujet Charter AG",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001605"
+  },
+  {
+    "name": "Aviso Air Transport Division Ltd.",
+    "IATA": null,
+    "ICAO": "AVO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001624"
+  },
+  {
+    "name": "Avisto Ltd.",
+    "IATA": null,
+    "ICAO": "AVO",
+    "website": "www.avisto.ch",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001643"
+  },
+  {
+    "name": "Balair S.A.",
+    "IATA": "BB",
+    "ICAO": "BBB",
+    "website": null,
+    "notes": "Merged with CTA and name changed to Balair / CTA Leisure Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001663"
+  },
+  {
+    "name": "Balair / CTA Leisure Ltd.",
+    "IATA": "BB",
+    "ICAO": "BBB",
+    "website": null,
+    "notes": "Name changed to Belair 02 November 2001.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001683"
+  },
+  {
+    "name": "Belair Airlines AG",
+    "IATA": null,
+    "ICAO": "BHP",
+    "website": "www.flybelair.com",
+    "notes": "Ceased operations on 28 October 2017. Name changed from Balair / CTA Leisure Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001705"
+  },
+  {
+    "name": "Benaviation SA",
+    "IATA": null,
+    "ICAO": "BEA",
+    "website": null,
+    "notes": "Name changed from Benavia",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001728"
+  },
+  {
+    "name": "Boutique Aviation AG",
+    "IATA": null,
+    "ICAO": "BQA",
+    "website": "www.boutique-aviation.com",
+    "notes": "Name changed to AXIS Aviation Switzerland AG.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001747"
+  },
+  {
+    "name": "Business Air AG",
+    "IATA": null,
+    "ICAO": "BUR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001765"
+  },
+  {
+    "name": "Capax-Air AG C/O Unitreva AG",
+    "IATA": null,
+    "ICAO": "CAX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001783"
+  },
+  {
+    "name": "Catran AG",
+    "IATA": null,
+    "ICAO": "CCT",
+    "website": "www.catran.ch",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001800"
+  },
+  {
+    "name": "CHEP Aerospace Solutions Switzerland",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.chep.com/aerospace/",
+    "notes": "Name changed to Unilode Aviation Solutions Switzerland Ltd. Name changed from Unitpool AG. Non-airline Unit Load Device (ULD) companies",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001820"
+  },
+  {
+    "name": "Classic Air AG",
+    "IATA": null,
+    "ICAO": "CLC",
+    "website": "www.classic-air.ch",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001838"
+  },
+  {
+    "name": "Comlux Aviation AG",
+    "IATA": null,
+    "ICAO": "CLA",
+    "website": "www.comluxaviation.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001856"
+  },
+  {
+    "name": "CPS - Cargo and Passenger air Services Ltd.",
+    "IATA": null,
+    "ICAO": "CPZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001872"
+  },
+  {
+    "name": "Cross Air AG",
+    "IATA": "LX",
+    "ICAO": "CRX",
+    "website": "www.crossair.com",
+    "notes": "Name changed to Crossair Limited Company for European Regional Air Transport",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001889"
+  },
+  {
+    "name": "Crossair Limited Company for European Regional Air Transport",
+    "IATA": "LX",
+    "ICAO": "CRX",
+    "website": "www.crossair.com",
+    "notes": "Name changed to Crossair Ltd. d/b/a Swiss 31 March 2002.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001909"
+  },
+  {
+    "name": "ECA (Europe Continental Airways) d/b/a/ Crossair Europe",
+    "IATA": "QE",
+    "ICAO": "ECC",
+    "website": null,
+    "notes": "Name changed from Europe Continental Airways (ECA)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001927"
+  },
+  {
+    "name": "Compagnie de Transport Aerien (CTA)",
+    "IATA": null,
+    "ICAO": "CTA",
+    "website": null,
+    "notes": "Merged with Balair w.e.f. 01 January 1993. Desigantor RU recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001944"
+  },
+  {
+    "name": "Compagnie de Transport Aerien (CTA)",
+    "IATA": "RU",
+    "ICAO": "CTA",
+    "website": null,
+    "notes": "Desigantor RU recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001963"
+  },
+  {
+    "name": "Darwin Airline SA Lugano",
+    "IATA": "0D",
+    "ICAO": "DWT",
+    "website": "www.darwin-airline.com",
+    "notes": "Name changed to Etihad Regional. Designator 0D reinstated by IATA. IATA designator changed from 4Y*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001981"
+  },
+  {
+    "name": "Darwin Airline SA",
+    "IATA": null,
+    "ICAO": "DWT",
+    "website": "www.darwin-airline.com",
+    "notes": "Founded in 2003. IATA designator changed to 0D",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.001999"
+  },
+  {
+    "name": "Darwin Airline SA Lugano",
+    "IATA": "F7",
+    "ICAO": "DWT",
+    "website": "www.darwin-airline.com",
+    "notes": "Changed to using FlyBaboo IATA designator after airlines merged. Designator 0D reinstated by IATA. IATA designator changed from 4Y*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002017"
+  },
+  {
+    "name": "DC Aviation Switzerland AG",
+    "IATA": null,
+    "ICAO": "DCH",
+    "website": "www.dc-aviation.ch",
+    "notes": "Merged with BHS Helicopterservice to form BHS Aviation Group. ICAO designator changed from HLK. ICAO callsign changed from Heli-Link. Name changed from Heli-link Helikopter AG.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002038"
+  },
+  {
+    "name": "DC Aviation Switzerland AG",
+    "IATA": null,
+    "ICAO": "HLK",
+    "website": "www.dc-aviation.ch",
+    "notes": "ICAO designator changed to DCH. Name changed from Heli-link Helikopter AG.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002056"
+  },
+  {
+    "name": "Dylan Flight Service, S.A.",
+    "IATA": null,
+    "ICAO": "DFX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002072"
+  },
+  {
+    "name": "Eagle Air Ltd.",
+    "IATA": null,
+    "ICAO": "EAB",
+    "website": null,
+    "notes": "Name changed to Swiss Eagle AG",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002089"
+  },
+  {
+    "name": "Easyjet Switzerland S.A.",
+    "IATA": null,
+    "ICAO": "EZS",
+    "website": null,
+    "notes": "IATA Designator BH* recalled. Name changed from TEA Basel AG",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002107"
+  },
+  {
+    "name": "Edelweiss Air AG",
+    "IATA": "1I",
+    "ICAO": "EDW",
+    "website": "www.edelweissair.ch",
+    "notes": "IATA desigantor changed to 5H*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002126"
+  },
+  {
+    "name": "Edelweiss Air AG",
+    "IATA": null,
+    "ICAO": "EDW",
+    "website": "www.edelweissair.ch",
+    "notes": "IATA Designator changed to WK. IATA desigantor changed 1I, then from 5H*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002145"
+  },
+  {
+    "name": "Edelweiss Air AG",
+    "IATA": null,
+    "ICAO": "EDW",
+    "website": "www.edelweissair.ch",
+    "notes": "IATA desigantor changed to 8R*. IATA desigantor changed from 1I",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002162"
+  },
+  {
+    "name": "Edelweiss Air AG",
+    "IATA": "1I",
+    "ICAO": "EDW",
+    "website": null,
+    "notes": "IATA designator changed to XE",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002180"
+  },
+  {
+    "name": "EDS Information Business GmbH",
+    "IATA": "1C",
+    "ICAO": null,
+    "website": "www.eds.ch",
+    "notes": "Name changed to Hewlett-Packard (Schweiz) GmbH. Computer Reservation System",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002198"
+  },
+  {
+    "name": "Darwin Airline SA Lugano",
+    "IATA": "F7",
+    "ICAO": "DWT",
+    "website": "www.darwin-airline.com",
+    "notes": "Name changed to Darwin Airline SA d/b/a Adria Airways Switzerland on 20 July 2017. Designator 0D reinstated by IATA. IATA designator changed from 4Y*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002218"
+  },
+  {
+    "name": "Eurojet Geneva S.A.S.",
+    "IATA": null,
+    "ICAO": "EUF",
+    "website": "www.eurojetgeneva.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002235"
+  },
+  {
+    "name": "Europe Continental Airways (ECA)",
+    "IATA": "QE",
+    "ICAO": "ECC",
+    "website": null,
+    "notes": "Name changed to ECA (Europe Continental Airways) d/b/a/ Crossair Europe. Name changed from European Continental Airways (ECA)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002253"
+  },
+  {
+    "name": "European Continental Airways (ECA)",
+    "IATA": "QE",
+    "ICAO": "ECC",
+    "website": null,
+    "notes": "Name changed to Europe Continental Airways (ECA)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002272"
+  },
+  {
+    "name": "Execujet Aviation AG",
+    "IATA": null,
+    "ICAO": "VCN",
+    "website": "www.execujet.com/en/",
+    "notes": "Name changed to Jet Aviation Zurich Airport AG. Name changed from Execujet Charter AG. Name changed from Avcon, Aviation Consulting Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002291"
+  },
+  {
+    "name": "Execujet Charter AG",
+    "IATA": null,
+    "ICAO": "VCN",
+    "website": "www.execujet.com/en/",
+    "notes": "Name changed from Avcon, Aviation Consulting Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002308"
+  },
+  {
+    "name": "Executive Air Transport Ltd.",
+    "IATA": null,
+    "ICAO": "EXZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002326"
+  },
+  {
+    "name": "Executive Jet Aviation SA",
+    "IATA": null,
+    "ICAO": "EJE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002342"
+  },
+  {
+    "name": "Farnair Switzerland AG",
+    "IATA": null,
+    "ICAO": "FAT",
+    "website": "www.farnair.com",
+    "notes": "Name changed to ASL Airlines Switzerland AG. Designator FT recalled by IATA. Prefix Code 552 recalled by IATA. Formerly Farner Air Transport AG",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002362"
+  },
+  {
+    "name": "Farnair Switzerland AG",
+    "IATA": "FT",
+    "ICAO": "FAT",
+    "website": "www.farnair.com",
+    "notes": "Designator FT recalled by IATA. Formerly Farner Air Transport AG",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002380"
+  },
+  {
+    "name": "FFA Air-Travel",
+    "IATA": null,
+    "ICAO": "FFA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002396"
+  },
+  {
+    "name": "Flybaboo SA Geneve",
+    "IATA": "F7",
+    "ICAO": "BBO",
+    "website": "www.flybaboo.com",
+    "notes": "Merged into Darwin Airline 0D*/DWT in 2011. Designator F7 reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002419"
+  },
+  {
+    "name": "G5 Executive AG",
+    "IATA": null,
+    "ICAO": "EXH",
+    "website": null,
+    "notes": "ICAO callsign changed to Batman. ICAO callsign changed from Alien",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002437"
+  },
+  {
+    "name": "G5 Executive AG",
+    "IATA": null,
+    "ICAO": "EXH",
+    "website": null,
+    "notes": "ICAO callsign changed to Exair Jet",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002454"
+  },
+  {
+    "name": "G5 Executive AG",
+    "IATA": null,
+    "ICAO": "EXH",
+    "website": "g5executive.com",
+    "notes": "ICAO callsign changed from Exair Jet. ICAO callsign changed from Alien",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002472"
+  },
+  {
+    "name": "Gama Aviation SA",
+    "IATA": null,
+    "ICAO": "GCH",
+    "website": "www.gamaaviation.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002489"
+  },
+  {
+    "name": "Germania Flug AG",
+    "IATA": null,
+    "ICAO": "GSW",
+    "website": "www.holidayjet.ch",
+    "notes": "Founded in August 2014. Name changed from Germania Flug AG t/a Holiday Jet in November 2015. Name changed to Chair Airlines AG t/a chair w.e.f. 01 July 2019.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002508"
+  },
+  {
+    "name": "Heli-link Helikopter AG",
+    "IATA": null,
+    "ICAO": "HLK",
+    "website": "www.heli-link.ch",
+    "notes": "Name changed to DC Aviation Switzerland AG.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002527"
+  },
+  {
+    "name": "Heliswiss, Schweizerische Helikopter AG",
+    "IATA": null,
+    "ICAO": "HSI",
+    "website": "www.heliswiss.ch",
+    "notes": "Name changed to Heliswiss International AG.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002545"
+  },
+  {
+    "name": "Heliswiss International AG",
+    "IATA": null,
+    "ICAO": "HSI",
+    "website": "www.heliswissinternational.com",
+    "notes": "Name changed to Swiss Helicopter AG. Name changed from Heliswiss, Schweizerische Helikopter AG.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002562"
+  },
+  {
+    "name": "Hello AG",
+    "IATA": null,
+    "ICAO": "FHE",
+    "website": "www.hello.ch",
+    "notes": "Ceased operations on 16 October 2012",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002581"
+  },
+  {
+    "name": "Helog AG, Helikoptertransporte",
+    "IATA": null,
+    "ICAO": "HLG",
+    "website": "www.helog.ch",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002599"
+  },
+  {
+    "name": "Helvetic Airways AG",
+    "IATA": "2L",
+    "ICAO": "OAW",
+    "website": "www.helvetic.com",
+    "notes": "ICAO Callsign changed to Helvetic. Name changed from Odette Airways AG.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002617"
+  },
+  {
+    "name": "Hewlett-Packard (Schweiz) GmbH",
+    "IATA": "1C",
+    "ICAO": null,
+    "website": "www.eds.ch",
+    "notes": "Name changed from EDS Information Business GmbH. Computer Reservation System",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002635"
+  },
+  {
+    "name": "Germania Flug AG t/a Holiday Jet",
+    "IATA": null,
+    "ICAO": "GSW",
+    "website": "www.holidayjet.ch",
+    "notes": "Founded in August 2014. Name changed to Germania Flug AG in November 2019.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002653"
+  },
+  {
+    "name": "IBM, Euroflight-Operations",
+    "IATA": null,
+    "ICAO": "BBL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002671"
+  },
+  {
+    "name": "Jet Aviation Zurich Airport AG",
+    "IATA": null,
+    "ICAO": "VCN",
+    "website": "www.jetaviation.com",
+    "notes": "Name changed from Execujet Aviation AG and previously from Execujet Charter AG. Name changed from Avcon, Aviation Consulting Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002689"
+  },
+  {
+    "name": "Jet Business SA, Compagnie D'aviation D'affaires",
+    "IATA": null,
+    "ICAO": "JBS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002705"
+  },
+  {
+    "name": "Jetag AG",
+    "IATA": null,
+    "ICAO": "JAG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002723"
+  },
+  {
+    "name": "Jetclub AG",
+    "IATA": null,
+    "ICAO": "JCS",
+    "website": "www.jetclub.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002740"
+  },
+  {
+    "name": "Jetcom SA",
+    "IATA": null,
+    "ICAO": "JCA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002757"
+  },
+  {
+    "name": "Lemanair, S.A.",
+    "IATA": null,
+    "ICAO": "LMR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002775"
+  },
+  {
+    "name": "Leopair, S.A.",
+    "IATA": null,
+    "ICAO": "LEO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002792"
+  },
+  {
+    "name": "Lions-Air AG",
+    "IATA": null,
+    "ICAO": "LEU",
+    "website": "www.lionsair.ch",
+    "notes": "Name changed to Lions Air Skymedia AG d/b/a Lions Air.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002810"
+  },
+  {
+    "name": "Monair SA",
+    "IATA": null,
+    "ICAO": "MMR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002827"
+  },
+  {
+    "name": "Monair Executive SA",
+    "IATA": null,
+    "ICAO": "MNR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002844"
+  },
+  {
+    "name": "Navfix AG",
+    "IATA": null,
+    "ICAO": "NFX",
+    "website": "www.navfix.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002861"
+  },
+  {
+    "name": "Nomad Aviation AG",
+    "IATA": null,
+    "ICAO": "NUM",
+    "website": "www.nomadjet.eu",
+    "notes": "ICAO Callsign changed to Nomadjet.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002879"
+  },
+  {
+    "name": "Odette Airways AG",
+    "IATA": null,
+    "ICAO": "OAW",
+    "website": "www.odetteairways.ch",
+    "notes": "Name changed to Helvetic Airways AG",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002896"
+  },
+  {
+    "name": "Phoenix Airways Ltd.",
+    "IATA": "HP",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002913"
+  },
+  {
+    "name": "Pilatus S.A. Air Serivce",
+    "IATA": "PP",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002930"
+  },
+  {
+    "name": "Privatair SA",
+    "IATA": null,
+    "ICAO": "PTI",
+    "website": "www.privatair.com",
+    "notes": "Ceased operations on 05 December 2018.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002947"
+  },
+  {
+    "name": "Private Jet Services AG",
+    "IATA": "PP",
+    "ICAO": "PJS",
+    "website": null,
+    "notes": "Name changed to Jet Aviation Business Jets AG",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002964"
+  },
+  {
+    "name": "Private X-press",
+    "IATA": null,
+    "ICAO": "PTX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002982"
+  },
+  {
+    "name": "Rabbit-Air AG",
+    "IATA": null,
+    "ICAO": "RBB",
+    "website": null,
+    "notes": "Ceased operation.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.002999"
+  },
+  {
+    "name": "Comite International de La Croix-Rouge Red Cross (International Committee)",
+    "IATA": "RX",
+    "ICAO": "RED",
+    "website": "www.icrc.org",
+    "notes": "Designator RX recalled by IATA. Non-airline Org. in airline industry",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003017"
+  },
+  {
+    "name": "Rhein Helikopter AG",
+    "IATA": null,
+    "ICAO": "RHB",
+    "website": "www.rheinheli.ch",
+    "notes": "Merged into Swiss Helicopter AG.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003035"
+  },
+  {
+    "name": "SATA de Transport Aerien S.A.",
+    "IATA": "VS",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003051"
+  },
+  {
+    "name": "SATA",
+    "IATA": "RU",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003067"
+  },
+  {
+    "name": "Scenic Air AG",
+    "IATA": null,
+    "ICAO": "SCH",
+    "website": "www.skydiveswitzerland.ch",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003085"
+  },
+  {
+    "name": "Servair, Private Charter AG",
+    "IATA": null,
+    "ICAO": "SWZ",
+    "website": null,
+    "notes": "Founded in 1984. Name changed to Swiss Private Aviation AG on on 17 July 2008.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003102"
+  },
+  {
+    "name": "Sky Jet AG",
+    "IATA": null,
+    "ICAO": "SWY",
+    "website": "www.skyjet.ch",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003119"
+  },
+  {
+    "name": "Skymedia AG",
+    "IATA": null,
+    "ICAO": "RBL",
+    "website": "www.sky-media.ch",
+    "notes": "ICAO Designator changed to LAS. ICAO callsign changed to Lions Helicopter",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003136"
+  },
+  {
+    "name": "Skymedia AG",
+    "IATA": null,
+    "ICAO": "LAS",
+    "website": "www.sky-media.ch",
+    "notes": "Name changed to Lions Air Skymedia AG d/b/a Skymedia. ICAO designator changed from RBL",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003154"
+  },
+  {
+    "name": "SkyWork SA",
+    "IATA": "SX",
+    "ICAO": "SRK",
+    "website": "www.flyskywork.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003171"
+  },
+  {
+    "name": "Sonnig AG",
+    "IATA": null,
+    "ICAO": "ONG",
+    "website": "www.sonnig.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003188"
+  },
+  {
+    "name": "Sunshine Aviation SA",
+    "IATA": null,
+    "ICAO": "SHS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003205"
+  },
+  {
+    "name": "Sunshine Aviation SA",
+    "IATA": "OC",
+    "ICAO": "SHS",
+    "website": null,
+    "notes": "Designator OC recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003223"
+  },
+  {
+    "name": "Crossair Ltd. d/b/a Swiss International Airlines Ltd.",
+    "IATA": "LX",
+    "ICAO": "CRX",
+    "website": "www.flyswissairlines.com",
+    "notes": "Name changed to Swiss International Airlines Ltd. d/b/a Swiss. Name changed from Crossair Limited Company for European Regional Air Transport 31 March 2002.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003243"
+  },
+  {
+    "name": "Swiss International Airlines Ltd. d/b/a Swiss",
+    "IATA": "LX",
+    "ICAO": "CRX",
+    "website": "www.flyswissairlines.com",
+    "notes": "ICAO designator changed to SWR. Name changed from Crossair Ltd. d/b/a Swiss International Airlines Ltd. Name changed from Crossair Limited Company for European Regional Air Transport 31 March 2002.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003262"
+  },
+  {
+    "name": "Swiss Eagle AG",
+    "IATA": null,
+    "ICAO": "EAB",
+    "website": "www.eagleair.ch",
+    "notes": "Name changed from Eagle Air Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003279"
+  },
+  {
+    "name": "Swiss European Air Lines AG",
+    "IATA": null,
+    "ICAO": "SWU",
+    "website": "www.swiss.com/web/en/about_swiss/company/swiss_european/pages/swiss_european.aspx",
+    "notes": "Name changed to Swiss Global Air Lines.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003298"
+  },
+  {
+    "name": "Swiss Flight Services SA",
+    "IATA": null,
+    "ICAO": "SFS",
+    "website": "www.sfsaviation.ch",
+    "notes": "Designator ZV* recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003316"
+  },
+  {
+    "name": "Swiss Global Air Lines AG",
+    "IATA": "LZ",
+    "ICAO": "SWU",
+    "website": "www.swiss.com",
+    "notes": "Merged into Swiss International Air Lines on 19 April 2018. Name changed from Swiss European Air Lines AG w.e.f 03 February 2015. Founded in 2005.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003334"
+  },
+  {
+    "name": "Swiss Government Flights (STAC)",
+    "IATA": null,
+    "ICAO": "SGF",
+    "website": "www.admin.ch/ch/index.en.html",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003351"
+  },
+  {
+    "name": "Swiss Jet Ltd.",
+    "IATA": null,
+    "ICAO": "SJT",
+    "website": "www.swiss-jet.ch",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003367"
+  },
+  {
+    "name": "Swiss Private Charter AG",
+    "IATA": null,
+    "ICAO": "SWZ",
+    "website": null,
+    "notes": "Founded in 1984. Ceased operations in February 2011. Name changed from Servair, Private Charter AG.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003385"
+  },
+  {
+    "name": "Swiss World Airways, S.A.",
+    "IATA": "SO",
+    "ICAO": "SWO",
+    "website": null,
+    "notes": "Ceased operations during 1998",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003401"
+  },
+  {
+    "name": "Swiss Air Transport Co. Ltd. (Swissair)",
+    "IATA": "SR",
+    "ICAO": "SWR",
+    "website": "www.swissair.com",
+    "notes": "Ceased Operations on  31 March 2002.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003418"
+  },
+  {
+    "name": "Swissboogie Parapro SA",
+    "IATA": null,
+    "ICAO": "SWB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003435"
+  },
+  {
+    "name": "Swissjet AG",
+    "IATA": null,
+    "ICAO": "BAT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003451"
+  },
+  {
+    "name": "Swisswings AG",
+    "IATA": "RQ",
+    "ICAO": "RQX",
+    "website": "www.swisswings.ch",
+    "notes": "Ceased Operations on 08 April 2002. Name changed from Air Engiadina / Operated as KLM Alps. ICAO Callsign changed from Engiadina",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003470"
+  },
+  {
+    "name": "Swisswings Airlines",
+    "IATA": "RQ",
+    "ICAO": "RQX",
+    "website": null,
+    "notes": "ICAO Callsign changed to Swisswings. Name changed from Air Engiadina / Operated as KLM Alps",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003487"
+  },
+  {
+    "name": "TAG Aviation, S.A.",
+    "IATA": "FP",
+    "ICAO": "FPG",
+    "website": "www.tagaviation.com",
+    "notes": "Designator FP recalled by IATA. Name changed from Aeroleasing, S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003506"
+  },
+  {
+    "name": "TAG Aviation, S.A.",
+    "IATA": null,
+    "ICAO": "FPG",
+    "website": "www.tagaviation.com",
+    "notes": "Designator FP recalled by IATA. Name changed from Aeroleasing, S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003524"
+  },
+  {
+    "name": "TEA Basel AG",
+    "IATA": null,
+    "ICAO": "TSW",
+    "website": null,
+    "notes": "Name changed to Easyjet Switzerland / ICAO designator changed to EZS.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003541"
+  },
+  {
+    "name": "TEA Switzerland AG",
+    "IATA": null,
+    "ICAO": "TSW",
+    "website": null,
+    "notes": "Name Changed to TEA Basle. Established on 18 May 1988. Commenced operations on 23 March 1989.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003559"
+  },
+  {
+    "name": "Transair, S.A.",
+    "IATA": "QX",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003576"
+  },
+  {
+    "name": "Unavia Suisse, SA",
+    "IATA": "US",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003591"
+  },
+  {
+    "name": "Unitpool AG",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.unitpool.com",
+    "notes": "Name changed to CHEP Aerospace Solutions Switzerland. Non-airline Unit Load Device (ULD) companies",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003609"
+  },
+  {
+    "name": "Your Jet AG",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.yourjet.ch",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003625"
+  },
+  {
+    "name": "Zimex Aviation Limited",
+    "IATA": "MF",
+    "ICAO": "IMX",
+    "website": null,
+    "notes": "IATA designator changed to C4*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003642"
+  },
+  {
+    "name": "Zimex Aviation Limited",
+    "IATA": null,
+    "ICAO": "IMX",
+    "website": "www.zimex.ch",
+    "notes": "IATA designator changed from MF",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003660"
+  },
+  {
+    "name": "Transvalair",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Went into voluntary liquidation on 31 May 1980.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:08.003676"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "DI Air",
+    "IATA": null,
+    "ICAO": "PBS",
+    "website": "www.diair.net",
+    "notes": "ICAO designator changed from DIS",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:35.652532"
+  },
+  {
+    "name": "DI Air",
+    "IATA": null,
+    "ICAO": "DIS",
+    "website": "www.diair.net",
+    "notes": "ICAO designator changed to PBS",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:35.652559"
+  },
+  {
+    "name": "DI Air",
+    "IATA": null,
+    "ICAO": "PBL",
+    "website": null,
+    "notes": "ICAO designator changed to DIS",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:35.652576"
+  },
+  {
+    "name": "Jat Airways",
+    "IATA": "JU",
+    "ICAO": "JAT",
+    "website": "www.jat.com",
+    "notes": "Name changed from Jugoslovenski Aerotransport (JAT)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:35.652592"
+  },
+  {
+    "name": "Montenegro Airlines",
+    "IATA": "YM",
+    "ICAO": "MGX",
+    "website": "www.montenegro-airlines.com",
+    "notes": "IATA designator changed from 1I",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:35.652609"
+  }
+]

@@ -1,0 +1,470 @@
+[
+  {
+    "name": "Air Atlanta Icelandic",
+    "IATA": "CC",
+    "ICAO": "ABD",
+    "website": "www.atlanta.is",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:39.613217"
+  },
+  {
+    "name": "Air Charter Ltd. (Leiguflug Isleifs Ottesen)",
+    "IATA": null,
+    "ICAO": "LIO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:39.613246"
+  },
+  {
+    "name": "Atlantsflug Ltd",
+    "IATA": null,
+    "ICAO": "AFN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:39.613264"
+  },
+  {
+    "name": "Bl\u00e1fugl ehf. d/b/a bluebird NORDIC",
+    "IATA": "BO",
+    "ICAO": "BBD",
+    "website": "bluebird.is",
+    "notes": "Established in 1999. Name changed from Bl\u00e1fugl ehf d/b/a Bluebird Cargo Ltd. IATA designator changed from BF.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:39.613283"
+  },
+  {
+    "name": "BlueWest Helicopters (Vesterflug EHF)",
+    "IATA": null,
+    "ICAO": "BWH",
+    "website": "bwh.is",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:39.613300"
+  },
+  {
+    "name": "Eagle Air Iceland (Flugfelagid Ernir)",
+    "IATA": null,
+    "ICAO": "FEI",
+    "website": "www.ernir.is",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:39.613317"
+  },
+  {
+    "name": "Flugf\u00e9lag Austurlands",
+    "IATA": null,
+    "ICAO": "ISL",
+    "website": "flying.is",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:39.613333"
+  },
+  {
+    "name": "Fly Play hf.",
+    "IATA": "OG",
+    "ICAO": "FPY",
+    "website": "flyplay.com",
+    "notes": "Commenced operations on 24 June 2021.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:39.613349"
+  },
+  {
+    "name": "Icejet",
+    "IATA": null,
+    "ICAO": "LGJ",
+    "website": "www.icejet.is",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:39.613365"
+  },
+  {
+    "name": "Icelandair",
+    "IATA": "FI",
+    "ICAO": "ICE",
+    "website": "www.icelandair.is",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:39.613381"
+  },
+  {
+    "name": "Icelandic Coast Guard",
+    "IATA": null,
+    "ICAO": "ICG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:39.613397"
+  },
+  {
+    "name": "Jonsson, H. Air Taxi",
+    "IATA": null,
+    "ICAO": "ODI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:39.613413"
+  },
+  {
+    "name": "Myflug H.F.",
+    "IATA": null,
+    "ICAO": "MYA",
+    "website": "www.myflug.is",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:39.613428"
+  },
+  {
+    "name": "Nordurflug ehf",
+    "IATA": null,
+    "ICAO": "EHR",
+    "website": "www.nordurflug.is",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:39.613444"
+  },
+  {
+    "name": "Norlandair",
+    "IATA": null,
+    "ICAO": "FNA",
+    "website": "www.norlandair.is",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:39.613460"
+  },
+  {
+    "name": "Southair Ltd. (Sudurflug EHF)",
+    "IATA": null,
+    "ICAO": "SFK",
+    "website": "www.southair.is",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:39.613475"
+  },
+  {
+    "name": "Thyrluthjonustan",
+    "IATA": null,
+    "ICAO": "IHS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:39.613490"
+  },
+  {
+    "name": "Aero North Icelandic, Inc.",
+    "IATA": null,
+    "ICAO": "ANF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:39.613507"
+  },
+  {
+    "name": "Air Atlanta Icelandic",
+    "IATA": "IU",
+    "ICAO": "ABD",
+    "website": "www.atlanta.is",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:39.613523"
+  },
+  {
+    "name": "Air Iceland (Flugfelag Islands)",
+    "IATA": "NY",
+    "ICAO": "FNA",
+    "website": "www.airiceland.is",
+    "notes": "Name changed from Air Iceland",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:39.613540"
+  },
+  {
+    "name": "Air Iceland",
+    "IATA": "NY",
+    "ICAO": "FNA",
+    "website": "www.airiceland.is",
+    "notes": "Name changed to Air Iceland (Flugfelag Islands)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:39.613556"
+  },
+  {
+    "name": "Flugfelag Islands ehf d/b/a Air Iceland",
+    "IATA": "NY",
+    "ICAO": "FXI",
+    "website": "www.airiceland.is",
+    "notes": "Name changed to Flugfelag Islands ehf d/b/a Air Iceland Connect.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:39.613573"
+  },
+  {
+    "name": "Flugfelag Islands ehf d/b/a Air Iceland Connect",
+    "IATA": "NY",
+    "ICAO": "FXI",
+    "website": "www.airicelandconnect.com",
+    "notes": "Merged into Icelandair w.e.f. 15 March 2021. Name changed from Flugfelag Islands ehf d/b/a Air Iceland.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:39.613591"
+  },
+  {
+    "name": "Air Viking",
+    "IATA": "VV",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:39.613606"
+  },
+  {
+    "name": "Arctic",
+    "IATA": "IL",
+    "ICAO": "AEB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:39.613621"
+  },
+  {
+    "name": "Atlantic Island Air",
+    "IATA": null,
+    "ICAO": "TRG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:39.613637"
+  },
+  {
+    "name": "Bl\u00e1fugl ehf. d/b/a Bluebird Cargo Ltd.",
+    "IATA": "BF",
+    "ICAO": "BBD",
+    "website": "www.bluebirdcargo.com",
+    "notes": "Established in 1999. IATA designator changed to B0.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:39.613653"
+  },
+  {
+    "name": "Bl\u00e1fugl ehf. d/b/a Bluebird Cargo Ltd.",
+    "IATA": "BO",
+    "ICAO": "BBD",
+    "website": "www.bluebirdcargo.com",
+    "notes": "Established in 1999. Name changed to Bl\u00e1fugl ehf d/b/a bluebird NORDIC. IATA designator changed from BF.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:39.613677"
+  },
+  {
+    "name": "City Star Airlines ehf",
+    "IATA": "X9",
+    "ICAO": "ISL",
+    "website": "www.citystarairlines.com",
+    "notes": "Ceased operation on 30 January 2008. Designator X9 re-instated by IATA. Name changed from Landsflug ehf",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:39.613695"
+  },
+  {
+    "name": "Eagle Air Ltd. (Arnarflug H/F)",
+    "IATA": "VL",
+    "ICAO": "ISL",
+    "website": null,
+    "notes": "Designator VL recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:39.613712"
+  },
+  {
+    "name": "Eagle Air Ltd. (Arnarflug H/F)",
+    "IATA": null,
+    "ICAO": "ISL",
+    "website": null,
+    "notes": "Designator VL recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:39.613729"
+  },
+  {
+    "name": "Flugfelag Austurlands Ltd., Egilsstadir",
+    "IATA": null,
+    "ICAO": "EST",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:39.613746"
+  },
+  {
+    "name": "Flugfelag Nordurlands",
+    "IATA": "NO",
+    "ICAO": "FNA",
+    "website": null,
+    "notes": "Desigantor NO recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:39.613762"
+  },
+  {
+    "name": "Flugfelag Nordurlands",
+    "IATA": null,
+    "ICAO": "FNA",
+    "website": null,
+    "notes": "Desigantor NO recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:39.613779"
+  },
+  {
+    "name": "Fragtflug Ltd.",
+    "IATA": "FC",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:39.613795"
+  },
+  {
+    "name": "Islandsflug HF",
+    "IATA": "HH",
+    "ICAO": "ICB",
+    "website": "www.islandsflug.com",
+    "notes": "Designator HH recalled by IATA. Merged in Air Atlanta Icelandic. IATA designator changed from HT*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:39.613813"
+  },
+  {
+    "name": "Icejet Ltd.",
+    "IATA": null,
+    "ICAO": "ICJ",
+    "website": "www.icejet.is",
+    "notes": "Suspended operations on 25 August 2010.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:39.613830"
+  },
+  {
+    "name": "Iceland Express",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.icelandexpress.com",
+    "notes": "Operated by JetX Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:39.613847"
+  },
+  {
+    "name": "Islandsflug HF",
+    "IATA": null,
+    "ICAO": "ICB",
+    "website": "www.islandsflug.com",
+    "notes": "IATA designator changed to HH",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:39.613864"
+  },
+  {
+    "name": "JetX Airlines",
+    "IATA": "GX",
+    "ICAO": "JXX",
+    "website": "www.jetx.is",
+    "notes": "Name changed to JetX ehf (Primera Air)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:39.613881"
+  },
+  {
+    "name": "Jorvik",
+    "IATA": null,
+    "ICAO": "JVK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:39.613898"
+  },
+  {
+    "name": "Landsflug ehf",
+    "IATA": "X9",
+    "ICAO": "ISL",
+    "website": null,
+    "notes": "Name changed to City Star Airlines ehf",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:39.613914"
+  },
+  {
+    "name": "Loftleidir, Icelandic Airlines Ltd.",
+    "IATA": "LL",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:39.613930"
+  },
+  {
+    "name": "MD Flugfelagid EHF (MD Airlines Ltd.)",
+    "IATA": "W3",
+    "ICAO": "MDI",
+    "website": "www.mdairlines.com",
+    "notes": "IATA designator changed from 1I",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:39.613948"
+  },
+  {
+    "name": "MD Flugfelagid EHF (MD Airlines Ltd.)",
+    "IATA": "1I",
+    "ICAO": "MDI",
+    "website": "www.mdairlines.com",
+    "notes": "IATA designator changed to W3",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:39.613965"
+  },
+  {
+    "name": "Mk Flugfielagid EHF",
+    "IATA": null,
+    "ICAO": "MKI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:39.613981"
+  },
+  {
+    "name": "Niceair",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.niceair.is",
+    "notes": "Ceased operations on 30 March 2023. All flights operated by Hi Fly Malta A319-100.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:39.613998"
+  },
+  {
+    "name": "JetX ehf, (Primera Air)",
+    "IATA": "GX",
+    "ICAO": "JXX",
+    "website": "www.primeraair.is",
+    "notes": "Name changed to Primera Air ehf (Jetx). Name changed from JetX Limited",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:39.614015"
+  },
+  {
+    "name": "Primera Air ehf (Jetx)",
+    "IATA": "GX",
+    "ICAO": "JXX",
+    "website": "www.primeraair.is",
+    "notes": "Designator GX recalled by IATA. Name changed from JetX ehf, (Primera Air)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:39.614032"
+  },
+  {
+    "name": "Proaviation",
+    "IATA": null,
+    "ICAO": "IPO",
+    "website": "proaviation.is",
+    "notes": "Founded on 21 May 2009.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:39.614049"
+  },
+  {
+    "name": "Sunna Air Ltd.",
+    "IATA": null,
+    "ICAO": "VOR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:39.614065"
+  },
+  {
+    "name": "Wow Air ehf",
+    "IATA": "WW",
+    "ICAO": "WOW",
+    "website": "www.wowair.is",
+    "notes": "Ceased operations on 28 March 2019.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:39.614081"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "La Coste\u00f1a S.A.",
+    "IATA": "LC",
+    "ICAO": "NIS",
+    "website": "lacostena.online.com.ni",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:53.590957"
+  },
+  {
+    "name": "Aeronica, Aerolineas Nicaraguenses S.A.",
+    "IATA": "NI",
+    "ICAO": "ANI",
+    "website": null,
+    "notes": "Name changed from Lineas Aereas Nicaragus",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:53.590986"
+  },
+  {
+    "name": "Aerosegovia, S.A.",
+    "IATA": null,
+    "ICAO": "SGV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:53.591004"
+  },
+  {
+    "name": "Atlantic Airlines, S.A.",
+    "IATA": null,
+    "ICAO": "AYN",
+    "website": "www.atlanticairlines.com.ni",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:53.591020"
+  },
+  {
+    "name": "Aerolineas Centroamericanas, S.A. (Central American Airlines)",
+    "IATA": null,
+    "ICAO": "ACN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:53.591036"
+  },
+  {
+    "name": "Flota Aerea Nicaraguense, S.A.",
+    "IATA": "FN",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:53.591053"
+  },
+  {
+    "name": "Lineas Aereas Nicaragus, S.A.",
+    "IATA": "NI",
+    "ICAO": null,
+    "website": null,
+    "notes": "Name changed to Aeronica, Aerolineas Nicaraguenses S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:53.591069"
+  },
+  {
+    "name": "Aviacion Nacional de Nicaragua, S.A. (Nicaragua Airways)",
+    "IATA": null,
+    "ICAO": "NAR",
+    "website": "nicaraguaairways.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:53.591086"
+  },
+  {
+    "name": "Nicaraguenses de Aviacion S.A. (NICA)",
+    "IATA": "6Y",
+    "ICAO": "NIS",
+    "website": null,
+    "notes": "Designator 6Y recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:53.591102"
+  },
+  {
+    "name": "Servicios Aereos de Nicaragua, S.A.",
+    "IATA": null,
+    "ICAO": "SNE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:53.591118"
+  }
+]

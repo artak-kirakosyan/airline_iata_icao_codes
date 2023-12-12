@@ -1,0 +1,2081 @@
+[
+  {
+    "name": "34 Squadron, Royal Australian Air Force",
+    "IATA": null,
+    "ICAO": "EVY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.514540"
+  },
+  {
+    "name": "Air Link Pty Ltd.",
+    "IATA": "LZ",
+    "ICAO": null,
+    "website": "airlinkairlines.com.au",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.514571"
+  },
+  {
+    "name": "Air Whitsunday",
+    "IATA": null,
+    "ICAO": "RWS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.514592"
+  },
+  {
+    "name": "Aircrew Check and Training Australia",
+    "IATA": null,
+    "ICAO": "AIY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.514609"
+  },
+  {
+    "name": "Aircruising Australia",
+    "IATA": null,
+    "ICAO": "AIX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.514626"
+  },
+  {
+    "name": "Capiteq Limited d/b/a Airnorth",
+    "IATA": null,
+    "ICAO": "ANO",
+    "website": "www.airnorth.com.au",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.514643"
+  },
+  {
+    "name": "Airservices Australia, Flight Inspection Unit",
+    "IATA": null,
+    "ICAO": "ADA",
+    "website": "www.airservicesaustralia.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.514661"
+  },
+  {
+    "name": "Alfa Aerospace PTY Ltd.",
+    "IATA": null,
+    "ICAO": "LFP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.514678"
+  },
+  {
+    "name": "Alliance Airlines PTY Limited",
+    "IATA": "QQ",
+    "ICAO": "UTY",
+    "website": "www.allianceairlines.com.au",
+    "notes": "ICAO designator changed from QQA. ICAO designator changed from FWQ",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.514696"
+  },
+  {
+    "name": "Aus-Air",
+    "IATA": null,
+    "ICAO": "AUS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.514713"
+  },
+  {
+    "name": "Australian Customs Service - Coastwatch",
+    "IATA": null,
+    "ICAO": "CWP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.514730"
+  },
+  {
+    "name": "Australian Maritime Safety Authority (AMSA)",
+    "IATA": null,
+    "ICAO": "RES",
+    "website": "www.amsa.gov.au",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.514748"
+  },
+  {
+    "name": "Aviair Pty Ltd",
+    "IATA": "GD",
+    "ICAO": null,
+    "website": "www.aviair.com.au",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.514767"
+  },
+  {
+    "name": "Aviation Consultancy Office",
+    "IATA": null,
+    "ICAO": "QEA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.514783"
+  },
+  {
+    "name": "Bonza Aviation Pty Ltd.",
+    "IATA": "AB",
+    "ICAO": "BNZ",
+    "website": "www.flybonza.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.514799"
+  },
+  {
+    "name": "Cape Air Transport",
+    "IATA": null,
+    "ICAO": "CTO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.514816"
+  },
+  {
+    "name": "Care Flight (NSW) Ltd",
+    "IATA": null,
+    "ICAO": "CFH",
+    "website": "careflight.org",
+    "notes": "Name changed from Care Flight Pty Ltd",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.514836"
+  },
+  {
+    "name": "Careflight (QLD) Limited",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.careflight.org",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.514855"
+  },
+  {
+    "name": "Central Queensland Aviation College",
+    "IATA": null,
+    "ICAO": "CQC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.514873"
+  },
+  {
+    "name": "Cobham Aviation Services Australia - Airline Services",
+    "IATA": null,
+    "ICAO": "QJE",
+    "website": "www.cobham.com.au",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.514890"
+  },
+  {
+    "name": "Cobham Aviation Services Australia",
+    "IATA": null,
+    "ICAO": "NJS",
+    "website": "www.cobham.com.au",
+    "notes": "Name changed from National Jet Systems Pty. Ltd. Designator NC recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.514909"
+  },
+  {
+    "name": "National Jet Express Pty Limited t/a Cobham Regional Services",
+    "IATA": null,
+    "ICAO": "JTE",
+    "website": "www.cobham.com/aviation-services/locations/adelaide-national-jet-express-pty-ltd/",
+    "notes": "Name changed from National Jet Express t/a Jetex.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.514927"
+  },
+  {
+    "name": "Eastern Australia Airlines Pty Ltd.",
+    "IATA": null,
+    "ICAO": "EAQ",
+    "website": null,
+    "notes": "Subsidiary of Qantas. Operates as QantasLink",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.514945"
+  },
+  {
+    "name": "Express Freighters Australia Pty Limited",
+    "IATA": "QE",
+    "ICAO": "EFA",
+    "website": "www.aae.com.au",
+    "notes": "Operates as QANTASFREIGHT.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.514962"
+  },
+  {
+    "name": "Pelican Airlines Pty Ltd t/a FlyPelican",
+    "IATA": "FP",
+    "ICAO": null,
+    "website": "www.flypelican.com.au",
+    "notes": "Commenced operations on 01 June 2015.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.514980"
+  },
+  {
+    "name": "Froggy Corporate Aviation",
+    "IATA": null,
+    "ICAO": "FGY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.514997"
+  },
+  {
+    "name": "GFW Aviation",
+    "IATA": null,
+    "ICAO": "GFW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515013"
+  },
+  {
+    "name": "Henebury Aviation Co.",
+    "IATA": null,
+    "ICAO": "HAC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515030"
+  },
+  {
+    "name": "Hinterland Aviation Pty Ltd",
+    "IATA": "OI",
+    "ICAO": "HND",
+    "website": "www.hinterlandaviation.com.au",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515052"
+  },
+  {
+    "name": "Independent Air Freighters PTY Ltd.",
+    "IATA": null,
+    "ICAO": "IDP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515070"
+  },
+  {
+    "name": "IPEC Aviation Pty. Ltd.",
+    "IATA": null,
+    "ICAO": "IPA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515087"
+  },
+  {
+    "name": "Jet Fighter Flights PTY Ltd.",
+    "IATA": null,
+    "ICAO": "RZA",
+    "website": "www.jetfighter.com.au",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515105"
+  },
+  {
+    "name": "Jetstar Airways Pty Limited",
+    "IATA": "JQ",
+    "ICAO": "JST",
+    "website": "www.jetstar.com",
+    "notes": "Name changed from Jetstar Airways Pty Limited d/b/a Impulse Airlines. Low costs subsidary of Qantas",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515123"
+  },
+  {
+    "name": "LifeFlight Australia Pty Ltd.",
+    "IATA": null,
+    "ICAO": "GDY",
+    "website": "www.lifeflight.org.au",
+    "notes": "Name changed from Australian Law Enforcement Agencies.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515140"
+  },
+  {
+    "name": "Vee H Aviation Pty Ltd. t/a LINK Airways / Fly FC",
+    "IATA": "FC",
+    "ICAO": null,
+    "website": "flycorporate.com.au",
+    "notes": "Name changed from Vee H Aviation Pty Ltd. t/a Corporate Air.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515159"
+  },
+  {
+    "name": "Link Airways Of Australia",
+    "IATA": null,
+    "ICAO": "LAW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515175"
+  },
+  {
+    "name": "Nantay Pty Ltd., d/b/a Maroomba Airlines",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.maroomba.com.au",
+    "notes": "IATA Designator KN* recalled.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515191"
+  },
+  {
+    "name": "Meteologic Pty Ltd",
+    "IATA": null,
+    "ICAO": "MLZ",
+    "website": "www.meteologic.com.au",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515207"
+  },
+  {
+    "name": "Network Aviation Australia",
+    "IATA": null,
+    "ICAO": "NWK",
+    "website": "www.networkaviation.com.au",
+    "notes": "Founded in 1998.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515223"
+  },
+  {
+    "name": "Aviair Pty Ltd d/b/a Nexus Airlines",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Planned start up with 2 x DHC-8-400.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515240"
+  },
+  {
+    "name": "Nordstress (Australia) Pty Ltd.",
+    "IATA": null,
+    "ICAO": "NDS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515257"
+  },
+  {
+    "name": "Opal Air Pty Ltd.",
+    "IATA": null,
+    "ICAO": "OPA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515274"
+  },
+  {
+    "name": "Operational Aviation Services - Australia",
+    "IATA": null,
+    "ICAO": "OAX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515289"
+  },
+  {
+    "name": "Oxley Aviation",
+    "IATA": null,
+    "ICAO": "OAA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515306"
+  },
+  {
+    "name": "Pacific Aviation (A' Asia) Pty Ltd.",
+    "IATA": null,
+    "ICAO": "PCV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515323"
+  },
+  {
+    "name": "Pacific Blue Pty Ltd.",
+    "IATA": null,
+    "ICAO": "VBI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515338"
+  },
+  {
+    "name": "Pacific Rim Airways PTY Ltd.",
+    "IATA": null,
+    "ICAO": "PAR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515355"
+  },
+  {
+    "name": "Pel-Air Aviation Pty Ltd",
+    "IATA": null,
+    "ICAO": "PFY",
+    "website": "www.pelair.com.au",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515372"
+  },
+  {
+    "name": "Pilbara Airlines Pty Ltd",
+    "IATA": null,
+    "ICAO": "PBA",
+    "website": "pilbaraairlines.com",
+    "notes": "Planned to start domestic and international serives from Pilbara with A320 or A321.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515389"
+  },
+  {
+    "name": "Pionair Australia Pty., Ltd.",
+    "IATA": "PH",
+    "ICAO": "SFZ",
+    "website": "www.pionair.com.au",
+    "notes": "Name changed from Skyforce Aviation Pty., Ltd. During 2012",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515405"
+  },
+  {
+    "name": "Port Townsend Airways",
+    "IATA": null,
+    "ICAO": "PTQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515421"
+  },
+  {
+    "name": "Qantas Airways Ltd.",
+    "IATA": "QF",
+    "ICAO": "QFA",
+    "website": "www.qantas.com.au",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515437"
+  },
+  {
+    "name": "Qantaslink",
+    "IATA": null,
+    "ICAO": "QLK",
+    "website": "www.qantaslink.com.au",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515453"
+  },
+  {
+    "name": "Qwestair",
+    "IATA": null,
+    "ICAO": "QWA",
+    "website": null,
+    "notes": "Designator QD* recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515470"
+  },
+  {
+    "name": "Australiawide Airlines Ltd. d/b/a Regional Express",
+    "IATA": "ZL",
+    "ICAO": "RXA",
+    "website": "www.rex.com.au",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515487"
+  },
+  {
+    "name": "Rossair Pty Ltd.",
+    "IATA": null,
+    "ICAO": "RFS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515505"
+  },
+  {
+    "name": "Royal Australian Air Force",
+    "IATA": null,
+    "ICAO": "ASY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515522"
+  },
+  {
+    "name": "Sharp Aviation Pty. Ltd t/a Sharp Airlines",
+    "IATA": "SH",
+    "ICAO": null,
+    "website": "www.sharpairlines.com.au",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515539"
+  },
+  {
+    "name": "Skippers Aviation Pty Ltd.",
+    "IATA": "HK",
+    "ICAO": null,
+    "website": "www.skippers.com.au",
+    "notes": "Designator JW* recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515556"
+  },
+  {
+    "name": "Skytraders Pty Ltd.",
+    "IATA": null,
+    "ICAO": "SND",
+    "website": "www.skytraders.com.au",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515572"
+  },
+  {
+    "name": "Skytrans Regional Pty Ltd t/a Skytrans Airlines",
+    "IATA": "QN",
+    "ICAO": "SKP",
+    "website": "www.skytrans.com.au",
+    "notes": "Designator Q6 recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515589"
+  },
+  {
+    "name": "Sunshine Express Airlines Pty. Ltd. d/b/a Sunshine Express Airline",
+    "IATA": null,
+    "ICAO": "EXL",
+    "website": "www.sunshineexpress.com.au",
+    "notes": "Designator CQ recalled by IATA. ICAO Designator changed from SNH",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515606"
+  },
+  {
+    "name": "Sunstate Airlines (QLD) Pty Ltd.",
+    "IATA": null,
+    "ICAO": "SSQ",
+    "website": null,
+    "notes": "Subsidiary of Qantas. Operates as QantasLink. Founded in 1981.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515624"
+  },
+  {
+    "name": "Surveillance Australia Pty Ltd",
+    "IATA": null,
+    "ICAO": "BDF",
+    "website": "www.cobhamaviationservices.com",
+    "notes": "Cobham Aviation Services company.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515641"
+  },
+  {
+    "name": "Tasman Cargo Airlines Pty Ltd",
+    "IATA": null,
+    "ICAO": "TMN",
+    "website": "www.tasmancargo.com",
+    "notes": "ICAO designator changed from AXF. Name changed from Asian Express Airlines Pty Limited",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515658"
+  },
+  {
+    "name": "Team Global Express Pty Ltd",
+    "IATA": null,
+    "ICAO": "TFX",
+    "website": "teamglobalexp.com",
+    "notes": "Name changed from Toll Aviation Pty Ltd.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515675"
+  },
+  {
+    "name": "Tic Air",
+    "IATA": null,
+    "ICAO": "TIK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515691"
+  },
+  {
+    "name": "Aero Marine Consulting Pty Ltd. d/b/a Transaustralian Air Express Pty. Ltd.",
+    "IATA": null,
+    "ICAO": "AUC",
+    "website": "www.transausair.com",
+    "notes": "IATA designator HW* recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515708"
+  },
+  {
+    "name": "Transpax Expres PTY Ltd.",
+    "IATA": null,
+    "ICAO": "TPP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515724"
+  },
+  {
+    "name": "Virgin Australia Airlines Pty Ltd",
+    "IATA": "VA",
+    "ICAO": "VOZ",
+    "website": "www.virginaustralia.com",
+    "notes": "Name changed from Virgin Blue Airlines Pty Ltd w.e.f. 04 May 2011.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515741"
+  },
+  {
+    "name": "Virgin Australia Regional Airlines Pty Ltd.",
+    "IATA": null,
+    "ICAO": "OZW",
+    "website": "www.virginaustralia.com",
+    "notes": "Designator XR recalled by IATA. Name changed from SkyWest Airlines Pty. Ltd. Designator XR reinstated by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515758"
+  },
+  {
+    "name": "Virgin Blue Holdings Ltd",
+    "IATA": null,
+    "ICAO": "VBH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515774"
+  },
+  {
+    "name": "The Weather Company Pty (Weatherzone)",
+    "IATA": null,
+    "ICAO": "WZA",
+    "website": "business.weatherzone.com.au",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:44.515790"
+  },
+  {
+    "name": "Cape York Air",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.capeyorkair.com.au",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.515807"
+  },
+  {
+    "name": "Dakota National Air",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.dakota-air.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.515824"
+  },
+  {
+    "name": "Heliflite Pty Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.heliflite.com.au",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.515840"
+  },
+  {
+    "name": "Helitech Pty Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.helitech.com.au",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.515855"
+  },
+  {
+    "name": "Aerotechnology Pty Ltd d/b/a Par-Avion",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.paravion.com.au",
+    "notes": "Designator FP* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.515872"
+  },
+  {
+    "name": "Xpress Backpackers",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Planned startup with 2 x B747-400 on route between Australia and UK, India via Thailand.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.515890"
+  },
+  {
+    "name": "Aboriginal Air Services",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.aboriginalair.com.au",
+    "notes": "Ceased operating on 17 September 2006.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.515907"
+  },
+  {
+    "name": "Aerial Tours PTY Ltd.",
+    "IATA": "TI",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.515924"
+  },
+  {
+    "name": "Lip-Air d/b/a Aero Tropics",
+    "IATA": null,
+    "ICAO": "ATI",
+    "website": null,
+    "notes": "Name changed to Aero-Tropics Air Services d/b/a Lip Air Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.515941"
+  },
+  {
+    "name": "Aeropelican Air Services Pty Ltd.",
+    "IATA": "PO",
+    "ICAO": "PEL",
+    "website": null,
+    "notes": "Designator PO recalled by IATA. Established on 23 October 1968 and started operations on 1 July 1971.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.515958"
+  },
+  {
+    "name": "Aeropelican Air Services Pty Ltd.",
+    "IATA": null,
+    "ICAO": "PEL",
+    "website": "www.aeropelican.com.au",
+    "notes": "Ceased operations on 15 December 2013. Designator PO recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.515976"
+  },
+  {
+    "name": "Lip-Air Pty. Ltd. d/b/a Aero-Tropics Air Services",
+    "IATA": null,
+    "ICAO": "ATI",
+    "website": "www.aero-tropics.com.au",
+    "notes": "Name changed from Aero-Tropics Air Services d/b/a Lip Air Ltd. Name previously changed from Lip-Air d/b/a Aero Tropics",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.515994"
+  },
+  {
+    "name": "Strategic Airlines Pty Ltd. t/a Air Australia Airways",
+    "IATA": "VC",
+    "ICAO": "AGC",
+    "website": "www.airaustralia.com",
+    "notes": "Commenced operations on 15 November 2011. Ceased opeations on 17 February 2012. Name changed from Strategic Airlines Pty Ltd w.e.f. 15 November 2011.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516013"
+  },
+  {
+    "name": "Air Facilities",
+    "IATA": "FZ",
+    "ICAO": null,
+    "website": null,
+    "notes": "Formerly Arcas Airways",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516029"
+  },
+  {
+    "name": "Air Great Lakes PYT Ltd.",
+    "IATA": "BB",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516044"
+  },
+  {
+    "name": "Air Kangaroo Island (Airtransit (PTY) Ltd.)",
+    "IATA": "UV",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516060"
+  },
+  {
+    "name": "Air Link Pty Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516076"
+  },
+  {
+    "name": "Air Maroochy Airlines",
+    "IATA": "QO",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516091"
+  },
+  {
+    "name": "Air Queensland",
+    "IATA": null,
+    "ICAO": "AQN",
+    "website": null,
+    "notes": "Merged into Australian Airlines 30 April 1988. Name changed from Bush Pilots Airways on 04 January 1982.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516108"
+  },
+  {
+    "name": "Air Swift Aviation (PTY) Ltd.",
+    "IATA": "KJ",
+    "ICAO": "JOA",
+    "website": null,
+    "notes": "Designator KJ recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516124"
+  },
+  {
+    "name": "Airline (PTY) Ltd.",
+    "IATA": "ND",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516139"
+  },
+  {
+    "name": "Airlines of New South Wales (PTY) Ltd.",
+    "IATA": "WX",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516154"
+  },
+  {
+    "name": "Airlines of Northern Australia",
+    "IATA": "BT",
+    "ICAO": "ANT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516170"
+  },
+  {
+    "name": "Airlines of South Australia",
+    "IATA": "RT",
+    "ICAO": "LRT",
+    "website": "www.airlinesofsa.com.au",
+    "notes": "Name changed from Lincoln Airlines Pty Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516188"
+  },
+  {
+    "name": "Airlines of South Australia (PTY) Ltd.",
+    "IATA": "GJ",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516203"
+  },
+  {
+    "name": "Airlines of Tasmania Pty Ltd.",
+    "IATA": null,
+    "ICAO": "XAL",
+    "website": null,
+    "notes": "ICAO designator changed to ATM",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516219"
+  },
+  {
+    "name": "Airlines of Tasmania Pty Ltd.",
+    "IATA": null,
+    "ICAO": "ATM",
+    "website": null,
+    "notes": "Designator IP recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516236"
+  },
+  {
+    "name": "Airlines of Tasmania Pty Ltd.",
+    "IATA": "IP",
+    "ICAO": "ATM",
+    "website": null,
+    "notes": "Designator IP recalled by IATA. ICAO designator changed from XAL",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516253"
+  },
+  {
+    "name": "Airlines of Western Australia",
+    "IATA": "MV",
+    "ICAO": "AWA",
+    "website": null,
+    "notes": "Name changed from MacRobertson Miller Airlines Ltd in July 1981. Merged into Ansett Australia during 1993.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516270"
+  },
+  {
+    "name": "Airnorth Regional",
+    "IATA": null,
+    "ICAO": "ANO",
+    "website": "www.airnorth.com.au",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516286"
+  },
+  {
+    "name": "Albatross Airlines",
+    "IATA": "UA",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516302"
+  },
+  {
+    "name": "Alliance Airlines PTY Limited",
+    "IATA": "QQ",
+    "ICAO": "QQA",
+    "website": "www.flightwest.com.au",
+    "notes": "ICAO designator changed to UTY. ICAO designator changed from FWQ",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516320"
+  },
+  {
+    "name": "Alliance Airlines PTY Limited",
+    "IATA": "QQ",
+    "ICAO": "FWQ",
+    "website": "www.flightwest.com.au",
+    "notes": "ICAO designator changed to QQA. Name changed from Flight West Airlines Pty Ltd. Designator YC recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516337"
+  },
+  {
+    "name": "Ansett Airlines of Australia",
+    "IATA": "AN",
+    "ICAO": "AAA",
+    "website": null,
+    "notes": "Name changed to Ansett Australia Holdings Limited.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516353"
+  },
+  {
+    "name": "Ansett Airlines of New South Wales",
+    "IATA": null,
+    "ICAO": "NSW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516369"
+  },
+  {
+    "name": "Ansett Airlines of Papua New Guinea",
+    "IATA": "PN",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516385"
+  },
+  {
+    "name": "Ansett Airlines of South Australia",
+    "IATA": null,
+    "ICAO": "AOS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516402"
+  },
+  {
+    "name": "Australian National Airways PTY Ltd. / Ansett Airways PTY Ltd.",
+    "IATA": "AN",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516419"
+  },
+  {
+    "name": "Ansett Australia Holdings Limited",
+    "IATA": "AN",
+    "ICAO": "AAA",
+    "website": "www.ansett.com.au",
+    "notes": "Ceased operations 04 March 2002.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516436"
+  },
+  {
+    "name": "Ansett WA",
+    "IATA": null,
+    "ICAO": "AWA",
+    "website": null,
+    "notes": "ICAO callsign changed to Western.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516453"
+  },
+  {
+    "name": "Ansett WA",
+    "IATA": null,
+    "ICAO": "AWA",
+    "website": null,
+    "notes": "Merged into Ansett Australia on 01 July 1993. ICAO callsign changed from Awa.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516470"
+  },
+  {
+    "name": "Ansett Worldwide Australia Aviation Services PTY Ltd.",
+    "IATA": null,
+    "ICAO": "AWL",
+    "website": null,
+    "notes": "Name changed to Australian Wetleasing Operations Pty Ltd. (AWOPS)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516487"
+  },
+  {
+    "name": "Asian Express Airlines Pty Limited",
+    "IATA": null,
+    "ICAO": "AXF",
+    "website": null,
+    "notes": "Name changed to Tasman Cargo Airlines PTY Ltd. w.e.f. 01 October 2008. Commenced operations as Premier Airlines on 05 September 1994. Name changed to Asian Express Airlines Pty Limited during 1996.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516506"
+  },
+  {
+    "name": "Augusta Airways Pty, Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator HB* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516524"
+  },
+  {
+    "name": "Aus-Air (Australian Air Charterers Pty Ltd.)",
+    "IATA": "NO",
+    "ICAO": "AUZ",
+    "website": "avoca.vicnet.net.au/~ausair/",
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516540"
+  },
+  {
+    "name": "Australia Asia Airlines Limited",
+    "IATA": "IM",
+    "ICAO": "AAU",
+    "website": null,
+    "notes": "Subsidary of Qantas. Ceased operations during 1996.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516558"
+  },
+  {
+    "name": "Australian Air Express Pty. Ltd.",
+    "IATA": null,
+    "ICAO": "XME",
+    "website": "www.aae.com.au",
+    "notes": "Founded in 1992. Commenced operations on 01 August 1992. Merged into Qantas Freight on 06 June 2013.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516575"
+  },
+  {
+    "name": "Australian Airlines",
+    "IATA": "TN",
+    "ICAO": "AUS",
+    "website": null,
+    "notes": "Merged into Qantas in April 1994.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516592"
+  },
+  {
+    "name": "Australian Airlines Ltd.",
+    "IATA": "AO",
+    "ICAO": "AUZ",
+    "website": "www.australianairlines.com.au",
+    "notes": "Established in 2001. Commenced operations on 27 October 2002. Ceased operations on 30 June 2006. Low cost subsidiary of Qantas",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516611"
+  },
+  {
+    "name": "Australian Department of Aviation Flying Unit.",
+    "IATA": null,
+    "ICAO": "ADA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516627"
+  },
+  {
+    "name": "Australian International Airlines",
+    "IATA": null,
+    "ICAO": "AUS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516643"
+  },
+  {
+    "name": "Australian Law Enforcement Agencies",
+    "IATA": null,
+    "ICAO": "GDY",
+    "website": null,
+    "notes": "Name changed to LifeFlight Australia Pty Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516664"
+  },
+  {
+    "name": "Australian Wetleasing Operations Pty Ltd. (AWOPS)",
+    "IATA": null,
+    "ICAO": "AWL",
+    "website": null,
+    "notes": "Name changed from Ansett Worldwide Australia Aviation Services PTY Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516681"
+  },
+  {
+    "name": "Avdev Airlines of Australia",
+    "IATA": "DR",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516698"
+  },
+  {
+    "name": "Avior Airlines Pty Ltd.",
+    "IATA": "XP",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516715"
+  },
+  {
+    "name": "Brindabella Airlines PTY Ltd.",
+    "IATA": "FQ",
+    "ICAO": null,
+    "website": "www.brindabellaairlines.com.au",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516732"
+  },
+  {
+    "name": "Bush Pilots Airways Ltd.",
+    "IATA": "QN",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516748"
+  },
+  {
+    "name": "Care Flight Pty Ltd",
+    "IATA": null,
+    "ICAO": "CFH",
+    "website": "careflight.org",
+    "notes": "Name changed to Care Flight (NSW) Limited",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516765"
+  },
+  {
+    "name": "Challenge Aviation Pty. Ltd.",
+    "IATA": null,
+    "ICAO": "CHS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516781"
+  },
+  {
+    "name": "CHC Helicopters",
+    "IATA": null,
+    "ICAO": "HEM",
+    "website": "www.chcaustralia.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516798"
+  },
+  {
+    "name": "Cirrus Airlines Pty Ltd.",
+    "IATA": null,
+    "ICAO": "CRI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516814"
+  },
+  {
+    "name": "Cobham Aviation Services Australia",
+    "IATA": "NC",
+    "ICAO": "NJS",
+    "website": "www.cobham.com.au",
+    "notes": "Name changed from National Jet Systems Pty. Ltd. t/a Cobham Aviation Services Australia - Airline Services w.e.f. 13 May 2009. Designator NC recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516833"
+  },
+  {
+    "name": "National Jet Systems Pty. Ltd. t/a Cobham Aviation Services Australia - Airline Services",
+    "IATA": "NC",
+    "ICAO": "NJS",
+    "website": "www.nationaljet.com.au",
+    "notes": "Name changed to Cobham Aviation Services Australia. Designator NC reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516851"
+  },
+  {
+    "name": "Commodore Aviation",
+    "IATA": null,
+    "ICAO": "GAR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516867"
+  },
+  {
+    "name": "Compass Airlines",
+    "IATA": "YM",
+    "ICAO": "CYM",
+    "website": null,
+    "notes": "Founded in 1990 ceased operations in 1991. Restarted operations in 1992 and finally ceased operations on 22 March 1993.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516886"
+  },
+  {
+    "name": "Connair PTY Ltd.",
+    "IATA": "CK",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516901"
+  },
+  {
+    "name": "Vee H Aviation Pty Ltd. t/a Corporate Air",
+    "IATA": "FC",
+    "ICAO": null,
+    "website": "www.corporate-air.com.au",
+    "notes": "Name changed to Vee H Aviation Pty Ltd. t/a LINK Airways / Fly FC",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516920"
+  },
+  {
+    "name": "Country Connection Airlines Pty Ltd.",
+    "IATA": "XL",
+    "ICAO": "NSW",
+    "website": "www.ccairlines.com.au",
+    "notes": "Designator XL recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516937"
+  },
+  {
+    "name": "Department of Transport Australia (Aircraft)",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516953"
+  },
+  {
+    "name": "East Coast Airlines Limited",
+    "IATA": "UN",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516969"
+  },
+  {
+    "name": "Eastern Australian Airlines (East Coast (Commuter) Airlines Ltd.",
+    "IATA": "TN",
+    "ICAO": "ECO",
+    "website": null,
+    "notes": "Subsidiary of Qantas",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.516986"
+  },
+  {
+    "name": "Eastland Air",
+    "IATA": null,
+    "ICAO": "ELA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517003"
+  },
+  {
+    "name": "East-West Airlines Ltd.",
+    "IATA": "EW",
+    "ICAO": "EWA",
+    "website": null,
+    "notes": "Designator EW recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517020"
+  },
+  {
+    "name": "Flight West Airlines Pty Ltd.",
+    "IATA": "QQ",
+    "ICAO": "FWQ",
+    "website": "www.flightwest.com.au",
+    "notes": "Name changed to Alliance Airlines PTY Limited. Designator YC recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517038"
+  },
+  {
+    "name": "Flight West Airlines Pty Ltd.",
+    "IATA": "YC",
+    "ICAO": "FWQ",
+    "website": null,
+    "notes": "Designator YC recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517055"
+  },
+  {
+    "name": "Goldfields Air Services",
+    "IATA": null,
+    "ICAO": "GOS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517073"
+  },
+  {
+    "name": "North West Airlines t/a Halant International Pty Ltd",
+    "IATA": null,
+    "ICAO": "NWW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517089"
+  },
+  {
+    "name": "Hazelton Airlines",
+    "IATA": "ZL",
+    "ICAO": "HZL",
+    "website": "www.hazelton.com.au",
+    "notes": "Name changed to Hazelton Airlines d/b/a Rgional Express",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517107"
+  },
+  {
+    "name": "Heavylift Cargo Airlines Pty Ltd.",
+    "IATA": null,
+    "ICAO": "HVY",
+    "website": "heavyliftcargo.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517124"
+  },
+  {
+    "name": "Horizon Airlines Pty Ltd.",
+    "IATA": null,
+    "ICAO": "HZN",
+    "website": null,
+    "notes": "IATA designator changed to KH*. Name changed from International Aviation Pty. Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517143"
+  },
+  {
+    "name": "Horizon Airlines Pty Ltd.",
+    "IATA": null,
+    "ICAO": "HZA",
+    "website": null,
+    "notes": "IATA designator changed from YK* / Designator HK* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517160"
+  },
+  {
+    "name": "Horizon Airlines Pty Ltd.",
+    "IATA": null,
+    "ICAO": "HZA",
+    "website": null,
+    "notes": "IATA designator changed from YK* / Designator HK* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517178"
+  },
+  {
+    "name": "Ibis Air Pty, Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517195"
+  },
+  {
+    "name": "Impulse Airlines Pty Limited",
+    "IATA": "VQ",
+    "ICAO": "IPU",
+    "website": "www.impulse.com.au",
+    "notes": "Ceased Operations on 24 May 2004. Used to start Jetstar operatioins on 25 May 2004. Operates as QantasLink",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517213"
+  },
+  {
+    "name": "Impulse Airlines Pty Limited",
+    "IATA": "VQ",
+    "ICAO": "OAA",
+    "website": null,
+    "notes": "ICAO designator changed to IPU",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517230"
+  },
+  {
+    "name": "International Aviation Pty. Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Name changed to Horizon Airlines Pty Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517248"
+  },
+  {
+    "name": "Island Airlines Pty Ltd.",
+    "IATA": "DG",
+    "ICAO": null,
+    "website": null,
+    "notes": "Placed into receivership on 01 August 2000.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517264"
+  },
+  {
+    "name": "Jetcraft Aviation",
+    "IATA": null,
+    "ICAO": "JCC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517280"
+  },
+  {
+    "name": "National Jet Express t/a Jetex",
+    "IATA": null,
+    "ICAO": "JTE",
+    "website": null,
+    "notes": "Name changed to National Jet Express Pty Limited t/a Cobham Regional Services.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517298"
+  },
+  {
+    "name": "Jetgo Australia Holdings Pty Ltd.",
+    "IATA": "JG",
+    "ICAO": "JGO",
+    "website": "jetgo.com",
+    "notes": "Suspended operations on 01 June 2018.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517315"
+  },
+  {
+    "name": "Jetstar Airways Pty Limited d/b/a Impulse Airlines",
+    "IATA": "JQ",
+    "ICAO": "JST",
+    "website": "www.jetstar.com",
+    "notes": "Name changed to Jetstar Airways Pty Limited. Low costs subsidary of Qantas",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517334"
+  },
+  {
+    "name": "Jetstar International",
+    "IATA": null,
+    "ICAO": "JQI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517351"
+  },
+  {
+    "name": "Kendell Airlines",
+    "IATA": "KD",
+    "ICAO": "KDA",
+    "website": "www.kendell.com.au",
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517368"
+  },
+  {
+    "name": "Lincoln Airlines Pty Ltd.",
+    "IATA": "RT",
+    "ICAO": "LRT",
+    "website": null,
+    "notes": "Name changed to Airlines of South Australia",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517386"
+  },
+  {
+    "name": "Aero-Tropics Air Services d/b/a Lip Air Ltd.",
+    "IATA": null,
+    "ICAO": "ATI",
+    "website": null,
+    "notes": "Name changed to Lip-Air Pty. Ltd. d/b/a Aero-Tropics Air Services. Name changed from Lip-Air d/b/a Aero Tropics",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517404"
+  },
+  {
+    "name": "MacAir Airlines Pty Ltd",
+    "IATA": null,
+    "ICAO": "MCK",
+    "website": "www.macair.com.au",
+    "notes": "Founded on 01 November 1999 as McKinlay Air Charter P/L. Name changed from McKinlay Air Charter Pty Ltd on 09 August 2000. Ceased operations in 29 January 2009.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517423"
+  },
+  {
+    "name": "Macknight Airlines",
+    "IATA": null,
+    "ICAO": "MTD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517440"
+  },
+  {
+    "name": "MacRobertson Miller Airlines Ltd.",
+    "IATA": "MV",
+    "ICAO": null,
+    "website": null,
+    "notes": "Name changed to Airlines of Western Australia in July 1981.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517457"
+  },
+  {
+    "name": "Nantay Pty Ltd., d/b/a Maroomba Airlines",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.maroomba.com.au",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517475"
+  },
+  {
+    "name": "Mission Aviation Fellowship",
+    "IATA": "FS",
+    "ICAO": null,
+    "website": "www.maf.org.au",
+    "notes": "Name changed from Missionary Aviation Fellowship. Formerly Arnhern Land Community Airlines Pty. Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517494"
+  },
+  {
+    "name": "Missionary Aviation Fellowship",
+    "IATA": "FS",
+    "ICAO": null,
+    "website": "www.maf.org.au",
+    "notes": "Name changed to Mission Aviation Fellowship. Formerly Arnhern Land Community Airlines Pty. Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517513"
+  },
+  {
+    "name": "National Jet Systems Pty. Ltd.",
+    "IATA": "NC",
+    "ICAO": "NJS",
+    "website": "www.nationaljet.com.au",
+    "notes": "Name changed to National Jet Systems Pty. Ltd. t/a Cobham Aviation Services Australia - Airline Services w.e.f. 13 May 2009. Designator NC reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517534"
+  },
+  {
+    "name": "Northwest Regional Airlines",
+    "IATA": "FY",
+    "ICAO": "NWR",
+    "website": "www.northwestregional.com.au",
+    "notes": "Designator FY reinstated by IATA. Name changed from Broome Aviation Pty. Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517552"
+  },
+  {
+    "name": "Northwest Regional Airlines",
+    "IATA": "FY",
+    "ICAO": "NWR",
+    "website": "www.northwestregional.com.au",
+    "notes": "Designator FY recalled by IATA. Name changed from Broome Aviation Pty. Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517570"
+  },
+  {
+    "name": "O'Connor Airlines",
+    "IATA": "UQ",
+    "ICAO": "OCM",
+    "website": "www.oconnor-airlines.com.au",
+    "notes": "Name changed from O'Connor-Mt. Gambier's Airline",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517587"
+  },
+  {
+    "name": "O'Connor-Mt. Gambier's Airline",
+    "IATA": "UQ",
+    "ICAO": "OCM",
+    "website": null,
+    "notes": "Name changed to O'Connor Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517604"
+  },
+  {
+    "name": "Ord Air Charter Ply. Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "IATA designator changed from QN*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517621"
+  },
+  {
+    "name": "Ord Air Charter Ply. Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "IATA designator changed to RF*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517638"
+  },
+  {
+    "name": "OzJet Airlines Pty Limited",
+    "IATA": "O7",
+    "ICAO": "OZJ",
+    "website": "www.ozjet.com.au",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517654"
+  },
+  {
+    "name": "Pacific Air Express Australia (Pty) Ltd.",
+    "IATA": null,
+    "ICAO": "PCF",
+    "website": "www.pacificairexpress.com.au",
+    "notes": "Ceased operations during 2021.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517671"
+  },
+  {
+    "name": "Aerotechnology Pty Ltd d/b/a Par-Avion",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.paravion.com.au",
+    "notes": "Designator FP* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517688"
+  },
+  {
+    "name": "Qantas Empire Airways",
+    "IATA": "QF",
+    "ICAO": null,
+    "website": null,
+    "notes": "Name changed to Qantas Airways Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517704"
+  },
+  {
+    "name": "Queensland Regional Airlines Pty Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.qra.com.au",
+    "notes": "Designator Q7* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517721"
+  },
+  {
+    "name": "Qwestair",
+    "IATA": null,
+    "ICAO": "QWA",
+    "website": null,
+    "notes": "Designator QD* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517737"
+  },
+  {
+    "name": "Hazelton Airlines d/b/a Regional Express",
+    "IATA": "ZL",
+    "ICAO": "HZL",
+    "website": "www.hazelton.com.au",
+    "notes": "Designator ZL recalled by IATA. Name changed from Hazelton Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517755"
+  },
+  {
+    "name": "Regional Express Pty Limited",
+    "IATA": "ZL",
+    "ICAO": "REX",
+    "website": "www.rex.com.au",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517771"
+  },
+  {
+    "name": "Rottnest Airlines",
+    "IATA": "DW",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517787"
+  },
+  {
+    "name": "Rottnest Airlines",
+    "IATA": "WI",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517803"
+  },
+  {
+    "name": "Sabre Pacific",
+    "IATA": "1Z",
+    "ICAO": "APD",
+    "website": "www.sabrepacific.com.au",
+    "notes": "Designator 1Z reinstated by IATA. Computer Reservation System",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517819"
+  },
+  {
+    "name": "Shepparton Airlines",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517836"
+  },
+  {
+    "name": "Skippers Aviation Pty Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.skippers.com.au",
+    "notes": "Designator JW* recalled by IATA. Schedules still showing as JW on website.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517853"
+  },
+  {
+    "name": "Sky Air World",
+    "IATA": "S9",
+    "ICAO": "SYW",
+    "website": "www.skyairworld.com",
+    "notes": "Founded in 2006. Ceased operations on 22 February 2009.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517871"
+  },
+  {
+    "name": "Skyforce Aviation Pty., Ltd.",
+    "IATA": null,
+    "ICAO": "SFZ",
+    "website": "www.skyforce.com.au",
+    "notes": "Name changed to Pionair Australia Pty., Ltd. During 2012",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517889"
+  },
+  {
+    "name": "Skyforce Aviation Pty Ltd.",
+    "IATA": null,
+    "ICAO": "SZF",
+    "website": "www.skyforce.com.au",
+    "notes": "ICAO Designator changed to SFZ",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517906"
+  },
+  {
+    "name": "Skytrans",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.skytrans.com.au",
+    "notes": "Designator NP* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517922"
+  },
+  {
+    "name": "Skytrans Regional Pty Ltd t/a Skytrans Airlines",
+    "IATA": "Q6",
+    "ICAO": "SKP",
+    "website": "www.skytrans.com.au",
+    "notes": "Designator Q6 reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517938"
+  },
+  {
+    "name": "SkyWest Airlines",
+    "IATA": "YT",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator YT recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517955"
+  },
+  {
+    "name": "SkyWest Airlines Pty. Ltd.",
+    "IATA": "XR",
+    "ICAO": "OZW",
+    "website": "www.skywest.com.au",
+    "notes": "Name changed to Virgin Australia Regional Airlines Pty Ltd. Designator XR reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517972"
+  },
+  {
+    "name": "Southern Cross Distribution Systems",
+    "IATA": "1K",
+    "ICAO": null,
+    "website": "www.galileo.com.au",
+    "notes": "Computer Reservation System",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.517990"
+  },
+  {
+    "name": "Strategic Airlines Pty Ltd.",
+    "IATA": "VC",
+    "ICAO": "AGC",
+    "website": "www.flystrategic.com",
+    "notes": "Name changed to Air Australia Airways",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.518006"
+  },
+  {
+    "name": "Sunshine Express Airlines Pty. Ltd. d/b/a Sunshine Express Airline",
+    "IATA": "CQ",
+    "ICAO": "EXL",
+    "website": "www.sunshineexpress.com.au",
+    "notes": "Designator CQ recalled by IATA. ICAO Designator changed from SNH",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.518023"
+  },
+  {
+    "name": "Sunshine Express Airlines Pty. Ltd. d/b/a Sunshine Express Airline",
+    "IATA": "CQ",
+    "ICAO": "SNH",
+    "website": null,
+    "notes": "ICAO Designator changed to EXL",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.518041"
+  },
+  {
+    "name": "Jet Lag Pty Ltd. t/a Sunshine Express Airlines",
+    "IATA": "CQ",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.518057"
+  },
+  {
+    "name": "T.I.A.S. Pty Ltd.",
+    "IATA": "1T",
+    "ICAO": null,
+    "website": null,
+    "notes": "Computer Reservation System",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.518074"
+  },
+  {
+    "name": "TAA - Trans Australian",
+    "IATA": "TN",
+    "ICAO": "TAA",
+    "website": null,
+    "notes": "Name changed to Australian Airlines in 1986.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.518091"
+  },
+  {
+    "name": "Tasman Australia Airlines",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.tasmanairlines.com",
+    "notes": "Renamed Fitzroy Aviation PTY Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.518108"
+  },
+  {
+    "name": "Tasman Cargo Airlines PTY Ltd",
+    "IATA": null,
+    "ICAO": "AXF",
+    "website": null,
+    "notes": "ICAO designator changed to TMN. Name changed from Asian Express Airlines Pty Limited",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.518125"
+  },
+  {
+    "name": "Territory Airlines Pty. Ltd.",
+    "IATA": "GV",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.518141"
+  },
+  {
+    "name": "Tiger Airways Australia Pty Ltd t/a Tigerair Australia",
+    "IATA": "TT",
+    "ICAO": "TGG",
+    "website": "www.tigerair.com.au",
+    "notes": "Ceased operations on 25 March 2020.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.518158"
+  },
+  {
+    "name": "Toll Aviation Pty Ltd",
+    "IATA": null,
+    "ICAO": "TFX",
+    "website": "www.tollgroup.com/logistics/airport-aviation-services",
+    "notes": "Name changed to Team Global Express Pty Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.518176"
+  },
+  {
+    "name": "Trans Pacific Airlines",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator DN* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.518193"
+  },
+  {
+    "name": "Lessbrook PTY Ltd., d/b/a Transair",
+    "IATA": "JT",
+    "ICAO": null,
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.518209"
+  },
+  {
+    "name": "Aero Marine Consulting Pty Ltd. d/b/a Transaustralian Air Express Pty. Ltd.",
+    "IATA": null,
+    "ICAO": "AUC",
+    "website": "www.transausair.com",
+    "notes": "IATA designator HW* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.518227"
+  },
+  {
+    "name": "Transtate Airlines",
+    "IATA": "BH",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator BH recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.518242"
+  },
+  {
+    "name": "Transtate Airlines",
+    "IATA": "9N",
+    "ICAO": null,
+    "website": null,
+    "notes": "IATA designator changed to BH",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.518258"
+  },
+  {
+    "name": "Virgin Blue International Airlines Pty Ltd",
+    "IATA": "VA",
+    "ICAO": "VAU",
+    "website": "www.vaustralia.com.au",
+    "notes": "Name changed to Virgin Australia International Airlines Pty Ltd w.e.f. 04 May 2011.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.518275"
+  },
+  {
+    "name": "Vincent Aviation (Australia) Pty Ltd.",
+    "IATA": null,
+    "ICAO": "VIN",
+    "website": "www.vincentaviation.com.au",
+    "notes": "Founded in 1992. Placed into receivership on 28 May 2014.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.518291"
+  },
+  {
+    "name": "Virgin Australia Regional Airlines Pty Ltd.",
+    "IATA": "XR",
+    "ICAO": "OZW",
+    "website": "www.virginaustralia.com/au/en/skywest/",
+    "notes": "Designator XR recalled by IATA. Name changed from SkyWest Airlines Pty. Ltd. Designator XR reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.518308"
+  },
+  {
+    "name": "Virgin Australia Operations Pty Ltd. d/b/a Virgin Blue",
+    "IATA": "DJ",
+    "ICAO": "VOZ",
+    "website": "www.virginblue.com.au",
+    "notes": "Name changed to Virgin Blue Airlines PTY Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.518326"
+  },
+  {
+    "name": "Virgin Blue Airlines Pty Ltd.",
+    "IATA": "DJ",
+    "ICAO": "VOZ",
+    "website": "www.virginblue.com.au",
+    "notes": "Merged into Virgin Australia International Airlines Pty Ltd. Name changed from Virgin Australia Operations PTY. Ltd. d/b/a Virgin Blue",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.518343"
+  },
+  {
+    "name": "Western Airlines",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator EM* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.518359"
+  },
+  {
+    "name": "Whyalla Airlines Pty. Ltd.",
+    "IATA": null,
+    "ICAO": "WWL",
+    "website": null,
+    "notes": "Designator WW* recalled by IATA. Ceased operations in August 2000",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.518375"
+  },
+  {
+    "name": "Whyalla Airlines Pty. Ltd.",
+    "IATA": null,
+    "ICAO": "WWL",
+    "website": null,
+    "notes": "Designator WW* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.518391"
+  },
+  {
+    "name": "Yanda Airlines",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator changed to YE. Formerly Singleton Air Serivces",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.518407"
+  },
+  {
+    "name": "Yanda Airlines",
+    "IATA": "YE",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator XN recalled by IATA. Designator changed from ST*. Formerly Singleton Air Serivces",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.518427"
+  },
+  {
+    "name": "Air Melanesiae",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Ceased operations on 01 November 1989.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.518443"
+  },
+  {
+    "name": "Bush Pilots Airways",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Name changed to Air Queensland on 04 January 1982.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.518459"
+  },
+  {
+    "name": "Victoria Police Air Wing",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:44.518474"
+  }
+]

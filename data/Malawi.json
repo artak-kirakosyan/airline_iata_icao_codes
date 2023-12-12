@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Malawian Airlines 2014 t/a Malawi Airlines",
+    "IATA": null,
+    "ICAO": "MWI",
+    "website": "www.malawian-airlines.com",
+    "notes": "Founded in July 2013. Commenced operations on 31 January 2014. Name changed from Malawian Airlines 2014 during 2016.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:20.450755"
+  },
+  {
+    "name": "Malawi Express Limited",
+    "IATA": null,
+    "ICAO": "MLX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:20.450784"
+  },
+  {
+    "name": "Mbachi Air/Ground Services Limited",
+    "IATA": null,
+    "ICAO": "MBS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:20.450802"
+  },
+  {
+    "name": "Mofaz Air",
+    "IATA": null,
+    "ICAO": "MFZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:20.450818"
+  },
+  {
+    "name": "Air Malawi Limited",
+    "IATA": "QM",
+    "ICAO": "AML",
+    "website": "www.airmalawi.net",
+    "notes": "Founded on 01 September 1967. Ceased operations during February 2013. Designator QM reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:20.450837"
+  },
+  {
+    "name": "Malawian Airlines 2014",
+    "IATA": null,
+    "ICAO": "MWI",
+    "website": null,
+    "notes": "Founded in July 2013. Commenced operations on 31 January 2014. Name changed to Malawian Airlines 2014 t/a Malawi Airlines during 2016.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:20.450855"
+  },
+  {
+    "name": "Nyasa Express",
+    "IATA": null,
+    "ICAO": "NYS",
+    "website": null,
+    "notes": "Name changed to Ulendo Airlink.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:20.450872"
+  },
+  {
+    "name": "Starwelt Trans Lloyd Cargo Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:20.450889"
+  },
+  {
+    "name": "Ulendo Airlink",
+    "IATA": "W4",
+    "ICAO": "NYS",
+    "website": "www.flyulendo.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:20.450905"
+  }
+]

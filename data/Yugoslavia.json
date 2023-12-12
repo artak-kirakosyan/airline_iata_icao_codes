@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Aeroput",
+    "IATA": null,
+    "ICAO": "PUT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:57.279758"
+  },
+  {
+    "name": "Air Montenegro",
+    "IATA": null,
+    "ICAO": "AMN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:57.279792"
+  },
+  {
+    "name": "Avalair",
+    "IATA": null,
+    "ICAO": "VAI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:57.279810"
+  },
+  {
+    "name": "Avio Sluzba",
+    "IATA": null,
+    "ICAO": "SLU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:57.279826"
+  },
+  {
+    "name": "Kosovaair",
+    "IATA": null,
+    "ICAO": "KOS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:57.279842"
+  },
+  {
+    "name": "Adria Airways",
+    "IATA": "JP",
+    "ICAO": "ADR",
+    "website": null,
+    "notes": "Name changed form Inex-Adria",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:57.279858"
+  },
+  {
+    "name": "Adria Aviopromet",
+    "IATA": "JP",
+    "ICAO": null,
+    "website": null,
+    "notes": "Name changed to Inex-Adria",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:57.279875"
+  },
+  {
+    "name": "Air Yugoslavia",
+    "IATA": "JR",
+    "ICAO": "YRG",
+    "website": null,
+    "notes": "Designator JR recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:57.279891"
+  },
+  {
+    "name": "Aviogenex",
+    "IATA": "JJ",
+    "ICAO": "AGX",
+    "website": "www.aviogenex.co.yu",
+    "notes": "Ceased operations in Febraury 2015. ICAO callsign changed from Juliett Juliett",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:57.279908"
+  },
+  {
+    "name": "Aviogenex",
+    "IATA": "JJ",
+    "ICAO": "AGX",
+    "website": null,
+    "notes": "ICAO callsign changed to Genex",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:57.279923"
+  },
+  {
+    "name": "Inex Adria Aviopromet",
+    "IATA": "JP",
+    "ICAO": "IAA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:57.279938"
+  },
+  {
+    "name": "Inex-Adria Airways",
+    "IATA": "JP",
+    "ICAO": "ADR",
+    "website": null,
+    "notes": "Name changed to Adria Airways. Name changed form Adria Aviopromet",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:57.279953"
+  },
+  {
+    "name": "Jugoslovenski Aerotransport (JAT)",
+    "IATA": "JU",
+    "ICAO": "JAT",
+    "website": "www.jat.com",
+    "notes": "Name changed to Jat Airways",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:57.279969"
+  },
+  {
+    "name": "Montenegro Airlines",
+    "IATA": "YM",
+    "ICAO": "MGX",
+    "website": "www.montenegro-airlines.com",
+    "notes": "IATA designator changed from 1I",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:57.279985"
+  },
+  {
+    "name": "Montenegro Airlines",
+    "IATA": "1I",
+    "ICAO": "MGX",
+    "website": "www.montenegro-airlines.com",
+    "notes": "IATA designator changed to YM",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:57.280000"
+  },
+  {
+    "name": "Pan Adria",
+    "IATA": "JH",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:57.280014"
+  },
+  {
+    "name": "Pelikan Blue Line",
+    "IATA": null,
+    "ICAO": "PBL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:57.280029"
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Skywings International",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.skywings.info",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:18.059318"
+  },
+  {
+    "name": "Air Service",
+    "IATA": null,
+    "ICAO": "SPJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:18.059347"
+  },
+  {
+    "name": "Airlift Service Ltd",
+    "IATA": "3I",
+    "ICAO": "LFM",
+    "website": "www.skywings.info",
+    "notes": "Founded in 2008. Ceased operations in 2010",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:18.059366"
+  },
+  {
+    "name": "Air-Vardar",
+    "IATA": null,
+    "ICAO": "VDR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:18.059383"
+  },
+  {
+    "name": "Avioimpex A.D.p.o.",
+    "IATA": "M4",
+    "ICAO": "AXX",
+    "website": "www.avioimpex.com.mk",
+    "notes": "Founded in 1992. Ceased operations in September 2002. Name changed from Interimpex - Avioimpex",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:18.059401"
+  },
+  {
+    "name": "Cargojet",
+    "IATA": null,
+    "ICAO": "CRJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:18.059417"
+  },
+  {
+    "name": "Interimpex - Avioimpex",
+    "IATA": "M4",
+    "ICAO": "AXX",
+    "website": null,
+    "notes": "Name changed to Avioimpex A.D.p.o.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:18.059433"
+  },
+  {
+    "name": "Mak-Air",
+    "IATA": null,
+    "ICAO": "MKC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:18.059450"
+  },
+  {
+    "name": "Mat Airways",
+    "IATA": null,
+    "ICAO": "MKD",
+    "website": "www.matairways.mk",
+    "notes": "Founded in March 2009. Ceased operations in 2011.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:18.059467"
+  },
+  {
+    "name": "MAT Airways Ltd.",
+    "IATA": "6F",
+    "ICAO": null,
+    "website": "www.matairways.mk",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:18.059484"
+  },
+  {
+    "name": "Makedonski Aviotransport-Macedonian Airlines",
+    "IATA": "IN",
+    "ICAO": "MAK",
+    "website": "www.mat.com.mk",
+    "notes": "Ceased operations on 01 September 2009 after AOC revoked. Established on 16 January 1994. Commenced operations on 23 June 1994.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:18.059502"
+  },
+  {
+    "name": "Palair Macedonian",
+    "IATA": null,
+    "ICAO": "PMK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:18.059517"
+  },
+  {
+    "name": "Star Airlines",
+    "IATA": null,
+    "ICAO": "STM",
+    "website": "www.staraircargo.com",
+    "notes": "Founded 2008",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:18.059533"
+  }
+]

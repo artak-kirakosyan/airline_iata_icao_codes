@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Coral Seas Express Ltd.",
+    "IATA": null,
+    "ICAO": "CSE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:43.352531"
+  },
+  {
+    "name": "Honiara Cargo Express",
+    "IATA": null,
+    "ICAO": "HEX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:43.352558"
+  },
+  {
+    "name": "Pacific Air Express (Solomon Islands) Limited",
+    "IATA": null,
+    "ICAO": "PAQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:43.352575"
+  },
+  {
+    "name": "Solomon Airlines",
+    "IATA": "IE",
+    "ICAO": "SOL",
+    "website": "www.flysolomons.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:43.352592"
+  },
+  {
+    "name": "Western Pacific Airservice",
+    "IATA": null,
+    "ICAO": "WPA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:43.352608"
+  },
+  {
+    "name": "Solomon Islands Airways Ltd.",
+    "IATA": "IE",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:43.352624"
+  }
+]

@@ -1,0 +1,677 @@
+[
+  {
+    "name": "AD Astra Executive Charter Sp. z.o.o.",
+    "IATA": null,
+    "ICAO": "ADC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:15.742895"
+  },
+  {
+    "name": "Air Polonia Cargo Ltd.",
+    "IATA": null,
+    "ICAO": "APR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:15.742933"
+  },
+  {
+    "name": "AMC Aviation SP z.o.o.",
+    "IATA": null,
+    "ICAO": "AMQ",
+    "website": "www.amcaviation.eu",
+    "notes": "Name changed from Aircraft Management and Consulting SP. z.o.o.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:15.742956"
+  },
+  {
+    "name": "ASA Heli-Water Sp. z.o.o.",
+    "IATA": null,
+    "ICAO": "HEW",
+    "website": "www.asaheli-water.pl",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:15.742976"
+  },
+  {
+    "name": "Bartolini Air Regional",
+    "IATA": null,
+    "ICAO": "BNI",
+    "website": "training.bartoliniair.net",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:15.742995"
+  },
+  {
+    "name": "Blue Jet Charters sp. z.o.o.",
+    "IATA": null,
+    "ICAO": "BCJ",
+    "website": "www.bluejet.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:15.743014"
+  },
+  {
+    "name": "Ryanair Sun S.A. t/a BUZZ",
+    "IATA": "RR",
+    "ICAO": "RYS",
+    "website": null,
+    "notes": "Name changed from Ryanair Sun S.A. Ryanair Holdings Group",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:15.743033"
+  },
+  {
+    "name": "Direct Fly Sp. z.o.o.",
+    "IATA": null,
+    "ICAO": "DLF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:15.743052"
+  },
+  {
+    "name": "Enter Air Sp. z.o.o.",
+    "IATA": null,
+    "ICAO": "ENT",
+    "website": "www.enterair.pl",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:15.743070"
+  },
+  {
+    "name": "Exin",
+    "IATA": null,
+    "ICAO": "EXN",
+    "website": "www.exin.pl",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:15.743089"
+  },
+  {
+    "name": "FDS-Ops Sp.z.o.o.",
+    "IATA": null,
+    "ICAO": "FDP",
+    "website": "www.fdsops.com",
+    "notes": "Name changed fromFlight Dispatch Serivces. Flight Planning Service",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:15.743108"
+  },
+  {
+    "name": "Flyjet Sp. z.o.o.",
+    "IATA": null,
+    "ICAO": "FYJ",
+    "website": "flyjet.pl",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:15.743126"
+  },
+  {
+    "name": "General Aviation Services Ltd.",
+    "IATA": null,
+    "ICAO": "GNZ",
+    "website": "generalaviation.pl",
+    "notes": "Name changed from General Aviation Sp. z.o.o.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:15.743146"
+  },
+  {
+    "name": "Helicopter.pl S.A.",
+    "IATA": null,
+    "ICAO": "SCP",
+    "website": "www.helicopter.pl",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:15.743166"
+  },
+  {
+    "name": "IBEX \u2013 Us\u0142ugi Lotnicze Sp. z o.o",
+    "IATA": null,
+    "ICAO": "KBX",
+    "website": "ibex-ul.pl",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:15.743192"
+  },
+  {
+    "name": "Jet Story Sp. z.o.o.",
+    "IATA": null,
+    "ICAO": "JDI",
+    "website": "jetstory.com",
+    "notes": "Name changed from Blue Jet Sp. z.o.o. Previously changed from Jet Service Sp. z.o.o.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:15.743212"
+  },
+  {
+    "name": "Polskie Linie Lotnicze LOT S.A.",
+    "IATA": "LO",
+    "ICAO": "LOT",
+    "website": "www.lot.com",
+    "notes": "ICAO Callsign changed from Pollot.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:15.743231"
+  },
+  {
+    "name": "LOT Ground Service Sp. z.o.o.",
+    "IATA": null,
+    "ICAO": "LGS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:15.743250"
+  },
+  {
+    "name": "LOT Polish Airlines S.A.",
+    "IATA": null,
+    "ICAO": "HZR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:15.743266"
+  },
+  {
+    "name": "Lotnicze Pogotowie Ratunkowe",
+    "IATA": null,
+    "ICAO": "LPR",
+    "website": "www.lpr.com.pl",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:15.743284"
+  },
+  {
+    "name": "Polish Air Force",
+    "IATA": null,
+    "ICAO": "PLF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:15.743303"
+  },
+  {
+    "name": "Polish Air Navigation Services Agency",
+    "IATA": null,
+    "ICAO": "PPU",
+    "website": "www.pansa.pl/?lang=_eng",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:15.743323"
+  },
+  {
+    "name": "Polish Navy",
+    "IATA": null,
+    "ICAO": "PNY",
+    "website": "www.navy.mw.mil.pl",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:15.743341"
+  },
+  {
+    "name": "Silvair Sp. z.o.o.",
+    "IATA": null,
+    "ICAO": "SAN",
+    "website": "silvair.net",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:15.743359"
+  },
+  {
+    "name": "SkyTaxi sp. z.o.o.",
+    "IATA": "TE",
+    "ICAO": "IGA",
+    "website": "www.skytaxi.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:15.743376"
+  },
+  {
+    "name": "Smart Jet Sp. Z o.o.",
+    "IATA": null,
+    "ICAO": "SAH",
+    "website": "www.smart-jet.pl",
+    "notes": "Name changed from Smart Aero Solutions",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:15.743397"
+  },
+  {
+    "name": "Smartwings Polska Sp. z.o.o.",
+    "IATA": "3Z",
+    "ICAO": "TVP",
+    "website": "www.smartwings.com",
+    "notes": "Name changed from Travel Service Polska Sp. z.o.o. w.e.f. 10 December 2018.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:15.743418"
+  },
+  {
+    "name": "SprintAir SA",
+    "IATA": "P8",
+    "ICAO": "SRN",
+    "website": "www.sprintair.eu",
+    "notes": "IATA designator changed from HS*. Founded in 2003.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:15.743435"
+  },
+  {
+    "name": "SprintAir Cargo Sp. z.o.o.",
+    "IATA": null,
+    "ICAO": "SAR",
+    "website": "www.sprintair.eu",
+    "notes": "Founded in 2006",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:15.743453"
+  },
+  {
+    "name": "Aerogryf Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.aerogryf.com.pl",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.743472"
+  },
+  {
+    "name": "BLUairways Sp. z o.o.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "flybluairways.com",
+    "notes": "ACMI operator planned startup during 2018.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.743491"
+  },
+  {
+    "name": "4YOU Airlines",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Commenced operations in Spring 2014 and suspended operations during September 2014.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.743509"
+  },
+  {
+    "name": "Aerogryf Ltd.",
+    "IATA": null,
+    "ICAO": "GRF",
+    "website": "www.aerogryf.com.pl",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.743527"
+  },
+  {
+    "name": "Air Italy Polska Sp. Z o.o.",
+    "IATA": null,
+    "ICAO": "AEI",
+    "website": "www.airitalypolska.com",
+    "notes": "Established in 2007. Sold and name changed to Air Poland in 2011.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.743545"
+  },
+  {
+    "name": "Air Poland Sp. Z o.o.",
+    "IATA": null,
+    "ICAO": "AEI",
+    "website": "www.flyairpoland.com",
+    "notes": "Ceased operations and filed for bankruptcy April 2012. Name changed from Air Italy Polska Sp. Z o.o.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.743565"
+  },
+  {
+    "name": "Air Polonia Ltd.",
+    "IATA": null,
+    "ICAO": "APN",
+    "website": "www.airpolonia.com.pl",
+    "notes": "Founded in 2001, Commenced operations on 08 December 2003. Ceased operations on 05 December 2004.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.743584"
+  },
+  {
+    "name": "Air Polonia Cargo Ltd.",
+    "IATA": null,
+    "ICAO": "APR",
+    "website": null,
+    "notes": "Prefix Code 413 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.743603"
+  },
+  {
+    "name": "Aircraft Management and Consulting SP. z.o.o.",
+    "IATA": null,
+    "ICAO": "AMQ",
+    "website": "amcaviation.pl",
+    "notes": "Name changed to AMC Aviation SP. z.o.o.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.743621"
+  },
+  {
+    "name": "Bingo Airways Sp. z o.o.",
+    "IATA": null,
+    "ICAO": "BGY",
+    "website": "www.bingoairways.com",
+    "notes": "Operations Commenced on 18 May 2012. Suspends operations June 2014",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.743638"
+  },
+  {
+    "name": "Blue Jet Sp. z.o.o.",
+    "IATA": null,
+    "ICAO": "JDI",
+    "website": "www.bluejet.aero",
+    "notes": "Name changed to Jet Story Sp. z.o.o. Name changed from Jet Service Sp. z.o.o.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.743658"
+  },
+  {
+    "name": "Blue Sky Carrier Co. Ltd.",
+    "IATA": null,
+    "ICAO": "BSC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.743675"
+  },
+  {
+    "name": "Nowy Przewoznik",
+    "IATA": null,
+    "ICAO": "CLW",
+    "website": "www.centralwings.com",
+    "notes": "Founded in 2004. Ceased operations on 26 March 2009. Designator C0* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.743694"
+  },
+  {
+    "name": "Elgaz",
+    "IATA": null,
+    "ICAO": "LGA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.743711"
+  },
+  {
+    "name": "Eurolot, S.A.",
+    "IATA": "K2",
+    "ICAO": "ELO",
+    "website": "eurolot.com",
+    "notes": "Founded in 1996. Ceased operations on 31 March 2015.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.743730"
+  },
+  {
+    "name": "Fischer Air Poland",
+    "IATA": null,
+    "ICAO": "FFP",
+    "website": null,
+    "notes": "Commenced operations on 12 May 2005. Ceased operations in October 2006.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.743749"
+  },
+  {
+    "name": "Flight Dispatch Serivces",
+    "IATA": null,
+    "ICAO": "FDP",
+    "website": null,
+    "notes": "Name changed to FDS-Ops Sp.z.o.o. Flight Planning Service",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.743767"
+  },
+  {
+    "name": "FlyLAL Charters Polksa",
+    "IATA": null,
+    "ICAO": "LLP",
+    "website": "www.flylalcharters.lt/en/",
+    "notes": "Name changed to Small Planet Airlines. Part of the Avia Solutions Group.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.743785"
+  },
+  {
+    "name": "General Aviation Sp. z.o.o.",
+    "IATA": null,
+    "ICAO": "GNZ",
+    "website": "generalaviation.pl",
+    "notes": "Name changed to General Aviation Services Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.743804"
+  },
+  {
+    "name": "Instalbud",
+    "IATA": null,
+    "ICAO": "INB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.743820"
+  },
+  {
+    "name": "Jet Air Spolka z.o.o.",
+    "IATA": null,
+    "ICAO": "JEA",
+    "website": "www.jetair.pl",
+    "notes": "Name changed to OLT Express Sp z.o.o",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.743837"
+  },
+  {
+    "name": "Jet Club Ltd.",
+    "IATA": null,
+    "ICAO": "BOB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.743855"
+  },
+  {
+    "name": "Jet Service Sp. z.o.o.",
+    "IATA": null,
+    "ICAO": "JDI",
+    "website": "www.jetservice.waw.pl",
+    "notes": "Name changed to Blue Jet Sp. Z.o.o.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.743873"
+  },
+  {
+    "name": "LOT - Polish Airlines",
+    "IATA": "LO",
+    "ICAO": "LOT",
+    "website": "www.lot.com",
+    "notes": "ICAO Callsign changed to LOT.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.743891"
+  },
+  {
+    "name": "Loyd's Aviation Group Ltd.",
+    "IATA": null,
+    "ICAO": "LOY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.743908"
+  },
+  {
+    "name": "OLT Express Sp z.o.o",
+    "IATA": null,
+    "ICAO": "JEA",
+    "website": "www.oltexpress.com",
+    "notes": "Ceased Operations in July 2012. Name changed from Jet Air Spolka z.o.o. in February 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.743926"
+  },
+  {
+    "name": "Orwex",
+    "IATA": null,
+    "ICAO": "ORW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.743943"
+  },
+  {
+    "name": "Polnippon Ltd.",
+    "IATA": null,
+    "ICAO": "PLN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.743959"
+  },
+  {
+    "name": "Polonia Airways",
+    "IATA": null,
+    "ICAO": "PAW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.743976"
+  },
+  {
+    "name": "Polskie Linie Lotnocze (LOT)",
+    "IATA": "LO",
+    "ICAO": "LOT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.743993"
+  },
+  {
+    "name": "Prima Charter",
+    "IATA": null,
+    "ICAO": "FFP",
+    "website": "www.primacharter.pl",
+    "notes": "Ceased Operations on 14 January 2008. Formed in late 2006 from assets of failed Fischer Air Poland.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.744011"
+  },
+  {
+    "name": "Pul. Przedsiebiorstwo Uslug Lotniczych",
+    "IATA": null,
+    "ICAO": "PUL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.744028"
+  },
+  {
+    "name": "PZL - Panstwowe Zaklady Lotnicze",
+    "IATA": null,
+    "ICAO": "PZL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.744045"
+  },
+  {
+    "name": "Ryanair Sun S.A.",
+    "IATA": "RR",
+    "ICAO": "RYS",
+    "website": null,
+    "notes": "Name changed to Ryanair Sun S.A. t/a BUZZ. Ryanair Holdings Group",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.744062"
+  },
+  {
+    "name": "Silesian Air SP. Z.O.O. Regionalne Linie Lotnicze",
+    "IATA": null,
+    "ICAO": "LSN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.744078"
+  },
+  {
+    "name": "Sky Carrier SP.z.o.o.",
+    "IATA": null,
+    "ICAO": "SCG",
+    "website": null,
+    "notes": "Merged into SprintAir Cargo - SAR",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.744095"
+  },
+  {
+    "name": "Sky Express Sp. z o. o.",
+    "IATA": null,
+    "ICAO": "SXP",
+    "website": "www.skyexpress.pl",
+    "notes": "Merged into SprintAir - SRN",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.744111"
+  },
+  {
+    "name": "Small Planet Airlines Sp. z.o.o.",
+    "IATA": null,
+    "ICAO": "LLP",
+    "website": "www.smallplanet.aero",
+    "notes": "Ceased operations on 09 November 2018. Name changed from FlyLAL Charters Polksa",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.744129"
+  },
+  {
+    "name": "Smart Aero Solutions",
+    "IATA": null,
+    "ICAO": "SAH",
+    "website": "smartaero.pl",
+    "notes": "Name changed to Smart Jet Sp. Z o.o.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.744147"
+  },
+  {
+    "name": "SprintAir SA",
+    "IATA": null,
+    "ICAO": "SRN",
+    "website": "www.sprintair.eu",
+    "notes": "IATA designator changed to P8. Founded in 2003.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.744164"
+  },
+  {
+    "name": "Tasawi Air Services Ltd.",
+    "IATA": null,
+    "ICAO": "TWI",
+    "website": null,
+    "notes": "Designator 9X* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.744182"
+  },
+  {
+    "name": "Travel Service Polska Sp. z.o.o",
+    "IATA": "3Z",
+    "ICAO": "TVP",
+    "website": "www.travelservice.aero",
+    "notes": "Name changed to Smartwings Polska Sp. z.o.o. w.e.f. 10 December 2018.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.744199"
+  },
+  {
+    "name": "Turavia",
+    "IATA": null,
+    "ICAO": "TUV",
+    "website": null,
+    "notes": "Founded in 1992. Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.744216"
+  },
+  {
+    "name": "White Eagle Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "WEA",
+    "website": "www.whiteeagle.com.pl",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.744233"
+  },
+  {
+    "name": "Wojewodzka Kolumna Transportu Sanitarnego",
+    "IATA": null,
+    "ICAO": "WKT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.744250"
+  },
+  {
+    "name": "Yes Airways SP z.o.o.",
+    "IATA": null,
+    "ICAO": "YAP",
+    "website": "www.yesairways.pl",
+    "notes": "Name changed to OLT Express Polski",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:15.744267"
+  }
+]

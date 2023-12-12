@@ -1,0 +1,245 @@
+[
+  {
+    "name": "Air America, Inc.",
+    "IATA": null,
+    "ICAO": "AMI",
+    "website": "www.airamericacaribbean.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:18.071094"
+  },
+  {
+    "name": "Air Charter, Inc. d/b/a Air Flamenco",
+    "IATA": "F4",
+    "ICAO": null,
+    "website": "flyairflamenco.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:18.071123"
+  },
+  {
+    "name": "Air Paradise",
+    "IATA": null,
+    "ICAO": "PDI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:18.071139"
+  },
+  {
+    "name": "Prinair, Inc.",
+    "IATA": null,
+    "ICAO": "PRU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:18.071155"
+  },
+  {
+    "name": "Puerto Rico Air Management Service Inc",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.pramsair.com",
+    "notes": "Designator 2P* recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:18.071173"
+  },
+  {
+    "name": "Puerto Rico Air Management Services, Inc",
+    "IATA": null,
+    "ICAO": "PRB",
+    "website": "www.pramsair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:18.071189"
+  },
+  {
+    "name": "Puerto Rico Air National Guard",
+    "IATA": null,
+    "ICAO": "PNG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:18.071205"
+  },
+  {
+    "name": "Vieques Air Link, Inc.",
+    "IATA": null,
+    "ICAO": "VES",
+    "website": "www.viequesairlink.com",
+    "notes": "Designator VI recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:18.071221"
+  },
+  {
+    "name": "MN Aviation, Inc.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.mnaviation.com",
+    "notes": "Designator W4* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:18.071238"
+  },
+  {
+    "name": "Air Charter, Inc.",
+    "IATA": "RL",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:18.071254"
+  },
+  {
+    "name": "Air Flamenco",
+    "IATA": null,
+    "ICAO": "WAF",
+    "website": "airflamenco.net",
+    "notes": "Name changed from Flamenco Airways, Inc.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:18.071269"
+  },
+  {
+    "name": "Caribbean Flight Training Center",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Name changed to Propilot, Inc.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:18.071285"
+  },
+  {
+    "name": "Cool Tours d/b/a Eastern Caribbean Air",
+    "IATA": "JI",
+    "ICAO": null,
+    "website": null,
+    "notes": "Name changed from Cool Tours d/b/a San Juan Aviation. IATA Designator changed from UI*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:18.071303"
+  },
+  {
+    "name": "Eastern Caribbean Airlines, Corp.",
+    "IATA": "JI",
+    "ICAO": null,
+    "website": null,
+    "notes": "Ceased operations. Name changed from Eastern Caribbean Air Inc. dba EC Air. Name changed from Cool Tours d/b/a Eastern Caribbean Air. IATA Designator changed from UI*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:18.071321"
+  },
+  {
+    "name": "Eastern Caribbean Air Inc. dba EC Air",
+    "IATA": "JI",
+    "ICAO": null,
+    "website": null,
+    "notes": "Name changed to Eastern Caribbean Airlines, Corp. Name changed from Cool Tours d/b/a Eastern Caribbean Air. IATA Designator changed from UI*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:18.071338"
+  },
+  {
+    "name": "Executive Air Charter",
+    "IATA": "NA",
+    "ICAO": "EXK",
+    "website": null,
+    "notes": "IATA designator changed to OW",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:18.071354"
+  },
+  {
+    "name": "Flamenco Airways, Inc.",
+    "IATA": "FK",
+    "ICAO": "WAF",
+    "website": null,
+    "notes": "Designator FK recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:18.071370"
+  },
+  {
+    "name": "Flamenco Airways, Inc.",
+    "IATA": null,
+    "ICAO": "WAF",
+    "website": null,
+    "notes": "Name changed to Air Flamenco",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:18.071387"
+  },
+  {
+    "name": "Propilot, Inc. t/a Million Air San Juan",
+    "IATA": "F3",
+    "ICAO": null,
+    "website": null,
+    "notes": "Name changed from Caribbean Flight Training Center",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:18.071403"
+  },
+  {
+    "name": "MN Aviation, Inc.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.mnaviation.com",
+    "notes": "Designator W4* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:18.071420"
+  },
+  {
+    "name": "Puerto Rico Air Management Service Inc",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.pramsair.com",
+    "notes": "Designator 2P* restated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:18.071436"
+  },
+  {
+    "name": "Puerto Rico International Airlines, Inc.",
+    "IATA": "PQ",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:18.071452"
+  },
+  {
+    "name": "San Juan Airlines",
+    "IATA": null,
+    "ICAO": "SJA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:18.071467"
+  },
+  {
+    "name": "Cool Tours d/b/a San Juan Aviation",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "IATA Designator changed to JI",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:18.071483"
+  },
+  {
+    "name": "Cool Tours d/b/a San Juan Aviation",
+    "IATA": "JI",
+    "ICAO": null,
+    "website": null,
+    "notes": "Name changed to Eastern Caribbean Air Inc. dba EC Air. IATA Designator changed from UI*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:18.071501"
+  },
+  {
+    "name": "Tol Air Services, Inc.",
+    "IATA": null,
+    "ICAO": "TOL",
+    "website": "www.tolair.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:18.071517"
+  },
+  {
+    "name": "Vieques Air Link, Inc.",
+    "IATA": "VI",
+    "ICAO": "VES",
+    "website": null,
+    "notes": "Designator VI recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:18.071533"
+  }
+]

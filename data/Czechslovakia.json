@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Ceskoslovenske Aerolinie (CSA)",
+    "IATA": "OK",
+    "ICAO": "CSA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:46.302811"
+  },
+  {
+    "name": "Czech Government Flying Service",
+    "IATA": null,
+    "ICAO": "CSG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:46.302839"
+  },
+  {
+    "name": "Slov-Air",
+    "IATA": "OI",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:46.302858"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "name": "BV Airways d/b/a BVI Airways",
+    "IATA": "4V",
+    "ICAO": null,
+    "website": "www.gobvi.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:47.635061"
+  },
+  {
+    "name": "Virgin Islands Airways",
+    "IATA": null,
+    "ICAO": "BVI",
+    "website": "www.bvi-airlines.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:47.635089"
+  },
+  {
+    "name": "Clairmont Holdings Ltd dba VI Air Link",
+    "IATA": "V6",
+    "ICAO": "VIL",
+    "website": "viairlink.com",
+    "notes": "Designator V6 recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:47.635106"
+  }
+]

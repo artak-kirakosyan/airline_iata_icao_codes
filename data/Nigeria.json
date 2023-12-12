@@ -1,0 +1,1964 @@
+[
+  {
+    "name": "7Star Global Airlines Limited",
+    "IATA": null,
+    "ICAO": "SGL",
+    "website": "fly7star.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251276"
+  },
+  {
+    "name": "Aero Contractors Company of Nigeria Ltd.",
+    "IATA": "N2",
+    "ICAO": "NIG",
+    "website": "www.flyaero.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251310"
+  },
+  {
+    "name": "Aero Tak Limited",
+    "IATA": null,
+    "ICAO": "KAT",
+    "website": "aerotakltd.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251336"
+  },
+  {
+    "name": "Africa Chartered Services",
+    "IATA": null,
+    "ICAO": "AFY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251359"
+  },
+  {
+    "name": "Afro International Ent. Limited",
+    "IATA": null,
+    "ICAO": "AOR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251378"
+  },
+  {
+    "name": "Air Atlantic (Nig) Limited",
+    "IATA": null,
+    "ICAO": "ANI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251397"
+  },
+  {
+    "name": "Air Jupiter",
+    "IATA": null,
+    "ICAO": "JIS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251418"
+  },
+  {
+    "name": "Air Meridian Limited",
+    "IATA": null,
+    "ICAO": "MEF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251436"
+  },
+  {
+    "name": "Air Midwest Limited",
+    "IATA": null,
+    "ICAO": "VTY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251453"
+  },
+  {
+    "name": "Air Peace Limited",
+    "IATA": "P4",
+    "ICAO": "APK",
+    "website": "www.flyairpeace.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251469"
+  },
+  {
+    "name": "Air Peace Hopper",
+    "IATA": null,
+    "ICAO": "APL",
+    "website": "www.flyairpeace.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251486"
+  },
+  {
+    "name": "Al-Dawood Air Ltd.",
+    "IATA": null,
+    "ICAO": "LIE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251504"
+  },
+  {
+    "name": "Al-Donas Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "LDN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251521"
+  },
+  {
+    "name": "Allied Air Limited",
+    "IATA": null,
+    "ICAO": "AJK",
+    "website": "www.alliedaircargo.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251539"
+  },
+  {
+    "name": "Amako Airlines Limited.",
+    "IATA": null,
+    "ICAO": "OBK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251556"
+  },
+  {
+    "name": "Ambjek Air Services Limited",
+    "IATA": null,
+    "ICAO": "JEE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251572"
+  },
+  {
+    "name": "Amiyi Airline Limited",
+    "IATA": null,
+    "ICAO": "AMZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251590"
+  },
+  {
+    "name": "Anap Business Jets Limited",
+    "IATA": null,
+    "ICAO": "AJP",
+    "website": "www.anapjets.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251607"
+  },
+  {
+    "name": "Arik Air",
+    "IATA": "W3",
+    "ICAO": "ARA",
+    "website": "www.arikair.com",
+    "notes": "Operations restarted. Ceased Operations on 20 September 2012.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251626"
+  },
+  {
+    "name": "A-Safar Air Services Ltd.",
+    "IATA": null,
+    "ICAO": "SFM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251642"
+  },
+  {
+    "name": "Associated Aviation Limited",
+    "IATA": null,
+    "ICAO": "SCD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251659"
+  },
+  {
+    "name": "Azman Air Services Ltd",
+    "IATA": "ZU",
+    "ICAO": "AZM",
+    "website": "www.airazman.com",
+    "notes": "Designator ZQ recalled by IATA. Established in 2010. Commenced operations in 2014.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251677"
+  },
+  {
+    "name": "Bakoji Airlines Services Ltd.",
+    "IATA": null,
+    "ICAO": "OGJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251694"
+  },
+  {
+    "name": "Barbedos Aviation Services Limited",
+    "IATA": null,
+    "ICAO": "UBS",
+    "website": "www.barbadosaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251712"
+  },
+  {
+    "name": "Bellagio Airlines",
+    "IATA": null,
+    "ICAO": "BEA",
+    "website": "bellagioair.com",
+    "notes": "Planned start up.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251731"
+  },
+  {
+    "name": "Binani Global Air Services Limiuted t/a Binani Air",
+    "IATA": null,
+    "ICAO": "BGL",
+    "website": "www.binaniair.com",
+    "notes": "Planned start up.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251750"
+  },
+  {
+    "name": "Binani Air",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Planned start up with ERJ-170",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251768"
+  },
+  {
+    "name": "Bristow Helicopters (Nig) Limited",
+    "IATA": null,
+    "ICAO": "BHN",
+    "website": "www.bristowgroup.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251785"
+  },
+  {
+    "name": "Capital Airlines Limited",
+    "IATA": null,
+    "ICAO": "NCP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251802"
+  },
+  {
+    "name": "Caverton Helicopters Ltd.",
+    "IATA": null,
+    "ICAO": "CJR",
+    "website": "www.caverton-helicopters.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251818"
+  },
+  {
+    "name": "CHC Helicopters Nigeria",
+    "IATA": null,
+    "ICAO": "ATQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251835"
+  },
+  {
+    "name": "Chrome Air Service",
+    "IATA": null,
+    "ICAO": "CHO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251853"
+  },
+  {
+    "name": "Comet Airlines Limited",
+    "IATA": null,
+    "ICAO": "CMG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251871"
+  },
+  {
+    "name": "Dala Air Services Ltd.",
+    "IATA": null,
+    "ICAO": "DLR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251890"
+  },
+  {
+    "name": "Dana Airlines Ltd.",
+    "IATA": "9J",
+    "ICAO": "DAN",
+    "website": "www.flydanaair.com",
+    "notes": "ICAO code changedfrom DAV",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251907"
+  },
+  {
+    "name": "Dasab Airlines",
+    "IATA": null,
+    "ICAO": "DSQ",
+    "website": "www.dasabairlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251924"
+  },
+  {
+    "name": "Dominion Air Ltd.",
+    "IATA": null,
+    "ICAO": "DAC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251941"
+  },
+  {
+    "name": "Earth Airlines services Limited",
+    "IATA": null,
+    "ICAO": "ERX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251957"
+  },
+  {
+    "name": "EAS Airlines",
+    "IATA": null,
+    "ICAO": "EXW",
+    "website": "www.easairlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251975"
+  },
+  {
+    "name": "Easy  Link Aviation Services",
+    "IATA": null,
+    "ICAO": "FYE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.251993"
+  },
+  {
+    "name": "Eco Air Limited",
+    "IATA": null,
+    "ICAO": "ECQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252012"
+  },
+  {
+    "name": "Elin Group Limited",
+    "IATA": null,
+    "ICAO": "ELN",
+    "website": "elin-group.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252029"
+  },
+  {
+    "name": "Embassy Airlines Limited",
+    "IATA": null,
+    "ICAO": "EAM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252046"
+  },
+  {
+    "name": "Empire Aviation Services Limited",
+    "IATA": null,
+    "ICAO": "MPR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252065"
+  },
+  {
+    "name": "Falcon Airline Limited",
+    "IATA": null,
+    "ICAO": "FAU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252081"
+  },
+  {
+    "name": "Fayban Air Services",
+    "IATA": null,
+    "ICAO": "FAY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252098"
+  },
+  {
+    "name": "First Nation Airways (SS) Limited",
+    "IATA": null,
+    "ICAO": "FRN",
+    "website": "www.flyfirstnation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252116"
+  },
+  {
+    "name": "Freedom Air Services Ltd.",
+    "IATA": null,
+    "ICAO": "FFF",
+    "website": "www.freedomairservices.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252132"
+  },
+  {
+    "name": "Fresh Air Ltd.",
+    "IATA": null,
+    "ICAO": "FRR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252149"
+  },
+  {
+    "name": "Genesis Global Aviation Ltd",
+    "IATA": null,
+    "ICAO": "GGG",
+    "website": "www.genesisglobalaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252166"
+  },
+  {
+    "name": "Global Air Servies Nigeria Ltd.",
+    "IATA": null,
+    "ICAO": "GBS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252183"
+  },
+  {
+    "name": "Glory Airline",
+    "IATA": null,
+    "ICAO": "GAR",
+    "website": "gloryairline.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252200"
+  },
+  {
+    "name": "Green Africa Airways Limited",
+    "IATA": "Q9",
+    "ICAO": "GWG",
+    "website": "www.greenafrica.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252216"
+  },
+  {
+    "name": "Hak Air Limited",
+    "IATA": null,
+    "ICAO": "HKL",
+    "website": "hakairng.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252235"
+  },
+  {
+    "name": "Havilah Air Services",
+    "IATA": null,
+    "ICAO": "HAV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252252"
+  },
+  {
+    "name": "Ibom Airlines Limited",
+    "IATA": "QI",
+    "ICAO": "IAN",
+    "website": "www.ibomair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252270"
+  },
+  {
+    "name": "Interguide Air Limited",
+    "IATA": null,
+    "ICAO": "IGN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252288"
+  },
+  {
+    "name": "International Trans-Air Ltd.",
+    "IATA": null,
+    "ICAO": "ITH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252305"
+  },
+  {
+    "name": "IRS Airlines",
+    "IATA": null,
+    "ICAO": "LVB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252321"
+  },
+  {
+    "name": "Jet Support Services Limited",
+    "IATA": null,
+    "ICAO": "JNS",
+    "website": "jetsupportservices-ng.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252340"
+  },
+  {
+    "name": "Jubilee Aviation Support Services Ltd.",
+    "IATA": null,
+    "ICAO": "BZP",
+    "website": "jubileeaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252358"
+  },
+  {
+    "name": "Kelix Air",
+    "IATA": null,
+    "ICAO": "KLX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252374"
+  },
+  {
+    "name": "Knights Airlines Ltd",
+    "IATA": null,
+    "ICAO": "KGT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252390"
+  },
+  {
+    "name": "Koda International Ltd.",
+    "IATA": null,
+    "ICAO": "OYE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252407"
+  },
+  {
+    "name": "Marghi Air Limited",
+    "IATA": null,
+    "ICAO": "MGI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252423"
+  },
+  {
+    "name": "Max Air Limited",
+    "IATA": "VM",
+    "ICAO": "NGL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252438"
+  },
+  {
+    "name": "Merchant Express Aviation",
+    "IATA": null,
+    "ICAO": "MXX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252453"
+  },
+  {
+    "name": "Meridian Airlines Ltd",
+    "IATA": null,
+    "ICAO": "MHL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252469"
+  },
+  {
+    "name": "Millennium Air",
+    "IATA": null,
+    "ICAO": "MLK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252486"
+  },
+  {
+    "name": "Mounthill Aviation Resource Services Ltd.",
+    "IATA": null,
+    "ICAO": "MHH",
+    "website": "mounthillaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252503"
+  },
+  {
+    "name": "Nestoil Limited",
+    "IATA": null,
+    "ICAO": "ANV",
+    "website": "nestoilgroup.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252521"
+  },
+  {
+    "name": "Network Aviation Services (Nig) Ltd.",
+    "IATA": null,
+    "ICAO": "NET",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252538"
+  },
+  {
+    "name": "NG Eagle Limited",
+    "IATA": "2N",
+    "ICAO": "XLE",
+    "website": null,
+    "notes": "ICAO designator changed from XGE. ICAO Callsign changed from Soaring Eagle.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252557"
+  },
+  {
+    "name": "Nigeria Air",
+    "IATA": null,
+    "ICAO": "NWB",
+    "website": null,
+    "notes": "Planned start-up of new National Carrier.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252575"
+  },
+  {
+    "name": "Nigerian Air Force",
+    "IATA": null,
+    "ICAO": "NGR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252591"
+  },
+  {
+    "name": "Nigerian Global",
+    "IATA": null,
+    "ICAO": "NGX",
+    "website": null,
+    "notes": "ICAO designator changed from NGI",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252608"
+  },
+  {
+    "name": "North-East Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "NEN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252625"
+  },
+  {
+    "name": "Odengene Air Shuttle Services Limited",
+    "IATA": null,
+    "ICAO": "OHS",
+    "website": "www.oas-helicopters.org",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252643"
+  },
+  {
+    "name": "Okada Airlines Limited",
+    "IATA": null,
+    "ICAO": "OKJ",
+    "website": null,
+    "notes": "Name changed from Akada Air Service",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252660"
+  },
+  {
+    "name": "Omni-blu Aviation Limited",
+    "IATA": "O7",
+    "ICAO": "OMB",
+    "website": "omniblu.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252677"
+  },
+  {
+    "name": "Oriental Airlines Limited",
+    "IATA": null,
+    "ICAO": "OAC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252693"
+  },
+  {
+    "name": "Overland Airways Limited",
+    "IATA": "OF",
+    "ICAO": "OLA",
+    "website": "www.overlandairways.com",
+    "notes": "Commenced operations on 26 November 2003. IATA designator changed from OJ.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252713"
+  },
+  {
+    "name": "Point Airlines Limited",
+    "IATA": null,
+    "ICAO": "RMI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252730"
+  },
+  {
+    "name": "Premium Air Shuttle Ltd.",
+    "IATA": null,
+    "ICAO": "EMI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252749"
+  },
+  {
+    "name": "Prime Air Services Limited",
+    "IATA": null,
+    "ICAO": "PML",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252765"
+  },
+  {
+    "name": "Race Cargo Airlines (Nig) Limited",
+    "IATA": null,
+    "ICAO": "RCN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252783"
+  },
+  {
+    "name": "Rano Air Limited",
+    "IATA": "R4",
+    "ICAO": "RAN",
+    "website": "ranoair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252803"
+  },
+  {
+    "name": "Revilo Aerospace Ltd.",
+    "IATA": null,
+    "ICAO": "RLO",
+    "website": "www.airline-support.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252821"
+  },
+  {
+    "name": "River State Government of Nigeria",
+    "IATA": null,
+    "ICAO": "RGP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252838"
+  },
+  {
+    "name": "Rodze Air Limited",
+    "IATA": null,
+    "ICAO": "RDZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252854"
+  },
+  {
+    "name": "Rumugu Air & space Nigeria Limited",
+    "IATA": null,
+    "ICAO": "RMG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252873"
+  },
+  {
+    "name": "Sahih Airline Limited",
+    "IATA": null,
+    "ICAO": "JIG",
+    "website": "sahihairline.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252890"
+  },
+  {
+    "name": "Salama Airlines Nigeria Limited",
+    "IATA": null,
+    "ICAO": "SLW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252907"
+  },
+  {
+    "name": "Savanah Airlines Limited",
+    "IATA": null,
+    "ICAO": "SNI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252923"
+  },
+  {
+    "name": "Selcon Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "SEO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252940"
+  },
+  {
+    "name": "Shalom Air Services",
+    "IATA": null,
+    "ICAO": "FFH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252957"
+  },
+  {
+    "name": "Shata Air Services Limited",
+    "IATA": null,
+    "ICAO": "TST",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252975"
+  },
+  {
+    "name": "Sky Exec Aviation Services",
+    "IATA": null,
+    "ICAO": "SXC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.252993"
+  },
+  {
+    "name": "Skyjet Aviation Services Limited",
+    "IATA": null,
+    "ICAO": "LRK",
+    "website": "skyjetaviationservices.com",
+    "notes": "Part of Barbedos Group",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.253011"
+  },
+  {
+    "name": "Skyla Air Limited",
+    "IATA": null,
+    "ICAO": "LAJ",
+    "website": "skylaair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.253028"
+  },
+  {
+    "name": "Skyline Ltd.",
+    "IATA": null,
+    "ICAO": "SMT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.253046"
+  },
+  {
+    "name": "Slim Aviation Services Limited",
+    "IATA": null,
+    "ICAO": "SHX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.253062"
+  },
+  {
+    "name": "Slok Air Limited",
+    "IATA": null,
+    "ICAO": "SLB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.253078"
+  },
+  {
+    "name": "SMA Airlines Nig. Limited",
+    "IATA": null,
+    "ICAO": "SMA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.253095"
+  },
+  {
+    "name": "Space World Airline",
+    "IATA": null,
+    "ICAO": "SPF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.253112"
+  },
+  {
+    "name": "Superior International Airlines",
+    "IATA": null,
+    "ICAO": "SSI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.253129"
+  },
+  {
+    "name": "TopBrass Aviation Limited",
+    "IATA": null,
+    "ICAO": "BRL",
+    "website": "www.topbrassaviation.com",
+    "notes": "Designator BB recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.253147"
+  },
+  {
+    "name": "Tradecraft Nigeria LTd",
+    "IATA": null,
+    "ICAO": "TCA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.253164"
+  },
+  {
+    "name": "Trans Sahara Air Ltd.",
+    "IATA": null,
+    "ICAO": "SBJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.253181"
+  },
+  {
+    "name": "Trans-Air Services Limited",
+    "IATA": null,
+    "ICAO": "TSN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.253199"
+  },
+  {
+    "name": "Triple O. Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "TTP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.253216"
+  },
+  {
+    "name": "Umza Aviation Services Limited d/b/a UmzaXpress",
+    "IATA": null,
+    "ICAO": "UMZ",
+    "website": "www.umzaxpress.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.253234"
+  },
+  {
+    "name": "United Nigeria Airlines Company Limited",
+    "IATA": null,
+    "ICAO": "NUA",
+    "website": "flyunitednigeria.com",
+    "notes": "Designator U5 recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.253251"
+  },
+  {
+    "name": "Fly for Value Aviation Limited d/b/a ValueJet",
+    "IATA": "VK",
+    "ICAO": "FVJ",
+    "website": "www.flyvaluejet.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.253268"
+  },
+  {
+    "name": "West Link Airlines (Nig) Limited",
+    "IATA": null,
+    "ICAO": "WLN",
+    "website": "www.flywestlink.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.253285"
+  },
+  {
+    "name": "Wings Aviation Ltd",
+    "IATA": null,
+    "ICAO": "TWD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.253302"
+  },
+  {
+    "name": "X2 Air Limited",
+    "IATA": null,
+    "ICAO": "BBI",
+    "website": "www.flyx2air.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.253320"
+  },
+  {
+    "name": "XE Jet Aviation Ltd",
+    "IATA": null,
+    "ICAO": "XEJ",
+    "website": "xejet.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:56.253337"
+  },
+  {
+    "name": "ADC Airlines",
+    "IATA": null,
+    "ICAO": "ADK",
+    "website": "www.adcairlines.com",
+    "notes": "Designator Z7* reinstated by IATA. AOC revoked on 30 April 2007. Name changed from Aviation Development Company Plc",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.253356"
+  },
+  {
+    "name": "Aero Contractors Nigeria Limited",
+    "IATA": "NG",
+    "ICAO": "NIG",
+    "website": "www1.flyaero.com",
+    "notes": "Ceased operations on 01 September 2016. Name changed from Aero Contractors Company of Nigeria Ltd. IATA Designator changed from NU*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.253376"
+  },
+  {
+    "name": "Aero Contractors Company of Nigeria Ltd.",
+    "IATA": null,
+    "ICAO": "NIG",
+    "website": "www.schreiner.nl/Aero.htm",
+    "notes": "IATA Designator changed to AJ",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.253395"
+  },
+  {
+    "name": "Aero Contractors Company of Nigeria Ltd.",
+    "IATA": "AJ",
+    "ICAO": "NIG",
+    "website": "www.acn.aero",
+    "notes": "Name changed to Aero Contractors Nigeria Limited. IATA Designator changed from NU*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.253414"
+  },
+  {
+    "name": "Aero Contractors Nigeria Limited",
+    "IATA": "AJ",
+    "ICAO": "NIG",
+    "website": "www.acn.aero",
+    "notes": "Name changed from Aero Contractors Company of Nigeria Ltd. IATA Designator changed from NU*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.253433"
+  },
+  {
+    "name": "African Inter. Airways (West Africa) Ltd.",
+    "IATA": null,
+    "ICAO": "ROB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.253450"
+  },
+  {
+    "name": "African Transair",
+    "IATA": null,
+    "ICAO": "FTS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.253467"
+  },
+  {
+    "name": "Afrijet Airlines",
+    "IATA": "6F",
+    "ICAO": "FRJ",
+    "website": "www.afrijetairlines.com",
+    "notes": "Ceased operations in 2009.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.253484"
+  },
+  {
+    "name": "Afriwest Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "AFW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.253502"
+  },
+  {
+    "name": "Air Cargo Africa Limited",
+    "IATA": null,
+    "ICAO": "CGF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.253519"
+  },
+  {
+    "name": "Air Dan",
+    "IATA": null,
+    "ICAO": "DMT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.253536"
+  },
+  {
+    "name": "Air Nigeria plc",
+    "IATA": "4F",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.253555"
+  },
+  {
+    "name": "Air Nigeria Development Ltd t/a Air Nigeria",
+    "IATA": "VK",
+    "ICAO": "ANP",
+    "website": "www.myairnigeria.com",
+    "notes": "Ceased operations on 10 September 2012. Formerly Virgin Nigeria Airways VK/VGN and Nigerian Eagle Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.253573"
+  },
+  {
+    "name": "Air Nigeria plc",
+    "IATA": "XY",
+    "ICAO": "NGP",
+    "website": "www.flyairnigeria.com",
+    "notes": "Designator XY reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.253590"
+  },
+  {
+    "name": "Air Technic Nigeria Ltd.",
+    "IATA": null,
+    "ICAO": "TEK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.253607"
+  },
+  {
+    "name": "Akada Air Service",
+    "IATA": null,
+    "ICAO": "OKJ",
+    "website": null,
+    "notes": "Name changed to Okada Airlines Limited",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.253624"
+  },
+  {
+    "name": "Albarka Air Plc",
+    "IATA": "F4",
+    "ICAO": "NBK",
+    "website": null,
+    "notes": "Founded in 1999. Commenced operations in March 2000. Ceased operations on 30 April 2007. Name changed from Albarka Air Services Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.253642"
+  },
+  {
+    "name": "Albarka Air Services Ltd.",
+    "IATA": "F4",
+    "ICAO": "NBK",
+    "website": null,
+    "notes": "Name changed to Albarka Air Plc",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.253662"
+  },
+  {
+    "name": "Al-Safar Air Services Limited",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.253678"
+  },
+  {
+    "name": "Amedair Nig. Ltd.",
+    "IATA": null,
+    "ICAO": "OBI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.253696"
+  },
+  {
+    "name": "Amiyi Airlines Limited",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.amiyicargo.com",
+    "notes": "IATA designator changed to YJ",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.253714"
+  },
+  {
+    "name": "Amiyi Airlines Limited",
+    "IATA": "YJ",
+    "ICAO": null,
+    "website": "www.amiyicargo.com",
+    "notes": "IATA designator changed from 9K*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.253732"
+  },
+  {
+    "name": "Arab Wing Nigeria Ltd.",
+    "IATA": "RQ",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.253749"
+  },
+  {
+    "name": "Arax Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "RXA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.253766"
+  },
+  {
+    "name": "Aviation Development Company Plc",
+    "IATA": null,
+    "ICAO": "ADK",
+    "website": null,
+    "notes": "Name changed to ADC Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.253784"
+  },
+  {
+    "name": "Azman Air Services Ltd",
+    "IATA": "ZQ",
+    "ICAO": "AZM",
+    "website": "www.airazman.com",
+    "notes": "Designator ZQ recalled by IATA. Established in 2010. Commenced operations in 2014.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.253802"
+  },
+  {
+    "name": "Beliview Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "BLV",
+    "website": "www.flybellviewair.com",
+    "notes": "IATA designator changed to B3",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.253819"
+  },
+  {
+    "name": "Beliview Airlines Limited",
+    "IATA": "B3",
+    "ICAO": "BLV",
+    "website": "www.flybellviewair.com",
+    "notes": "Ceased operations. IATA designator changed from B3*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.253836"
+  },
+  {
+    "name": "Caverton Helicopters Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.caverton-helicopters.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.253854"
+  },
+  {
+    "name": "Central Airlines (Nigeria) Limited.",
+    "IATA": "HU",
+    "ICAO": "SEN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.253871"
+  },
+  {
+    "name": "Century Aviation (Nig) Ltd.",
+    "IATA": null,
+    "ICAO": "NTU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.253887"
+  },
+  {
+    "name": "Chanchangi Airlines Nigeria Limited",
+    "IATA": null,
+    "ICAO": "NCH",
+    "website": "www.chanchangi-airlines.com",
+    "notes": "Designator 3U* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.253906"
+  },
+  {
+    "name": "City-Link Airlines Nigeria Limited",
+    "IATA": null,
+    "ICAO": "CRG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.253923"
+  },
+  {
+    "name": "Concord Airlines Nigeria Limited",
+    "IATA": null,
+    "ICAO": "CND",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.253940"
+  },
+  {
+    "name": "Dana Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "DAV",
+    "website": "www.flydanaair.com",
+    "notes": "ICAO code changed to DAN",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.253956"
+  },
+  {
+    "name": "Discovery Airways Limited t/a DiscoveryAir",
+    "IATA": "DO",
+    "ICAO": "DCV",
+    "website": "discoveryair.com.ng",
+    "notes": "Designator DO recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.253973"
+  },
+  {
+    "name": "Dornier Aviation Nigeria Aiep Ltd.",
+    "IATA": null,
+    "ICAO": "DAV",
+    "website": "www.dananig.aero",
+    "notes": "Designator DO* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.253990"
+  },
+  {
+    "name": "Dornier Aviation Nigeria Aiep Ltd.",
+    "IATA": null,
+    "ICAO": "DAV",
+    "website": "www.dananig.aero",
+    "notes": "Designator DO* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254006"
+  },
+  {
+    "name": "Emma-Nik Aviation Services (Nig) Limited",
+    "IATA": null,
+    "ICAO": "EMM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254023"
+  },
+  {
+    "name": "Executair (Nigeria) Ltd.",
+    "IATA": "EE",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254040"
+  },
+  {
+    "name": "Executive Aviation Services Limited",
+    "IATA": "NR",
+    "ICAO": "ESY",
+    "website": null,
+    "notes": "Designator NR recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254057"
+  },
+  {
+    "name": "Express Airways Nigeria Limited",
+    "IATA": null,
+    "ICAO": "EAN",
+    "website": null,
+    "notes": "Founded in 1985. Ceased operations in 2007.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254075"
+  },
+  {
+    "name": "Fasons Air Services",
+    "IATA": null,
+    "ICAO": "FSN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254091"
+  },
+  {
+    "name": "Fassey Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "FSY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254106"
+  },
+  {
+    "name": "Flash Airline Limited",
+    "IATA": null,
+    "ICAO": "FSH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254123"
+  },
+  {
+    "name": "Foremost Aviation (Nig) Ltd.",
+    "IATA": null,
+    "ICAO": "FMA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254139"
+  },
+  {
+    "name": "Galaxy Airways Limited",
+    "IATA": null,
+    "ICAO": "GXY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254154"
+  },
+  {
+    "name": "General Air Services Limited",
+    "IATA": null,
+    "ICAO": "NGS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254170"
+  },
+  {
+    "name": "General and Aviation Services Ltd.",
+    "IATA": "GS",
+    "ICAO": "NGS",
+    "website": null,
+    "notes": "Name changed to General Air Services Limited. ICAO callsign changed to Genair",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254186"
+  },
+  {
+    "name": "Global Air Link",
+    "IATA": null,
+    "ICAO": "GNB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254201"
+  },
+  {
+    "name": "Greendale Aviation Company Ltd.",
+    "IATA": null,
+    "ICAO": "ORE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254217"
+  },
+  {
+    "name": "Hamsal Air Services Limited",
+    "IATA": "2H",
+    "ICAO": "HML",
+    "website": "hamsalair.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254233"
+  },
+  {
+    "name": "Harco Air Services",
+    "IATA": null,
+    "ICAO": "HCO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254248"
+  },
+  {
+    "name": "Harka Air Services Nig. Ltd.",
+    "IATA": null,
+    "ICAO": "HAK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254264"
+  },
+  {
+    "name": "Horizon Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "HZN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254280"
+  },
+  {
+    "name": "Intercontinental Airlines (Nigeria) Ltd.",
+    "IATA": "VS",
+    "ICAO": "VVV",
+    "website": null,
+    "notes": "Designator VS recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254297"
+  },
+  {
+    "name": "International Air Tours Limited",
+    "IATA": null,
+    "ICAO": "VGO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254315"
+  },
+  {
+    "name": "Interstate Airlines Limited",
+    "IATA": null,
+    "ICAO": "IAE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254330"
+  },
+  {
+    "name": "Kabo Airlines Limited",
+    "IATA": "N9",
+    "ICAO": "QNK",
+    "website": "www.kaboair.com",
+    "notes": "Operations suspended. Designator N2* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254347"
+  },
+  {
+    "name": "Kabo Airlines Limited",
+    "IATA": "QN",
+    "ICAO": "QNK",
+    "website": null,
+    "notes": "ICAO callsign changed to Kabo",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254363"
+  },
+  {
+    "name": "Kabo Airlines Limited",
+    "IATA": "QN",
+    "ICAO": "QNK",
+    "website": null,
+    "notes": "ICAO callsign changed from Quebec November",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254380"
+  },
+  {
+    "name": "Kabo Airlines Limited",
+    "IATA": null,
+    "ICAO": "QNK",
+    "website": null,
+    "notes": "Designator N2* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254396"
+  },
+  {
+    "name": "Kano Transport International Ltd - Kati Air",
+    "IATA": null,
+    "ICAO": "KTI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254418"
+  },
+  {
+    "name": "Kenuz Airlines Limited",
+    "IATA": null,
+    "ICAO": "KNS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254435"
+  },
+  {
+    "name": "Kol-Kol Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "KKL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254452"
+  },
+  {
+    "name": "Maina Air Limited",
+    "IATA": null,
+    "ICAO": "MNI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254469"
+  },
+  {
+    "name": "Max Air Limited",
+    "IATA": "NR",
+    "ICAO": "NGL",
+    "website": "www.maxairltd.com",
+    "notes": "Founded in 2008. Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254487"
+  },
+  {
+    "name": "Med View Airline PLC",
+    "IATA": null,
+    "ICAO": "MEV",
+    "website": "www.medviewairline.com",
+    "notes": "Name changed from Med-View Airlines (Nigeria) Ltd w.e.f. 31 January 2017.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254505"
+  },
+  {
+    "name": "Medic Air (West Africa) Ltd.",
+    "IATA": null,
+    "ICAO": "MDK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254522"
+  },
+  {
+    "name": "Med-View Airlines (Nigeria) Ltd",
+    "IATA": null,
+    "ICAO": "MEV",
+    "website": "www.medviewairline.com",
+    "notes": "Name changed to Med View Airline PLC w.e.f. 31 January 2017.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254539"
+  },
+  {
+    "name": "Morgan Aviation Services Ltd.",
+    "IATA": null,
+    "ICAO": "MGN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254556"
+  },
+  {
+    "name": "Morgan Intertrades (Nig.) Limited",
+    "IATA": null,
+    "ICAO": "INL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254572"
+  },
+  {
+    "name": "Nexus Aviation Limited",
+    "IATA": null,
+    "ICAO": "NXS",
+    "website": null,
+    "notes": "AOC Suspended during 2003 by the Nigerian Civil Aviation Authority (NCAA).",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254589"
+  },
+  {
+    "name": "NG Eagle Limited",
+    "IATA": null,
+    "ICAO": "XGE",
+    "website": null,
+    "notes": "ICAO designator changed to XLE. ICAO Callsign changed to Aquila.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254607"
+  },
+  {
+    "name": "Nigeria Airways Ltd.",
+    "IATA": "WT",
+    "ICAO": "NGA",
+    "website": "www.nigeriaairways.com",
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254625"
+  },
+  {
+    "name": "Nigerian Eagle Airlines",
+    "IATA": "VK",
+    "ICAO": "ANP",
+    "website": "www.myairnigeria.com",
+    "notes": "Air Nigeria Development Ltd t/a Air Nigeria. Name changed from Virgin Nigeria Airways VK/VGN.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254642"
+  },
+  {
+    "name": "Nigerian Global",
+    "IATA": null,
+    "ICAO": "NGI",
+    "website": null,
+    "notes": "ICAO designator changed to NGX",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254659"
+  },
+  {
+    "name": "Nigerian International Air Services Limited (Hamzair)",
+    "IATA": null,
+    "ICAO": "HMZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254676"
+  },
+  {
+    "name": "Northwest Air Services Limited",
+    "IATA": null,
+    "ICAO": "NWD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254693"
+  },
+  {
+    "name": "Overland Airways Limited",
+    "IATA": "OJ",
+    "ICAO": "OLA",
+    "website": "www.overland.aero",
+    "notes": "Commenced operations on 26 November 2003.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254709"
+  },
+  {
+    "name": "Over-night Cargo Limited",
+    "IATA": null,
+    "ICAO": "OCL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254725"
+  },
+  {
+    "name": "Pan African Airlines (Nigeria) Ltd.",
+    "IATA": "PF",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254742"
+  },
+  {
+    "name": "Private Airline Services Ltd.",
+    "IATA": null,
+    "ICAO": "NUA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254758"
+  },
+  {
+    "name": "Routair Aviation Services",
+    "IATA": null,
+    "ICAO": "RUT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254775"
+  },
+  {
+    "name": "Royal Phoenix Airlines",
+    "IATA": null,
+    "ICAO": "DBO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254791"
+  },
+  {
+    "name": "Skypower Express Airways Nigeria Ltd.",
+    "IATA": "NB",
+    "ICAO": null,
+    "website": "skypowerexpress.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254808"
+  },
+  {
+    "name": "Sosoliso Airlines",
+    "IATA": "SO",
+    "ICAO": "OSL",
+    "website": "www.sosolisoairline.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254824"
+  },
+  {
+    "name": "Thames Air Services & Charter Ltd.",
+    "IATA": null,
+    "ICAO": "TMQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254840"
+  },
+  {
+    "name": "TopBrass Aviation Limited",
+    "IATA": "BB",
+    "ICAO": "BRL",
+    "website": "www.topbrassaviation.com",
+    "notes": "Designator BB recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254858"
+  },
+  {
+    "name": "Transwest Airlines (Nig)",
+    "IATA": null,
+    "ICAO": "TWT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254875"
+  },
+  {
+    "name": "Triax Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "TIX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254892"
+  },
+  {
+    "name": "United Air Express Limited",
+    "IATA": null,
+    "ICAO": "AEU",
+    "website": null,
+    "notes": "Ceased operations 1994",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254908"
+  },
+  {
+    "name": "United Air Service",
+    "IATA": "SY",
+    "ICAO": "UHP",
+    "website": null,
+    "notes": "Designator SY recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254924"
+  },
+  {
+    "name": "United Air Service",
+    "IATA": null,
+    "ICAO": "UHP",
+    "website": null,
+    "notes": "Designator SY recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254940"
+  },
+  {
+    "name": "United Nigeria Airlines Company Limited",
+    "IATA": "U5",
+    "ICAO": "NUA",
+    "website": "flyunitednigeria.com",
+    "notes": "Designator U5 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254957"
+  },
+  {
+    "name": "Virgin Nigeria Airways",
+    "IATA": "2V",
+    "ICAO": "VGN",
+    "website": "www.virginnigeria.com",
+    "notes": "IATA Designator changed to VK",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254974"
+  },
+  {
+    "name": "Virgin Nigeria Airways",
+    "IATA": "VK",
+    "ICAO": "VGN",
+    "website": "www.virginnigeria.com",
+    "notes": "Commenced operations on 28 June 2005. Name changed to Nigerian Eagle Airlines w.e.f. 17 September 2009.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.254992"
+  },
+  {
+    "name": "West Link Airways Limited",
+    "IATA": "9L",
+    "ICAO": null,
+    "website": "www.flywestlink.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.255009"
+  },
+  {
+    "name": "Yvic Airlines",
+    "IATA": null,
+    "ICAO": "VYC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.255026"
+  },
+  {
+    "name": "Zenith Airlines Limited",
+    "IATA": null,
+    "ICAO": "NZE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:56.255042"
+  }
+]

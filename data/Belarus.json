@@ -1,0 +1,209 @@
+[
+  {
+    "name": "Aircompany Grodno",
+    "IATA": null,
+    "ICAO": "GRX",
+    "website": "www.grodnoavia.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:53.500671"
+  },
+  {
+    "name": "Akhmos-1",
+    "IATA": null,
+    "ICAO": "AKS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:53.500699"
+  },
+  {
+    "name": "AviaStar Air Company",
+    "IATA": null,
+    "ICAO": "DEK",
+    "website": "www.aviastar.by",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:53.500718"
+  },
+  {
+    "name": "Belavia",
+    "IATA": "B2",
+    "ICAO": "BRU",
+    "website": "www.belavia.by",
+    "notes": "ICAO callsign changed from Belarus Avia",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:53.500734"
+  },
+  {
+    "name": "Belcanto Airlines",
+    "IATA": null,
+    "ICAO": "BTA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:53.500750"
+  },
+  {
+    "name": "Bellesavia",
+    "IATA": null,
+    "ICAO": "BLC",
+    "website": "www.bellesavia.by",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:53.500768"
+  },
+  {
+    "name": "Joint Stock Company Aviacompany BySky",
+    "IATA": null,
+    "ICAO": "BYS",
+    "website": "bysky.by",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:53.500784"
+  },
+  {
+    "name": "Genex Ltd",
+    "IATA": null,
+    "ICAO": "GNX",
+    "website": "www.genex.by",
+    "notes": "Registered in 1997.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:53.500800"
+  },
+  {
+    "name": "Gomel Engineer's Institute of the Ministry for Emergency Situations",
+    "IATA": null,
+    "ICAO": "IES",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:53.500816"
+  },
+  {
+    "name": "MB Aero",
+    "IATA": null,
+    "ICAO": "MBO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:53.500831"
+  },
+  {
+    "name": "Minsk Aircraft Overhaul Plant",
+    "IATA": null,
+    "ICAO": "LIR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:53.500846"
+  },
+  {
+    "name": "Mogilevavia",
+    "IATA": null,
+    "ICAO": "MOG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:53.500861"
+  },
+  {
+    "name": "Orsha Air",
+    "IATA": null,
+    "ICAO": "ORH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:53.500876"
+  },
+  {
+    "name": "Rada Airlines LLC",
+    "IATA": null,
+    "ICAO": "RDA",
+    "website": "www.rada.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:53.500891"
+  },
+  {
+    "name": "Rubystar",
+    "IATA": null,
+    "ICAO": "RSB",
+    "website": "www.rubystar.by",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:53.500906"
+  },
+  {
+    "name": "Shtotz Agro Service",
+    "IATA": null,
+    "ICAO": "SZG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:53.500921"
+  },
+  {
+    "name": "Transaviaexport Cargo Airline",
+    "IATA": null,
+    "ICAO": "TXC",
+    "website": "www.transaviaexport.com",
+    "notes": "IATA Designator AL* recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:53.500938"
+  },
+  {
+    "name": "Widgeon Airline",
+    "IATA": null,
+    "ICAO": "WID",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:53.500953"
+  },
+  {
+    "name": "Belavia",
+    "IATA": "B2",
+    "ICAO": "BRU",
+    "website": "www.belavia.by",
+    "notes": "ICAO callsign changed to Belavia",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:53.500969"
+  },
+  {
+    "name": "Republican Aviation Unitary Enterprise",
+    "IATA": null,
+    "ICAO": "GOM",
+    "website": "www.gomelavia.com",
+    "notes": "Founded in 1996. Ceased operations on 22 February 2011. Name changed from State Enterprise Gomelavia",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:53.500986"
+  },
+  {
+    "name": "State Enterprise Gomelavia",
+    "IATA": null,
+    "ICAO": "GOM",
+    "website": "www.gomelavia.com",
+    "notes": "Name changed to Republican Aviation Unitary Enterprise",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:53.501003"
+  },
+  {
+    "name": "Minskavia",
+    "IATA": "4M",
+    "ICAO": "MEN",
+    "website": null,
+    "notes": "Designator 4M recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:53.501020"
+  },
+  {
+    "name": "Techaviaservice",
+    "IATA": null,
+    "ICAO": "BTS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:53.501037"
+  }
+]

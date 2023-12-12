@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Oman Air",
+    "IATA": "WY",
+    "ICAO": "OMA",
+    "website": "www.oman-air.com",
+    "notes": "ICAO callsign changed from Khanjar",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:04.704761"
+  },
+  {
+    "name": "Oman Royal Flight",
+    "IATA": null,
+    "ICAO": "ORF",
+    "website": null,
+    "notes": "Designator RS* recalled by IATA. Name change from Royal Flight of Oman.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:04.704791"
+  },
+  {
+    "name": "Royal Air Force Of Oman (Air Transport)",
+    "IATA": null,
+    "ICAO": "MJN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:04.704809"
+  },
+  {
+    "name": "Royal Oman Police",
+    "IATA": null,
+    "ICAO": "ROP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:04.704825"
+  },
+  {
+    "name": "Salalah Air",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.salalahair.com",
+    "notes": "Planned startup Q1 2017.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:04.704841"
+  },
+  {
+    "name": "SalamAir",
+    "IATA": "OV",
+    "ICAO": "OMS",
+    "website": "salamair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:04.704857"
+  },
+  {
+    "name": "Sultan of Oman Air Force",
+    "IATA": null,
+    "ICAO": "OMN",
+    "website": null,
+    "notes": "Designator OU recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:04.704873"
+  },
+  {
+    "name": "Cargoman Limited",
+    "IATA": "HC",
+    "ICAO": "CGM",
+    "website": null,
+    "notes": "Ceased operations. Designator HC recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:04.704889"
+  },
+  {
+    "name": "Oman Air (SAOG)",
+    "IATA": "WY",
+    "ICAO": "OAS",
+    "website": "www.omanair.aero",
+    "notes": "Name changed from Oman Aviation Services Co. (SAOG)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:04.704906"
+  },
+  {
+    "name": "Oman Air",
+    "IATA": null,
+    "ICAO": "OMA",
+    "website": null,
+    "notes": "ICAO callsign changed to Khanjar",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:04.704921"
+  },
+  {
+    "name": "Oman Air",
+    "IATA": null,
+    "ICAO": "OMA",
+    "website": "www.omanair.aero",
+    "notes": "ICAO callsign changed from Oman Air",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:04.704937"
+  },
+  {
+    "name": "Oman Aviation Services Co. (SAOG)",
+    "IATA": "WY",
+    "ICAO": "OAS",
+    "website": "www.oman-aviation.com",
+    "notes": "Name changed to Oman Air (SAOG). ICAO callsign changed to Oryx",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:04.704953"
+  },
+  {
+    "name": "Oman Aviation Services Co. (SAOG)",
+    "IATA": "WY",
+    "ICAO": "OAS",
+    "website": "www.oman-aviation.com",
+    "notes": "Name changed to Oman Air (SAOG). ICAO callsign changed from Whiskey Yankee",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:04.704970"
+  },
+  {
+    "name": "Oman Royal Flight",
+    "IATA": null,
+    "ICAO": "ORF",
+    "website": null,
+    "notes": "Name change from Royal Flight of Oman.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:04.704985"
+  },
+  {
+    "name": "Royal Flight of Oman",
+    "IATA": null,
+    "ICAO": "ORF",
+    "website": null,
+    "notes": "Name change to Oman Royal Flight.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:04.705001"
+  },
+  {
+    "name": "Sultan of Oman Air Force",
+    "IATA": "OU",
+    "ICAO": "OMN",
+    "website": null,
+    "notes": "Designator OU recalled by IATA. ICAO callsign changed from Oscar Uniform",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:04.705017"
+  },
+  {
+    "name": "Sultan of Oman Air Force",
+    "IATA": "OU",
+    "ICAO": "OMN",
+    "website": null,
+    "notes": "ICAO callsign changed to Majan",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:04.705033"
+  }
+]

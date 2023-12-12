@@ -1,0 +1,857 @@
+[
+  {
+    "name": "ACT Havayollari A.S. (ACT Airlines)",
+    "IATA": null,
+    "ICAO": "RUN",
+    "website": "www.actairlines.com",
+    "notes": "Name changed from ACT Havayollari A.S. (ACT Airlines) t/a myCARGO Airlines. Designator 9T* reinstated by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:23.635025"
+  },
+  {
+    "name": "Air Anka Airlines Inc - Air Anka Hava Yollari A.S.",
+    "IATA": null,
+    "ICAO": "TAH",
+    "website": "www.airanka.com.tr",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:23.635057"
+  },
+  {
+    "name": "Airenka Hava Tasimaciligi A.\u015e.",
+    "IATA": null,
+    "ICAO": "EAJ",
+    "website": "www.airenka.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:23.635080"
+  },
+  {
+    "name": "AnadoluJet",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.anadolujet.com",
+    "notes": "Trademark of Turkish Airlines.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:23.635098"
+  },
+  {
+    "name": "BBN Hava Yollari ve Tasimacili A.S.",
+    "IATA": "B5",
+    "ICAO": "BBT",
+    "website": "bbnairlines.com.tr",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:23.635116"
+  },
+  {
+    "name": "Turistik Hava Tasimacilik A.S. - Corendon Airlines",
+    "IATA": "XC",
+    "ICAO": "CAI",
+    "website": "www.corendon.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:23.635134"
+  },
+  {
+    "name": "Dashogouz International Airport",
+    "IATA": null,
+    "ICAO": "TUZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:23.635150"
+  },
+  {
+    "name": "Fly Kibris Hava Yollari",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.flykhy.com",
+    "notes": "Commenced operations on 16 April 2023 using Freebird (FHY) AOC.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:23.635168"
+  },
+  {
+    "name": "Hurkus Havayolu Tasimacilik Ve Ticaret S.A. - Freebird Airlines",
+    "IATA": "FH",
+    "ICAO": "FHY",
+    "website": "www.freebirdairlines.com",
+    "notes": "IATA designator changed from 3F*. ICAO callsign changed from Free Turk",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:23.635186"
+  },
+  {
+    "name": "Go Jet Aviation Havacilik Anonim Sirketi",
+    "IATA": null,
+    "ICAO": "GYS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:23.635203"
+  },
+  {
+    "name": "Guneydogu Havacilik Isletmesi Ltd Std",
+    "IATA": null,
+    "ICAO": "GDH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:23.635219"
+  },
+  {
+    "name": "Hitit Bilgisayar Hizmetleri A.S.",
+    "IATA": "1T",
+    "ICAO": null,
+    "website": "www.hititcs.com",
+    "notes": "Computer Reservation System",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:23.635237"
+  },
+  {
+    "name": "Lydia Yazilim ve Bilgi Teknolojileri sanayi Ve Ticaret Anonim Sirketi",
+    "IATA": "E1",
+    "ICAO": null,
+    "website": "www.lidyateknoloji.com",
+    "notes": "Computer Reservations Systems (CRS)",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:23.635255"
+  },
+  {
+    "name": "Mavi G\u00f6k Havacilik A.S.",
+    "IATA": null,
+    "ICAO": "MGH",
+    "website": "mga.aero",
+    "notes": "Founded in March 2007. Commenced operations on 19/07/2022.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:23.635272"
+  },
+  {
+    "name": "MNG Airlines",
+    "IATA": "MB",
+    "ICAO": "MNB",
+    "website": "www.mngairlines.com",
+    "notes": "Name changed to MNG Airlines Cargo. Designator MB reinstated by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:23.635289"
+  },
+  {
+    "name": "Pan Havacilik Ve Ticaret A.S.",
+    "IATA": null,
+    "ICAO": "PHT",
+    "website": "www.panjet.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:23.635306"
+  },
+  {
+    "name": "Pegasus Hava Tasimaciligi A.S.",
+    "IATA": "PC",
+    "ICAO": "PGT",
+    "website": "www.flypgs.com",
+    "notes": "IATA designator changed from H9*. IATA designator previously changed from 1I",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:23.635323"
+  },
+  {
+    "name": "Redstar Aviation",
+    "IATA": null,
+    "ICAO": "RHH",
+    "website": "www.redstar.com.tr",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:23.635340"
+  },
+  {
+    "name": "SetAir",
+    "IATA": null,
+    "ICAO": "KOC",
+    "website": "www.setair.com.tr",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:23.635357"
+  },
+  {
+    "name": "Skyline Ulasim Ticaret A.S.",
+    "IATA": null,
+    "ICAO": "KCU",
+    "website": "www.skylineaero.net",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:23.635373"
+  },
+  {
+    "name": "Southwind Airlines",
+    "IATA": "2S",
+    "ICAO": "STW",
+    "website": "southwindairlines.com",
+    "notes": "Established by tour operator Pegas Touristik.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:23.635391"
+  },
+  {
+    "name": "SunExpress - G\u00fcne\u015f Ekspres Havacilik A.S.",
+    "IATA": null,
+    "ICAO": "SXS",
+    "website": "www.sunexpress.com.tr",
+    "notes": "Joint venture of Lufthansa and Turkish Airlines.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:23.635410"
+  },
+  {
+    "name": "Tailwind Hava Yollari A.S.",
+    "IATA": null,
+    "ICAO": "TWI",
+    "website": "www.tailwind.com.tr",
+    "notes": "Founded in 2006.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:23.635427"
+  },
+  {
+    "name": "Top Air Havacilik Sanayi Ve Ticaret A.S.",
+    "IATA": null,
+    "ICAO": "TOP",
+    "website": "www.topair.com.tr",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:23.635445"
+  },
+  {
+    "name": "Turk Hava Kurumu Hava Taksi Isletmesi",
+    "IATA": null,
+    "ICAO": "THK",
+    "website": "www.thk.org.tr",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:23.635463"
+  },
+  {
+    "name": "Turkish Air Force",
+    "IATA": null,
+    "ICAO": "HVK",
+    "website": "www.hvkk.tsk.tr/EN/Index.aspx",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:23.635479"
+  },
+  {
+    "name": "Turkish Airlines, Inc.",
+    "IATA": "TK",
+    "ICAO": "THY",
+    "website": "www.turkishairlines.com",
+    "notes": "Name changed from Turk Hava Yollari (Turkish Airlines). ICAO callsign changed from Turkair",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:23.635499"
+  },
+  {
+    "name": "Turkish Airlines General Aviation",
+    "IATA": null,
+    "ICAO": "TRK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:23.635517"
+  },
+  {
+    "name": "THY Hava Kargo Tasimaciligi A.S.",
+    "IATA": null,
+    "ICAO": "TKC",
+    "website": "www.turkishcargo.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:23.635534"
+  },
+  {
+    "name": "ULS Havayollair Kargo Tasimacilik A.S.",
+    "IATA": null,
+    "ICAO": "KZU",
+    "website": "ulsairlines.com",
+    "notes": "Name changed from Kuzu Airlines Cargo Transport  on 03 July 2009. Name changed from Baron  Hava Yolu  Kargo Tasimaciligi  AS",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:23.635553"
+  },
+  {
+    "name": "Zafer Havacilik S.A. (Zafer Aviation)",
+    "IATA": null,
+    "ICAO": "HMZ",
+    "website": "zaferair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:23.635570"
+  },
+  {
+    "name": "Aviana",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.635586"
+  },
+  {
+    "name": "Active Air",
+    "IATA": null,
+    "ICAO": "AKV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.635604"
+  },
+  {
+    "name": "Aegean Air Lines",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.635621"
+  },
+  {
+    "name": "Air Alfa Havayollan Ve Tie A.S.",
+    "IATA": "H7",
+    "ICAO": "LFA",
+    "website": "www.airalfa.com.tr",
+    "notes": "Suspended operations on 17 November 2002. Designator H7 reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.635639"
+  },
+  {
+    "name": "Air Anatolia (Anadolu Havacilik A.S.)",
+    "IATA": null,
+    "ICAO": "NTL",
+    "website": "www.airanatolia.com.tr",
+    "notes": "Name changed from GTI Havayollari A.S. Airloines, Inc. Ceased operations during 2002. Designator TD* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.635657"
+  },
+  {
+    "name": "Gul Havacilik Isletmeleri Sanayi Ve Ticaret A.S. - Rose Air",
+    "IATA": null,
+    "ICAO": "ROZ",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.635675"
+  },
+  {
+    "name": "Airgroup Havacilik",
+    "IATA": null,
+    "ICAO": "AGH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.635691"
+  },
+  {
+    "name": "Akdeniz Airlines",
+    "IATA": null,
+    "ICAO": "AKD",
+    "website": null,
+    "notes": "Founded in 1995. Commenced operations in June 1995. Ceased operations in December 1995.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.635709"
+  },
+  {
+    "name": "AN Express Hava Yollari (ANEX)",
+    "IATA": null,
+    "ICAO": "ANX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.635725"
+  },
+  {
+    "name": "Anka Air",
+    "IATA": null,
+    "ICAO": "VVF",
+    "website": "www.ankair.com",
+    "notes": "Ceased operations in 2008. Name changed from World Focus Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.635743"
+  },
+  {
+    "name": "Atlas International Airlines - Atlas International Havacilik A/S",
+    "IATA": null,
+    "ICAO": "OGE",
+    "website": "www.atlasjet.com",
+    "notes": "Name changed to Atlasjet Uluslararasi Havacilik AS (Atlasjet Airlines). Established on 14 March 2001. Commenced operations on 01 June 2001.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.635762"
+  },
+  {
+    "name": "AtlasGlobal Airlines",
+    "IATA": "KK",
+    "ICAO": "KKK",
+    "website": "www.atlasglb.com",
+    "notes": "Ceased operations on 12 February 2020. Name changed from Atlasjet Airlines Inc. Name changed from Atlas International Airlines - Atlas International Havacilik A/S. ICAO designator changed from OGE . IATA designator changed from 2U*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.635783"
+  },
+  {
+    "name": "Atlasjet Uuslararasi Havacilik A/S",
+    "IATA": "KK",
+    "ICAO": "KKK",
+    "website": "www.atlasjet.com",
+    "notes": "ICAO designator changed from OGE . IATA designator changed from 2U*. Name changed from Atlas International Airlines - Atlas International Havacilik A/S",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.635801"
+  },
+  {
+    "name": "Atlasjet Airlines Inc",
+    "IATA": "KK",
+    "ICAO": "KKK",
+    "website": "www.atlasjet.com",
+    "notes": "Name changed to AtlasGlobal Airlines. Name changed from Atlas International Airlines - Atlas International Havacilik A/S. ICAO designator changed from OGE . IATA designator changed from 2U*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.635820"
+  },
+  {
+    "name": "Atlasjet Uuslararasi Havacilik A/S",
+    "IATA": null,
+    "ICAO": "OGE",
+    "website": "www.atlasjet.com",
+    "notes": "IATA designator changed to KK. Name changed from Atlas International Airlines - Atlas International Havacilik A/S",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.635839"
+  },
+  {
+    "name": "Atlasjet Uuslararasi Havacilik A/S",
+    "IATA": "KK",
+    "ICAO": "OGE",
+    "website": "www.atlasjet.com",
+    "notes": "ICAO designator changed to KKK . IATA designator changed from 2U*. Name changed from Atlas International Airlines - Atlas International Havacilik A/S",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.635857"
+  },
+  {
+    "name": "Baron  Hava Yolu  Kargo Tasimaciligi  AS",
+    "IATA": null,
+    "ICAO": "BKG",
+    "website": "www.baronair.com",
+    "notes": "Name changed to Kuzu Airlines Cargo Transport",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.635874"
+  },
+  {
+    "name": "Tunca Havacilik A.S. Bestair",
+    "IATA": null,
+    "ICAO": "FBA",
+    "website": "www.flybestair.com",
+    "notes": "ICAO designator changed to BST",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.635890"
+  },
+  {
+    "name": "Tunca Havacilik A.S. Bestair",
+    "IATA": null,
+    "ICAO": "BST",
+    "website": "www.flybestair.com",
+    "notes": "Ceased operations in October 2009. Started operations on 17 June 2006.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.635908"
+  },
+  {
+    "name": "Birgenair",
+    "IATA": "KT",
+    "ICAO": "BHY",
+    "website": null,
+    "notes": "Ceased operatons",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.635925"
+  },
+  {
+    "name": "Bogazici Hava Tasimacilik A.S.",
+    "IATA": "PQ",
+    "ICAO": "BHT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.635941"
+  },
+  {
+    "name": "Bora Jet Havacilik Tasimacilik Ucak",
+    "IATA": null,
+    "ICAO": "BRJ",
+    "website": "www.borajet.aero",
+    "notes": "IATA designator changed to YB",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.635959"
+  },
+  {
+    "name": "Bora Jet Havacilik Tasimacilik Ucak",
+    "IATA": "YB",
+    "ICAO": "BRJ",
+    "website": "www.borajet.aero",
+    "notes": "Commenced operations on 08 May 2010. Suspended operations on 24 April 2017. IATA designator changed from BJ*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.635977"
+  },
+  {
+    "name": "Bosphorus Airways",
+    "IATA": "6Z",
+    "ICAO": "BSP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.635993"
+  },
+  {
+    "name": "Bosphorus Avrupa Hava Yollari S.A. (Bosphorus European Airways)",
+    "IATA": null,
+    "ICAO": "BHY",
+    "website": "www.bea-air.com",
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636010"
+  },
+  {
+    "name": "Bursa Airlines, Inc.",
+    "IATA": "FB",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636027"
+  },
+  {
+    "name": "Cat Kargo Hava Tasima A.S.",
+    "IATA": null,
+    "ICAO": "KET",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636043"
+  },
+  {
+    "name": "Turistik Hava Tasimacilik A.S. - Corendon Airlines",
+    "IATA": null,
+    "ICAO": "CAI",
+    "website": "www.corendon.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636060"
+  },
+  {
+    "name": "Dardanel Air Havacilik Ve Sanayi Ticaret A.S.",
+    "IATA": null,
+    "ICAO": "DRD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636075"
+  },
+  {
+    "name": "Euro Sun - Gul Havacilik Isletmeleri Sanayve",
+    "IATA": null,
+    "ICAO": "ESN",
+    "website": null,
+    "notes": "Ceased operations on 25 November 2001. Formerly Rose Air",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636091"
+  },
+  {
+    "name": "Fly Havayolu Tasimacilik A.S.",
+    "IATA": "F2",
+    "ICAO": "FLM",
+    "website": "www.flyair.com.tr",
+    "notes": "Established and commenced operations in 2002. Ceased operation in January 2007.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636108"
+  },
+  {
+    "name": "Hurkus Havayolu Tasimacilik Ve Ticaret S.A. - Freebird Airlines",
+    "IATA": null,
+    "ICAO": "FHY",
+    "website": "www.freebirdairlines.com",
+    "notes": "ICAO callsign changed to Freebird",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636125"
+  },
+  {
+    "name": "Hurkus Havayolu Tasimacilik Ve Ticaret S.A. - Freebird Airlines",
+    "IATA": null,
+    "ICAO": "FHY",
+    "website": "www.freebirdairlines.com",
+    "notes": "IATA designator changed to FH. ICAO callsign changed from Free Turk",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636143"
+  },
+  {
+    "name": "Golden International Airlines",
+    "IATA": null,
+    "ICAO": "GTC",
+    "website": "www.golden-airlines.com",
+    "notes": "20 December 2005. Ceased opertions in 2007.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636160"
+  },
+  {
+    "name": "Greenair",
+    "IATA": "WK",
+    "ICAO": "GRN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636177"
+  },
+  {
+    "name": "GTI Havayollari A.S. Airlines, Inc.",
+    "IATA": null,
+    "ICAO": "NTL",
+    "website": null,
+    "notes": "Name changed to Air Anatolia (Anadolu Havacilik A.S.)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636194"
+  },
+  {
+    "name": "Holiday Air",
+    "IATA": "HW",
+    "ICAO": "HLD",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636210"
+  },
+  {
+    "name": "Inter Express Hava Tasimacilik A.S.",
+    "IATA": null,
+    "ICAO": "INX",
+    "website": "www.interair.com.tr",
+    "notes": "Founded on 17 December 1999. Ceased operations on 18 November 2008.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636227"
+  },
+  {
+    "name": "Istanbul Airlines A.S.",
+    "IATA": "IL",
+    "ICAO": "IST",
+    "website": "www.ihy.com.tr",
+    "notes": "Ceased operations on 25 August 2000.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636245"
+  },
+  {
+    "name": "IHY Izmir Havayollari A.S. t/a iZair",
+    "IATA": "4I",
+    "ICAO": "IZM",
+    "website": "www.izair.com.tr",
+    "notes": "Founded in April 2005. Merged into Pegasus Airlines by end 2018.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636262"
+  },
+  {
+    "name": "Kibris Turk Hava Yollari",
+    "IATA": "YK",
+    "ICAO": "KYV",
+    "website": "www.kthy.net",
+    "notes": "Suspended operations at 23:59L on 21 June 2010. Designator YK reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636279"
+  },
+  {
+    "name": "Kuzu Airlines Cargo Transport",
+    "IATA": null,
+    "ICAO": "KZU",
+    "website": "www.kuzuairlines.com",
+    "notes": "Name changed to ULS Airlines Cargo on 03 July 2009. Name changed from Baron  Hava Yolu  Kargo Tasimaciligi  AS",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636296"
+  },
+  {
+    "name": "MAS Havacilik Ve Merkezi Pazarlama Tic. A.S.",
+    "IATA": null,
+    "ICAO": "MSE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636312"
+  },
+  {
+    "name": "MNG Airlines Cargo",
+    "IATA": "MB",
+    "ICAO": "MNB",
+    "website": "www.mngairlines.com",
+    "notes": "Name changed to MNG Airlines. Designator MB reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636329"
+  },
+  {
+    "name": "ACT Havayollari A.S. (ACT Airlines) t/a myCARGO Airlines",
+    "IATA": null,
+    "ICAO": "RUN",
+    "website": "www.mycargo.aero",
+    "notes": "Name changed to ACT Havayollari A.S. (ACT Airlines). Designator 9T* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636346"
+  },
+  {
+    "name": "Noble Air",
+    "IATA": "HK",
+    "ICAO": "NAD",
+    "website": null,
+    "notes": "Ceased opeations at the end of 1991.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636363"
+  },
+  {
+    "name": "Onur Air Tasimacilik A/S",
+    "IATA": "8Q",
+    "ICAO": "OHY",
+    "website": "www.onurair.com.tr",
+    "notes": "Suspended operations in December 2021. Filed for Bankruptcy in April 2022.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636380"
+  },
+  {
+    "name": "Orbit Express Airlines Hava Yollair A.s. (Orex)",
+    "IATA": null,
+    "ICAO": "ORX",
+    "website": "www.orexaircargo.com",
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636396"
+  },
+  {
+    "name": "Pegasus Hava Tasimaciligi A.S.",
+    "IATA": "1I",
+    "ICAO": "PGT",
+    "website": "www.pegasusairlines.com",
+    "notes": "IATA designator changed to H9*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636413"
+  },
+  {
+    "name": "Pegasus Hava Tasimaciligi A.S.",
+    "IATA": null,
+    "ICAO": "PGT",
+    "website": "www.flypgs.com",
+    "notes": "IATA designator changed to PC. IATA designator previously changed from 1I",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636430"
+  },
+  {
+    "name": "Saga Airlines",
+    "IATA": "H3",
+    "ICAO": "SGX",
+    "website": "www.sagaairlines.com",
+    "notes": "Founded in 2004. Ceased operations during 2013.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636447"
+  },
+  {
+    "name": "Sik-Ay Hava Tasimacilik A.S.",
+    "IATA": null,
+    "ICAO": "SHY",
+    "website": "www.skyairlines.net",
+    "notes": "ICAO callsign changed to Sky Power",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636464"
+  },
+  {
+    "name": "Sik-Ay Hava Tasimacilik A.S.",
+    "IATA": "ZY",
+    "ICAO": "SHY",
+    "website": "www.skyairlines.net",
+    "notes": "Filed for bankruptcy and ceased all flight operations on 04 June 2013. ICAO callsign changed from Antalya Bird",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636481"
+  },
+  {
+    "name": "Sonmez Airlines",
+    "IATA": null,
+    "ICAO": "SMZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636497"
+  },
+  {
+    "name": "Sultan Air",
+    "IATA": "KJ",
+    "ICAO": "SUT",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636513"
+  },
+  {
+    "name": "Intersun Havacilik Anonim Sirketi - Sunways Turkey",
+    "IATA": null,
+    "ICAO": "SWW",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636530"
+  },
+  {
+    "name": "Tarkim Ucak Bakim Onarim ve Havacilik Ltd STI.",
+    "IATA": null,
+    "ICAO": "TKJ",
+    "website": "www.tarkimair.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636547"
+  },
+  {
+    "name": "Torosair",
+    "IATA": "CN",
+    "ICAO": "TAU",
+    "website": null,
+    "notes": "Ceased operations during 1990.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636564"
+  },
+  {
+    "name": "Tarhan Tower Airlines",
+    "IATA": null,
+    "ICAO": "TTH",
+    "website": "www.ttairlines.com",
+    "notes": "Founded in 2006. Ceased operations in Decemeber 2007.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636581"
+  },
+  {
+    "name": "TUR European Airways (Tur Avrupa Hava Yollair AS)",
+    "IATA": "YI",
+    "ICAO": "TUR",
+    "website": null,
+    "notes": "Founded in 1988. Ceased operations in 1994.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636598"
+  },
+  {
+    "name": "Turk Hava Yollari (Turkish Airlines)",
+    "IATA": "TK",
+    "ICAO": "THY",
+    "website": null,
+    "notes": "Name changed to Turkish Airlines, Inc. ICAO callsign changed to Turkish",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636615"
+  },
+  {
+    "name": "Turkuaz Airlines",
+    "IATA": null,
+    "ICAO": "TRK",
+    "website": "www.turkuazairline.com",
+    "notes": "Desinator HK* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636633"
+  },
+  {
+    "name": "Unsped Paket Servisi, Inc.",
+    "IATA": null,
+    "ICAO": "UNS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636652"
+  },
+  {
+    "name": "World Focus Airlines",
+    "IATA": null,
+    "ICAO": "VVF",
+    "website": "www.worldfocusair.com",
+    "notes": "Name changed to Anka Air",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:23.636669"
+  }
+]

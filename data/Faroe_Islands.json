@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Atlantic Airways Faroe Islands",
+    "IATA": "RC",
+    "ICAO": "FLI",
+    "website": "www.atlantic.fo",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:05.499478"
+  },
+  {
+    "name": "Atlantic Helicopters",
+    "IATA": null,
+    "ICAO": "FAC",
+    "website": "www.atlantic.fo",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:05.499505"
+  },
+  {
+    "name": "FaeroeCopter",
+    "IATA": null,
+    "ICAO": "HEB",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:05.499524"
+  },
+  {
+    "name": "Faroe Jet",
+    "IATA": "F6",
+    "ICAO": "RCK",
+    "website": "www.faroejet.fo",
+    "notes": "Founded in 2005. Ceased operations on 16 December 2006.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:05.499541"
+  },
+  {
+    "name": "FaroeJet",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.faroejet.fo",
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:05.499558"
+  }
+]

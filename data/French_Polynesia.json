@@ -1,0 +1,74 @@
+[
+  {
+    "name": "SAS Natireva t/a Air Moana",
+    "IATA": "NM",
+    "ICAO": "NTR",
+    "website": "www.airmoana.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:12.135654"
+  },
+  {
+    "name": "Air Tahiti",
+    "IATA": "VT",
+    "ICAO": "VTA",
+    "website": "www.airtahiti.pf",
+    "notes": "Name changed from Air Polynesie (Tahiti)",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:12.135682"
+  },
+  {
+    "name": "Air Tahiti Nui",
+    "IATA": "TN",
+    "ICAO": "THT",
+    "website": "flyatn.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:12.135700"
+  },
+  {
+    "name": "Air Moorea",
+    "IATA": "QE",
+    "ICAO": "TAH",
+    "website": null,
+    "notes": "Designator QE recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:12.135717"
+  },
+  {
+    "name": "Air Polynesie (Tahiti)",
+    "IATA": "VT",
+    "ICAO": "VTA",
+    "website": null,
+    "notes": "Name changed to Air Tahiti",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:12.135734"
+  },
+  {
+    "name": "Air Polynesie",
+    "IATA": "VT",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:12.135751"
+  },
+  {
+    "name": "Air Tahiti",
+    "IATA": "QE",
+    "ICAO": "TAH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:12.135766"
+  },
+  {
+    "name": "Wanair",
+    "IATA": null,
+    "ICAO": "VNR",
+    "website": "www.wanair.pf",
+    "notes": "On 28 November 2004 Wan Air stopped public transport operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:12.135783"
+  }
+]

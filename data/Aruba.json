@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Aegle Aviation (Aruba) N.V.",
+    "IATA": null,
+    "ICAO": "AEL",
+    "website": "www.aegleaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:41.735082"
+  },
+  {
+    "name": "Arubaanse Luchtvaart Maatschappij N.V dba Aruba Airlines",
+    "IATA": "AG",
+    "ICAO": "ARU",
+    "website": "www.arubaairlines.com",
+    "notes": "IATA Accounting and Prefix codes recalled. IATA Prefix code reinstated.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:41.735112"
+  },
+  {
+    "name": "Jogo Aviation N.V. dba Best fly Aircraft Management Aruba",
+    "IATA": null,
+    "ICAO": "BFY",
+    "website": "www.bestfly.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:41.735129"
+  },
+  {
+    "name": "Comlux Aruba N.V.",
+    "IATA": "CS",
+    "ICAO": "CXB",
+    "website": "comlux.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:41.735144"
+  },
+  {
+    "name": "Global Jet Aruba V.B.A.",
+    "IATA": null,
+    "ICAO": "GJW",
+    "website": "www.globaljet.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:41.735161"
+  },
+  {
+    "name": "ILPO Aruba Cargo N.V.",
+    "IATA": null,
+    "ICAO": "ILP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:41.735176"
+  },
+  {
+    "name": "Jet Power Aruba Charters & Transportation Company V.B.A.",
+    "IATA": null,
+    "ICAO": "JCA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:41.735191"
+  },
+  {
+    "name": "Nedgistic Express Services & Aviation N.V.",
+    "IATA": null,
+    "ICAO": "FCS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:41.735207"
+  },
+  {
+    "name": "Air Aruba N.V.",
+    "IATA": "FQ",
+    "ICAO": "ARU",
+    "website": "www.interknowledge.com/air-aruba/",
+    "notes": "Ceased operations on 23 October 2000.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:41.735223"
+  },
+  {
+    "name": "Arubaanse Luchtvaart Maatschappij N.V dba Aruba Airlines",
+    "IATA": "AG",
+    "ICAO": "ARU",
+    "website": "www.arubaairlines.aw",
+    "notes": "IATA Accounting and Prefix codes recalled.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:41.735239"
+  },
+  {
+    "name": "Aruba Express",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.flyarubaexpress.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:41.735255"
+  },
+  {
+    "name": "ArubaExel",
+    "IATA": null,
+    "ICAO": "RBX",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:41.735270"
+  },
+  {
+    "name": "Arubair",
+    "IATA": null,
+    "ICAO": "ARB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:41.735285"
+  },
+  {
+    "name": "Avia Air N.V.",
+    "IATA": null,
+    "ICAO": "ARB",
+    "website": "www.avia-air.com",
+    "notes": "Ceased operations. IATA designator changed from 8R*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:41.735301"
+  },
+  {
+    "name": "InselAir Aruba N.V. d/b/a InselAir Aruba",
+    "IATA": "8I",
+    "ICAO": "NLU",
+    "website": "www.fly-inselair.com",
+    "notes": "Ceased operations on 07 june 2017.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:41.735317"
+  },
+  {
+    "name": "Royal Aruban Airlines N.V.",
+    "IATA": null,
+    "ICAO": "RYL",
+    "website": "www.royalarubanairlines.com",
+    "notes": "IATA designator changed to V5*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:41.735334"
+  },
+  {
+    "name": "Royal Aruban Airlines N.V.",
+    "IATA": null,
+    "ICAO": "RYL",
+    "website": "www.royalarubanairlines.com",
+    "notes": "Designator V5* recalled by IATA. IATA designator changed from R8*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:41.735350"
+  },
+  {
+    "name": "Tiara Air N.V. dba Tiara Air Aruba",
+    "IATA": null,
+    "ICAO": "TNM",
+    "website": "www.tiara-air.com",
+    "notes": "Declared bankrupt on 28 November 2016.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:41.735366"
+  }
+]

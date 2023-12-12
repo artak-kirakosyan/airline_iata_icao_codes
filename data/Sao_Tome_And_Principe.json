@@ -1,0 +1,209 @@
+[
+  {
+    "name": "Africa's Connection STP",
+    "IATA": null,
+    "ICAO": "ACH",
+    "website": "www.africas-connection.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:30.842828"
+  },
+  {
+    "name": "Air Cargo Center",
+    "IATA": null,
+    "ICAO": "GRI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:30.842857"
+  },
+  {
+    "name": "Atlantic Airfreight Aviation (Sao Tome) Ltd.",
+    "IATA": null,
+    "ICAO": "LFR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:30.842874"
+  },
+  {
+    "name": "Brisith Gulf International Co. Ltd.",
+    "IATA": null,
+    "ICAO": "BGI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:30.842891"
+  },
+  {
+    "name": "Cal Gulf Aviation",
+    "IATA": null,
+    "ICAO": "CGC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:30.842906"
+  },
+  {
+    "name": "Executive Jet Service",
+    "IATA": null,
+    "ICAO": "EJZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:30.842922"
+  },
+  {
+    "name": "Express International Cargo Corporation",
+    "IATA": null,
+    "ICAO": "EIC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:30.842938"
+  },
+  {
+    "name": "Goliaf Air",
+    "IATA": null,
+    "ICAO": "GLE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:30.842954"
+  },
+  {
+    "name": "Island Oil Exploration Limited",
+    "IATA": null,
+    "ICAO": "IOE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:30.842969"
+  },
+  {
+    "name": "Jet Line STP",
+    "IATA": null,
+    "ICAO": "JLS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:30.842985"
+  },
+  {
+    "name": "Linhas Aereas Santomenses",
+    "IATA": null,
+    "ICAO": "SMS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:30.843000"
+  },
+  {
+    "name": "Natalco Air Lines",
+    "IATA": null,
+    "ICAO": "NCO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:30.843015"
+  },
+  {
+    "name": "Lastp-Linhas Aereas de Sao Tome E Principe (Sao Tome And Principe Airlines)",
+    "IATA": null,
+    "ICAO": "OTN",
+    "website": null,
+    "notes": "ICAO desigantor changed from STA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:30.843031"
+  },
+  {
+    "name": "STP Airways",
+    "IATA": "8F",
+    "ICAO": "STP",
+    "website": "www.stpairways.st",
+    "notes": "IATA designator changed from 5A*",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:30.843048"
+  },
+  {
+    "name": "Transafrik International Ltd.",
+    "IATA": null,
+    "ICAO": "TFK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:30.843063"
+  },
+  {
+    "name": "Transliz Aviation (TMS) Ltd",
+    "IATA": null,
+    "ICAO": "TLZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:30.843077"
+  },
+  {
+    "name": "Air Luxor STP",
+    "IATA": "C2",
+    "ICAO": "ALU",
+    "website": "www.airluxor.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:30.843092"
+  },
+  {
+    "name": "Equatorial Airlines of Sao Tome And Principe",
+    "IATA": null,
+    "ICAO": "EQL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:30.843108"
+  },
+  {
+    "name": "Linhas Aereas de Air Sao Tome And Principe",
+    "IATA": "KY",
+    "ICAO": "EQL",
+    "website": "airsaotomeprincipe.com",
+    "notes": "Designator KY recalled by IATA. Designator KY reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:30.843125"
+  },
+  {
+    "name": "Lastp-Linhas Aereas de Sao Tome E Principe (Sao Tome And Principe Airlines)",
+    "IATA": "OT",
+    "ICAO": "OTN",
+    "website": null,
+    "notes": "ICAO desigantor changed to STP",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:30.843142"
+  },
+  {
+    "name": "Servicio de Transportes Aereos de Sao Tome",
+    "IATA": "OT",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:30.843157"
+  },
+  {
+    "name": "Starlight Airline STP, S.A.",
+    "IATA": null,
+    "ICAO": "SLT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:30.843172"
+  },
+  {
+    "name": "STP Airways",
+    "IATA": null,
+    "ICAO": "STP",
+    "website": "www.stpairways.st",
+    "notes": "IATA designator changed to 8F*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:30.843189"
+  }
+]

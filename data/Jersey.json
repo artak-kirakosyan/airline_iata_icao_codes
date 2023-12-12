@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Blue Islands Limited",
+    "IATA": "SI",
+    "ICAO": "BCI",
+    "website": "www.blueislands.com",
+    "notes": "Name changed from Airx Limited t/a Lecocqs.com and then from Airx Limited t/a Rockhopper. IATA designator changed from AX*. ICAO designator changed from XAX",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:53.603957"
+  },
+  {
+    "name": "Ortac AOC Ltd.",
+    "IATA": null,
+    "ICAO": "ORT",
+    "website": "www.ortac-ops.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:53.603985"
+  },
+  {
+    "name": "Trustflight (Jersey) Limited",
+    "IATA": null,
+    "ICAO": "TFJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:53.604002"
+  },
+  {
+    "name": "Airx Limited t/a Blue Islands",
+    "IATA": "SI",
+    "ICAO": "BCI",
+    "website": "www.blueislands.com",
+    "notes": "Name changed from Airx Limited t/a Lecocqs.com and then from Airx Limited t/a Rockhopper. IATA designator changed from AX*. ICAO designator changed from XAX",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:53.604020"
+  },
+  {
+    "name": "Airx Limited t/a Blue Islands",
+    "IATA": null,
+    "ICAO": "BCI",
+    "website": "www.blueislands.com",
+    "notes": "Name changed from Airx Limited t/a Lecocqs.com and then from Airx Limited t/a Rockhopper. IATA desigantor changed to SI. ICAO designator changed from XAX",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:53.604038"
+  }
+]

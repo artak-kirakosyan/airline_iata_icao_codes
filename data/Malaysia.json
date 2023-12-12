@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Air Asia Sen Bhd. t/a Air Asia",
+    "IATA": "AK",
+    "ICAO": "AXM",
+    "website": "www.airasia.com",
+    "notes": "ICAO Callsign changed from Asian Express. Desginator AK reinstated by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:21.599395"
+  },
+  {
+    "name": "Airasia X Berhad d/b/a Airasia X",
+    "IATA": "D7",
+    "ICAO": "XAX",
+    "website": "www.airasia.com",
+    "notes": "Name changed from Fly Asian Express Sdn Bhd",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:21.599424"
+  },
+  {
+    "name": "Malindo Airways Sdn Bhd d/b/a Batik Air",
+    "IATA": "OD",
+    "ICAO": "MXD",
+    "website": "www.malindoair.com",
+    "notes": "Name chanegd from Malindo Airways Sdn Bhd (Malindo Air). ICAO callsign changed from Malindo Express.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:21.599444"
+  },
+  {
+    "name": "Berjaya Air Sdn. Bhd.",
+    "IATA": "J8",
+    "ICAO": "BVT",
+    "website": "www.berjaya-air.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:21.599461"
+  },
+  {
+    "name": "FlyFirefly Sdn. Bhd",
+    "IATA": "FY",
+    "ICAO": "FFM",
+    "website": "www.fireflyz.com.my",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:21.599478"
+  },
+  {
+    "name": "Intercity Air Sdn Bhd",
+    "IATA": null,
+    "ICAO": "ICY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:21.599496"
+  },
+  {
+    "name": "M Jets International Sdn Bhd t/a Kargo Xpress",
+    "IATA": null,
+    "ICAO": "KXP",
+    "website": "kargoxpress.com",
+    "notes": "Name changed from M Jets International Sdn Bhd t/a Love Fly.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:21.599515"
+  },
+  {
+    "name": "Layang-Layang Aerospace SDN. BHD.",
+    "IATA": null,
+    "ICAO": "LAY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:21.599532"
+  },
+  {
+    "name": "Malaysia Airlines Berhad d/b/a Malaysia Airlines",
+    "IATA": "MH",
+    "ICAO": "MAS",
+    "website": "www.malaysiaairlines.com",
+    "notes": "Name changed from Malaysia Airlines System Berhad. Name changed from Malaysian Airlines Berhad (MAL)",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:21.599551"
+  },
+  {
+    "name": "Maswings Sdn Bhd",
+    "IATA": "MY",
+    "ICAO": "MWG",
+    "website": "www.maswings.com.my",
+    "notes": "Designator 7B recalled by IATA. Now using Malaysia Airlines IATA Code MH.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:21.599568"
+  },
+  {
+    "name": "My Jet Xpress Airlines Sdn.Bhd. dba My Jet Xpress",
+    "IATA": null,
+    "ICAO": "NEP",
+    "website": "www.myjetxpress.com",
+    "notes": "Name changed from Neptune Air Sdn Bhd.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:21.599586"
+  },
+  {
+    "name": "Pan Malaysian Air Transport",
+    "IATA": null,
+    "ICAO": "PMA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:21.599603"
+  },
+  {
+    "name": "Prime Air Sdn. Bhd.",
+    "IATA": null,
+    "ICAO": "HGM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:21.599619"
+  },
+  {
+    "name": "Raya Airways Sdn. Bhd. d/b/a Raya Airways",
+    "IATA": "TH",
+    "ICAO": "RMY",
+    "website": "www.rayaairways.com",
+    "notes": "Name changed from Transmile Air Services.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:21.599636"
+  },
+  {
+    "name": "Royal Malaysian Air Force",
+    "IATA": null,
+    "ICAO": "RMF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:21.599653"
+  },
+  {
+    "name": "Sabah Air",
+    "IATA": null,
+    "ICAO": "SAX",
+    "website": "www.borneo-online.com.my/sabahair/",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:21.599670"
+  },
+  {
+    "name": "SKS Airways Sdn Bhd.",
+    "IATA": "KI",
+    "ICAO": "SJB",
+    "website": "www.sksairways.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:21.599687"
+  },
+  {
+    "name": "SKS Airways Sdn. Bhd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.sksairways.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:21.599704"
+  },
+  {
+    "name": "World Cargo Airlines Sdn. Bhd.",
+    "IATA": null,
+    "ICAO": "WCM",
+    "website": "wca.asiacargonetworkgroup.com",
+    "notes": "Name changed from DRB-HICOM Asiacargo Express Sdn. Bhd. and previously from POS Asia Cargo Express Sdn. Bhd. d/b/a Asia Cargo Express and Gading Sari Aviation Services Sdn Bhd d/b/a G Sari.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:21.599724"
+  },
+  {
+    "name": "Air Asia Sen Bhd. t/a Air Asia",
+    "IATA": "AK",
+    "ICAO": "AXM",
+    "website": "www.airasia.com",
+    "notes": "ICAO Callsign changed to Red Cap. Desginator AK reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:21.599741"
+  },
+  {
+    "name": "Asia Pacific Airlines",
+    "IATA": null,
+    "ICAO": "MLP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:21.599758"
+  },
+  {
+    "name": "POS Asiacargo Express Sdn. Bhd. d/b/a Asiacargo Express",
+    "IATA": null,
+    "ICAO": "CXM",
+    "website": null,
+    "notes": "Name changed to World Cargo Airlines. Name changed from DRB-HICOM Asiacargo Express Sdn. Bhd. t/a Asiacargo Express and previoualy from Gading Sari Aviation Services Sdn Bhd d/b/a G Sari.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:21.599777"
+  },
+  {
+    "name": "DRB-HICOM Asiacargo Express Sdn. Bhd.",
+    "IATA": null,
+    "ICAO": "CXM",
+    "website": "www.drb-hicom.com",
+    "notes": "Name changed to World Cargo Airlines. Name changed from Gading Sari Aviation Services Sdn Bhd d/b/a G Sari.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:21.599796"
+  },
+  {
+    "name": "EagleXPRESS Air Charter Sdn Bhd d/b/a EagleXPRESS Air",
+    "IATA": "9A",
+    "ICAO": "EZX",
+    "website": "www.eaglexpressair.com",
+    "notes": "Founded Jan 2012. Air Service permit revoked by Malaysian CAA on 21 December 2016.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:21.599815"
+  },
+  {
+    "name": "Express Rail Link SDN BHD",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.kliaekspres.com",
+    "notes": "Railway Service",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:21.599832"
+  },
+  {
+    "name": "Express Rail Link Sdn Bhd",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.kliaekspres.com",
+    "notes": "Designator 5Y* recalled by IATA. Railway Service",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:21.599850"
+  },
+  {
+    "name": "Fly Asian Express Sdn Bhd",
+    "IATA": "D7",
+    "ICAO": "XFA",
+    "website": "www.flyasianxpress.com",
+    "notes": "Name changed to AirAsia X Sdn Bhd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:21.599867"
+  },
+  {
+    "name": "flyGlobal Charter Sdn Bhd",
+    "IATA": "FS",
+    "ICAO": "FGG",
+    "website": "www.flyglobal.com.my",
+    "notes": "Ceased operations in November 2018.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:21.599884"
+  },
+  {
+    "name": "Gading Sari Aviation Services Sdn Bhd d/b/a G Sari",
+    "IATA": null,
+    "ICAO": "GSB",
+    "website": null,
+    "notes": "Name changed to DRB-HICOM AsiaCargo Express Sdn. Bhd. ICAO Designator changed to CXM",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:21.599901"
+  },
+  {
+    "name": "M Jets International Sdn Bhd t/a Love Fly",
+    "IATA": null,
+    "ICAO": "LUV",
+    "website": "www.mjets.com",
+    "notes": "Name changed to M Jets International Sdn Bhd t/a Kargo Xpress.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:21.599918"
+  },
+  {
+    "name": "Mafira Air Charter Services Sdn Bhd",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Founded on 21 November 1995. Ceased operations during 1997.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:21.599935"
+  },
+  {
+    "name": "Malasyia Air Charter Company Ltd.",
+    "IATA": "MB",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:21.599951"
+  },
+  {
+    "name": "Malaysia Airlines System Berhad",
+    "IATA": "MH",
+    "ICAO": "MAS",
+    "website": "www.malaysiaairlines.com",
+    "notes": "Name changed to Malaysia Airlines Berhad. Name changed from Malaysian Airlines Berhad (MAL)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:21.599969"
+  },
+  {
+    "name": "Malaysia Airlines Berhad (MAL)",
+    "IATA": "MH",
+    "ICAO": null,
+    "website": null,
+    "notes": "Name changed to Malaysian Airline System Berhad",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:21.599986"
+  },
+  {
+    "name": "Malindo Airways Sdn Bhd (Malindo Air)",
+    "IATA": "OD",
+    "ICAO": "MXD",
+    "website": "www.malindoair.com",
+    "notes": "Name changed to Malindo Airways Sdn Bhd d/b/a Batik Air. ICAO callsign changed from Malindo Express.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:21.600003"
+  },
+  {
+    "name": "Malindo Airways Sdn Bhd (Malindo Air)",
+    "IATA": "OD",
+    "ICAO": "MXD",
+    "website": "www.malindoair.com",
+    "notes": "ICAO callsign changed to Malindo.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:21.600020"
+  },
+  {
+    "name": "Maswings Sdn Bhd",
+    "IATA": "7B",
+    "ICAO": "MWG",
+    "website": "www.maswings.com.my",
+    "notes": "Designator 7B recalled by IATA. Now using Malaysia Airlines IATA Code MH.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:21.600037"
+  },
+  {
+    "name": "Merpati Intan",
+    "IATA": null,
+    "ICAO": "BOR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:21.600054"
+  },
+  {
+    "name": "MYAirline Sdn. Bhd.",
+    "IATA": "Z9",
+    "ICAO": "MYM",
+    "website": "www.myairline.my",
+    "notes": "Suspended operations w.e.f. 12 October 2023.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:21.600071"
+  },
+  {
+    "name": "Neptune Air Sdn Bhd",
+    "IATA": null,
+    "ICAO": "NEP",
+    "website": "www.neptuneair.com",
+    "notes": "Name changed to My Jet Xpress Airlines Sdn.Bhd. dba My Jet Xpress",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:21.600090"
+  },
+  {
+    "name": "Pelandok Airways (Private) Ltd.",
+    "IATA": "BL",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:21.600106"
+  },
+  {
+    "name": "Pelangi Air Sdn. Bhd.",
+    "IATA": "9P",
+    "ICAO": "PEG",
+    "website": null,
+    "notes": "Designator 9P recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:21.600123"
+  },
+  {
+    "name": "Saeaga Airlines",
+    "IATA": "S5",
+    "ICAO": "SGG",
+    "website": null,
+    "notes": "Designator S5 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:21.600139"
+  },
+  {
+    "name": "Southern Cross Airways (Malaysia) Ltd.",
+    "IATA": "EX",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:21.600156"
+  },
+  {
+    "name": "Suasa Airlines Sdn Bhd",
+    "IATA": "R9",
+    "ICAO": "SSB",
+    "website": "www.suasaair.com",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:21.600173"
+  },
+  {
+    "name": "Sutra Air Charter (M) Sdn. Bhd.",
+    "IATA": "Q5",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:21.600190"
+  },
+  {
+    "name": "Trans Pacific Air (Malaysia) SDN. BHD.",
+    "IATA": "4H",
+    "ICAO": null,
+    "website": null,
+    "notes": "IATA designator changed from X5*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:21.600207"
+  },
+  {
+    "name": "Trans Pacific Air (Malaysia) SDN. BHD.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "IATA designator changed to 4H",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:21.600224"
+  },
+  {
+    "name": "Transmile Air Services Sdn. Bhd.",
+    "IATA": null,
+    "ICAO": "TSE",
+    "website": "www.transmile.com",
+    "notes": "IATA designator changed to TH",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:21.600242"
+  },
+  {
+    "name": "Transmile Air Services Sdn. Bhd.",
+    "IATA": "TH",
+    "ICAO": "TSE",
+    "website": "www.transmile.com",
+    "notes": "Name changed to Raya Airways Sdn. Bhd. d/b/a Raya Airways. IATA designator changed from TH*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:21.600259"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Air Vanuatu (Operations) Limited",
+    "IATA": "NF",
+    "ICAO": "AVN",
+    "website": "www.airvanuatu.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:42.776435"
+  },
+  {
+    "name": "Air Vanuatu",
+    "IATA": "NK",
+    "ICAO": "AVN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:42.776467"
+  },
+  {
+    "name": "Vanair Limited",
+    "IATA": "X4",
+    "ICAO": null,
+    "website": "www.vanuatutourism.com/vanair.htm",
+    "notes": "Designator X4 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:42.776486"
+  }
+]

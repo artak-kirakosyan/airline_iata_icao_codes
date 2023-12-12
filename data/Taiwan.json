@@ -1,0 +1,128 @@
+[
+  {
+    "name": "China Airlines",
+    "IATA": "CI",
+    "ICAO": "CAL",
+    "website": "www.china-airlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:10.383890"
+  },
+  {
+    "name": "EVA Airways Corporation",
+    "IATA": "BR",
+    "ICAO": "EVA",
+    "website": "www.evaair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:10.383918"
+  },
+  {
+    "name": "Mandarin Airlines Ltd.",
+    "IATA": "AE",
+    "ICAO": "MDA",
+    "website": "www.mandarin-airlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:10.383937"
+  },
+  {
+    "name": "Starlux Airlines Co., Ltd.",
+    "IATA": null,
+    "ICAO": "SJX",
+    "website": "www.starlux-airlines.com",
+    "notes": "Commenced operations on 23 January 2020.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:10.383954"
+  },
+  {
+    "name": "Tiger Airways Taiwan Co. Ltd.",
+    "IATA": "IT",
+    "ICAO": "TTW",
+    "website": "www.tigerair.com/tw/zh/",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:10.383971"
+  },
+  {
+    "name": "UNI Airways Corporation",
+    "IATA": "B7",
+    "ICAO": "UIA",
+    "website": "www.uniair.com.tw",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:10.383988"
+  },
+  {
+    "name": "Far Eastern Air Transport Corp.",
+    "IATA": "FE",
+    "ICAO": "FEA",
+    "website": "www.fat.com.tw",
+    "notes": "Ceased operations on 13 December 2019.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:10.384005"
+  },
+  {
+    "name": "Far Eastern Air Transport Corp.",
+    "IATA": "EF",
+    "ICAO": "FEA",
+    "website": "www.fat.com.tw",
+    "notes": "Ceased Operations on 13 May 2008.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:10.384022"
+  },
+  {
+    "name": "Formosa Airlines Corp.",
+    "IATA": "HU",
+    "ICAO": "FOS",
+    "website": null,
+    "notes": "Designator HU recalled by IATA. Formerly Yung Shing Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:10.384039"
+  },
+  {
+    "name": "Formosa Airlines",
+    "IATA": null,
+    "ICAO": "FOS",
+    "website": null,
+    "notes": "Designator HU recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:10.384057"
+  },
+  {
+    "name": "Foshing Airlines",
+    "IATA": "GE",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:10.384073"
+  },
+  {
+    "name": "Transasia Airways Corporation",
+    "IATA": "GE",
+    "ICAO": "TNA",
+    "website": "www.tna.com.tw",
+    "notes": "Founded on 21 May 1951. Ceased operations on 22 November 2016. Name changed from Transasia Airways",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:10.384090"
+  },
+  {
+    "name": "Transasia Airways",
+    "IATA": "GE",
+    "ICAO": "TNA",
+    "website": "www.tna.com.tw",
+    "notes": "Name changed to Transasia Airways Corporation",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:10.384106"
+  },
+  {
+    "name": "V Air Corporation",
+    "IATA": "ZV",
+    "ICAO": "VAX",
+    "website": "www.flyvair.com",
+    "notes": "Merged into TransAsia Airways w.e.f. from 01 October 2016. Low cost subsidary of TransAsia Airways.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:10.384123"
+  }
+]

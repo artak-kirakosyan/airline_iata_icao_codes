@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Air Emeralds d.o.o.",
+    "IATA": null,
+    "ICAO": "ERD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:34.510457"
+  },
+  {
+    "name": "JSC for Air Traffic-Air SERBIA Belgrade t/a Air Serbia a.d. Beograd",
+    "IATA": "JU",
+    "ICAO": "ASL",
+    "website": "www.airserbia.com",
+    "notes": "Name changed from Jat Airways. ICAO Designator changed from JAT. Name changed from Jugoslovenski Aerotransport (JAT)",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:34.510486"
+  },
+  {
+    "name": "Air Tomisko",
+    "IATA": null,
+    "ICAO": "TOH",
+    "website": "www.airtomisko.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:34.510504"
+  },
+  {
+    "name": "IVA-DOM Air Pink d.o.o. t/a airpink",
+    "IATA": null,
+    "ICAO": "PNK",
+    "website": "www.airpink.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:34.510520"
+  },
+  {
+    "name": "Eagle Express Ltd.",
+    "IATA": null,
+    "ICAO": "EES",
+    "website": "www.eagleexpress.rs",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:34.510535"
+  },
+  {
+    "name": "Prince Aviation",
+    "IATA": null,
+    "ICAO": "PNC",
+    "website": "www.princeaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:34.510551"
+  },
+  {
+    "name": "Serbian Air Force",
+    "IATA": null,
+    "ICAO": "SRB",
+    "website": "www.vs.rs",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:34.510567"
+  },
+  {
+    "name": "Skybridge International Balkan d.o.o.",
+    "IATA": null,
+    "ICAO": "SBB",
+    "website": "skybridge.rs",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:34.510583"
+  },
+  {
+    "name": "Star Fly Wings d.o.o.",
+    "IATA": null,
+    "ICAO": "SYW",
+    "website": "starflywings.rs",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:34.510598"
+  },
+  {
+    "name": "Tinadar Aviation d.o.o. d/b/a Tinadar Jets",
+    "IATA": null,
+    "ICAO": "NAD",
+    "website": "www.tinadar.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:34.510615"
+  },
+  {
+    "name": "Aviolet",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.aviolet.rs",
+    "notes": "Aviolet is the dedicated charter brand of Serbia's national carrier, Air SERBIA. All flights operated under Air Serbia IATA/ICAO codes.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:34.510632"
+  },
+  {
+    "name": "Air Posh d.o.o.",
+    "IATA": null,
+    "ICAO": "APO",
+    "website": "www.airposh.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:34.510648"
+  },
+  {
+    "name": "Centavia",
+    "IATA": null,
+    "ICAO": "CNA",
+    "website": "www.centavia.com",
+    "notes": "Suspended operations on 26 October 2006.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:34.510664"
+  },
+  {
+    "name": "Jat Airways",
+    "IATA": "JU",
+    "ICAO": "JAT",
+    "website": "www.jat.com",
+    "notes": "ICAO Callsign changed to Air Serbia. Name changed from Jugoslovenski Aerotransport (JAT)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:34.510681"
+  },
+  {
+    "name": "Jat Airways",
+    "IATA": "JU",
+    "ICAO": "JAT",
+    "website": "www.airserbia.com",
+    "notes": "ICAO Callsign changed from JAT. Name changed from Jugoslovenski Aerotransport (JAT)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:34.510697"
+  },
+  {
+    "name": "Master Airways",
+    "IATA": "FZ",
+    "ICAO": null,
+    "website": "www.masterairways.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:34.510712"
+  }
+]

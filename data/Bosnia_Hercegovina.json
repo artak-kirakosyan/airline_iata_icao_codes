@@ -1,0 +1,146 @@
+[
+  {
+    "name": "FlyBosnia d.o.o.",
+    "IATA": "6W",
+    "ICAO": "FBS",
+    "website": "www.flybosnia.ba",
+    "notes": "owner Al Shiddi Group (Saudi Arabia).",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:03.812550"
+  },
+  {
+    "name": "Air Bosna",
+    "IATA": null,
+    "ICAO": "BON",
+    "website": "www.airbosna.ba",
+    "notes": "Name changed to B & H Airlines June 2005. Suspended operations on 05 Septmeber 2003. Re-started",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:03.812581"
+  },
+  {
+    "name": "Air Commerce",
+    "IATA": null,
+    "ICAO": "CSB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:03.812600"
+  },
+  {
+    "name": "Air Srpska",
+    "IATA": null,
+    "ICAO": "SBK",
+    "website": "www.airsrpska.ba",
+    "notes": "Ceased operations during 2003. Designator R6* reintated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:03.812618"
+  },
+  {
+    "name": "Aviopiva",
+    "IATA": null,
+    "ICAO": "APB",
+    "website": null,
+    "notes": "Founded in 2004. Ceased operations in 2006.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:03.812635"
+  },
+  {
+    "name": "B & H Airlines",
+    "IATA": null,
+    "ICAO": "BON",
+    "website": "www.bhairlines.ba",
+    "notes": "Suspended operations on 11 June 2015. Founded in 1994 as Air Bosna. Name changed in June 2005.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:03.812653"
+  },
+  {
+    "name": "Bio Air Company",
+    "IATA": null,
+    "ICAO": "BIO",
+    "website": null,
+    "notes": "Founded in 1997. Ceased operations during 2002.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:03.812669"
+  },
+  {
+    "name": "Bosnia Airlines",
+    "IATA": null,
+    "ICAO": "BSL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:03.812685"
+  },
+  {
+    "name": "Bosnian Wand Airlines d.o.o.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.bwairlines.com",
+    "notes": "Founded on 24 June 2014. Suspended operations/Never started.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:03.812702"
+  },
+  {
+    "name": "Dardan Air",
+    "IATA": null,
+    "ICAO": "DEP",
+    "website": null,
+    "notes": "Founded in 2000. Ceased operations in 2001.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:03.812718"
+  },
+  {
+    "name": "Icar Air",
+    "IATA": null,
+    "ICAO": "RAC",
+    "website": "www.icarair.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:03.812733"
+  },
+  {
+    "name": "Kosmas Air",
+    "IATA": null,
+    "ICAO": "KMG",
+    "website": null,
+    "notes": "Founded in 2004. AOC revoked in May 2008",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:03.812750"
+  },
+  {
+    "name": "Mastair",
+    "IATA": null,
+    "ICAO": "MTT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:03.812765"
+  },
+  {
+    "name": "Sat Air",
+    "IATA": null,
+    "ICAO": "STZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:03.812780"
+  },
+  {
+    "name": "Serb Air",
+    "IATA": null,
+    "ICAO": "SRB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:03.812795"
+  },
+  {
+    "name": "Skybosnia d.o.o.",
+    "IATA": null,
+    "ICAO": "SBN",
+    "website": "www.skybosnia.com",
+    "notes": "Founded in 2011. Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:03.812812"
+  }
+]

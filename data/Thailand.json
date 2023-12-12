@@ -1,0 +1,1010 @@
+[
+  {
+    "name": "AC Aviation Co., Ltd",
+    "IATA": null,
+    "ICAO": "ACJ",
+    "website": "www.bangkokjets.com/about-ac-aviation/",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012117"
+  },
+  {
+    "name": "Advance Aviation Co. Ltd.",
+    "IATA": null,
+    "ICAO": "AAX",
+    "website": "www.advanceaviation.co.th",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012148"
+  },
+  {
+    "name": "Advance Aviation Jet Co., Ltd.",
+    "IATA": null,
+    "ICAO": "AJV",
+    "website": "www.advanceaviation.co.th",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012166"
+  },
+  {
+    "name": "Aeronautical Radio of Thailand Ltd",
+    "IATA": null,
+    "ICAO": "AET",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012183"
+  },
+  {
+    "name": "Air Andaman Corporation Limited",
+    "IATA": null,
+    "ICAO": "AOW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012200"
+  },
+  {
+    "name": "AOT Ground Aviation Services Co., Ltd.",
+    "IATA": null,
+    "ICAO": "AGS",
+    "website": "www.aotga.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012217"
+  },
+  {
+    "name": "Bangkok Airways Co. Ltd.",
+    "IATA": "PG",
+    "ICAO": "BKP",
+    "website": "www.bangkokair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012235"
+  },
+  {
+    "name": "Bangkok Helicopter Services Co., Ltd",
+    "IATA": null,
+    "ICAO": "BHD",
+    "website": "bangkokhelicopter.co.th",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012251"
+  },
+  {
+    "name": "Air Inter Transport Co., Ltd. t/a Budget Lines",
+    "IATA": "BD",
+    "ICAO": "BGN",
+    "website": "flybudgetlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012269"
+  },
+  {
+    "name": "Crystal Thai Airlines Co., Ltd",
+    "IATA": null,
+    "ICAO": "KPS",
+    "website": "www.crystalthaiair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012286"
+  },
+  {
+    "name": "H.R.H. The Crown Prince Maha Vajiralongkorn",
+    "IATA": null,
+    "ICAO": "VMS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012303"
+  },
+  {
+    "name": "Happy Air Travellers Co., Ltd",
+    "IATA": null,
+    "ICAO": "HPY",
+    "website": "www.happyair.co.th",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012321"
+  },
+  {
+    "name": "Infinity Asia Co., Ltd",
+    "IATA": null,
+    "ICAO": "IAB",
+    "website": "infinityasiaairlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012339"
+  },
+  {
+    "name": "Jet A Co., Ltd.",
+    "IATA": null,
+    "ICAO": "DAJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012357"
+  },
+  {
+    "name": "K-Mile Air Co. Ltd.",
+    "IATA": "8K",
+    "ICAO": "KMI",
+    "website": "www.k-mile.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012375"
+  },
+  {
+    "name": "Minor Aviation Limited",
+    "IATA": null,
+    "ICAO": "MIN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012391"
+  },
+  {
+    "name": "Nok Airlines Public Co., Ltd. d/b/a Nok Air",
+    "IATA": "DD",
+    "ICAO": "NOK",
+    "website": "www.nokair.com",
+    "notes": "Filed for bankruptcy on 30 July 2020. Name changed from Nok Airlines Company Limited w.e.f. 18 January 2013",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012410"
+  },
+  {
+    "name": "Northern Aviation Service Co. Ltd.",
+    "IATA": null,
+    "ICAO": "CMU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012427"
+  },
+  {
+    "name": "Rabbit Wings Airways Company Limited",
+    "IATA": null,
+    "ICAO": "TRB",
+    "website": null,
+    "notes": "Name changed from Thai Regional Aviation Company Limited d/b/a Thai Regional. Designator RW recalled by IATA.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012444"
+  },
+  {
+    "name": "RC Airlines Co., Ltd. t/a Really Cool Airlines",
+    "IATA": null,
+    "ICAO": "LUV",
+    "website": "reallycoolairlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012462"
+  },
+  {
+    "name": "Royal Skyways Co., Ltd.",
+    "IATA": null,
+    "ICAO": "RSW",
+    "website": "www.royalskyways.co.th",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012479"
+  },
+  {
+    "name": "RPS System Co., Ltd.",
+    "IATA": null,
+    "ICAO": "GBJ",
+    "website": "rpssystem.co.th",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012496"
+  },
+  {
+    "name": "Siam Airnet Co., Ltd.",
+    "IATA": null,
+    "ICAO": "RBR",
+    "website": "siamairnet.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012513"
+  },
+  {
+    "name": "SiamJet Aviation Co.,Ltd.",
+    "IATA": null,
+    "ICAO": "SCJ",
+    "website": "www.siamjetairlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012529"
+  },
+  {
+    "name": "Sky Eyes Co. Ltd.",
+    "IATA": null,
+    "ICAO": "SEQ",
+    "website": "www.skyeyesairways.com",
+    "notes": "Designator I6 recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012546"
+  },
+  {
+    "name": "Southwings (Thailand) Co., Ltd.",
+    "IATA": null,
+    "ICAO": "SWL",
+    "website": "www.southwingsthailand.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012562"
+  },
+  {
+    "name": "Sriracha Aviation Co. Ltd.",
+    "IATA": null,
+    "ICAO": "KBN",
+    "website": "www.sravia.co.th",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012578"
+  },
+  {
+    "name": "Thai Aerospace Services Co. Ltd,",
+    "IATA": null,
+    "ICAO": "EGP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012596"
+  },
+  {
+    "name": "Thai AirAsia Co. Ltd.",
+    "IATA": "FD",
+    "ICAO": "AIQ",
+    "website": "www.airasia.com",
+    "notes": "Subsidary of Air Asia Malaysia AK/AXM",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012614"
+  },
+  {
+    "name": "Thai Airasia X Company Limited",
+    "IATA": "XJ",
+    "ICAO": "TAX",
+    "website": "www.airasia.com/th/en/home.page",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012630"
+  },
+  {
+    "name": "Thai Airways International Public Company Ltd.",
+    "IATA": "TG",
+    "ICAO": "THA",
+    "website": "www.thaiair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012646"
+  },
+  {
+    "name": "Thai Express Air Co. Ltd",
+    "IATA": null,
+    "ICAO": "TXZ",
+    "website": null,
+    "notes": "Designator EX* recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012663"
+  },
+  {
+    "name": "Thai Flying Helicopter Service Co., Ltd.",
+    "IATA": null,
+    "ICAO": "TFH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012679"
+  },
+  {
+    "name": "Thai Flying Service",
+    "IATA": null,
+    "ICAO": "TFT",
+    "website": "www.thaiflying.co.th",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012696"
+  },
+  {
+    "name": "Thai Jet Intergroup Co. Ltd.",
+    "IATA": null,
+    "ICAO": "TIU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012711"
+  },
+  {
+    "name": "Thai Lion Mentari Co. Ltd.",
+    "IATA": "SL",
+    "ICAO": "TLM",
+    "website": "lionairthai.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012729"
+  },
+  {
+    "name": "Thai Smile Airways Company Limited",
+    "IATA": null,
+    "ICAO": "THD",
+    "website": "www.thaismileair.com",
+    "notes": "Founded in May 2011. Commenced operations on 07 July 2012.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012747"
+  },
+  {
+    "name": "Thai Summer Airways Company Limited",
+    "IATA": null,
+    "ICAO": "AST",
+    "website": "www.summerairways.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012765"
+  },
+  {
+    "name": "Thai Tours And Trans Airways Co., Ltd",
+    "IATA": null,
+    "ICAO": "TTY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012782"
+  },
+  {
+    "name": "Thai Vietjet Air Joint Stock Co., Ltd.",
+    "IATA": "VZ",
+    "ICAO": "TVJ",
+    "website": "www.thaivietair.com",
+    "notes": "IATA Designator changed from V9*",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012800"
+  },
+  {
+    "name": "Thia Aviation Academy",
+    "IATA": null,
+    "ICAO": "TAC",
+    "website": "www.thaiaviationacademy.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012817"
+  },
+  {
+    "name": "U Airlines Co. Ltd.",
+    "IATA": null,
+    "ICAO": "ULG",
+    "website": "www.u-airlines.com",
+    "notes": "Founded April 2012. IATA desinator YL recalled.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:14.012834"
+  },
+  {
+    "name": "Crystal Thai Airlines Co.,Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.crystalthaiair.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.012851"
+  },
+  {
+    "name": "4D Air Co. Ltd.",
+    "IATA": null,
+    "ICAO": "QRT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.012868"
+  },
+  {
+    "name": "Air Andaman Corporation Limited",
+    "IATA": null,
+    "ICAO": "ADW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.012884"
+  },
+  {
+    "name": "Air Andaman Corporation Limited",
+    "IATA": "2Y",
+    "ICAO": null,
+    "website": "www.airandaman.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.012900"
+  },
+  {
+    "name": "Air People International Co. Ltd.",
+    "IATA": null,
+    "ICAO": "APG",
+    "website": "www.apiairlines.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.012918"
+  },
+  {
+    "name": "Air Siam Air Company Limited",
+    "IATA": "VG",
+    "ICAO": null,
+    "website": null,
+    "notes": "Ceased operations in 1976.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.012935"
+  },
+  {
+    "name": "Air Singhara Co. Ltd.",
+    "IATA": null,
+    "ICAO": "LUV",
+    "website": "www.airsinghara.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.012952"
+  },
+  {
+    "name": "Andaman Aviation Services Limited",
+    "IATA": null,
+    "ICAO": "ADM",
+    "website": "www.andaman.aero",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.012969"
+  },
+  {
+    "name": "Angel Airlines Co., Ltd.",
+    "IATA": "8G",
+    "ICAO": "NGE",
+    "website": "www.angelairlines.com",
+    "notes": "Founded in 1997. Ceased operations in 2006. Designator 8G reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.012987"
+  },
+  {
+    "name": "Asia Atlantic Airlines Co., Ltd",
+    "IATA": "HB",
+    "ICAO": "AAQ",
+    "website": "www.asiaatlanticairlines.com",
+    "notes": "Designator HB recalled by IATA. Founded in December 2012. Commenced operations on 19 August 2013. Ceased operations on 30 October 2018.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013004"
+  },
+  {
+    "name": "Asian Air Company Limited",
+    "IATA": "DM",
+    "ICAO": null,
+    "website": "www.asianair.co.th",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013020"
+  },
+  {
+    "name": "Ava Airlines Co., Ltd.",
+    "IATA": null,
+    "ICAO": "ASV",
+    "website": "www.avaairlines.co.th",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013035"
+  },
+  {
+    "name": "Air Inter Transport Co., Ltd. t/a Budget Lines",
+    "IATA": "BN",
+    "ICAO": "BGN",
+    "website": "flybudgetlines.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013051"
+  },
+  {
+    "name": "Business Air Centre Co. Ltd. t/a Business Air",
+    "IATA": "8B",
+    "ICAO": "BCC",
+    "website": "www.businessaircenter.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013067"
+  },
+  {
+    "name": "City Airways Company Limited dba City Airways",
+    "IATA": "E8",
+    "ICAO": "GTA",
+    "website": "www.cityairways.net",
+    "notes": "Commenced operations in September 2012. Suspended operations on 13 February 2016.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013084"
+  },
+  {
+    "name": "Eagle Air Co. Ltd.",
+    "IATA": null,
+    "ICAO": "EGX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013099"
+  },
+  {
+    "name": "Flyhy Cargo Airlines Ltd",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.flyhycargoairlines.com",
+    "notes": "Designator W3* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013116"
+  },
+  {
+    "name": "H.S. Aviation Co. Ltd",
+    "IATA": "HP",
+    "ICAO": "HSN",
+    "website": "www.hsavia.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013132"
+  },
+  {
+    "name": "Holiday Airlines Company",
+    "IATA": null,
+    "ICAO": "HLL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013147"
+  },
+  {
+    "name": "Jet Asia Airways Company Limited dba Jet Asia",
+    "IATA": "JF",
+    "ICAO": "JAA",
+    "website": "www.flyjetasia.com",
+    "notes": "Ceased operations during September 2020.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013164"
+  },
+  {
+    "name": "Jetgo International Co., Ltd.",
+    "IATA": null,
+    "ICAO": "JIC",
+    "website": "jetgointer.com",
+    "notes": "Established on 12 July 2004. Founded by Mr. Kachornsak Vongsakthavorn",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013180"
+  },
+  {
+    "name": "Journey Jet Co., Ltd.",
+    "IATA": null,
+    "ICAO": "JNJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013196"
+  },
+  {
+    "name": "Kannithi Aviation Company Limited d/b/a Kan Air",
+    "IATA": "K8",
+    "ICAO": "KND",
+    "website": "kanairlines.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013212"
+  },
+  {
+    "name": "Legacy Air Co., Ltd.",
+    "IATA": null,
+    "ICAO": "LGC",
+    "website": "legacyair.biz",
+    "notes": "Founded in 2009",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013228"
+  },
+  {
+    "name": "Nakorn Chiang Mai Airways",
+    "IATA": null,
+    "ICAO": "CMA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013244"
+  },
+  {
+    "name": "Sabaidee Airways Co., Ltd. t/a New Gen Airways",
+    "IATA": "E3",
+    "ICAO": "VGO",
+    "website": "www.newgenairways.com",
+    "notes": "Name changed to NewGen Airways Compnay Limited t/a NewGen Airways.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013262"
+  },
+  {
+    "name": "NewGen Airways Compnay Limited t/a NewGen Airways",
+    "IATA": "E3",
+    "ICAO": "VGO",
+    "website": "www.newgenairways.com",
+    "notes": "Name changed from Sabaidee Airways Co., Ltd. t/a New Gen Airways.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013279"
+  },
+  {
+    "name": "Nine Star Airways Co. Ltd.",
+    "IATA": null,
+    "ICAO": "NSR",
+    "website": "9-air.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013295"
+  },
+  {
+    "name": "Sky Asia Co. Ltd. d/b/a Nok Air",
+    "IATA": "DD",
+    "ICAO": "NOK",
+    "website": "www.nokair.com",
+    "notes": "Name changed to Nok Airlines Co., Ltd. w.e.f. 18 January 2013",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013311"
+  },
+  {
+    "name": "Nok Airlines Company Limited",
+    "IATA": "DD",
+    "ICAO": "NOK",
+    "website": "www.nokair.com",
+    "notes": "Sky Asia Co. Ltd. d/b/a Nok Air w.e.f. 16 Janaury 2006. Name changed to Nok Airlines Public Co., Ltd. d/b/a Nok Air w.e.f. 18 January 2013.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013330"
+  },
+  {
+    "name": "Siam General Aviation Company Limited d/b/a Nok Mini Airlines",
+    "IATA": null,
+    "ICAO": "SGN",
+    "website": "www.nokmini.com",
+    "notes": "Ceased Operations during 2014.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013347"
+  },
+  {
+    "name": "NokScoot Airlines Company Limited",
+    "IATA": "XW",
+    "ICAO": "NCT",
+    "website": "nokscoot.com",
+    "notes": "Founded on 20 August 2014. Commenced operations on 20 May 2015. Ceased operations on 26 June 2020. NokScoot is a joint venture of Thailand's Nok Air and Singapore based Scoot.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013364"
+  },
+  {
+    "name": "One Two Go Airlines Co. Ltd.",
+    "IATA": "OG",
+    "ICAO": "OTG",
+    "website": "www.fly12go.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013380"
+  },
+  {
+    "name": "Orient Thai Airlines",
+    "IATA": null,
+    "ICAO": "OEA",
+    "website": "www.orient-thai.com",
+    "notes": "Designator OX* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013396"
+  },
+  {
+    "name": "Orient Thai Airlines Company Limited",
+    "IATA": "OX",
+    "ICAO": "OEA",
+    "website": "www.orient-thai.com",
+    "notes": "IATA designator changed from OX*. Designator OX* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013413"
+  },
+  {
+    "name": "Orient Thai Airlines",
+    "IATA": null,
+    "ICAO": "OEA",
+    "website": null,
+    "notes": "IATA designator changed to OX. Designator OX* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013430"
+  },
+  {
+    "name": "P.C. Air Co., Ltd.",
+    "IATA": "GT",
+    "ICAO": "PCA",
+    "website": "www.pcairline.com",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013447"
+  },
+  {
+    "name": "PB Air Company Limited",
+    "IATA": null,
+    "ICAO": "PBA",
+    "website": "www.pbair.com",
+    "notes": "Designator 9Q* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013463"
+  },
+  {
+    "name": "PB Air Company Limited",
+    "IATA": null,
+    "ICAO": "PBA",
+    "website": "www.pbair.com",
+    "notes": "Ceased operation on 21 December 2009. Designator 9Q* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013480"
+  },
+  {
+    "name": "Pete Air Co., Ltd.",
+    "IATA": "XW",
+    "ICAO": "NCT",
+    "website": null,
+    "notes": "Name changed to Nokscoot",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013496"
+  },
+  {
+    "name": "Phuket Airlines Co. Ltd.",
+    "IATA": "9R",
+    "ICAO": "VAP",
+    "website": "www.phuketairlines.com",
+    "notes": "Ceased operations during 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013512"
+  },
+  {
+    "name": "Platinum Airways Co. Ltd.",
+    "IATA": null,
+    "ICAO": "PIP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013528"
+  },
+  {
+    "name": "Skyview Airways Co., Ltd. d/b/a Skyview",
+    "IATA": "RK",
+    "ICAO": "RCT",
+    "website": "www.thairairline.com",
+    "notes": "Founded in 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013544"
+  },
+  {
+    "name": "Rayani Air Sdn. Bhd.",
+    "IATA": "RN",
+    "ICAO": "RKT",
+    "website": "www.rayaniair.com",
+    "notes": "Founded on 19 January 2015. Commenced operations on 20 December 2015. Ceased operations on 13 June 2016.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013560"
+  },
+  {
+    "name": "Siam Air Transport Co., Ltd.",
+    "IATA": "O8",
+    "ICAO": "SQM",
+    "website": "www.siamair.co.th",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013576"
+  },
+  {
+    "name": "Siam Global Air Co., Ltd.",
+    "IATA": null,
+    "ICAO": "CAH",
+    "website": "siamairglobal.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013591"
+  },
+  {
+    "name": "Si-Chang Flying Service Co., Ltd.",
+    "IATA": null,
+    "ICAO": "SCR",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013607"
+  },
+  {
+    "name": "Sky Eyes Co. Ltd.",
+    "IATA": "I6",
+    "ICAO": "SEQ",
+    "website": "www.skyeyesairways.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013623"
+  },
+  {
+    "name": "Skystar Airways Company Limited",
+    "IATA": "XT",
+    "ICAO": null,
+    "website": "www.skystarairways.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013639"
+  },
+  {
+    "name": "Solar Aviation Co. Ltd.",
+    "IATA": null,
+    "ICAO": "SRB",
+    "website": "www.solarair.co.th",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013655"
+  },
+  {
+    "name": "Sun Freight Logistics Company Limited",
+    "IATA": "UJ",
+    "ICAO": "SFG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013670"
+  },
+  {
+    "name": "Sunny Airways Company Limited",
+    "IATA": null,
+    "ICAO": "SUW",
+    "website": "www.sunnyair.co.th",
+    "notes": "Founded on 30 August 2010. Commenced operations on 18 January 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013687"
+  },
+  {
+    "name": "Thai Air Cargo Co., Ltd.",
+    "IATA": "T2",
+    "ICAO": "TCG",
+    "website": null,
+    "notes": "Designator T2 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013703"
+  },
+  {
+    "name": "Thai Air Cargo Co., Ltd.",
+    "IATA": "T2",
+    "ICAO": "TCG",
+    "website": "www.thaiaircargo.com",
+    "notes": "Designator T2 reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013720"
+  },
+  {
+    "name": "Thai Airways Co. Ltd.",
+    "IATA": "TH",
+    "ICAO": "TAC",
+    "website": null,
+    "notes": "Merged into Thai International",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013736"
+  },
+  {
+    "name": "Thai Cargo Airline Co., Ltd",
+    "IATA": null,
+    "ICAO": "PGC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013751"
+  },
+  {
+    "name": "Thai EastarJet Co., Ltd.",
+    "IATA": "ZT",
+    "ICAO": "ESS",
+    "website": "www.eastarjet.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013766"
+  },
+  {
+    "name": "Thai Express Air Co. Ltd",
+    "IATA": null,
+    "ICAO": "TXZ",
+    "website": null,
+    "notes": "Designator EX* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013782"
+  },
+  {
+    "name": "Thai Flying Service",
+    "IATA": "BM",
+    "ICAO": null,
+    "website": null,
+    "notes": "IATA designator changed to TF*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013798"
+  },
+  {
+    "name": "Thai Flying Service Co. Ltd.",
+    "IATA": "TF",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator TF recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013813"
+  },
+  {
+    "name": "Thai Global Airline Company Limited",
+    "IATA": null,
+    "ICAO": "THM",
+    "website": "www.thaiglobalairlines.com",
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013830"
+  },
+  {
+    "name": "Thai Jet International",
+    "IATA": null,
+    "ICAO": "THJ",
+    "website": "www.thai-jet.com",
+    "notes": "Designator A0* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013846"
+  },
+  {
+    "name": "Thai Pacific Airlines Business Company Ltd.",
+    "IATA": "3P",
+    "ICAO": "TPV",
+    "website": "www.flythaipacific.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013863"
+  },
+  {
+    "name": "Thai Regional Aviation Company Limited d/b/a Thai Regional",
+    "IATA": "RW",
+    "ICAO": "TRB",
+    "website": null,
+    "notes": "Designator RW recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013879"
+  },
+  {
+    "name": "Thai Regional Aviation Company Limited d/b/a Thai Regional",
+    "IATA": null,
+    "ICAO": "TRB",
+    "website": null,
+    "notes": "Name changed to Rabbit Wings Airways Company Limited. Designator RW recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013896"
+  },
+  {
+    "name": "Thai Star Airlines",
+    "IATA": "T9",
+    "ICAO": "TSX",
+    "website": "www.thaistarairlines.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013912"
+  },
+  {
+    "name": "Thai Vietjet Air Joint Stock Co., Ltd.",
+    "IATA": null,
+    "ICAO": "TVJ",
+    "website": "www.vietjetair.com/Sites/Web/th-TH/Home",
+    "notes": "IATA Designator changed to VZ",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013929"
+  },
+  {
+    "name": "Tik Systems (Thailand) Co. Ltd.",
+    "IATA": "T1",
+    "ICAO": null,
+    "website": "www.tiksystems.com",
+    "notes": "Computer Reservations Systems (CRS)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013946"
+  },
+  {
+    "name": "Tropical Sea Airlines",
+    "IATA": null,
+    "ICAO": "TSS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013961"
+  },
+  {
+    "name": "U Airlines Co. Ltd.",
+    "IATA": "YL",
+    "ICAO": "ULG",
+    "website": "www.u-airlines.com",
+    "notes": "Founded April 2012. IATA desinator YL recalled.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:14.013978"
+  }
+]

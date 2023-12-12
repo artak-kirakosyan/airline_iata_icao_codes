@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Air Kiribati Limited",
+    "IATA": "IK",
+    "ICAO": "AKL",
+    "website": "www.airkiribati.com.ki",
+    "notes": "Founded on 01 April 1995.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:58.751248"
+  },
+  {
+    "name": "Air Kiribati Limited",
+    "IATA": null,
+    "ICAO": "AKL",
+    "website": "www.airkiribati.com.ki",
+    "notes": "Founded on 01 April 1995.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:58.751276"
+  },
+  {
+    "name": "Air Tungaru",
+    "IATA": "RT",
+    "ICAO": "TUN",
+    "website": null,
+    "notes": "Desigantor RT recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:58.751295"
+  }
+]

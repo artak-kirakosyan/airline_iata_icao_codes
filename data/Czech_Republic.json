@@ -1,0 +1,722 @@
+[
+  {
+    "name": "ABAS",
+    "IATA": null,
+    "ICAO": "MRP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.095979"
+  },
+  {
+    "name": "ABS Jets",
+    "IATA": null,
+    "ICAO": "ABP",
+    "website": "www.absjets.cz",
+    "notes": "Name changed from Aba Air",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096014"
+  },
+  {
+    "name": "Aero Vodochody",
+    "IATA": null,
+    "ICAO": "AOD",
+    "website": "www.aero.cz",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096036"
+  },
+  {
+    "name": "Aeropartner s.r.o.",
+    "IATA": null,
+    "ICAO": "DFC",
+    "website": "www.aeropartner.cz",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096057"
+  },
+  {
+    "name": "Aerotaxi S.r.o.",
+    "IATA": null,
+    "ICAO": "ITE",
+    "website": "www.aerotaxi.eu",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096077"
+  },
+  {
+    "name": "Air Bohemia A.S.",
+    "IATA": null,
+    "ICAO": "BOH",
+    "website": "www.airbohemia.cz",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096095"
+  },
+  {
+    "name": "Air Navigation Services of the Czech Republic",
+    "IATA": null,
+    "ICAO": "CBA",
+    "website": "www.ans.cz",
+    "notes": "Name changed from Civil Aviation Inspectorate of the Czech Republic.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096115"
+  },
+  {
+    "name": "Air Prague s.r.o.",
+    "IATA": null,
+    "ICAO": "PRG",
+    "website": "www.airprague.eu",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096134"
+  },
+  {
+    "name": "Air Special",
+    "IATA": null,
+    "ICAO": "ASX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096152"
+  },
+  {
+    "name": "Airstream a.s.",
+    "IATA": null,
+    "ICAO": "AQS",
+    "website": "www.airstreamjets.cz",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096169"
+  },
+  {
+    "name": "Alfa Air s.r.o.",
+    "IATA": null,
+    "ICAO": "AFA",
+    "website": "www.alfa-air.cz",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096186"
+  },
+  {
+    "name": "Alpha Aviation s.r.o.",
+    "IATA": null,
+    "ICAO": "AAO",
+    "website": "www.alpha-aviation.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096202"
+  },
+  {
+    "name": "Blue Sky Airways",
+    "IATA": null,
+    "ICAO": "BSW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096219"
+  },
+  {
+    "name": "Cis-Air",
+    "IATA": null,
+    "ICAO": "CSR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096235"
+  },
+  {
+    "name": "Civil Aviation Authority of the Czech Republic",
+    "IATA": null,
+    "ICAO": "CAA",
+    "website": "www.caa.cz",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096252"
+  },
+  {
+    "name": "Crown Air Ltd.",
+    "IATA": null,
+    "ICAO": "OWR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096269"
+  },
+  {
+    "name": "CTR Atmospherica Aviation A.S.",
+    "IATA": null,
+    "ICAO": "AAN",
+    "website": "www.atmospherica.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096287"
+  },
+  {
+    "name": "Czech Air Force",
+    "IATA": null,
+    "ICAO": "CEF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096302"
+  },
+  {
+    "name": "Czech Air Handling",
+    "IATA": null,
+    "ICAO": "AHD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096320"
+  },
+  {
+    "name": "Czech Airlines A.S. , CSA",
+    "IATA": "OK",
+    "ICAO": "CSA",
+    "website": "www.czech-airlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096337"
+  },
+  {
+    "name": "Czech Government Flying Service",
+    "IATA": null,
+    "ICAO": "CIE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096354"
+  },
+  {
+    "name": "Deltex",
+    "IATA": null,
+    "ICAO": "DTX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096370"
+  },
+  {
+    "name": "\u00c9clair Aviation",
+    "IATA": null,
+    "ICAO": "ECC",
+    "website": "www.eclair.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096386"
+  },
+  {
+    "name": "F Air",
+    "IATA": null,
+    "ICAO": "FAP",
+    "website": "www.f-air.cz",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096402"
+  },
+  {
+    "name": "Georgia Air Prague",
+    "IATA": null,
+    "ICAO": "PGU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096418"
+  },
+  {
+    "name": "G-Jet s.r.o.",
+    "IATA": null,
+    "ICAO": "GSJ",
+    "website": "g-jet.eu",
+    "notes": "Name changed from Grossmann Jet Service s.r.o.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096434"
+  },
+  {
+    "name": "Helicopter",
+    "IATA": null,
+    "ICAO": "HCP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096451"
+  },
+  {
+    "name": "I.D.G. Technology Air",
+    "IATA": null,
+    "ICAO": "IDG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096468"
+  },
+  {
+    "name": "Jetbee Czech s.r.o.",
+    "IATA": null,
+    "ICAO": "JBC",
+    "website": "www.jetbee.aero",
+    "notes": "Name changed from Praga Aviation S.r.o. ICAO designator changed from PGG.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096485"
+  },
+  {
+    "name": "Kovar Air",
+    "IATA": null,
+    "ICAO": "WOK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096501"
+  },
+  {
+    "name": "L R Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "LRB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096518"
+  },
+  {
+    "name": "Let J.S.C.",
+    "IATA": null,
+    "ICAO": "LEK",
+    "website": "www.let.cz",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096534"
+  },
+  {
+    "name": "Light Aircraft Association of The Czech Republic",
+    "IATA": null,
+    "ICAO": "MOK",
+    "website": "en.laacr.cz",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096552"
+  },
+  {
+    "name": "Nav Flight Planning",
+    "IATA": null,
+    "ICAO": "NAV",
+    "website": "www.nav.cz",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096568"
+  },
+  {
+    "name": "OK Business Aircraft",
+    "IATA": null,
+    "ICAO": "NTF",
+    "website": "www.ok-aviation.cz/en",
+    "notes": "Name changed from Piper OK",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096585"
+  },
+  {
+    "name": "Olimex",
+    "IATA": null,
+    "ICAO": "OLX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096601"
+  },
+  {
+    "name": "QA Aviation s.r.o.",
+    "IATA": null,
+    "ICAO": "QAV",
+    "website": "www.queenair.cz",
+    "notes": "ICAO designator changed from QNR w.e.f. 01 June 2022.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096619"
+  },
+  {
+    "name": "Silesia Air J.S.C.",
+    "IATA": null,
+    "ICAO": "SUA",
+    "website": "www.silesiaair.cz/en/index.php",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096637"
+  },
+  {
+    "name": "Silver Air spol. s.r.o.",
+    "IATA": null,
+    "ICAO": "SLD",
+    "website": "www.silverair.cz",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096654"
+  },
+  {
+    "name": "Smartwings, a.s.",
+    "IATA": "QS",
+    "ICAO": "TVS",
+    "website": "www.travelservice.aero",
+    "notes": "Name changed from Travel Service, a.s. w.e.f. 10 December 2018. Designator QS reinstated by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096673"
+  },
+  {
+    "name": "T-air Spol s.r.o.",
+    "IATA": null,
+    "ICAO": "TTV",
+    "website": "www.t-air.cz",
+    "notes": "Part of TTV Group.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096690"
+  },
+  {
+    "name": "Terrex Group",
+    "IATA": null,
+    "ICAO": "MXG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096707"
+  },
+  {
+    "name": "Time Air, s.r.o.",
+    "IATA": null,
+    "ICAO": "TIE",
+    "website": "www.timeair.cz",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096723"
+  },
+  {
+    "name": "Topair",
+    "IATA": null,
+    "ICAO": "TPI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096739"
+  },
+  {
+    "name": "UG Jet, s.r.o.",
+    "IATA": null,
+    "ICAO": "UGJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096755"
+  },
+  {
+    "name": "Van Air Europe a.s.",
+    "IATA": "V9",
+    "ICAO": "VAA",
+    "website": "www.vanair.org",
+    "notes": "Founded in 2004.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096771"
+  },
+  {
+    "name": "Xair Brno",
+    "IATA": null,
+    "ICAO": "XAE",
+    "website": "www.xair.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:45.096786"
+  },
+  {
+    "name": "Smart Wings",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.smartwings.net",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:45.096803"
+  },
+  {
+    "name": "Smartwings",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.smartwings.net",
+    "notes": "Low-cost arm of Travel Service QS/TVS",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:45.096820"
+  },
+  {
+    "name": "Aba Air",
+    "IATA": null,
+    "ICAO": "ABP",
+    "website": "www.abaair.cz",
+    "notes": "Name changed to ABS Jets",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:45.096836"
+  },
+  {
+    "name": "Aerocharter",
+    "IATA": null,
+    "ICAO": "STX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:45.096851"
+  },
+  {
+    "name": "Air Moravia",
+    "IATA": null,
+    "ICAO": "MAI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:45.096867"
+  },
+  {
+    "name": "Air Moravia Czech Charter Airline Ltd.",
+    "IATA": null,
+    "ICAO": "MOA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:45.096883"
+  },
+  {
+    "name": "Air Ostrava",
+    "IATA": "8K",
+    "ICAO": "VTR",
+    "website": "www.airostrava.cz",
+    "notes": "Ceased operations in 2000.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:45.096900"
+  },
+  {
+    "name": "Air Services Ltd.",
+    "IATA": null,
+    "ICAO": "RIS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:45.096916"
+  },
+  {
+    "name": "Air Terrex",
+    "IATA": null,
+    "ICAO": "TRX",
+    "website": null,
+    "notes": "Name changed to Air Slovakia during 1995. ICAO designator cahnegd to SVK. Established on 2 June 1993.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:45.096933"
+  },
+  {
+    "name": "Bemoair",
+    "IATA": null,
+    "ICAO": "BMI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:45.096948"
+  },
+  {
+    "name": "Central Charter Airlines, A.S. (Central Connect Airlines)",
+    "IATA": "CQ",
+    "ICAO": "CCG",
+    "website": "www.flycca.cz",
+    "notes": "Founded in 2005. Ceased operations by 30 June 2014. Part of the Central Connect Group. IATA designator changed from 3B*.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:45.096966"
+  },
+  {
+    "name": "Central Charter Airlines, A.S. (Central Connect Airlines)",
+    "IATA": null,
+    "ICAO": "CCG",
+    "website": "www.flycca.cz",
+    "notes": "IATA designator changed to CQ. Part of the Central Connect Group.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:45.096984"
+  },
+  {
+    "name": "Job Air s.r.o. (Central Connect Airlines)",
+    "IATA": null,
+    "ICAO": "JBR",
+    "website": "www.jobair.cz",
+    "notes": "Ceased operations on 30 June 2014. Part of the Central Connect Group.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:45.097001"
+  },
+  {
+    "name": "Central European Airlines",
+    "IATA": null,
+    "ICAO": "CMA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:45.097016"
+  },
+  {
+    "name": "Civil Aviation Inspectorate of the Czech Republic",
+    "IATA": null,
+    "ICAO": "CBA",
+    "website": "www.caa.cz",
+    "notes": "Name changed to Air Navigation Services of the Czech Republic.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:45.097034"
+  },
+  {
+    "name": "CZ Airlines, J.S.C.",
+    "IATA": null,
+    "ICAO": "OKC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:45.097050"
+  },
+  {
+    "name": "Espeair",
+    "IATA": null,
+    "ICAO": "ESP",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:45.097066"
+  },
+  {
+    "name": "Eurojet Servis s.r.o.",
+    "IATA": null,
+    "ICAO": "EJS",
+    "website": "www.eurojet.cz",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:45.097082"
+  },
+  {
+    "name": "Eurovia Air",
+    "IATA": null,
+    "ICAO": "EAY",
+    "website": null,
+    "notes": "Never started operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:45.097098"
+  },
+  {
+    "name": "Fischer Air s.r.o.",
+    "IATA": "8F",
+    "ICAO": "FFR",
+    "website": "www.fischer.cz",
+    "notes": "Designator 8F reinstated by IATA. Established on 26 July 1996 and started operations on 30 April 1997. Ceased operations in 2005",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:45.097115"
+  },
+  {
+    "name": "Grossmann Jet Service s.r.o.",
+    "IATA": null,
+    "ICAO": "GSJ",
+    "website": "www.grossmannjet.com",
+    "notes": "Name changed to G-Jet s.r.o.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:45.097131"
+  },
+  {
+    "name": "Holidays Czech Airlines",
+    "IATA": "HC",
+    "ICAO": "HCC",
+    "website": "www.holidayscsa.com",
+    "notes": "Designator HC recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:45.097148"
+  },
+  {
+    "name": "Icec Tour Ltd.",
+    "IATA": null,
+    "ICAO": "DOS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:45.097163"
+  },
+  {
+    "name": "Intercom Ltd.",
+    "IATA": null,
+    "ICAO": "VKA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:45.097179"
+  },
+  {
+    "name": "Mostarez Air",
+    "IATA": null,
+    "ICAO": "MOE",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:45.097194"
+  },
+  {
+    "name": "Piper OK",
+    "IATA": null,
+    "ICAO": "NTF",
+    "website": "www.piper.cz",
+    "notes": "Name changed to OK Business Aircraft",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:45.097210"
+  },
+  {
+    "name": "Praga Aviation S.r.o.",
+    "IATA": null,
+    "ICAO": "PGG",
+    "website": "www.pragaglobal.com/aviation/",
+    "notes": "Name changed to Jetbee Czech S.r.o. ICAO designator changed to JBC.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:45.097227"
+  },
+  {
+    "name": "Queen Air s.r.o.",
+    "IATA": null,
+    "ICAO": "QNR",
+    "website": "www.queenair.cz",
+    "notes": "ICAO designator changed to QAV w.e.f. 01 June 2022.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:45.097244"
+  },
+  {
+    "name": "Regional Air Services",
+    "IATA": null,
+    "ICAO": "RAY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:45.097259"
+  },
+  {
+    "name": "Skoda Air",
+    "IATA": null,
+    "ICAO": "SOA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:45.097275"
+  },
+  {
+    "name": "Travel Service, a.s.",
+    "IATA": "QS",
+    "ICAO": "TVS",
+    "website": "www.travelservice.aero",
+    "notes": "Name changed to Smartwings, a.s. w.e.f. 10 December 2018. Designator QS reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:45.097293"
+  },
+  {
+    "name": "Travel Service, a.s.",
+    "IATA": "QS",
+    "ICAO": "TVS",
+    "website": null,
+    "notes": "Designator QS recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:45.097309"
+  },
+  {
+    "name": "TTT Air",
+    "IATA": null,
+    "ICAO": "TTU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:45.097324"
+  }
+]

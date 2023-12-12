@@ -1,0 +1,29 @@
+[
+  {
+    "name": "ToMontenegro d.o.o. d/b/a Air Montenegro",
+    "IATA": "4O",
+    "ICAO": "MNE",
+    "website": "airmontenegro.com",
+    "notes": "Name changed from ToMontenegro d.o.o.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:39.085805"
+  },
+  {
+    "name": "Montenegro Airlines",
+    "IATA": "YM",
+    "ICAO": "MGX",
+    "website": "www.montenegroairlines.com",
+    "notes": "Ceased operations in 25 December 2020. IATA designator changed from 1I",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:39.085833"
+  },
+  {
+    "name": "ToMontenegro d.o.o.",
+    "IATA": null,
+    "ICAO": "MNE",
+    "website": null,
+    "notes": "Name changed to Air Montenegro.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:39.085851"
+  }
+]

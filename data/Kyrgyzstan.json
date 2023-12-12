@@ -1,0 +1,677 @@
+[
+  {
+    "name": "Aero Nomad Airlines, LLC",
+    "IATA": "KA",
+    "ICAO": "ANK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:04.971669"
+  },
+  {
+    "name": "AeroStan Aircompany",
+    "IATA": null,
+    "ICAO": "BSC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:04.971697"
+  },
+  {
+    "name": "Air KG",
+    "IATA": null,
+    "ICAO": "KGC",
+    "website": "www.airkg.kg",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:04.971715"
+  },
+  {
+    "name": "Air Manas Air Company LLC",
+    "IATA": "ZM",
+    "ICAO": "MBB",
+    "website": "airmanas.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:04.971734"
+  },
+  {
+    "name": "Alfa KR",
+    "IATA": null,
+    "ICAO": "AKD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:04.971751"
+  },
+  {
+    "name": "Avia Traffic Company LLC",
+    "IATA": "YK",
+    "ICAO": "AVJ",
+    "website": "www.aero.kg",
+    "notes": "IATA designator changed from Z7",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:04.971769"
+  },
+  {
+    "name": "Biz Jet Charter, Inc.",
+    "IATA": null,
+    "ICAO": "VLX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:04.971785"
+  },
+  {
+    "name": "British Gulf International Airlines -Fez",
+    "IATA": null,
+    "ICAO": "BGK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:04.971801"
+  },
+  {
+    "name": "Air Company CAAS",
+    "IATA": null,
+    "ICAO": "KAS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:04.971818"
+  },
+  {
+    "name": "Fly Sky Airlines LLC",
+    "IATA": null,
+    "ICAO": "FSQ",
+    "website": "www.flysky.co",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:04.971834"
+  },
+  {
+    "name": "Kyrgyz Air",
+    "IATA": null,
+    "ICAO": "KAF",
+    "website": "www.kyrgyzair.com",
+    "notes": "Designator KT recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:04.971851"
+  },
+  {
+    "name": "MAK.kg Airlines",
+    "IATA": null,
+    "ICAO": "MSK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:04.971868"
+  },
+  {
+    "name": "Aircompany Moalem Aviation",
+    "IATA": null,
+    "ICAO": "AMA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:04.971883"
+  },
+  {
+    "name": "New Way Cargo Airlines LLC",
+    "IATA": null,
+    "ICAO": "NWY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:04.971899"
+  },
+  {
+    "name": "Phoenix Aviation Air Company",
+    "IATA": null,
+    "ICAO": "PHG",
+    "website": null,
+    "notes": "Designator P3 recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:04.971916"
+  },
+  {
+    "name": "Sapsan Airlines d/b/a SAPSAN Airline",
+    "IATA": null,
+    "ICAO": "KGB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:04.971932"
+  },
+  {
+    "name": "Sky Fru",
+    "IATA": null,
+    "ICAO": "KGZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:04.971948"
+  },
+  {
+    "name": "Sky KG Airlines",
+    "IATA": null,
+    "ICAO": "KGK",
+    "website": "skykgairlines.com",
+    "notes": "Designator Y3 recalled by IATA.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:04.971965"
+  },
+  {
+    "name": "SkyJet",
+    "IATA": null,
+    "ICAO": "SJL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:04.971980"
+  },
+  {
+    "name": "Tez Jet Airlines",
+    "IATA": null,
+    "ICAO": "TEZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:04.971996"
+  },
+  {
+    "name": "Trans Caravan KG",
+    "IATA": null,
+    "ICAO": "TCK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:04.972011"
+  },
+  {
+    "name": "Aerolynx",
+    "IATA": null,
+    "ICAO": "KLS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972028"
+  },
+  {
+    "name": "Aerovista Airlines",
+    "IATA": null,
+    "ICAO": "AAP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972044"
+  },
+  {
+    "name": "Air Bishkek Aircompany d/b/a Air Bishkek Ltd.",
+    "IATA": "KR",
+    "ICAO": "EAA",
+    "website": "www.airbishkek.kg/en/",
+    "notes": "Ceased operations in February 2016. Name changed from Kyrgyz Airways d/b/a Kyrgyz Airways Ltd. Air Company. Name changed from Eastok Avia.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972062"
+  },
+  {
+    "name": "Air Bishkek",
+    "IATA": null,
+    "ICAO": "EAA",
+    "website": null,
+    "notes": "Name changed from Kyrgyz Airways d/b/a Kyrgyz Airways Ltd. Air Company. Name changed from Eastok Avia.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972079"
+  },
+  {
+    "name": "Air Central Asia",
+    "IATA": null,
+    "ICAO": "AAT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972095"
+  },
+  {
+    "name": "OJSC Air Kyrgyzstan",
+    "IATA": "QH",
+    "ICAO": "LYN",
+    "website": "www.air.kg",
+    "notes": "Name changed from Aircompany \"Kyrgyzstan\". Name changed from Altyn Air Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972112"
+  },
+  {
+    "name": "Air Manas d/b/a Air Manas Ltd. Air Company",
+    "IATA": "ZM",
+    "ICAO": "MBB",
+    "website": "airmanas.com",
+    "notes": "Founded in 2006. Ceased operations. IATA designator changed to M2*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972129"
+  },
+  {
+    "name": "Air Manas d/b/a Air Manas Ltd. Air Company",
+    "IATA": null,
+    "ICAO": "MBB",
+    "website": "airmanas.com",
+    "notes": "Founded in 2006. IATA designator changed to ZM",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972146"
+  },
+  {
+    "name": "Aircompany \"Kyrgyzstan\"",
+    "IATA": "QH",
+    "ICAO": "LYN",
+    "website": null,
+    "notes": "Name changed to OJSC Air Kyrgyzstan. Name changed from Altyn Air Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972163"
+  },
+  {
+    "name": "Altyn Air Airlines",
+    "IATA": "QH",
+    "ICAO": "LYN",
+    "website": null,
+    "notes": "Name changed to Aircompany \"Kyrgyzstan\"",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972183"
+  },
+  {
+    "name": "Asian Air",
+    "IATA": "KJ",
+    "ICAO": "AAZ",
+    "website": "www.asianair.aero",
+    "notes": "AOC suspended on 07 February 2016.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972199"
+  },
+  {
+    "name": "Avia Traffic Company LLC",
+    "IATA": "Z7",
+    "ICAO": "AVJ",
+    "website": "www.aero.kg",
+    "notes": "IATA designator changed to YK",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972216"
+  },
+  {
+    "name": "Bistar - Fez",
+    "IATA": null,
+    "ICAO": "BSC",
+    "website": null,
+    "notes": "Ceased operations in 2012",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972233"
+  },
+  {
+    "name": "Botir Avia",
+    "IATA": null,
+    "ICAO": "BTR",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972250"
+  },
+  {
+    "name": "Cargo Avia",
+    "IATA": null,
+    "ICAO": "CCB",
+    "website": "www.ilavia.ru",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972266"
+  },
+  {
+    "name": "Central Asian Services",
+    "IATA": null,
+    "ICAO": "CBK",
+    "website": "www.casgservices.com",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972282"
+  },
+  {
+    "name": "Click Airways",
+    "IATA": null,
+    "ICAO": "CGK",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972298"
+  },
+  {
+    "name": "D & K Aviation, Inc.",
+    "IATA": null,
+    "ICAO": "DNL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972314"
+  },
+  {
+    "name": "DAMES, Department of aviation under the Ministry of Emergency Situaion",
+    "IATA": null,
+    "ICAO": "DAM",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972330"
+  },
+  {
+    "name": "Eastok Avia",
+    "IATA": null,
+    "ICAO": "EAA",
+    "website": "www.eastokavia.com",
+    "notes": "Name changed to Kyrgyz Airways d/b/a Kyrgyz Airways Ltd. Air Company",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972347"
+  },
+  {
+    "name": "Aircompany \"Esen Air\"",
+    "IATA": "K9",
+    "ICAO": "ESD",
+    "website": null,
+    "notes": "Founded in 2006. Ceased operations in 2008.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972364"
+  },
+  {
+    "name": "FAB-Air",
+    "IATA": null,
+    "ICAO": "FBA",
+    "website": null,
+    "notes": "Ceased Operations in 2007",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972380"
+  },
+  {
+    "name": "Galaxy Air",
+    "IATA": "7O",
+    "ICAO": "GAL",
+    "website": "www.galaxy.aero",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972397"
+  },
+  {
+    "name": "GATS Bishkek Ltd.",
+    "IATA": null,
+    "ICAO": "GTS",
+    "website": null,
+    "notes": "Name changed from GATS Guinea, S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972414"
+  },
+  {
+    "name": "Intal Avia",
+    "IATA": null,
+    "ICAO": "INL",
+    "website": null,
+    "notes": "Ceased Operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972431"
+  },
+  {
+    "name": "Inter Trans Avia",
+    "IATA": "Y5",
+    "ICAO": "ITD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972447"
+  },
+  {
+    "name": "Air Company Itek-Air Ltd.",
+    "IATA": "GI",
+    "ICAO": "IKA",
+    "website": "www.itekair.kg",
+    "notes": "Founded in 1999. Ceased operations in 2010.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972465"
+  },
+  {
+    "name": "KAP.kg Aircompany LLC",
+    "IATA": null,
+    "ICAO": "KGS",
+    "website": "www.kap.kg",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972481"
+  },
+  {
+    "name": "KAS Air Company",
+    "IATA": "KW",
+    "ICAO": "KSD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972496"
+  },
+  {
+    "name": "Kvadro Aero Ltd.",
+    "IATA": null,
+    "ICAO": "QVR",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972512"
+  },
+  {
+    "name": "Kyrghyzstan Airlines",
+    "IATA": "K2",
+    "ICAO": "KGY",
+    "website": null,
+    "notes": "ICAO designator changed from KGA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972528"
+  },
+  {
+    "name": "Kyrghyzstan Airlines",
+    "IATA": "K2",
+    "ICAO": "KGA",
+    "website": null,
+    "notes": "ICAO designator changed to KGY",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972544"
+  },
+  {
+    "name": "Kyrgyz Air",
+    "IATA": "KT",
+    "ICAO": "KAF",
+    "website": "www.kyrgyzair.com",
+    "notes": "Designator KT recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972560"
+  },
+  {
+    "name": "Kyrgyz Airlines",
+    "IATA": null,
+    "ICAO": "KGZ",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972576"
+  },
+  {
+    "name": "Kyrgyz Airways Limited",
+    "IATA": "KH",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator KH recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972592"
+  },
+  {
+    "name": "Kyrgyz Airways d/b/a Kyrgyz Airways Ltd. Air Company",
+    "IATA": null,
+    "ICAO": "EAA",
+    "website": null,
+    "notes": "Name changed to Air Bishkek. Name changed from Eastok Avia.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972609"
+  },
+  {
+    "name": "Kyrgyz General Aviation",
+    "IATA": null,
+    "ICAO": "KGB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972624"
+  },
+  {
+    "name": "Kyrgyz International Airlines",
+    "IATA": "N5",
+    "ICAO": "KRS",
+    "website": null,
+    "notes": "ICAO designator changed to KYL",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972642"
+  },
+  {
+    "name": "Kyrgyz International Airlines",
+    "IATA": "N5",
+    "ICAO": "KYL",
+    "website": null,
+    "notes": "ICAO designator changed from KRS",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972658"
+  },
+  {
+    "name": "Kyrgyz Trans Avia Ltd. Airline",
+    "IATA": "6K",
+    "ICAO": "KTC",
+    "website": "www.kta.kg",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972675"
+  },
+  {
+    "name": "Kyrgyzstan Airlines / National Airline",
+    "IATA": "R8",
+    "ICAO": "KGA",
+    "website": "kyrgyzstanairlines.kg",
+    "notes": "Founded in 1993. Ceased operations in 2005.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972692"
+  },
+  {
+    "name": "Manas Air",
+    "IATA": "MV",
+    "ICAO": "KGM",
+    "website": "www.airmanas.com",
+    "notes": "Ceased Operations in 2001",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972708"
+  },
+  {
+    "name": "Manas Air",
+    "IATA": null,
+    "ICAO": "KGM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972724"
+  },
+  {
+    "name": "Manas Airways",
+    "IATA": null,
+    "ICAO": "BAM",
+    "website": null,
+    "notes": "Ceased Operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972740"
+  },
+  {
+    "name": "Osh",
+    "IATA": null,
+    "ICAO": "OAB",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972756"
+  },
+  {
+    "name": "Phoenix Aviation Air Company",
+    "IATA": "P3",
+    "ICAO": "PHG",
+    "website": null,
+    "notes": "Designator P3 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972772"
+  },
+  {
+    "name": "S Group International",
+    "IATA": null,
+    "ICAO": "IND",
+    "website": null,
+    "notes": "Founded in 2013. Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972788"
+  },
+  {
+    "name": "Sky Bishkek",
+    "IATA": null,
+    "ICAO": "BIS",
+    "website": null,
+    "notes": "Ceased Operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972804"
+  },
+  {
+    "name": "Sky KG Airlines",
+    "IATA": "Y3",
+    "ICAO": "KGK",
+    "website": "skykgairlines.com",
+    "notes": "Designator Y3 recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972821"
+  },
+  {
+    "name": "Sky Way Air",
+    "IATA": null,
+    "ICAO": "SAB",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972836"
+  },
+  {
+    "name": "Aircompany Sun Light",
+    "IATA": null,
+    "ICAO": "SUH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972852"
+  },
+  {
+    "name": "Supreme Aviation",
+    "IATA": null,
+    "ICAO": "SGK",
+    "website": null,
+    "notes": "Ceased opeations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972868"
+  },
+  {
+    "name": "Tian-Shan Air Company",
+    "IATA": null,
+    "ICAO": "TAW",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972883"
+  },
+  {
+    "name": "Trast Aero",
+    "IATA": null,
+    "ICAO": "TSJ",
+    "website": "trastaero.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:04.972900"
+  }
+]

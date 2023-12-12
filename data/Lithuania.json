@@ -1,0 +1,407 @@
+[
+  {
+    "name": "Aeromanage, UAB",
+    "IATA": null,
+    "ICAO": "AGE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:14.403341"
+  },
+  {
+    "name": "Air Klaipeda",
+    "IATA": null,
+    "ICAO": "KLD",
+    "website": "www.airklaipeda.lt",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:14.403375"
+  },
+  {
+    "name": "Joint Stock Company Avion Express",
+    "IATA": "X9",
+    "ICAO": "NVD",
+    "website": "www.flyavex.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:14.403396"
+  },
+  {
+    "name": "Charter JETS, UAB",
+    "IATA": null,
+    "ICAO": "LTC",
+    "website": "www.charterjets.lt",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:14.403415"
+  },
+  {
+    "name": "Classic Jet",
+    "IATA": null,
+    "ICAO": "LLT",
+    "website": "www.classicjet.lt",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:14.403433"
+  },
+  {
+    "name": "DAT LT UAB d/b/a DAT",
+    "IATA": "R6",
+    "ICAO": "DNU",
+    "website": "www.dot.lt",
+    "notes": "Name changed from Joint Stock Company Airlines \"DOT LT\" and previously from Danu Oro Transportas. IATA designator changed from W3",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:14.403452"
+  },
+  {
+    "name": "GetJet Airlines",
+    "IATA": null,
+    "ICAO": "GJT",
+    "website": "www.getjet.aero",
+    "notes": "Name changed from ORO Taksi, UAB.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:14.403470"
+  },
+  {
+    "name": "UAB GetJet Airlines",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.getjet.aero",
+    "notes": "Part of ORO Taksi Group. Established on 17 May 2016. Uses ORO Taksi ICAO Code (GJT).",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:14.403487"
+  },
+  {
+    "name": "UAB Global Airways",
+    "IATA": null,
+    "ICAO": "GBL",
+    "website": "flyglobal.eu",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:14.403505"
+  },
+  {
+    "name": "UAB Heston Airlines JSC",
+    "IATA": null,
+    "ICAO": "HST",
+    "website": "heston.aero",
+    "notes": "IATA Prefix code 680 recalled.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:14.403525"
+  },
+  {
+    "name": "UAB Jump Air",
+    "IATA": null,
+    "ICAO": "JUP",
+    "website": "www.jump-airways.com",
+    "notes": "AOC received on 31 December 2021.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:14.403543"
+  },
+  {
+    "name": "JSC KlasJet",
+    "IATA": null,
+    "ICAO": "KLJ",
+    "website": "www.klasjet.aero",
+    "notes": "Name changed from JSC Verslo Skrydziai t/a KlasJet.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:14.403560"
+  },
+  {
+    "name": "Lithuanian Air Force Safety Department",
+    "IATA": null,
+    "ICAO": "LYF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:14.403577"
+  },
+  {
+    "name": "UAB AK, Transaviabaltika",
+    "IATA": null,
+    "ICAO": "KTB",
+    "website": "transaviabaltika.lt",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:14.403593"
+  },
+  {
+    "name": "AviaAM Leasing",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.aviaam.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:14.403610"
+  },
+  {
+    "name": "Air Lithuania",
+    "IATA": "TT",
+    "ICAO": "KLA",
+    "website": "www.airlithuania.lt",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:14.403627"
+  },
+  {
+    "name": "Air Lituancia",
+    "IATA": "LT",
+    "ICAO": "LTU",
+    "website": "www.airlituanica.com",
+    "notes": "Founded in May 2013. Ceased operations on 22 May 2015.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:14.403644"
+  },
+  {
+    "name": "Joint Stock Company \"Amber Air\" Ltd",
+    "IATA": "0A",
+    "ICAO": "GNT",
+    "website": "www.amberair.it",
+    "notes": "Ceased Operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:14.403661"
+  },
+  {
+    "name": "Apatas Air",
+    "IATA": null,
+    "ICAO": "LYT",
+    "website": null,
+    "notes": "Rounded in 1994. Ceased operations in 2009.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:14.403677"
+  },
+  {
+    "name": "Aurela",
+    "IATA": null,
+    "ICAO": "LSK",
+    "website": "www.aurela.lt",
+    "notes": "Founded in 1996. Ceased operations on 18 February 2013.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:14.403694"
+  },
+  {
+    "name": "Aviabaltika",
+    "IATA": null,
+    "ICAO": "KAB",
+    "website": "www.aviabaltika.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:14.403710"
+  },
+  {
+    "name": "Aviapaslauga",
+    "IATA": null,
+    "ICAO": "AVX",
+    "website": "www.aviapaslauga.lt",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:14.403727"
+  },
+  {
+    "name": "Aviavilsa",
+    "IATA": null,
+    "ICAO": "LVR",
+    "website": "www.aviavilsa.lt",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:14.403743"
+  },
+  {
+    "name": "Baltijas Aviacijas Sistemas",
+    "IATA": null,
+    "ICAO": "LTT",
+    "website": "www.balticaviationsystems.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:14.403759"
+  },
+  {
+    "name": "Baltic Flight Academy",
+    "IATA": null,
+    "ICAO": "BTC",
+    "website": "www.balticaa.com",
+    "notes": "Name changed to BFA Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:14.403775"
+  },
+  {
+    "name": "BFA Airlines",
+    "IATA": null,
+    "ICAO": "BTC",
+    "website": null,
+    "notes": "Name changed from Baltic Flight Academy",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:14.403793"
+  },
+  {
+    "name": "Danu Oro Transportas",
+    "IATA": "R6",
+    "ICAO": "DNU",
+    "website": "www.dot.lt",
+    "notes": "Name changed to Joint Stock Company Airlines \"DOT LT\". IATA designator changed from W3",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:14.403811"
+  },
+  {
+    "name": "Danu Oro Transportas",
+    "IATA": "W3",
+    "ICAO": "DNU",
+    "website": null,
+    "notes": "IATA designator changed to R6",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:14.403829"
+  },
+  {
+    "name": "JSC DAT LT d/b/a DAT",
+    "IATA": "R6",
+    "ICAO": "DNU",
+    "website": "www.dot.lt",
+    "notes": "Name changed from Joint Stock Company Airlines \"DOT LT\" and previously from Danu Oro Transportas. IATA designator changed from W3",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:14.403846"
+  },
+  {
+    "name": "Dat Lite",
+    "IATA": null,
+    "ICAO": "DLT",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:14.403863"
+  },
+  {
+    "name": "FlyLAL-Lithuanian Airlines",
+    "IATA": "TE",
+    "ICAO": "LIL",
+    "website": "www.lal.lt",
+    "notes": "Ceased operations on 17 January 2009. Name changed from Lithuanian Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:14.403881"
+  },
+  {
+    "name": "FlyLAL Charters JSC",
+    "IATA": null,
+    "ICAO": "LLC",
+    "website": "www.flylalcharters.lt/en/",
+    "notes": "Name changed to Small Planet Airlines AS. during 2012. Part of the Avia Solutions Group.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:14.403899"
+  },
+  {
+    "name": "Gintarines Avialinous",
+    "IATA": null,
+    "ICAO": "GNT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:14.403914"
+  },
+  {
+    "name": "UAB Grand Cru Airlines",
+    "IATA": null,
+    "ICAO": "GCA",
+    "website": "www.gcairlines.aero",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:14.403931"
+  },
+  {
+    "name": "HC Airways JSC",
+    "IATA": null,
+    "ICAO": "HCW",
+    "website": "www.hcairways.lt",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:14.403948"
+  },
+  {
+    "name": "Joint Stock Company Airlines \"DOT LT\"",
+    "IATA": "R6",
+    "ICAO": "DNU",
+    "website": "www.dot.lt",
+    "notes": "Name changed from Danu Oro Transportas. Name changed to JSC DAT LT d/b/a DAT. IATA designator changed from W3",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:14.403967"
+  },
+  {
+    "name": "JSC Verslo Skrydziai t/a KlasJet",
+    "IATA": null,
+    "ICAO": "KLJ",
+    "website": "www.klasjet.aero",
+    "notes": "Name changed to JSC KlasJet.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:14.403984"
+  },
+  {
+    "name": "Lithuanian Airlines",
+    "IATA": "TE",
+    "ICAO": "LIL",
+    "website": "www.lal.lt",
+    "notes": "Name changed to FlyLAL-Lithuanian Airlines w.e.f. February 2007.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:14.404000"
+  },
+  {
+    "name": "Joint-Stock Company Nordic Solutions",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.nordicsolution.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:14.404017"
+  },
+  {
+    "name": "ORO Taksi, UAB",
+    "IATA": null,
+    "ICAO": "GJT",
+    "website": "www.orotaksi.lt",
+    "notes": "Name changed to GetJet Airlines in March 2016.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:14.404033"
+  },
+  {
+    "name": "Skraidybos Mokymo Centras",
+    "IATA": null,
+    "ICAO": "HRI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:14.404049"
+  },
+  {
+    "name": "Small Planet Airlines UAB",
+    "IATA": null,
+    "ICAO": "LLC",
+    "website": "www.smallplanet.aero",
+    "notes": "Ceased operations on 28 November 2018.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:14.404066"
+  },
+  {
+    "name": "Small Planet Airlines AS.",
+    "IATA": null,
+    "ICAO": "LLC",
+    "website": "www.smallplanet.aero",
+    "notes": "Name changed from FlyLAL Charters JSC. Part of the Avia Solutions Group.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:14.404083"
+  },
+  {
+    "name": "Sprintair Kaunus",
+    "IATA": null,
+    "ICAO": "SRA",
+    "website": "www.sprintair.eu",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:14.404099"
+  },
+  {
+    "name": "Star1 Airlines",
+    "IATA": "V9",
+    "ICAO": "HCW",
+    "website": "www.star1.lt",
+    "notes": "Suspended operations and filed for bankruptcy.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:14.404116"
+  }
+]

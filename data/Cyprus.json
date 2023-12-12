@@ -1,0 +1,245 @@
+[
+  {
+    "name": "Skyfive Airlines Limited t/a AIRWAZE",
+    "IATA": null,
+    "ICAO": "WZE",
+    "website": null,
+    "notes": "Planned startup with 2 x A320",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:43.957749"
+  },
+  {
+    "name": "Avtrasoft Limited",
+    "IATA": "T1",
+    "ICAO": null,
+    "website": null,
+    "notes": "Computer Reservations Systems (CRS)",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:43.957777"
+  },
+  {
+    "name": "Charlie Airlines Ltd. t/a Cyprus Airways",
+    "IATA": "CY",
+    "ICAO": "CYP",
+    "website": "www.cyprusairways.com",
+    "notes": "Parent company S7 Airlines (Russia). Commenced opeations on 01 June 2017. AOC granted 14 March 2017.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:43.957796"
+  },
+  {
+    "name": "Griffon Aviation (Cyprus) Limited",
+    "IATA": null,
+    "ICAO": "GFF",
+    "website": "www.griffonaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:43.957813"
+  },
+  {
+    "name": "Orion Airways",
+    "IATA": null,
+    "ICAO": "FOH",
+    "website": "flyorionairways.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:43.957829"
+  },
+  {
+    "name": "Synesis Aviation",
+    "IATA": null,
+    "ICAO": "SYP",
+    "website": "synesisaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:43.957845"
+  },
+  {
+    "name": "Tus Airways Ltd.",
+    "IATA": "U8",
+    "ICAO": "CYF",
+    "website": "www.tusairways.com",
+    "notes": "Established in June 2015.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:43.957862"
+  },
+  {
+    "name": "Aerotrans Airlines",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.aerotrans.net",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:43.957877"
+  },
+  {
+    "name": "Orion Airways",
+    "IATA": null,
+    "ICAO": null,
+    "website": "flyorionairways.com",
+    "notes": "Planned startup March 2017.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:43.957893"
+  },
+  {
+    "name": "Aerotrans Airlines Ltd.",
+    "IATA": "6F",
+    "ICAO": "PFO",
+    "website": "www.aerotrans.net",
+    "notes": "Desigantor 6F reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:43.957910"
+  },
+  {
+    "name": "Air Salamis Ltd.",
+    "IATA": null,
+    "ICAO": "SXL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:43.957926"
+  },
+  {
+    "name": "Ajet Aviation Ltd",
+    "IATA": "ZU",
+    "ICAO": "AJY",
+    "website": "www.ajet.com",
+    "notes": "Ceased operations on 06 November 2006. Name changed from Helios Airways Ltd w.e.f. 14 March 2006",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:43.957943"
+  },
+  {
+    "name": "Avistar (Cyprus) Limited",
+    "IATA": null,
+    "ICAO": "KJA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:43.957960"
+  },
+  {
+    "name": "Cobaltair Limited t/a Cobaltair",
+    "IATA": "CO",
+    "ICAO": "FCB",
+    "website": "www.cobalt.aero",
+    "notes": "Ceased operations on 18 October 2018. Entered voluntary liquidation on 19 December 2018. ICAO callsign changed from New Age.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:43.957977"
+  },
+  {
+    "name": "Cobaltair Limited t/a Cobaltair",
+    "IATA": "CO",
+    "ICAO": "FCB",
+    "website": "www.cobalt.aero",
+    "notes": "ICAO callsign changed to Apollo.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:43.957993"
+  },
+  {
+    "name": "Cyprair Tours Ltd.",
+    "IATA": "CB",
+    "ICAO": "CYC",
+    "website": null,
+    "notes": "Designator CB recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:43.958009"
+  },
+  {
+    "name": "Cypriair Tours Ltd.",
+    "IATA": "DC",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:43.958024"
+  },
+  {
+    "name": "Cyprus Airways Ltd.",
+    "IATA": "CY",
+    "ICAO": "CYP",
+    "website": "www.cyprusair.com.cy",
+    "notes": "Ceased operation on 09 January 2015.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:43.958040"
+  },
+  {
+    "name": "Eurocypria Airlines Ltd.",
+    "IATA": "UI",
+    "ICAO": "ECA",
+    "website": "www.eurocypria.com",
+    "notes": "Liquidated on 29 November 2010 after EU failed to approve merger with Cyprus Airways",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:43.958057"
+  },
+  {
+    "name": "Freedom Airways",
+    "IATA": null,
+    "ICAO": "FAS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:43.958072"
+  },
+  {
+    "name": "Helios Airways Ltd",
+    "IATA": "ZU",
+    "ICAO": "HCY",
+    "website": "www.helios-airways.com",
+    "notes": "Established on 23 September 1998. Commenced operations on 15 May 2000. Name changed to Ajet w.e.f. 14 March 2006. Helios Airways Ltd",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:43.958089"
+  },
+  {
+    "name": "Helios Airways Ltd",
+    "IATA": null,
+    "ICAO": "HCY",
+    "website": "www.helios-airways.com",
+    "notes": "IATA designator changed to ZU",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:43.958105"
+  },
+  {
+    "name": "Jenair Limited",
+    "IATA": null,
+    "ICAO": "JEN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:43.958120"
+  },
+  {
+    "name": "NCA Executive Express",
+    "IATA": null,
+    "ICAO": "NEW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:43.958135"
+  },
+  {
+    "name": "Sky Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "CKY",
+    "website": null,
+    "notes": "ICAO callsign changed to Sky Libra",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:43.958151"
+  },
+  {
+    "name": "Sky Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "CKY",
+    "website": null,
+    "notes": "ICAO callsign changed from Sky Cyprus",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:43.958167"
+  },
+  {
+    "name": "TEA Cyprus Ltd.",
+    "IATA": null,
+    "ICAO": "TEC",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:43.958183"
+  }
+]

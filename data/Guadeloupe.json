@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Air Caraibes",
+    "IATA": "TX",
+    "ICAO": "FWI",
+    "website": "www.aircaraibes.com",
+    "notes": "Name changed from La Caribeenne des Transport A\u00e9riens. Name change from Societe Nouvelle Air Gaudeloupe",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:24.807163"
+  },
+  {
+    "name": "Air Caraibes Atlantique",
+    "IATA": null,
+    "ICAO": "CAJ",
+    "website": "www.aircaraibes.com",
+    "notes": "Longhaul subsidiary of Air Caraibes",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:24.807191"
+  },
+  {
+    "name": "Air Guadeloupe (Soci\u00e9t\u00e9 Antillaise de Transport A\u00e9riens - SATA)",
+    "IATA": "OG",
+    "ICAO": "AGU",
+    "website": null,
+    "notes": "Founded on 21 May 1970. Merged with Air Martinique, Air Saint Barthelemy, and Air Saint Martin to form Air Caraibes during 2000.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:24.807211"
+  },
+  {
+    "name": "Air Guadeloupe",
+    "IATA": "TX",
+    "ICAO": "AGU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:24.807228"
+  },
+  {
+    "name": "Air St. Martin",
+    "IATA": "S6",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:24.807245"
+  },
+  {
+    "name": "Caraibes Air Transport",
+    "IATA": "WS",
+    "ICAO": "ISB",
+    "website": null,
+    "notes": "Designator WS recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:24.807261"
+  },
+  {
+    "name": "La Caribeenne des Transport A\u00e9riens",
+    "IATA": "TX",
+    "ICAO": "FWI",
+    "website": null,
+    "notes": "Name changed to Air Caraibes. Name change from Societe Nouvelle Air Gaudeloupe",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:24.807278"
+  },
+  {
+    "name": "Soci\u00e9t\u00e9 Nouvelle Air Gaudeloupe",
+    "IATA": "TX",
+    "ICAO": "FWI",
+    "website": null,
+    "notes": "Name change to La Caribeenne des Transport Aeriens",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:24.807295"
+  }
+]

@@ -1,0 +1,1001 @@
+[
+  {
+    "name": "Air & Training Center-West",
+    "IATA": null,
+    "ICAO": "BDI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.574581"
+  },
+  {
+    "name": "Air Alsie A/S",
+    "IATA": null,
+    "ICAO": "MMD",
+    "website": "www.alsie.com",
+    "notes": "ICAO designator changed from ALS",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.574623"
+  },
+  {
+    "name": "Air Support A/S",
+    "IATA": null,
+    "ICAO": "CPU",
+    "website": "www.airsupport.dk",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.574647"
+  },
+  {
+    "name": "Airborne LiDAR Mapping A/S",
+    "IATA": null,
+    "ICAO": "MAB",
+    "website": "www.airbornelidarmapping.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.574670"
+  },
+  {
+    "name": "airseven A/S",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.airseven.dk",
+    "notes": "Airseven flies under Copenhagen AirTaxi's operating license. Planned startup end 2020 with 2 x 737-400 Y168",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.574692"
+  },
+  {
+    "name": "Alsie Express",
+    "IATA": "6I",
+    "ICAO": "MMD",
+    "website": "www.alsieexpress.dk",
+    "notes": "Operated by Air Alsie",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.574713"
+  },
+  {
+    "name": "Bel Air Aviation A/S",
+    "IATA": null,
+    "ICAO": "BBX",
+    "website": "www.belair.dk",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.574731"
+  },
+  {
+    "name": "Bel Air Helicopters ApS",
+    "IATA": null,
+    "ICAO": "BEH",
+    "website": "www.belair.dk",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.574751"
+  },
+  {
+    "name": "Billund Air Center A/S",
+    "IATA": null,
+    "ICAO": "BIL",
+    "website": "billundaircenter.dk",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.574770"
+  },
+  {
+    "name": "Bioflight A/S",
+    "IATA": null,
+    "ICAO": "BIO",
+    "website": "bioflight.dk",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.574791"
+  },
+  {
+    "name": "Blackbird Air Charter A/S",
+    "IATA": null,
+    "ICAO": "BBB",
+    "website": "www.blackbirdair.com",
+    "notes": "Founded on 05 January 2015. Commeced operation on 01 October 2017.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.574813"
+  },
+  {
+    "name": "BlueWest Helicopters ApS",
+    "IATA": null,
+    "ICAO": "BWD",
+    "website": "bwh.is",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.574837"
+  },
+  {
+    "name": "Bornfly ApS",
+    "IATA": null,
+    "ICAO": "BOF",
+    "website": "bornfly.dk",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.574860"
+  },
+  {
+    "name": "CHC Denmark APS",
+    "IATA": null,
+    "ICAO": "HBI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.574885"
+  },
+  {
+    "name": "Copenhagen Airtaxi",
+    "IATA": null,
+    "ICAO": "CAT",
+    "website": "www.aircat.dk",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.574914"
+  },
+  {
+    "name": "Cowi A/S",
+    "IATA": null,
+    "ICAO": "COW",
+    "website": "www.cowi.dk",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.574945"
+  },
+  {
+    "name": "Danish Air Force",
+    "IATA": null,
+    "ICAO": "DAF",
+    "website": "www.forsvaret.dk/en/organisation/airforce/",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.574968"
+  },
+  {
+    "name": "Danish Air Transport",
+    "IATA": null,
+    "ICAO": "DTR",
+    "website": "www.dat.dk",
+    "notes": "Designator DX* reinstated by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.574999"
+  },
+  {
+    "name": "Danish Army",
+    "IATA": null,
+    "ICAO": "DAR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.575024"
+  },
+  {
+    "name": "Danish Navy",
+    "IATA": null,
+    "ICAO": "DNY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.575049"
+  },
+  {
+    "name": "Execujet Scandinavia A/S",
+    "IATA": null,
+    "ICAO": "VMP",
+    "website": "www.execujet.com",
+    "notes": "ICAO Designator changed from GLW and then from EJS. Part of Luxaviation CMI Group.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.575077"
+  },
+  {
+    "name": "Flexflight ApS",
+    "IATA": "W2",
+    "ICAO": "FXT",
+    "website": "www.flexflight.dk",
+    "notes": "IATA designator FZ and Accounting code recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.575110"
+  },
+  {
+    "name": "flyGAC A/S",
+    "IATA": null,
+    "ICAO": "GCW",
+    "website": "www.flygac.com",
+    "notes": "Name changed from Global Air Crew A/S.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.575140"
+  },
+  {
+    "name": "Flyverhjemmevaernet",
+    "IATA": null,
+    "ICAO": "FHV",
+    "website": "www.hjv.dk",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.575167"
+  },
+  {
+    "name": "FROST Air ApS",
+    "IATA": null,
+    "ICAO": "FRO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.575196"
+  },
+  {
+    "name": "Global Reach Aviation A/S",
+    "IATA": null,
+    "ICAO": "GAV",
+    "website": "globalreachaviation.com",
+    "notes": "ICAO Designator changedfrom HMR.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.575235"
+  },
+  {
+    "name": "GreyBird Aviation Group",
+    "IATA": null,
+    "ICAO": "GAG",
+    "website": "greybird.dk",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.575268"
+  },
+  {
+    "name": "Helico ApS",
+    "IATA": null,
+    "ICAO": "HKO",
+    "website": "www.helico.dk",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.575287"
+  },
+  {
+    "name": "Ikaros DK",
+    "IATA": null,
+    "ICAO": "IKR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.575309"
+  },
+  {
+    "name": "Jettime A/S",
+    "IATA": null,
+    "ICAO": "JTD",
+    "website": "www.jet-time.dk",
+    "notes": "ICAO Callsign changed from New Jet.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.575329"
+  },
+  {
+    "name": "JoinJet A/S",
+    "IATA": null,
+    "ICAO": "JNJ",
+    "website": "www.joinjet.com",
+    "notes": "Owned by SUN-Air Aviation Group Holdings A/S",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.575350"
+  },
+  {
+    "name": "KN Helicopters A/S",
+    "IATA": null,
+    "ICAO": "SHW",
+    "website": "www.knhelicopters.dk",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.575368"
+  },
+  {
+    "name": "Lego System A/S",
+    "IATA": null,
+    "ICAO": "LGE",
+    "website": "www.lego.com",
+    "notes": "Name changed from Lego Campany. ICAO designator changed to LGO",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.575389"
+  },
+  {
+    "name": "Maersk Air Cargo A/S",
+    "IATA": null,
+    "ICAO": "SRR",
+    "website": "https://www.maersk.com/transportation-services/air-freight/services",
+    "notes": "AOC transferred from Star Air A/S w.e.f. 05/06/2022. IATA designator changed from S6*.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.575409"
+  },
+  {
+    "name": "NHV A/S",
+    "IATA": null,
+    "ICAO": "NHD",
+    "website": "nhv.be",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.575429"
+  },
+  {
+    "name": "Nordic Air Ambulance A/S",
+    "IATA": null,
+    "ICAO": "DOK",
+    "website": "www.luftambulanse.no",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.575448"
+  },
+  {
+    "name": "North Flying A/S",
+    "IATA": null,
+    "ICAO": "NFA",
+    "website": "www.northflying.com",
+    "notes": "Designator M3* recalled by IATA also previously Designator 6Z* recalled by IATA.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.575467"
+  },
+  {
+    "name": "SAS Danmark A/S",
+    "IATA": null,
+    "ICAO": "DEN",
+    "website": "www.sas.dk",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.575484"
+  },
+  {
+    "name": "Sun Air of Scandinavia A/S",
+    "IATA": null,
+    "ICAO": "SUS",
+    "website": "www.sunair.dk",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.575503"
+  },
+  {
+    "name": "SunClass Airlines ApS",
+    "IATA": "DK",
+    "ICAO": "VKG",
+    "website": "www.thomascookairlines.dk",
+    "notes": "Name changed from Thomas Cook Airlines Scandinavia A/S w.e.f. 30 October 2019 and previously from MyTravel Airways A/S. Name changed from Premiair A/S 01 May 2002.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.575523"
+  },
+  {
+    "name": "Uni-fly A/S",
+    "IATA": null,
+    "ICAO": "UNC",
+    "website": "www.uni-fly.dk",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.575541"
+  },
+  {
+    "name": "World Ticket Ltd",
+    "IATA": "W1",
+    "ICAO": null,
+    "website": "worldticket.com",
+    "notes": "Computer Reservation Systems (CRS)",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:47.575561"
+  },
+  {
+    "name": "Scan-Con Airways ApS",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.scanconairways.dk",
+    "notes": "Using Muk-Air's AOC and unoffical ICAO code ASC",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.575579"
+  },
+  {
+    "name": "Aalborg Airtaxi ApS",
+    "IATA": null,
+    "ICAO": "DAX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.575598"
+  },
+  {
+    "name": "Agency Danair",
+    "IATA": "DX",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.575617"
+  },
+  {
+    "name": "Air Alsie A/S",
+    "IATA": null,
+    "ICAO": "ALS",
+    "website": null,
+    "notes": "ICAO designator changed to MMD",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.575638"
+  },
+  {
+    "name": "Air Holbaek I/S",
+    "IATA": null,
+    "ICAO": "AHO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.575659"
+  },
+  {
+    "name": "Airbusiness A/S",
+    "IATA": "KA",
+    "ICAO": "ABZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.575679"
+  },
+  {
+    "name": "Alkair Flight Operations A/S",
+    "IATA": null,
+    "ICAO": "LKA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.575699"
+  },
+  {
+    "name": "Aviation Assistance A/S",
+    "IATA": null,
+    "ICAO": "VIS",
+    "website": null,
+    "notes": "Operates a/c for Scan Con Travel ApS. See code 7W",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.575719"
+  },
+  {
+    "name": "Aviation Enterprises",
+    "IATA": null,
+    "ICAO": "AVP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.575737"
+  },
+  {
+    "name": "Backbone Aviation A/S",
+    "IATA": null,
+    "ICAO": "BOB",
+    "website": "backboneaviation.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.575755"
+  },
+  {
+    "name": "Beldringe Air Charter A/S",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.575774"
+  },
+  {
+    "name": "Bohnstedt Petersen Og Dyrberg A/S",
+    "IATA": null,
+    "ICAO": "MEO",
+    "website": null,
+    "notes": "Designator BE recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.575794"
+  },
+  {
+    "name": "Bohnstedt Petersen Og Dyrberg A/S",
+    "IATA": "BE",
+    "ICAO": "MEO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.575813"
+  },
+  {
+    "name": "Burmeister Anb Wain AS, Flgveafdeling",
+    "IATA": null,
+    "ICAO": "BLR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.575831"
+  },
+  {
+    "name": "Business Aviation A/S",
+    "IATA": null,
+    "ICAO": "BUA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.575849"
+  },
+  {
+    "name": "Business Flight of Scandinavia A/S",
+    "IATA": null,
+    "ICAO": "BSF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.575868"
+  },
+  {
+    "name": "Business Jet Flight Center",
+    "IATA": "JG",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.575887"
+  },
+  {
+    "name": "Cimber A/S",
+    "IATA": "QA",
+    "ICAO": "CIM",
+    "website": "www.cimber.com",
+    "notes": "Merged into CityJet during 2018. Founded on 15 May 2012. Commenced operations on 16 May 2012",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.575906"
+  },
+  {
+    "name": "Cimber Air, Sonderjyllands Flyveselskab",
+    "IATA": "QI",
+    "ICAO": "DQI",
+    "website": null,
+    "notes": "ICAO designator changed to CIM",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.575925"
+  },
+  {
+    "name": "Cimber Air A/S",
+    "IATA": "QI",
+    "ICAO": "CIM",
+    "website": "www.cimber.dk",
+    "notes": "Namce changed to Cimber A/S / Cimber Sterling. ICAO designator changed from DQI",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.575946"
+  },
+  {
+    "name": "Cimber Sterling A/S",
+    "IATA": "QI",
+    "ICAO": "CIM",
+    "website": "www.cimber.dk",
+    "notes": "Ceased Operations and filed for bankruptcy on 03 May 2012. Namce changed from Cimber Air A/S. ICAO designator changed from DQI",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.575968"
+  },
+  {
+    "name": "Company Flight K/S",
+    "IATA": null,
+    "ICAO": "CYF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.575987"
+  },
+  {
+    "name": "Conair A/S",
+    "IATA": "OY",
+    "ICAO": "OYC",
+    "website": null,
+    "notes": "Name changed to Conair of Scandinavia",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576005"
+  },
+  {
+    "name": "Conair of Scandinavia",
+    "IATA": null,
+    "ICAO": "OYC",
+    "website": null,
+    "notes": "Name changed from Conair A/S.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576026"
+  },
+  {
+    "name": "Danair A/S",
+    "IATA": "DX",
+    "ICAO": "DEN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576050"
+  },
+  {
+    "name": "Dancopter A/S",
+    "IATA": null,
+    "ICAO": "DOP",
+    "website": null,
+    "notes": "Parent company Blueway group acquired by NHV Group. Merged into NHV.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576069"
+  },
+  {
+    "name": "Dan-Wing",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576087"
+  },
+  {
+    "name": "Execujet Scandinavia A/S",
+    "IATA": null,
+    "ICAO": "EJS",
+    "website": "www.execujet.co.za",
+    "notes": "ICAO Designator changed to VMP. ICAO Designator changed from GLW",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576108"
+  },
+  {
+    "name": "Execujet Scandinavia A/S",
+    "IATA": null,
+    "ICAO": "GLW",
+    "website": null,
+    "notes": "ICAO Designator changed to EJS",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576132"
+  },
+  {
+    "name": "Falcks Redningskorps Beldringe A/S",
+    "IATA": null,
+    "ICAO": "FLK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576159"
+  },
+  {
+    "name": "Flexflight ApS",
+    "IATA": "FZ",
+    "ICAO": "FXT",
+    "website": "www.flexflight.dk",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576190"
+  },
+  {
+    "name": "Flexjet Operations A/S",
+    "IATA": null,
+    "ICAO": "FXJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576225"
+  },
+  {
+    "name": "Global Air Crew A/S",
+    "IATA": null,
+    "ICAO": "GCW",
+    "website": "www.globalaircrew.dk",
+    "notes": "Name changed to FlyGAC A/S.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576247"
+  },
+  {
+    "name": "Global Reach Aviation A/S",
+    "IATA": null,
+    "ICAO": "HMR",
+    "website": "globalreachaviation.com",
+    "notes": "ICAO Designator changed to GAV.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576273"
+  },
+  {
+    "name": "Great Dane Airlines A/S",
+    "IATA": "DW",
+    "ICAO": "GDE",
+    "website": "greatdaneairlines.dk",
+    "notes": "Declared Bankrupt on 11 October 2021.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576300"
+  },
+  {
+    "name": "Helenia Helicopter Service ApS",
+    "IATA": null,
+    "ICAO": "HHP",
+    "website": "www.helenia.dk",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576333"
+  },
+  {
+    "name": "Jet Time A/S",
+    "IATA": null,
+    "ICAO": "JTG",
+    "website": "www.jet-time.dk",
+    "notes": "Commenced operations on 19 September 2006. Filed for bankruptcy on 21 July 2020.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576353"
+  },
+  {
+    "name": "Jetair Aps",
+    "IATA": null,
+    "ICAO": "FOX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576371"
+  },
+  {
+    "name": "Jetcopter",
+    "IATA": null,
+    "ICAO": "JCP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576388"
+  },
+  {
+    "name": "Jettime A/S",
+    "IATA": null,
+    "ICAO": "JTD",
+    "website": "www.jet-time.dk",
+    "notes": "ICAO Callsign changed to Jet Time.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576406"
+  },
+  {
+    "name": "Jutland Jets Air Taxi A/S",
+    "IATA": null,
+    "ICAO": "JUT",
+    "website": "www.jutlandjets.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576422"
+  },
+  {
+    "name": "Karlog Air A/S",
+    "IATA": null,
+    "ICAO": "KLG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576439"
+  },
+  {
+    "name": "KS Nordic Air",
+    "IATA": null,
+    "ICAO": "NDI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576454"
+  },
+  {
+    "name": "Lego Company",
+    "IATA": null,
+    "ICAO": "LGO",
+    "website": "www.lego.com",
+    "notes": "Name changed to Lego System A/S. ICAO designator changed to LGE",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576471"
+  },
+  {
+    "name": "Maersk Air A/S",
+    "IATA": "DM",
+    "ICAO": "DMA",
+    "website": null,
+    "notes": "ICAO designator changed to DAN",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576487"
+  },
+  {
+    "name": "Maersk Air A/S",
+    "IATA": "DM",
+    "ICAO": "DAN",
+    "website": "www.maersk-air.com",
+    "notes": "Merged into Sterling",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576503"
+  },
+  {
+    "name": "Maersk Commuter I/S",
+    "IATA": null,
+    "ICAO": "MAE",
+    "website": null,
+    "notes": "Merged into Maersk Air on 01 April 1990.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576520"
+  },
+  {
+    "name": "Midtfly ApS",
+    "IATA": null,
+    "ICAO": "MDF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576536"
+  },
+  {
+    "name": "Muk Air",
+    "IATA": "ZR",
+    "ICAO": "MUK",
+    "website": "www.dat.dk",
+    "notes": "Designator ZR recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576553"
+  },
+  {
+    "name": "Muk Air",
+    "IATA": null,
+    "ICAO": "MUK",
+    "website": null,
+    "notes": "Ceased operations on 05 November 2001. Designator ZR recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576571"
+  },
+  {
+    "name": "MyTravel Airways A/S",
+    "IATA": "DK",
+    "ICAO": "VKG",
+    "website": "www.premiair.com",
+    "notes": "Name changed to Thomas Cook Airlines Scandinavia A/S. Name changed from Premiair A/S on  01 May 2002.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576588"
+  },
+  {
+    "name": "Newair A/S",
+    "IATA": null,
+    "ICAO": "NAW",
+    "website": null,
+    "notes": "Designator 8L* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576606"
+  },
+  {
+    "name": "North Flying A/S",
+    "IATA": null,
+    "ICAO": "NFA",
+    "website": "www.northflying.com",
+    "notes": "Designator 6Z* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576623"
+  },
+  {
+    "name": "North Flying A/S",
+    "IATA": null,
+    "ICAO": "NFA",
+    "website": null,
+    "notes": "Designator 6Z* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576640"
+  },
+  {
+    "name": "Premiair A/S",
+    "IATA": "DK",
+    "ICAO": "VKG",
+    "website": "www.premiair.com",
+    "notes": "Name changed to MyTravel Airways A/S w.e.f. 01 May 2002.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576657"
+  },
+  {
+    "name": "Primera Air Scandinavia A/S",
+    "IATA": "P6",
+    "ICAO": "PRI",
+    "website": "www.primeraair.com",
+    "notes": "IATA Designator changed to PF",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576676"
+  },
+  {
+    "name": "Primera Air Scandinavia A/S",
+    "IATA": "PF",
+    "ICAO": "PRI",
+    "website": "www.primeraair.com",
+    "notes": "Ceased operations on 01 October 2018. IATA Designator changed from P6",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576693"
+  },
+  {
+    "name": "Scan Con Airways",
+    "IATA": "7W",
+    "ICAO": null,
+    "website": "www.scanconairways.dk",
+    "notes": "Name changed to Scan Con Travel ApS",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576710"
+  },
+  {
+    "name": "Scan Con Travel ApS",
+    "IATA": "7W",
+    "ICAO": null,
+    "website": "www.scanconairways.dk",
+    "notes": "Name changed from Scan Con Airways. A/c operated by Aviation Assistance A/S see code VIS",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576728"
+  },
+  {
+    "name": "Scanair",
+    "IATA": "DK",
+    "ICAO": "VKG",
+    "website": null,
+    "notes": "Founded in 1961. Merged with Conair of Scandinavia to from Premiair A/S 0n 01 January 1994.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576745"
+  },
+  {
+    "name": "Star Air A/S",
+    "IATA": null,
+    "ICAO": "SRR",
+    "website": "www.starair.com",
+    "notes": "AOC transferred to Maersk Air Cargo A/S w.e.f. 05/06/2022. IATA designator changed from S6*.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576762"
+  },
+  {
+    "name": "Star Air A/S",
+    "IATA": null,
+    "ICAO": "SRR",
+    "website": "www.starair.com",
+    "notes": "IATA designator changed to DJ*.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576778"
+  },
+  {
+    "name": "Sterling Airlines A/S",
+    "IATA": "NB",
+    "ICAO": "SAW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576794"
+  },
+  {
+    "name": "Sterling Airlines A/S",
+    "IATA": "NB",
+    "ICAO": "SNB",
+    "website": "www.sterlingticket.com",
+    "notes": "Ceased operations on 29 October 2008. Name changed from Sterling European Kommanditaktieselskab. Formerly Sterling Airlines A/S",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576812"
+  },
+  {
+    "name": "Sterling Airways Ltd.",
+    "IATA": "NB",
+    "ICAO": "SAW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576830"
+  },
+  {
+    "name": "Sterling European Kommanditaktieselskab",
+    "IATA": "NB",
+    "ICAO": "SNB",
+    "website": "www.sterlingticket.com",
+    "notes": "Name changed to Sterling Airlines A/S. Formerly Sterling Airlines A/S",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576848"
+  },
+  {
+    "name": "Thomas Cook Airlines Scandinavia A/S",
+    "IATA": "DK",
+    "ICAO": "VKG",
+    "website": "www.thomascookairlines.dk",
+    "notes": "Name changed to SunClass Airlines A/S w.e.f 30 October 2019. Name changed from MyTravel Airways A/S. Name changed from Premiair A/S 01 May 2002.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576867"
+  },
+  {
+    "name": "Transavia Denmark ApS",
+    "IATA": "PH",
+    "ICAO": "TDK",
+    "website": "www.transavia.com",
+    "notes": "Commenced operations on 06 November 2008. Ceased operations on 23 April 2011.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576885"
+  },
+  {
+    "name": "Liz Air",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Ceased operations in 1989",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:47.576903"
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "name": "Aeolus Air Limited",
+    "IATA": null,
+    "ICAO": "AAZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:15.236905"
+  },
+  {
+    "name": "African Alliance Airlines",
+    "IATA": null,
+    "ICAO": "JAY",
+    "website": "www.africanallianceairlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:15.236933"
+  },
+  {
+    "name": "Air Dabia (Gambia) Limited",
+    "IATA": null,
+    "ICAO": "DBG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:15.236949"
+  },
+  {
+    "name": "Aviaiton Legacy",
+    "IATA": null,
+    "ICAO": "LAG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:15.236965"
+  },
+  {
+    "name": "Doniya Air Gambia",
+    "IATA": null,
+    "ICAO": "DNO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:15.236981"
+  },
+  {
+    "name": "Mid Africa Aviation  Company Limited t/a Fly Mid Africa",
+    "IATA": null,
+    "ICAO": "MFG",
+    "website": "flymidafrica.aero",
+    "notes": "Designator 8G recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:15.236998"
+  },
+  {
+    "name": "Gambia New Millenniun Air",
+    "IATA": null,
+    "ICAO": "NML",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:15.237014"
+  },
+  {
+    "name": "Gulf African Airlines Limited",
+    "IATA": null,
+    "ICAO": "GUF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:15.237029"
+  },
+  {
+    "name": "Interlace Airlines Limited",
+    "IATA": null,
+    "ICAO": "ITG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:15.237044"
+  },
+  {
+    "name": "Jupiter Airlines Limited",
+    "IATA": null,
+    "ICAO": "JUA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:15.237059"
+  },
+  {
+    "name": "Pier Seven Aviation Limited",
+    "IATA": null,
+    "ICAO": "PSG",
+    "website": "www.piersevenaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:15.237075"
+  },
+  {
+    "name": "Su Airlines",
+    "IATA": null,
+    "ICAO": "SUE",
+    "website": "suairlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:15.237091"
+  },
+  {
+    "name": "Trans-Atlantic Airlines Limited",
+    "IATA": null,
+    "ICAO": "TGL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:15.237106"
+  },
+  {
+    "name": "Aero Gambia",
+    "IATA": null,
+    "ICAO": "AGW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:15.237121"
+  },
+  {
+    "name": "African Intercontinental Airways",
+    "IATA": "OY",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator OY recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:15.237137"
+  },
+  {
+    "name": "Redair Limited",
+    "IATA": null,
+    "ICAO": "AFI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:15.237153"
+  },
+  {
+    "name": "Afrinat International Airlines",
+    "IATA": "2F",
+    "ICAO": null,
+    "website": "www.afrinat.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:15.237168"
+  },
+  {
+    "name": "Air Gambia",
+    "IATA": null,
+    "ICAO": "AGS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:15.237184"
+  },
+  {
+    "name": "Atlantic Express Airlines",
+    "IATA": "4X",
+    "ICAO": "JLM",
+    "website": null,
+    "notes": "Commenced operation on 16 December 2004. Ceased operations during 2006.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:15.237200"
+  },
+  {
+    "name": "Continental Wings - Comores Airlines",
+    "IATA": "G9",
+    "ICAO": "CWG",
+    "website": null,
+    "notes": "Name changed to Continental Wings (Gambia) Limited",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:15.237216"
+  },
+  {
+    "name": "Continental Wings (Gambia) Limited",
+    "IATA": "G9",
+    "ICAO": "CWG",
+    "website": null,
+    "notes": "Designator G9 recalled by IATA. Name changed from Continental Wings - Comores Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:15.237233"
+  },
+  {
+    "name": "Mid Africa Aviation  Company Limited t/a Fly Mid Africa",
+    "IATA": "8G",
+    "ICAO": "MFG",
+    "website": "flymidafrica.aero",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:15.237249"
+  },
+  {
+    "name": "Gambia air Shuttle Limited",
+    "IATA": null,
+    "ICAO": "GSH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:15.237264"
+  },
+  {
+    "name": "Gambia Airways",
+    "IATA": "GW",
+    "ICAO": "GAW",
+    "website": null,
+    "notes": "Designator GW recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:15.237280"
+  },
+  {
+    "name": "Gambia Bird Airlines",
+    "IATA": "3G",
+    "ICAO": "GBQ",
+    "website": "www.gambiabird.com",
+    "notes": "Commenced operations on 22 October 2012. Ceased all operations in December 2014. Aircraft wet leased from Gemania. Main share holder Germania Express",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:15.237298"
+  },
+  {
+    "name": "Gambia International Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "GNR",
+    "website": null,
+    "notes": "IATA deignator changed to GC",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:15.237314"
+  },
+  {
+    "name": "Gambia International Airlines Ltd.",
+    "IATA": "GC",
+    "ICAO": "GNR",
+    "website": "www.gia.gm",
+    "notes": "Designator GC reinstated by IATA. Ceased opeation in 2007. IATA deignator changed from GC*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:15.237331"
+  },
+  {
+    "name": "Mid Africa Aviation",
+    "IATA": "8G",
+    "ICAO": "MFG",
+    "website": "www.midafricaaviation.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:15.237346"
+  },
+  {
+    "name": "Oriental Airlines (Gambia) Limited",
+    "IATA": null,
+    "ICAO": "ORG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:15.237361"
+  },
+  {
+    "name": "Panaf Airways Limited",
+    "IATA": null,
+    "ICAO": "PAF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:15.237377"
+  },
+  {
+    "name": "Redair Gambia Limited",
+    "IATA": null,
+    "ICAO": "RDA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:15.237392"
+  },
+  {
+    "name": "Santi Airlines Limited",
+    "IATA": null,
+    "ICAO": "NRA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:15.237407"
+  },
+  {
+    "name": "Slok Air International (Gambia) Limited",
+    "IATA": null,
+    "ICAO": "OKS",
+    "website": "www.slok-air.com",
+    "notes": "Name changed from Slok Air International. Incorporated on 17th September 1996. Commenced operations on 24th of September 2004.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:15.237425"
+  },
+  {
+    "name": "Slok Air International",
+    "IATA": null,
+    "ICAO": "OKS",
+    "website": null,
+    "notes": "Name changed to Slok Air International (Gambia) Limited",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:15.237440"
+  },
+  {
+    "name": "T K Travel Limited",
+    "IATA": null,
+    "ICAO": "RDA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:15.237455"
+  },
+  {
+    "name": "The Atlantic Airline (Gambia) Ltd.",
+    "IATA": null,
+    "ICAO": "AWA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:15.237471"
+  }
+]

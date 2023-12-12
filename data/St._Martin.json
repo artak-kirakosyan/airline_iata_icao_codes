@@ -1,0 +1,20 @@
+[
+  {
+    "name": "St. Maarten Airways",
+    "IATA": null,
+    "ICAO": "SXM",
+    "website": "www.fly-sxmairways.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:57.633574"
+  },
+  {
+    "name": "SCTA Air Saint Martin",
+    "IATA": null,
+    "ICAO": "ASM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:57.633602"
+  }
+]

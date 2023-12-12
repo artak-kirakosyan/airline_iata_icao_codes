@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Bohlke International Airways, Inc.",
+    "IATA": null,
+    "ICAO": "BIA",
+    "website": "www.bohlke.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:48.775985"
+  },
+  {
+    "name": "Coastal Air Transport, Inc.",
+    "IATA": null,
+    "ICAO": "CXT",
+    "website": null,
+    "notes": "Designator DQ recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:48.776015"
+  },
+  {
+    "name": "Four Star Aviation",
+    "IATA": null,
+    "ICAO": "FSC",
+    "website": "www.4staraviation.com",
+    "notes": "Designator HK recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:48.776033"
+  },
+  {
+    "name": "Rainbow International Airlines, Inc.",
+    "IATA": null,
+    "ICAO": "WES",
+    "website": "www.rainbowinternationalairlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:48.776051"
+  },
+  {
+    "name": "Four Star Air Cargo",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.fourstaraircargo.com",
+    "notes": "Subsidary of Four Star Aviation",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:48.776067"
+  },
+  {
+    "name": "Air St. Thomas",
+    "IATA": "ZP",
+    "ICAO": "STT",
+    "website": "www.airstthomas.com",
+    "notes": "Designator ZP recalled by IATA. ceased operations in December 2005",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:48.776084"
+  },
+  {
+    "name": "Sunsplash Aviation, LLC d/b/a Atlantic Airways",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:48.776100"
+  },
+  {
+    "name": "Coastal Air Transport, Inc.",
+    "IATA": "DQ",
+    "ICAO": "CXT",
+    "website": null,
+    "notes": "Designator DQ recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:48.776119"
+  },
+  {
+    "name": "Coastal Air Transport",
+    "IATA": null,
+    "ICAO": "CXT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:48.776135"
+  },
+  {
+    "name": "Four Star Aviation",
+    "IATA": "HK",
+    "ICAO": "FSC",
+    "website": "www.4staraviation.com",
+    "notes": "Designator HK reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:48.776151"
+  },
+  {
+    "name": "Virgin Islands Seaplane Shuttle, Inc.",
+    "IATA": null,
+    "ICAO": "VSS",
+    "website": null,
+    "notes": "Founded in 1989. Ceased operations in 1992.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:48.776167"
+  }
+]

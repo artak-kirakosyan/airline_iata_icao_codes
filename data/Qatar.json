@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Qatar Airways Group Q.C.S.C.",
+    "IATA": "QR",
+    "ICAO": "QTR",
+    "website": "www.qatarairways.com",
+    "notes": "Name changed from Qatar Airways (W.L.L.)",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:19.291562"
+  },
+  {
+    "name": "Qatar Amiri Flight",
+    "IATA": null,
+    "ICAO": "QAF",
+    "website": "www.amiriflight.gov.qa",
+    "notes": "Designator Q4* recalled by IATA.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:19.291591"
+  },
+  {
+    "name": "Qatar Executive",
+    "IATA": null,
+    "ICAO": "QQE",
+    "website": "www.qatarexec.com.qa",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:19.291608"
+  },
+  {
+    "name": "Qatar Air Cargo",
+    "IATA": null,
+    "ICAO": "QAC",
+    "website": "www.qrcargo.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:19.291625"
+  },
+  {
+    "name": "Qatar Airways (W.L.L.)",
+    "IATA": "QR",
+    "ICAO": "QTR",
+    "website": "www.qatarairways.com",
+    "notes": "Name changed to Qatar Airways Group Q.C.S.C.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:19.291642"
+  },
+  {
+    "name": "Qatar Amiri Flight",
+    "IATA": null,
+    "ICAO": "QAF",
+    "website": "www.amiriflight.gov.qa",
+    "notes": "Designator Q4* recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:19.291659"
+  },
+  {
+    "name": "Rizon Qatar",
+    "IATA": null,
+    "ICAO": "RZQ",
+    "website": "www.rizonjet.com",
+    "notes": "Founded in 2006. Ceased operations during 2016.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:19.291675"
+  }
+]

@@ -1,0 +1,1037 @@
+[
+  {
+    "name": "ACE Belgium Freighters S.A.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.ace-freighters.com",
+    "notes": "Planned startup with 1 x 747-400F 1Q 2019.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:55.028428"
+  },
+  {
+    "name": "Air Belgium SA",
+    "IATA": "KF",
+    "ICAO": "ABB",
+    "website": "www.airbelgium.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:55.028457"
+  },
+  {
+    "name": "Airventure",
+    "IATA": null,
+    "ICAO": "RVE",
+    "website": "www.airventureballooning.be",
+    "notes": "Name changed to Airventure. ICAO callsign changed from Venture Liner",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:55.028477"
+  },
+  {
+    "name": "Allied Command Europe (Mobile Force)",
+    "IATA": null,
+    "ICAO": "ALF",
+    "website": null,
+    "notes": "Established in 1960",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:55.028496"
+  },
+  {
+    "name": "ASL Airlines Belgium",
+    "IATA": "3V",
+    "ICAO": "TAY",
+    "website": "www.aslairlines.be",
+    "notes": "Name changed from TNT Airways, S.A. w.e.f. 24 Janaury 2017. IATA designator changed from 3V*",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:55.028515"
+  },
+  {
+    "name": "Aviapartner",
+    "IATA": null,
+    "ICAO": "BLG",
+    "website": "www.aviapartner.aero",
+    "notes": "Name changed from Belgavia (Soci\u00e9t\u00e9 de Handling)",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:55.028532"
+  },
+  {
+    "name": "Belgian Air Force",
+    "IATA": null,
+    "ICAO": "BAF",
+    "website": "www.mil.be/nl/luchtcomponent",
+    "notes": "ICAO designator changed from AFB",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:55.028549"
+  },
+  {
+    "name": "Brussels Airlines N.V.",
+    "IATA": "SN",
+    "ICAO": "BEL",
+    "website": "www.brusselsairlines.com",
+    "notes": "ICAO Desginator changed from DAT. Name changed from Delta Air Transport N.V. t/a Brussels Airlines. IATA designator changed from QG, ICAO designator changed from DAT",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:55.028568"
+  },
+  {
+    "name": "Challenge Airlines (BE) S.A.",
+    "IATA": "X7",
+    "ICAO": "CHG",
+    "website": "www.challenge-airlines.be",
+    "notes": "ICAO Designator changed from FRH. Name changed from ACE Belgium Freighters S.A.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:55.028587"
+  },
+  {
+    "name": "Eurocontrol",
+    "IATA": null,
+    "ICAO": "EUC",
+    "website": "www.eurocontrol.int",
+    "notes": "Designator XE recalled by IATA. Non-airline org. relating to the airline industry (ATC)",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:55.028606"
+  },
+  {
+    "name": "European Aircraft Private Club",
+    "IATA": null,
+    "ICAO": "PGC",
+    "website": "www.eapc.be",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:55.028623"
+  },
+  {
+    "name": "Europilot Center",
+    "IATA": null,
+    "ICAO": "EPC",
+    "website": "www.europilotcenter.be",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:55.028640"
+  },
+  {
+    "name": "Fly Aeolus AirTaxi",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.flyaeolus.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:55.028660"
+  },
+  {
+    "name": "Flying Service",
+    "IATA": null,
+    "ICAO": "FYG",
+    "website": "www.flyinggroup.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:55.028676"
+  },
+  {
+    "name": "Force Navale Belge",
+    "IATA": null,
+    "ICAO": "NYB",
+    "website": "www.mil.be/nl/marinecomponent",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:55.028694"
+  },
+  {
+    "name": "Force Terrestre Belge",
+    "IATA": null,
+    "ICAO": "AYB",
+    "website": "www.mil.be/fr/composante-terre",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:55.028710"
+  },
+  {
+    "name": "Gendarmerie Belge",
+    "IATA": null,
+    "ICAO": "GDB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:55.028727"
+  },
+  {
+    "name": "Heli and Co S.A.",
+    "IATA": null,
+    "ICAO": "HCC",
+    "website": "www.heliandco.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:55.028743"
+  },
+  {
+    "name": "International Air Carrier Association (IACA)",
+    "IATA": null,
+    "ICAO": "ITC",
+    "website": "www.iaca.be",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:55.028760"
+  },
+  {
+    "name": "Abelag Aviation NV t/a Luxaviation Belgium",
+    "IATA": null,
+    "ICAO": "AAB",
+    "website": "www.abelag.be",
+    "notes": "Name changed from Abelag Aviation NV.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:55.028778"
+  },
+  {
+    "name": "Management Unit of North Sea Mathematical Models (RBINS-MUMM)",
+    "IATA": null,
+    "ICAO": "BCG",
+    "website": "www.mumm.ac.be/EN/",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:55.028796"
+  },
+  {
+    "name": "NATO North Atlantic Treaty Organisation",
+    "IATA": null,
+    "ICAO": "OAN",
+    "website": "www.nato.int",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:55.028812"
+  },
+  {
+    "name": "Noordzee Helikopters Vlaanderen",
+    "IATA": null,
+    "ICAO": "NHX",
+    "website": "nhv.be",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:55.028829"
+  },
+  {
+    "name": "Ostend Air College",
+    "IATA": null,
+    "ICAO": "OCO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:55.028844"
+  },
+  {
+    "name": "SITA - Airlines Worldwide Telecommunications and Information Services",
+    "IATA": "XS",
+    "ICAO": "SIT",
+    "website": "www.iata.aero",
+    "notes": "Telecommonunications and Information. Comms org for airline industry",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:55.028862"
+  },
+  {
+    "name": "Thalys International",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.thalys.com",
+    "notes": "Designator 2H* reinstated by IATA. Railway Service",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:55.028879"
+  },
+  {
+    "name": "TUI Airlines Belgium NV t/a TUI fly Belgium",
+    "IATA": null,
+    "ICAO": "JAF",
+    "website": "www.tuifly.be",
+    "notes": "Name changed from TUI Airlines Belgium t/a Jetairfly w.e.f. 19 October 2016. Name changed from TUI Airlines Belgium. ICAO code changed from TUB w.e.f. 31 October 2006.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:55.028897"
+  },
+  {
+    "name": "Belgium Exel",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.belgiumexel.be/?lang=en",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.028914"
+  },
+  {
+    "name": "Eurosense",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.eurosense.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.028930"
+  },
+  {
+    "name": "Heli-shuttle BVBA",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.helishuttle.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.028946"
+  },
+  {
+    "name": "Abelag Aviation NV",
+    "IATA": null,
+    "ICAO": "AAB",
+    "website": "www.abelag.be",
+    "notes": "Name changed to Abelag Aviation NV t/a Luxaviation Belgium.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.028966"
+  },
+  {
+    "name": "abelog",
+    "IATA": null,
+    "ICAO": "SKS",
+    "website": null,
+    "notes": "Ceased operations. Name changed from Sky Service",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.028987"
+  },
+  {
+    "name": "ACE Belgium Freighters S.A.",
+    "IATA": "X7",
+    "ICAO": "FRH",
+    "website": "www.ace-freighters.com",
+    "notes": "Name changed to Challenge Airlines (BE) S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029005"
+  },
+  {
+    "name": "Air Antwerp",
+    "IATA": "WP",
+    "ICAO": "ATW",
+    "website": "airantwerp.com",
+    "notes": "Ceased operations on 12 June 2021.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029022"
+  },
+  {
+    "name": "Air Belgium International",
+    "IATA": "VY",
+    "ICAO": "ABB",
+    "website": null,
+    "notes": "IATA designator changed to AJ. Name chaneged from Abelag Airways",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029039"
+  },
+  {
+    "name": "Air Belgium International",
+    "IATA": "AJ",
+    "ICAO": "ABB",
+    "website": "www.air-belgium.be",
+    "notes": "Sold to Airtours and operations ceased by end October 2000. IATA designator changed from VY",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029057"
+  },
+  {
+    "name": "Air Exel Belgique",
+    "IATA": null,
+    "ICAO": "BXL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029074"
+  },
+  {
+    "name": "Air Meuse - DAT Wallonie",
+    "IATA": null,
+    "ICAO": "AMZ",
+    "website": null,
+    "notes": "Merged into Delta Air Transport (D.A.T.) during 1997.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029091"
+  },
+  {
+    "name": "Air Service Liege (A.S.L.) N.V.",
+    "IATA": "L4",
+    "ICAO": "BNJ",
+    "website": "www.asl.be",
+    "notes": "Founded in 1997. Merged into ASL Group.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029108"
+  },
+  {
+    "name": "Airventure, Bvbd",
+    "IATA": null,
+    "ICAO": "RVE",
+    "website": null,
+    "notes": "Name changed to Airventure. ICAO callsign changed to Airventure",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029125"
+  },
+  {
+    "name": "Aviameer Airlines Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029141"
+  },
+  {
+    "name": "Aviation Spare Parts Europe",
+    "IATA": null,
+    "ICAO": "ALD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029157"
+  },
+  {
+    "name": "B.I.A.S. overseas NV",
+    "IATA": "AP",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029173"
+  },
+  {
+    "name": "Belgavia (Soci\u00e9t\u00e9 de Handling)",
+    "IATA": null,
+    "ICAO": "BLG",
+    "website": null,
+    "notes": "Name changed to Aviapartner",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029190"
+  },
+  {
+    "name": "Belgium Air Force",
+    "IATA": null,
+    "ICAO": "AFB",
+    "website": null,
+    "notes": "ICAO designator changed from AFB. Designator EB recalled by IATA. ICAO callsign changed from Bafair",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029208"
+  },
+  {
+    "name": "Belgium Air Force",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029225"
+  },
+  {
+    "name": "Belgium Air Force",
+    "IATA": "EB",
+    "ICAO": "AFB",
+    "website": null,
+    "notes": "Designator EB recalled by IATA. ICAO callsign changed to Belgium Air Force",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029241"
+  },
+  {
+    "name": "Belgium Exel",
+    "IATA": null,
+    "ICAO": "SSX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029256"
+  },
+  {
+    "name": "Belgiun International Air Services Cy.",
+    "IATA": "AP",
+    "ICAO": null,
+    "website": null,
+    "notes": "Name changed to B.I.A.S. overseas",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029272"
+  },
+  {
+    "name": "Benelux Falcon Service",
+    "IATA": null,
+    "ICAO": "BFS",
+    "website": null,
+    "notes": "Founded on 27 May 1978 as Unijet. Name changed to Benelux Falcon Service. Name changed to BFS International on 28 October 1981.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029290"
+  },
+  {
+    "name": "BFS International",
+    "IATA": null,
+    "ICAO": "BFS",
+    "website": null,
+    "notes": "Name changed from Benelux Falcon Service on 28/10/1981. Name changed to Constellation International Airlines S.A. on 07 February 1995.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029307"
+  },
+  {
+    "name": "Birdy Airlines S.A.",
+    "IATA": null,
+    "ICAO": "BDY",
+    "website": "www.birdyairlines.com",
+    "notes": "Founded in 2002. Merged into SN Brussels Airlines in 2004. Designator 4V* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029324"
+  },
+  {
+    "name": "Bosal International Management N.V.",
+    "IATA": null,
+    "ICAO": "BOS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029340"
+  },
+  {
+    "name": "Delta Air Transport N.V. t/a Brussels Airlines",
+    "IATA": "SN",
+    "ICAO": "DAT",
+    "website": "www.flysn.com",
+    "notes": "Name changed from Delta Air Transport N.V. d/b/a SN Brussels Airlines. IATA designator changed from QG, ICAO designator changed from DAT",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029358"
+  },
+  {
+    "name": "Brussels Airlines N.V.",
+    "IATA": "SN",
+    "ICAO": "DAT",
+    "website": "www.brusselsairlines.com",
+    "notes": "ICAO Desginator changed to BEL. Name changed from Delta Air Transport N.V. t/a Brussels Airlines. IATA designator changed from QG, ICAO designator changed from DAT",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029375"
+  },
+  {
+    "name": "Brussels Airlines N.V.",
+    "IATA": "SN",
+    "ICAO": "DAT",
+    "website": "www.brusselsairlines.com",
+    "notes": "ICAO Desginator changed to BEL. Name changed from Delta Air Transport N.V. t/a Brussels Airlines. IATA designator changed from QG, ICAO designator changed from DAT",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029392"
+  },
+  {
+    "name": "Brussels International Airways",
+    "IATA": null,
+    "ICAO": "BXI",
+    "website": null,
+    "notes": "Ceased operations on 13 February 2001.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029409"
+  },
+  {
+    "name": "BVBA Lucorp",
+    "IATA": null,
+    "ICAO": "LIM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029424"
+  },
+  {
+    "name": "Capital Aircraft Group NV",
+    "IATA": null,
+    "ICAO": "CGP",
+    "website": "flycapital.eu",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029440"
+  },
+  {
+    "name": "Cargo B Airlines",
+    "IATA": "BB",
+    "ICAO": "CBB",
+    "website": "www.cargob.com",
+    "notes": "Ceased operations on 01 July 2009",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029456"
+  },
+  {
+    "name": "ChallengAir",
+    "IATA": "1I",
+    "ICAO": "CHG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029472"
+  },
+  {
+    "name": "ChallengAir",
+    "IATA": null,
+    "ICAO": "CHG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029487"
+  },
+  {
+    "name": "Challenge Airlines (BE) S.A.",
+    "IATA": "X7",
+    "ICAO": "FRH",
+    "website": "www.challenge-airlines.be",
+    "notes": "ICAO Designator changed to CHG. Name changed from ACE Belgium Freighters S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029504"
+  },
+  {
+    "name": "City Bird",
+    "IATA": null,
+    "ICAO": "CTB",
+    "website": "www.citybird.com",
+    "notes": "Ceased operations on 04 October 2001. Designator H2* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029521"
+  },
+  {
+    "name": "City Bird",
+    "IATA": null,
+    "ICAO": "CTB",
+    "website": null,
+    "notes": "Designator H2* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029538"
+  },
+  {
+    "name": "City Bird France",
+    "IATA": null,
+    "ICAO": "CFB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029554"
+  },
+  {
+    "name": "Constellation International Airlines S.A.",
+    "IATA": "CQ",
+    "ICAO": "CIN",
+    "website": null,
+    "notes": "Founded on 23 June 1995. Ceased operations on 03 December 1999.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029570"
+  },
+  {
+    "name": "Van Gaever & Co. N.V. d/b/a Delsey Airlines",
+    "IATA": null,
+    "ICAO": "FVG",
+    "website": "www.delseyairlines.be",
+    "notes": "Declared bankrupt on 05 November 2002. Ceased operations on 06 November 2002. Name changed from Van Gaever & Co. N.V. d/b/a VG Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029589"
+  },
+  {
+    "name": "Delta Air Transport N.V.",
+    "IATA": "SN",
+    "ICAO": "DAT",
+    "website": "www.dat-airlines.com",
+    "notes": "Name changed to SN Brussels Airlines. IATA designator changed from QG, ICAO designator changed from DAT",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029606"
+  },
+  {
+    "name": "Delta Air Transport (D.A.T.)",
+    "IATA": "QG",
+    "ICAO": "DAT",
+    "website": "www.dat.be",
+    "notes": "IATA designator changed to SN, ICAO designator changed to SAB",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029622"
+  },
+  {
+    "name": "Delta Air Transport (D.A.T.)",
+    "IATA": "DE",
+    "ICAO": "DAT",
+    "website": null,
+    "notes": "IATA designator changed to QG",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029638"
+  },
+  {
+    "name": "Ecole D'aviation Civile",
+    "IATA": null,
+    "ICAO": "BSA",
+    "website": null,
+    "notes": "Founded in 1953. Merged in CAE in 2008.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029653"
+  },
+  {
+    "name": "EuroBelgian Airlines",
+    "IATA": "BQ",
+    "ICAO": "EBA",
+    "website": null,
+    "notes": "Change of name to Virgin Express w.e.f. 23 April 1996.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029669"
+  },
+  {
+    "name": "Eurocontrol",
+    "IATA": "XE",
+    "ICAO": "EUC",
+    "website": "www.eurocontrol.int",
+    "notes": "Designator XE recalled by IATA. Non-airline org. relating to the airline industry (ATC)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029686"
+  },
+  {
+    "name": "Eurojet, Compagnie",
+    "IATA": null,
+    "ICAO": "RIK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029702"
+  },
+  {
+    "name": "European Air Transport",
+    "IATA": "QY",
+    "ICAO": "BCS",
+    "website": null,
+    "notes": "Incorporated by the European Air Transport Leipzig GmbH and merged with it 10 February2010.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029719"
+  },
+  {
+    "name": "European Air Transport",
+    "IATA": "BC",
+    "ICAO": "BCS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029734"
+  },
+  {
+    "name": "Frobisher, N.V, (European Airlines)",
+    "IATA": null,
+    "ICAO": "FRO",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029751"
+  },
+  {
+    "name": "European Expedite",
+    "IATA": null,
+    "ICAO": "EUX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029767"
+  },
+  {
+    "name": "Flying Partner",
+    "IATA": null,
+    "ICAO": "IBS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029783"
+  },
+  {
+    "name": "Frevag Airlines",
+    "IATA": null,
+    "ICAO": "FVG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029798"
+  },
+  {
+    "name": "Heli Europe",
+    "IATA": null,
+    "ICAO": "HEE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029814"
+  },
+  {
+    "name": "Heli-shuttle BVBA",
+    "IATA": "KH",
+    "ICAO": null,
+    "website": "www.helishuttle.com",
+    "notes": "Designator KH recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029830"
+  },
+  {
+    "name": "IBIS",
+    "IATA": null,
+    "ICAO": "IBS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029846"
+  },
+  {
+    "name": "Inter Trans Air",
+    "IATA": null,
+    "ICAO": "ITT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029863"
+  },
+  {
+    "name": "Jet Business Airlines",
+    "IATA": null,
+    "ICAO": "JAB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029878"
+  },
+  {
+    "name": "TUI Airlines Belgium S.A/N.V. t/a Jetairfly",
+    "IATA": null,
+    "ICAO": "JAF",
+    "website": "www.jetairfly.com",
+    "notes": "Name changed to TUI Airlines Belgium NV t/a TUI fly Belgium w.e.f. 19 October 2016. Name changed from TUI Airlines Belgium. ICAO code changed from TUB w.e.f. 31 October 2006.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029896"
+  },
+  {
+    "name": "N.V. Jetair",
+    "IATA": null,
+    "ICAO": "TUB",
+    "website": "www.jetairfly.com",
+    "notes": "ICAO code changed to JAF w.e.f. 31 October 2006. Name changed from TUI Airlines Belgium",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029914"
+  },
+  {
+    "name": "Pomair",
+    "IATA": "KZ",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029929"
+  },
+  {
+    "name": "R S T Aviation N.V.",
+    "IATA": null,
+    "ICAO": "DMD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029944"
+  },
+  {
+    "name": "Red Air, S.A.",
+    "IATA": null,
+    "ICAO": "VDO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029959"
+  },
+  {
+    "name": "SABENA",
+    "IATA": "SN",
+    "ICAO": "SAB",
+    "website": "www.sabena.com",
+    "notes": "Ceased operations on 07 November 2001. Codes transferred to Delta Air Transport",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029976"
+  },
+  {
+    "name": "Servisair Belgium",
+    "IATA": null,
+    "ICAO": "SEV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.029991"
+  },
+  {
+    "name": "Sky Freighters, N.V.",
+    "IATA": null,
+    "ICAO": "SFI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.030007"
+  },
+  {
+    "name": "Sky Service",
+    "IATA": null,
+    "ICAO": "SKS",
+    "website": null,
+    "notes": "Name changed to abelog",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.030024"
+  },
+  {
+    "name": "Sky Service Bvba",
+    "IATA": "W9",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.030039"
+  },
+  {
+    "name": "Delta Air Transport N.V. d/b/a SN Brussels Airlines",
+    "IATA": "SN",
+    "ICAO": "DAT",
+    "website": "www.flysn.com",
+    "notes": "Name changed from Delta Air Transport N.V. w.e.f. 15 February 2002. IATA designator changed from QG, ICAO designator changed from DAT",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.030056"
+  },
+  {
+    "name": "Sobelair - Soci\u00e9t\u00e9 Belge de Transports A\u00e9riens",
+    "IATA": "OO",
+    "ICAO": "SLR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.030072"
+  },
+  {
+    "name": "Sobelair",
+    "IATA": "Q7",
+    "ICAO": "SLR",
+    "website": "www.sobelair.be",
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.030088"
+  },
+  {
+    "name": "TEA - Trans European Airlines",
+    "IATA": "HE",
+    "ICAO": "TEA",
+    "website": null,
+    "notes": "Was founded by Georges Gutelman in 1971. Ceased operations on 27 September 1991.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.030105"
+  },
+  {
+    "name": "Thomas Cook Airline Belgium N.V.",
+    "IATA": null,
+    "ICAO": "TCW",
+    "website": "www.thomascookairlines.com",
+    "notes": "Name changed to VLM Airlines N.V. IATA designator changed from FQ*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.030122"
+  },
+  {
+    "name": "Thomas Cook Airline Belgium N.V.",
+    "IATA": null,
+    "ICAO": "TCW",
+    "website": "www.thomascookairlines.com",
+    "notes": "IATA designator changed to HQ*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.030139"
+  },
+  {
+    "name": "TNT Airways, S.A.",
+    "IATA": null,
+    "ICAO": "TAY",
+    "website": "www.tnt-airways.be",
+    "notes": "IATA designator changed to 3V",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.030155"
+  },
+  {
+    "name": "TNT Airways, S.A.",
+    "IATA": "3V",
+    "ICAO": "TAY",
+    "website": "www.tntliege.com",
+    "notes": "Name changed to ASL Airlines Belgium w.e.f. 24 January 2017. IATA designator changed from 3V*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.030172"
+  },
+  {
+    "name": "TUI Airlines Belgium S.A/N.V.",
+    "IATA": null,
+    "ICAO": "TUB",
+    "website": "www.tub.jetair.be/tub/nl/indexnl.html",
+    "notes": "Name changed to N.V. Jetair t/a Jetairfly.com",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.030189"
+  },
+  {
+    "name": "Van Gaever & Co. N.V. d/b/a VG Airlines",
+    "IATA": null,
+    "ICAO": "FVG",
+    "website": "www.vgair.be",
+    "notes": "Name changed to Van Gaever & Co. N.V. d/b/a Delsey Airlines w.e.f. 28 August 2002.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.030206"
+  },
+  {
+    "name": "Virgin Express",
+    "IATA": "TV",
+    "ICAO": "EBA",
+    "website": "www.virgin-express.com",
+    "notes": "ICAO designator changed to VEX.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.030222"
+  },
+  {
+    "name": "Virgin Express",
+    "IATA": "BQ",
+    "ICAO": "EBA",
+    "website": null,
+    "notes": "IATA designator changed to TV w.e.f. 26 October 1997.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.030238"
+  },
+  {
+    "name": "Virgin Express",
+    "IATA": "BQ",
+    "ICAO": "EBA",
+    "website": null,
+    "notes": "Name changed from EuroBelgian Airlines w.e.f. 23 April 1996.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.030254"
+  },
+  {
+    "name": "Virgin Express",
+    "IATA": "TV",
+    "ICAO": "VEX",
+    "website": "www.virgin-express.com",
+    "notes": "Merged with Delta Air Transport to form Brussels Airlines. Designator TV reinstated by IATA. ICAO designator changed from EBA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.030271"
+  },
+  {
+    "name": "Vlaamse Luchtvaart Maatschappij wings of flanders",
+    "IATA": "VG",
+    "ICAO": "VLM",
+    "website": "www.vlm-airlines.com",
+    "notes": "Filied for Bankruptcy and ceased all operations on 22 June 2016. Name changed from VLM Vlaamse Luchtvaartmaatschappij N.V.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.030288"
+  },
+  {
+    "name": "SHS Antwerp Aviation N.V. d/b/a VLM Air Lines",
+    "IATA": "VG",
+    "ICAO": "VLM",
+    "website": "www.flyvlm.com",
+    "notes": "Ceased operations on 31 August 2018.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.030304"
+  },
+  {
+    "name": "VLM Airlines N.V.",
+    "IATA": null,
+    "ICAO": "TCW",
+    "website": "www.flyvlm.com",
+    "notes": "Name changed from Thomas Cook Airline Belgium N.V. IATA designator changed from FQ*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.030321"
+  },
+  {
+    "name": "VLM Vlaamse Luchtvaartmaatschappij N.V.",
+    "IATA": "VG",
+    "ICAO": "VLM",
+    "website": null,
+    "notes": "Name changed to VLM Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.030336"
+  },
+  {
+    "name": "Abelag Airways",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Name changed to Air Belgium International in 1980",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:55.030352"
+  }
+]

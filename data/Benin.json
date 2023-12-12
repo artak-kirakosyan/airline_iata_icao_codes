@@ -1,0 +1,173 @@
+[
+  {
+    "name": "Air Rum Benin",
+    "IATA": null,
+    "ICAO": "RBE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:57.365612"
+  },
+  {
+    "name": "Benin Airlines",
+    "IATA": null,
+    "ICAO": "ABT",
+    "website": null,
+    "notes": "Name changed from Air Taxi Benin.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:57.365642"
+  },
+  {
+    "name": "Cronos Airlines Benin",
+    "IATA": "C9",
+    "ICAO": "CKL",
+    "website": "cronosair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:57.365659"
+  },
+  {
+    "name": "Royal Air Ltd.",
+    "IATA": null,
+    "ICAO": "BNR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:57.365675"
+  },
+  {
+    "name": "Transports A\u00e9riens Du Benin (T.A.B.)",
+    "IATA": null,
+    "ICAO": "TSB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:57.365692"
+  },
+  {
+    "name": "West African Airlines",
+    "IATA": null,
+    "ICAO": "WSF",
+    "website": null,
+    "notes": "Designator WZ recalled by IATA. IATA designator changed from WZ*",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:57.365708"
+  },
+  {
+    "name": "Aero Benin S.A.",
+    "IATA": null,
+    "ICAO": "AEB",
+    "website": null,
+    "notes": "Designator EM* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:57.365725"
+  },
+  {
+    "name": "Africa Airways",
+    "IATA": "VJ",
+    "ICAO": "AFF",
+    "website": "www.flyafrica-airways.com",
+    "notes": "Ceased Operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:57.365742"
+  },
+  {
+    "name": "Afric'Air Charter, S.A.",
+    "IATA": null,
+    "ICAO": "AFF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:57.365758"
+  },
+  {
+    "name": "Afrique Airlines, S.A.",
+    "IATA": null,
+    "ICAO": "FBN",
+    "website": null,
+    "notes": "Founded in 2002. Commenced operations in 2003. Ceased operations during 2006.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:57.365775"
+  },
+  {
+    "name": "Air Benin",
+    "IATA": "TS",
+    "ICAO": "TSB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:57.365790"
+  },
+  {
+    "name": "Air Taxi Benin",
+    "IATA": null,
+    "ICAO": "ABT",
+    "website": "www.atb-airtaxi.com",
+    "notes": "Name changed to Benin Airlines.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:57.365806"
+  },
+  {
+    "name": "Benin Air Cargo",
+    "IATA": null,
+    "ICAO": "BEN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:57.365822"
+  },
+  {
+    "name": "Benin Air Express",
+    "IATA": null,
+    "ICAO": "BEX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:57.365838"
+  },
+  {
+    "name": "Benin Golf Air SA",
+    "IATA": null,
+    "ICAO": "BGL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:57.365853"
+  },
+  {
+    "name": "Trans Air Benin",
+    "IATA": null,
+    "ICAO": "TNB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:57.365869"
+  },
+  {
+    "name": "West African Airlines",
+    "IATA": null,
+    "ICAO": "WSF",
+    "website": null,
+    "notes": "IATA designator changed to WZ",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:57.365885"
+  },
+  {
+    "name": "Zircon Airways Benin, S.A.",
+    "IATA": "Z4",
+    "ICAO": "BZW",
+    "website": "www.bartnet.com/zircon/",
+    "notes": "Founded in 2001. Ceased operations in 2002.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:57.365901"
+  },
+  {
+    "name": "Nord-Sud Benin",
+    "IATA": null,
+    "ICAO": "NSB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:57.365917"
+  }
+]

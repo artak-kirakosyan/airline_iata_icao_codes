@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Air Alize",
+    "IATA": null,
+    "ICAO": "RLZ",
+    "website": "www.airalize.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:51.188039"
+  },
+  {
+    "name": "Air Caledonie",
+    "IATA": "TY",
+    "ICAO": "TPC",
+    "website": "www.air-caledonie.nc",
+    "notes": "Designator TY reinstated by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:51.188069"
+  },
+  {
+    "name": "Air Loyaute",
+    "IATA": null,
+    "ICAO": "RLY",
+    "website": "www.airloyaute.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:51.188087"
+  },
+  {
+    "name": "Air Caledonie International",
+    "IATA": "SB",
+    "ICAO": "ACI",
+    "website": "www.aircalin.nc",
+    "notes": "ICAO designator changed from RKL",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:51.188105"
+  },
+  {
+    "name": "Helicocean",
+    "IATA": null,
+    "ICAO": "OCE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:51.188121"
+  },
+  {
+    "name": "Air Caledonie International",
+    "IATA": "SB",
+    "ICAO": "RKL",
+    "website": null,
+    "notes": "ICAO designator changed to ACI. Founded in 1983",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:51.188138"
+  },
+  {
+    "name": "Aviazur",
+    "IATA": null,
+    "ICAO": "IAV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:51.188154"
+  }
+]

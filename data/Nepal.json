@@ -1,0 +1,173 @@
+[
+  {
+    "name": "Buddha Air Pvt. Ltd.",
+    "IATA": "U4",
+    "ICAO": "BHA",
+    "website": "www.buddhaair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:47.603993"
+  },
+  {
+    "name": "Himalaya Airlines Pvt. Ltd.",
+    "IATA": "H9",
+    "ICAO": "HIM",
+    "website": "www.himalayaairways.com",
+    "notes": "Established on 20 Aug 2014. Formerly known as Yeti International Pvt. Ltd. Joint venture between HIF Aviation Company Pvt Ltd and Tibet Airlines Ltd.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:47.604023"
+  },
+  {
+    "name": "Nepal Airlines Corporation t/a Nepal Airlines",
+    "IATA": "RA",
+    "ICAO": "RNA",
+    "website": "www.nepalairlines.com.np",
+    "notes": "Name changed from Royal Nepal Airlines Corporation. Founded in 1958. Designator RA reinstated by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:47.604043"
+  },
+  {
+    "name": "Shree Airlines Pvt. Ltd.",
+    "IATA": "N9",
+    "ICAO": "SHA",
+    "website": "www.shreeairlines.com",
+    "notes": "Founded in 1999.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:47.604061"
+  },
+  {
+    "name": "Simrik Airlines Pvt. Ltd.",
+    "IATA": null,
+    "ICAO": "RMK",
+    "website": "www.simrikairlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:47.604077"
+  },
+  {
+    "name": "Yeti Airlines Domestic Pvt. Ltd.",
+    "IATA": "YT",
+    "ICAO": "NYT",
+    "website": "www.yetiairlines.com",
+    "notes": "IATA designator changed from 0Y*",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:47.604096"
+  },
+  {
+    "name": "Agni Air Pvt. Ltd.",
+    "IATA": "AG",
+    "ICAO": null,
+    "website": null,
+    "notes": "Founded in 2006. Ceased operations in November 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:47.604113"
+  },
+  {
+    "name": "Air Nepal International Pvt. Ltd.",
+    "IATA": "SZ",
+    "ICAO": "NPL",
+    "website": "www.airnepalinternational.com",
+    "notes": "All of its flights were suspended from 22 December 2005.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:47.604130"
+  },
+  {
+    "name": "Alpine Air Pvt. Ltd.",
+    "IATA": "N6",
+    "ICAO": "AYL",
+    "website": "www.alpineair.com.np",
+    "notes": "Suspended operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:47.604148"
+  },
+  {
+    "name": "BB Airways Pvt. Limited",
+    "IATA": "BO",
+    "ICAO": "BBW",
+    "website": "www.bbairways.com",
+    "notes": "Founded in January 2012. Commenced operations on 13 September 2012. Ceased operations in July 2013.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:47.604164"
+  },
+  {
+    "name": "Cosmic Air PVT. Ltd.",
+    "IATA": null,
+    "ICAO": "COZ",
+    "website": "www.cosmicair.com",
+    "notes": "Designator F5* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:47.604181"
+  },
+  {
+    "name": "Gorkha Airlines",
+    "IATA": "G1",
+    "ICAO": "IKA",
+    "website": "www.gorkhaairlines.com",
+    "notes": "IATA code taken from website not confirmed by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:47.604198"
+  },
+  {
+    "name": "Necon Air Ltd.",
+    "IATA": "3Z",
+    "ICAO": "NEC",
+    "website": "www.neconair.com",
+    "notes": "Designator 3Z reinstated by IATA. Established 14 September 1992. Suspended flights in 2003 due to financial difficulties.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:47.604215"
+  },
+  {
+    "name": "Nepal Airways Pvt. Ltd.",
+    "IATA": "7E",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:47.604232"
+  },
+  {
+    "name": "Nepal Airlines Corporation t/a Royal Nepal Airlines",
+    "IATA": "RA",
+    "ICAO": "RNA",
+    "website": "www.royalnepal.com",
+    "notes": "Name changed to Nepal Airlines Corporation. Founded on 01 July 1958. Designator RA reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:47.604249"
+  },
+  {
+    "name": "Tara Air Pvt. Ltd",
+    "IATA": "TB",
+    "ICAO": null,
+    "website": "www.taraair.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:47.604266"
+  },
+  {
+    "name": "Yeti Airlines (P) Ltd.",
+    "IATA": "YA",
+    "ICAO": null,
+    "website": "www.yeti-airlines.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:47.604282"
+  },
+  {
+    "name": "Yeti Airlines Domestic Pvt. Ltd.",
+    "IATA": null,
+    "ICAO": "NYT",
+    "website": "yetiairlines.com/yeti/index.php",
+    "notes": "IATA designator changed to YT*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:47.604299"
+  },
+  {
+    "name": "Namaste Air Pvt. Ltd",
+    "IATA": null,
+    "ICAO": "NME",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:47.604317"
+  }
+]

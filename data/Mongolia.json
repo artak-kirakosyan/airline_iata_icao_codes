@@ -1,0 +1,209 @@
+[
+  {
+    "name": "Aero Mongolia",
+    "IATA": "M0",
+    "ICAO": "MNG",
+    "website": "www.aeromongolia.mn",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:37.921186"
+  },
+  {
+    "name": "Air Cargo Mongolia",
+    "IATA": null,
+    "ICAO": "MGC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:37.921213"
+  },
+  {
+    "name": "A-Jet Aviation Co. Ltd.",
+    "IATA": null,
+    "ICAO": "AJR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:37.921230"
+  },
+  {
+    "name": "Central Mongolia Airways",
+    "IATA": null,
+    "ICAO": "CEM",
+    "website": "www.cma.mn",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:37.921247"
+  },
+  {
+    "name": "Eznis Airways LLC",
+    "IATA": "MG",
+    "ICAO": "EZA",
+    "website": "www.eznis.com",
+    "notes": "Planned to start operations May 2018.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:37.921263"
+  },
+  {
+    "name": "Hunnu Air - Wings of Mongolia",
+    "IATA": "MR",
+    "ICAO": "MML",
+    "website": "www.hunnuair.com",
+    "notes": "IATA designator changed from MR*. Name changed from Mongolian Airlines Group",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:37.921279"
+  },
+  {
+    "name": "Khaan Airlines Co., Ltd.",
+    "IATA": null,
+    "ICAO": "KHN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:37.921295"
+  },
+  {
+    "name": "MIAT - Mongolian Airlines",
+    "IATA": "OM",
+    "ICAO": "MGL",
+    "website": "www.miat.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:37.921310"
+  },
+  {
+    "name": "Mongolian Airways Cargo",
+    "IATA": "XF",
+    "ICAO": "MGW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:37.921325"
+  },
+  {
+    "name": "Mongolyn Alt Mak Co., Ltd",
+    "IATA": null,
+    "ICAO": "NHN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:37.921341"
+  },
+  {
+    "name": "Tengeriyn Ulaach Shine Co. Ltd.",
+    "IATA": null,
+    "ICAO": "TNL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:37.921356"
+  },
+  {
+    "name": "Thomas Air",
+    "IATA": null,
+    "ICAO": "TME",
+    "website": "www.thomasair.mn",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:37.921372"
+  },
+  {
+    "name": "Zorte Air, LLC",
+    "IATA": null,
+    "ICAO": "MZI",
+    "website": "zorteair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:37.921387"
+  },
+  {
+    "name": "Chinggis Airways LLC",
+    "IATA": "CW",
+    "ICAO": "CHS",
+    "website": "chinggis-airways.mn",
+    "notes": "Established in August 2011. Operations not started.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:37.921403"
+  },
+  {
+    "name": "Eastern Airlines",
+    "IATA": null,
+    "ICAO": "ERN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:37.921419"
+  },
+  {
+    "name": "Eznis Airways",
+    "IATA": "O7",
+    "ICAO": "EZA",
+    "website": "www.eznisairways.com",
+    "notes": "IATA designator changed to EF. IATA designator changed from O7",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:37.921435"
+  },
+  {
+    "name": "Eznis Airways",
+    "IATA": "EF",
+    "ICAO": "EZA",
+    "website": "www.eznisairways.com",
+    "notes": "Ceased operations on 22 May 2014. IATA designator changed from O7. IATA designator previously changed from O7",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:37.921452"
+  },
+  {
+    "name": "Eznis Airways",
+    "IATA": null,
+    "ICAO": "EZA",
+    "website": "www.eznisairways.com",
+    "notes": "IATA designator changed to O7",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:37.921469"
+  },
+  {
+    "name": "Hangard Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "HGD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:37.921484"
+  },
+  {
+    "name": "Hunnu Air - Wings of Mongolia",
+    "IATA": null,
+    "ICAO": "MML",
+    "website": "www.hunnuair.com",
+    "notes": "IATA designator changed to MR. Name changed from Mongolian Airlines Group",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:37.921504"
+  },
+  {
+    "name": "Mongolian Airlines Group",
+    "IATA": null,
+    "ICAO": "MML",
+    "website": "www.mongolianairlines.com",
+    "notes": "Name changed to Hunnu Air",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:37.921520"
+  },
+  {
+    "name": "Mongolian Airways Co. Ltd.",
+    "IATA": null,
+    "ICAO": "MWS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:37.921535"
+  },
+  {
+    "name": "Trans-Ulgii",
+    "IATA": null,
+    "ICAO": "UTN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:37.921550"
+  }
+]

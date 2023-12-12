@@ -1,0 +1,443 @@
+[
+  {
+    "name": "Agrolet-Mci Ltd.",
+    "IATA": null,
+    "ICAO": "AGZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:40.887952"
+  },
+  {
+    "name": "Air  - Transport Europe spol. s.r.o.",
+    "IATA": null,
+    "ICAO": "EAT",
+    "website": "www.ate.sk",
+    "notes": "Founded in 1991",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:40.887981"
+  },
+  {
+    "name": "AirExplore, s.r.o.",
+    "IATA": "ED",
+    "ICAO": "AXE",
+    "website": "www.airexplore.sk",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:40.887999"
+  },
+  {
+    "name": "Civil Aviation Authority of the Slovak Republic",
+    "IATA": null,
+    "ICAO": "CIA",
+    "website": "www.caa.sk",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:40.888017"
+  },
+  {
+    "name": "Elite Jet s.r.o.",
+    "IATA": null,
+    "ICAO": "ELJ",
+    "website": "www.elitejet.sk",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:40.888034"
+  },
+  {
+    "name": "Go2Sky spol s.r.o.",
+    "IATA": "6G",
+    "ICAO": "RLX",
+    "website": "www.go2sky.eu",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:40.888051"
+  },
+  {
+    "name": "Opera Jet s.r.o.",
+    "IATA": null,
+    "ICAO": "OPJ",
+    "website": "www.operajet.sk",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:40.888068"
+  },
+  {
+    "name": "Sky One S.r.o.",
+    "IATA": null,
+    "ICAO": "FSO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:40.888084"
+  },
+  {
+    "name": "Slovak Air Force",
+    "IATA": null,
+    "ICAO": "SQF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:40.888100"
+  },
+  {
+    "name": "Slovak Government Flying Service",
+    "IATA": null,
+    "ICAO": "SSG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:40.888117"
+  },
+  {
+    "name": "Slovak National Aeroclub",
+    "IATA": null,
+    "ICAO": "SQA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:40.888133"
+  },
+  {
+    "name": "Slovenian Ministry of Defence",
+    "IATA": null,
+    "ICAO": "LSV",
+    "website": "www.mo.gov.si/en/?",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:40.888150"
+  },
+  {
+    "name": "Smartwings Slovensko s.r.o.",
+    "IATA": "6D",
+    "ICAO": "TVQ",
+    "website": "www.smartwings.com",
+    "notes": "Name changed from Travel Service Slovensko s.r.o. w.e.f. 10 December 2018. Name changed from Travel Service,a.s. organizacna zlozka Slovensko (Organizational unit Slovakia)",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:40.888169"
+  },
+  {
+    "name": "Tatra Jet, s.r.o.",
+    "IATA": null,
+    "ICAO": "TTJ",
+    "website": "www.tatrajet.sk",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:40.888185"
+  },
+  {
+    "name": "Tech-Mont Helicopter Company s.r.o.",
+    "IATA": null,
+    "ICAO": "TEM",
+    "website": "www.techmont.sk",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:40.888202"
+  },
+  {
+    "name": "Air Transport Europe",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.ate.sk",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:40.888219"
+  },
+  {
+    "name": "Quick Duck Airlines",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.quickduck.sk",
+    "notes": "Founded in 2014. Planned startup with ATR 72.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:40.888236"
+  },
+  {
+    "name": "Aero Slovakia a.s.",
+    "IATA": null,
+    "ICAO": "ASO",
+    "website": "www.aeroslovakia.sk",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:40.888253"
+  },
+  {
+    "name": "Aerofatra",
+    "IATA": null,
+    "ICAO": "ERF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:40.888270"
+  },
+  {
+    "name": "Air Cargo Global s.r.o.",
+    "IATA": "CW",
+    "ICAO": "CCC",
+    "website": "www.acg-air.com",
+    "notes": "IATA Designator changed to CW*. IATA Designator changed from UB.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:40.888287"
+  },
+  {
+    "name": "Air Cargo Global s.r.o.",
+    "IATA": "UB",
+    "ICAO": "CCC",
+    "website": "www.acg-air.com",
+    "notes": "IATA Designator changed to CW.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:40.888303"
+  },
+  {
+    "name": "Air Cargo Global s.r.o.",
+    "IATA": null,
+    "ICAO": "CCC",
+    "website": "www.acg-air.com",
+    "notes": "Ceased opeations in December 2019. IATA Designator changed from CW. IATA Designator changed from UB.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:40.888322"
+  },
+  {
+    "name": "Air East",
+    "IATA": null,
+    "ICAO": "AEG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:40.888338"
+  },
+  {
+    "name": "Air Service",
+    "IATA": null,
+    "ICAO": "CSV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:40.888354"
+  },
+  {
+    "name": "Air Slovakia BWJ, Ltd.",
+    "IATA": null,
+    "ICAO": "SVK",
+    "website": "www.airslovakia.sk",
+    "notes": "Founded in 1993. Commenced operations in 1994. AOC Revoked by Slovak authorities.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:40.888372"
+  },
+  {
+    "name": "Alpha Jet s.r.o.",
+    "IATA": null,
+    "ICAO": "ALN",
+    "website": "alpha-jet.sk",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:40.888389"
+  },
+  {
+    "name": "Bel-Air Ltd.",
+    "IATA": null,
+    "ICAO": "BLJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:40.888405"
+  },
+  {
+    "name": "Cassovia Air",
+    "IATA": null,
+    "ICAO": "CVI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:40.888420"
+  },
+  {
+    "name": "Central Charter Airlines Slovakia, s.f.o.",
+    "IATA": null,
+    "ICAO": "CCS",
+    "website": "www.flycca.sk",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:40.888437"
+  },
+  {
+    "name": "Central Charter Airlines Slovakia, s.r.o.",
+    "IATA": null,
+    "ICAO": "CCS",
+    "website": "www.flycca.cz",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:40.888454"
+  },
+  {
+    "name": "Danube Wings operated by VIP Wings, Ltd",
+    "IATA": "V5",
+    "ICAO": "VPA",
+    "website": "www.danubewings.eu",
+    "notes": "Ceased operations during 2013. Name changed from VIP Wings Ltd",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:40.888472"
+  },
+  {
+    "name": "L.O.S. Ltd.",
+    "IATA": null,
+    "ICAO": "LOL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:40.888489"
+  },
+  {
+    "name": "Nitra Air",
+    "IATA": null,
+    "ICAO": "NRA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:40.888506"
+  },
+  {
+    "name": "Sayegh Aviation Europe, s.r.o. t/a Samair",
+    "IATA": null,
+    "ICAO": "CCS",
+    "website": "www.samair.sk",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:40.888524"
+  },
+  {
+    "name": "Seagle Air, a.s.",
+    "IATA": null,
+    "ICAO": "CGL",
+    "website": "www.seagleair.sk",
+    "notes": "Ceased operations on 23 October 2009. Declared bankrupt on 25 January 2010.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:40.888541"
+  },
+  {
+    "name": "Seagle Jet S.r.o.",
+    "IATA": null,
+    "ICAO": "SKJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:40.888558"
+  },
+  {
+    "name": "SK Air a.s.",
+    "IATA": null,
+    "ICAO": "SKU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:40.888574"
+  },
+  {
+    "name": "SK Air a.s.",
+    "IATA": "S9",
+    "ICAO": "SKU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:40.888592"
+  },
+  {
+    "name": "SkyEurope Airlines",
+    "IATA": "NE",
+    "ICAO": "ESK",
+    "website": "www.skyeurope.com",
+    "notes": "Founded November in 2001. Commenced operations on 13 February 2002. Ceased operations on 01 September 2009.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:40.888610"
+  },
+  {
+    "name": "Slov Air J.S.C",
+    "IATA": null,
+    "ICAO": "OIR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:40.888626"
+  },
+  {
+    "name": "Slovak Airlines, Inc.",
+    "IATA": "6Q",
+    "ICAO": "SLL",
+    "website": "www.slovakairlines.sk",
+    "notes": "IATA designator changed from 9S",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:40.888644"
+  },
+  {
+    "name": "Slovak Airlines",
+    "IATA": "9S",
+    "ICAO": "SLL",
+    "website": null,
+    "notes": "IATA designator changed to 6Q",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:40.888661"
+  },
+  {
+    "name": "Slovtrans Air Ltd.",
+    "IATA": null,
+    "ICAO": "SLV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:40.888677"
+  },
+  {
+    "name": "Tatra Air",
+    "IATA": null,
+    "ICAO": "TTR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:40.888694"
+  },
+  {
+    "name": "Travel Service,a.s. organizacna zlozka Slovensko (Organizational unit Slovakia)",
+    "IATA": "6D",
+    "ICAO": "TVQ",
+    "website": "www.travelservice.aero",
+    "notes": "Name changed to Travel Service Slovensko s.r.o.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:40.888714"
+  },
+  {
+    "name": "Travel Service Slovensko s.r.o.",
+    "IATA": "6D",
+    "ICAO": "TVQ",
+    "website": "www.travelservice.aero",
+    "notes": "Name changed to Smartwings Slovensko s.r.o. w.e.f. 10 December 2018. Name changed from Travel Service,a.s. organizacna zlozka Slovensko (Organizational unit Slovakia)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:40.888734"
+  },
+  {
+    "name": "VIP Air, spol. S.r.o.",
+    "IATA": "V5",
+    "ICAO": "VPA",
+    "website": "www.vipair.sk",
+    "notes": "Name changed to VIP Wings",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:40.888753"
+  },
+  {
+    "name": "VIP Wings, Ltd",
+    "IATA": "V5",
+    "ICAO": "VPA",
+    "website": "www.vipair.sk",
+    "notes": "Name changed to Danube Wings operated by VIP Wings, Ltd. Name changed from VIP Air, spol. S.r.o.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:40.888772"
+  },
+  {
+    "name": "VR Jet, A.S.",
+    "IATA": null,
+    "ICAO": "VRJ",
+    "website": "www.vrjet.biz",
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:40.888789"
+  }
+]

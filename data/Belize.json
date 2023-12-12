@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Air Cargo Belize Limited",
+    "IATA": null,
+    "ICAO": "CGB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:56.155978"
+  },
+  {
+    "name": "Maya Island Air",
+    "IATA": "2M",
+    "ICAO": "MYD",
+    "website": "www.mayaislandair.com",
+    "notes": "IATA designator changed from MY",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:56.156006"
+  },
+  {
+    "name": "Tropic Air Limited",
+    "IATA": "9N",
+    "ICAO": "TOS",
+    "website": "www.tropicair.com",
+    "notes": "Designator PM recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:56.156023"
+  },
+  {
+    "name": "Aero Dispatch Services Ltd.",
+    "IATA": null,
+    "ICAO": "ADS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:56.156039"
+  },
+  {
+    "name": "Maya Airways",
+    "IATA": "MW",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:56.156055"
+  },
+  {
+    "name": "Maya Airways Ltd.",
+    "IATA": null,
+    "ICAO": "MAY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:56.156071"
+  },
+  {
+    "name": "Maya Island Air",
+    "IATA": "MY",
+    "ICAO": "MYD",
+    "website": "www.mayaislandair.com",
+    "notes": "IATA designator changed to 2M",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:56.156087"
+  },
+  {
+    "name": "Maya Island Air",
+    "IATA": "MW",
+    "ICAO": "MYD",
+    "website": "www.mayaislandair.com",
+    "notes": "Designator MW recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:56.156102"
+  },
+  {
+    "name": "Tropic Air Limited",
+    "IATA": "EP",
+    "ICAO": "PMT",
+    "website": null,
+    "notes": "IATA designator changed to PM",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:56.156118"
+  },
+  {
+    "name": "Tropic Air Limited",
+    "IATA": "PM",
+    "ICAO": "TOS",
+    "website": "www.tropicair.com",
+    "notes": "Designator PM recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:56.156134"
+  }
+]

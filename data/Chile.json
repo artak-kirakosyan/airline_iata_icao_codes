@@ -1,0 +1,866 @@
+[
+  {
+    "name": "Servicios Aereos Patagonia S.A.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.aeropatagonia.cl",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:26.550200"
+  },
+  {
+    "name": "Aerocardal",
+    "IATA": null,
+    "ICAO": "CDA",
+    "website": "www.aerocardal.com",
+    "notes": "ICAO callsign changed from Cardal",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:26.550236"
+  },
+  {
+    "name": "AeroDesierto S.A.",
+    "IATA": null,
+    "ICAO": "DTO",
+    "website": "aerodesierto.com",
+    "notes": "Name changed from Chilean Airways.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:26.550257"
+  },
+  {
+    "name": "Aerosec",
+    "IATA": null,
+    "ICAO": "ERK",
+    "website": "www.aerosec.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:26.550275"
+  },
+  {
+    "name": "Aerovias DAP - La Aerolineas de la Patagonia",
+    "IATA": "V5",
+    "ICAO": "DAP",
+    "website": "www.dap.cl",
+    "notes": "Founded in 1979.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:26.550294"
+  },
+  {
+    "name": "Barrick",
+    "IATA": null,
+    "ICAO": "BRI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:26.550313"
+  },
+  {
+    "name": "DAP Helicopteros Ltda.",
+    "IATA": null,
+    "ICAO": "DHE",
+    "website": "www.daphelicopteros.cl",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:26.550330"
+  },
+  {
+    "name": "Didier Rousset Buy",
+    "IATA": null,
+    "ICAO": "DRB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:26.550348"
+  },
+  {
+    "name": "Enrique Gleisner Vivanco",
+    "IATA": null,
+    "ICAO": "EGV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:26.550366"
+  },
+  {
+    "name": "Helicopteros Agroforestal Ltda",
+    "IATA": null,
+    "ICAO": "HAA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:26.550383"
+  },
+  {
+    "name": "Heliworks Ltda.",
+    "IATA": null,
+    "ICAO": "HLW",
+    "website": "www.heliworks.co.cl",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:26.550401"
+  },
+  {
+    "name": "JetSMART SpA",
+    "IATA": "JA",
+    "ICAO": "JAT",
+    "website": "www.jetsmart.cl",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:26.550430"
+  },
+  {
+    "name": "Transporte Aereo S.A. d/b/a LATAM Airlines Chile",
+    "IATA": "LU",
+    "ICAO": "LXP",
+    "website": "www.latamairlines.com",
+    "notes": "Name changed from Transporte Aereo S.A. (LAN Express). ICAO callasign changed from Lanexpress",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:26.550450"
+  },
+  {
+    "name": "LATAM Airlines Chile",
+    "IATA": "LA",
+    "ICAO": "LAN",
+    "website": "www.latamairlines.com",
+    "notes": "Name changed from LAN Airlines, S.A. w.e.f. 05 May 2016. Name changed from LAN Airlines, S.A. previously from Linea Aerea Nacional-Chile S.A. Lan-Chile.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:26.550470"
+  },
+  {
+    "name": "LAN Cargo S.A. d/b/a LATAM Cargo Chile",
+    "IATA": "UC",
+    "ICAO": "LCO",
+    "website": "www.latamcargo.com",
+    "notes": "Name changed from LAN Cargo S.A. w.e.f. 05 May 2016.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:26.550490"
+  },
+  {
+    "name": "Linea Aerea Costa Norte, S.A.",
+    "IATA": null,
+    "ICAO": "NOT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:26.550508"
+  },
+  {
+    "name": "Linea Aerea de Fung. Aguas Negras, S.A.",
+    "IATA": null,
+    "ICAO": "NEG",
+    "website": "aguasnegras.cl",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:26.550526"
+  },
+  {
+    "name": "Linea se Aeroservicios, S.A.",
+    "IATA": null,
+    "ICAO": "LSE",
+    "website": "www.aeroservicio.cl",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:26.550544"
+  },
+  {
+    "name": "Los Cedros Aviacion",
+    "IATA": null,
+    "ICAO": "LSC",
+    "website": "www.loscedrosaviacion.cl",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:26.550561"
+  },
+  {
+    "name": "OneSky Aviation Services S.p.a. (OneSky Chile)",
+    "IATA": null,
+    "ICAO": "OSC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:26.550579"
+  },
+  {
+    "name": "Ricardo Hein B (Aerohein Ltda.)",
+    "IATA": null,
+    "ICAO": "HEI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:26.550595"
+  },
+  {
+    "name": "Rio Baker",
+    "IATA": null,
+    "ICAO": "RBK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:26.550612"
+  },
+  {
+    "name": "Servicios Aereos Agricolas Ltda.",
+    "IATA": null,
+    "ICAO": "SGI",
+    "website": "www.serviciosaereosagricolas.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:26.550629"
+  },
+  {
+    "name": "Sky Airline S.A.",
+    "IATA": "H2",
+    "ICAO": "SKU",
+    "website": "www.skyairline.cl",
+    "notes": "Name changed from Sky Service S.A. d/b/a Sky Airlines",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:26.550648"
+  },
+  {
+    "name": "SR Jet Co. Ltd.",
+    "IATA": null,
+    "ICAO": "QSR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:26.550672"
+  },
+  {
+    "name": "Transportes Aereos Don Carlos Ltda.",
+    "IATA": null,
+    "ICAO": "DCL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:26.550690"
+  },
+  {
+    "name": "Transportes Aereos San Rafael Ltda.",
+    "IATA": null,
+    "ICAO": "SRF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:26.550708"
+  },
+  {
+    "name": "Turismo Aereo de Chile Ltda.",
+    "IATA": null,
+    "ICAO": "TUC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:26.550725"
+  },
+  {
+    "name": "Victor Tagle Larrain Ltda.",
+    "IATA": null,
+    "ICAO": "VTL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:26.550742"
+  },
+  {
+    "name": "Discovery Air Innovations Chile Ltda",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.helicopters.cl",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.550761"
+  },
+  {
+    "name": "ADA - AeroDesierto Airlines",
+    "IATA": null,
+    "ICAO": "DTO",
+    "website": null,
+    "notes": "Founded on 09 July 2014. Ceased operations on 15 July 2015. Restarted operations on 27 April 2015 as Chilean Airways.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.550779"
+  },
+  {
+    "name": "Aeroaysen Ltda",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.550796"
+  },
+  {
+    "name": "Aerocardal",
+    "IATA": null,
+    "ICAO": "CDA",
+    "website": null,
+    "notes": "ICAO callsign changed to Aerocardal",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.550813"
+  },
+  {
+    "name": "Aerocontinente Chile, S.A.",
+    "IATA": null,
+    "ICAO": "NTI",
+    "website": null,
+    "notes": "Designator C7* recalled by IATA. Designator C7* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.550832"
+  },
+  {
+    "name": "Aerofumigaciones Sam, S.A.",
+    "IATA": null,
+    "ICAO": "AEG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.550849"
+  },
+  {
+    "name": "Aerogala Ltda",
+    "IATA": null,
+    "ICAO": "AGQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.550865"
+  },
+  {
+    "name": "Aeroguayacan",
+    "IATA": null,
+    "ICAO": "AGY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.550883"
+  },
+  {
+    "name": "Aeroingeniera Ltda",
+    "IATA": null,
+    "ICAO": "ING",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.550899"
+  },
+  {
+    "name": "Aerolineas Austral Chile S.A.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.550915"
+  },
+  {
+    "name": "Aerolineas Cordillera Ltda. (Aerocor)",
+    "IATA": null,
+    "ICAO": "CRD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.550932"
+  },
+  {
+    "name": "Aerolineas Flecha Austral Ltda. (ALFA)",
+    "IATA": "SE",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.550947"
+  },
+  {
+    "name": "Aeromet Linea Aerea, S.A.",
+    "IATA": null,
+    "ICAO": "MTE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.550964"
+  },
+  {
+    "name": "Aeropetrel",
+    "IATA": null,
+    "ICAO": "PET",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.550980"
+  },
+  {
+    "name": "Aeropuelche, S.A.",
+    "IATA": null,
+    "ICAO": "PUE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.550997"
+  },
+  {
+    "name": "Aerosanta",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551013"
+  },
+  {
+    "name": "Aerososel",
+    "IATA": null,
+    "ICAO": "AOE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551029"
+  },
+  {
+    "name": "Aerovial",
+    "IATA": null,
+    "ICAO": "AVL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551046"
+  },
+  {
+    "name": "AirComet Chile",
+    "IATA": "3I",
+    "ICAO": "DLU",
+    "website": "www.aircomet.cl",
+    "notes": "Founded on 06 December 2004 as Southern Airlines. Ceased operations on 31 October 2008 and filled for bankruptcy protection on 18/12/2008. Name changed to Air Comet Chile in September 2007.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551064"
+  },
+  {
+    "name": "Alpine Air Chile, S.A.",
+    "IATA": null,
+    "ICAO": "AIH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551080"
+  },
+  {
+    "name": "Artidoro Leal  Cauntes (Aerosorno)",
+    "IATA": null,
+    "ICAO": "OSO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551097"
+  },
+  {
+    "name": "Asociados Latinamericanos de Transport Aereo S.A. (A.L.T.A.)",
+    "IATA": "C5",
+    "ICAO": "TAU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551113"
+  },
+  {
+    "name": "Avant Airlines, S.A.",
+    "IATA": null,
+    "ICAO": "VAT",
+    "website": "www.avant.cl",
+    "notes": "Designator OT* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551131"
+  },
+  {
+    "name": "Avant Airlines, S.A.",
+    "IATA": null,
+    "ICAO": "VAT",
+    "website": null,
+    "notes": "Designator OT* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551146"
+  },
+  {
+    "name": "Carranza",
+    "IATA": null,
+    "ICAO": "CRR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551163"
+  },
+  {
+    "name": "Chilean Airways",
+    "IATA": null,
+    "ICAO": "DTO",
+    "website": "www.flychilean.com",
+    "notes": "Name changed to AeroDesierto S.A. Formerly ADA - AeroDesierto Airlines. Operations commenced on 27 April 2015",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551181"
+  },
+  {
+    "name": "Chileinter Airlines",
+    "IATA": null,
+    "ICAO": "CLE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551197"
+  },
+  {
+    "name": "Chilejet S.A.",
+    "IATA": "H8",
+    "ICAO": "JMR",
+    "website": "www.chilejet.com",
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551213"
+  },
+  {
+    "name": "Cirrus, S.A.",
+    "IATA": null,
+    "ICAO": "RRU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551228"
+  },
+  {
+    "name": "Compania Radio Aeronautica Costarriceense, S.A.",
+    "IATA": "XC",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551244"
+  },
+  {
+    "name": "Empresa Aero-Servicics Parrague Ltda.",
+    "IATA": null,
+    "ICAO": "PRG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551260"
+  },
+  {
+    "name": "Fast Air Ltda.",
+    "IATA": null,
+    "ICAO": "FST",
+    "website": "www.fastair.cl",
+    "notes": "Designator UD recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551276"
+  },
+  {
+    "name": "Fast Air Ltda.",
+    "IATA": "UD",
+    "ICAO": "FST",
+    "website": "www.fastair.cl",
+    "notes": "Designator UD recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551292"
+  },
+  {
+    "name": "Hamburg Chile Airlines, S.A.",
+    "IATA": null,
+    "ICAO": "HBG",
+    "website": "www.hamburgchile.cl",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551310"
+  },
+  {
+    "name": "Helicopteros Andes",
+    "IATA": null,
+    "ICAO": "HAD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551325"
+  },
+  {
+    "name": "ICARO Service",
+    "IATA": null,
+    "ICAO": "ICR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551342"
+  },
+  {
+    "name": "Inversiones Ayacucho S.A. (Jet Privaido)",
+    "IATA": null,
+    "ICAO": "JPR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551359"
+  },
+  {
+    "name": "Ladeco S.A. d/b/a Ladeco Airlines",
+    "IATA": "UC",
+    "ICAO": "LCO",
+    "website": "www.ladeco.cl",
+    "notes": "Name changed to LANExpress 01 November 2001.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551377"
+  },
+  {
+    "name": "LADECO Cargo, S.A.",
+    "IATA": "UC",
+    "ICAO": "LDC",
+    "website": "www.lancargo.com",
+    "notes": "Designator UC recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551394"
+  },
+  {
+    "name": "LAN Airlines, S.A.",
+    "IATA": "LA",
+    "ICAO": "LAN",
+    "website": "www.lanchile.com",
+    "notes": "Name changed to LATAM Airlines Group S.A. d/b/a LAN Airlines. Name changed from Linea Aerea Nacional-Chile S.A. Lan-Chile",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551412"
+  },
+  {
+    "name": "Transporte Aereo S.A. (LAN Express)",
+    "IATA": null,
+    "ICAO": "LXP",
+    "website": null,
+    "notes": "ICAO callasign changed to Lanex",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551428"
+  },
+  {
+    "name": "Transporte Aereo S.A. (LAN Express)",
+    "IATA": "LU",
+    "ICAO": "LXP",
+    "website": "www.lan.com",
+    "notes": "Name changed to Transporte Aereo S.A. d/b/a LATAM Airlines Chile. ICAO callasign changed from Lanexpress",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551446"
+  },
+  {
+    "name": "Linea Aerea Nacional-Chile S.A. Lan-Chile",
+    "IATA": "LA",
+    "ICAO": "LAN",
+    "website": "www.lanchile.com",
+    "notes": "Name changed to LAN Airlines, S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551463"
+  },
+  {
+    "name": "Ladeco S.A. d/b/a LANExpress",
+    "IATA": "UC",
+    "ICAO": "LCO",
+    "website": "www.lanexpress.com",
+    "notes": "Name changed from Ladeco S.A. d/b/a Ladeco Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551481"
+  },
+  {
+    "name": "Latin American Wings, S.A.",
+    "IATA": "LW",
+    "ICAO": "JMR",
+    "website": "www.vuelalaw.com",
+    "notes": "Commenced operations on 27 January 2016. Ceased operations on 10 March 2018.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551499"
+  },
+  {
+    "name": "Linea Aerea Condor",
+    "IATA": "VC",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551515"
+  },
+  {
+    "name": "Linea Aerea del Cobre Ltda. (LADECO)",
+    "IATA": "UC",
+    "ICAO": "UCO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551532"
+  },
+  {
+    "name": "Linea Aerea Imperial (LAI)",
+    "IATA": null,
+    "ICAO": "EAP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551548"
+  },
+  {
+    "name": "Linea Aerea SAPSA Chile, S.A.",
+    "IATA": null,
+    "ICAO": "LNP",
+    "website": "www.airsapsachile.cl",
+    "notes": "Designator L7* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551565"
+  },
+  {
+    "name": "Linea Aerea Sud-Americana ltda. (LASA)",
+    "IATA": "UD",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551581"
+  },
+  {
+    "name": "Linea Aerea Taxpa Ltda.",
+    "IATA": null,
+    "ICAO": "TXP",
+    "website": null,
+    "notes": "Formerly Taxpa Chile",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551598"
+  },
+  {
+    "name": "Lineas Aereas Iberoamericanas",
+    "IATA": null,
+    "ICAO": "IBA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551614"
+  },
+  {
+    "name": "National Airlines (Chile), S.A.",
+    "IATA": "N4",
+    "ICAO": "NCN",
+    "website": null,
+    "notes": "Designator recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551630"
+  },
+  {
+    "name": "National Airlines (Chile), S.A.",
+    "IATA": null,
+    "ICAO": "NCN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551645"
+  },
+  {
+    "name": "One Airlines S.p.A.",
+    "IATA": "IP",
+    "ICAO": "ONS",
+    "website": "flyone.cl",
+    "notes": "Founded in July 2013. Commenced operations in October 2013. Ceased operations on 24 June 2020.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551663"
+  },
+  {
+    "name": "Pacific Airlines Chile, S.A.",
+    "IATA": null,
+    "ICAO": "PCL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551679"
+  },
+  {
+    "name": "Aerolinea Principal Chile S.A. t/a PAL - Principal Airlines",
+    "IATA": "5P",
+    "ICAO": "PCP",
+    "website": "www.palair.cl",
+    "notes": "Established in September 2003. Ceased operations in September 2014.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551696"
+  },
+  {
+    "name": "Servicios Aereos Copters Ltda.",
+    "IATA": null,
+    "ICAO": "KOP",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551714"
+  },
+  {
+    "name": "Sky Service S.A. d/b/a Sky Airline",
+    "IATA": "H2",
+    "ICAO": "SKU",
+    "website": "www.skyairline.cl",
+    "notes": "Name changed to Sky Airline S.A. previously changed from Sky Service S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551731"
+  },
+  {
+    "name": "Sky Service S.A.",
+    "IATA": "H2",
+    "ICAO": "SKU",
+    "website": null,
+    "notes": "Name changed to Sky Service S.A. d/b/a Sky Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551748"
+  },
+  {
+    "name": "Sociedad Linea Aerea Austral",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551764"
+  },
+  {
+    "name": "Transportes Aereo, S.A.",
+    "IATA": "LU",
+    "ICAO": null,
+    "website": null,
+    "notes": "Name changed to Transporte Aereo S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551781"
+  },
+  {
+    "name": "Transportes Aereos I.R. Crusoe Ltda.",
+    "IATA": null,
+    "ICAO": "ROU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551797"
+  },
+  {
+    "name": "Transportes A\u00e9reos Squella",
+    "IATA": "TJ",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551814"
+  },
+  {
+    "name": "Transportes Aerovip, S.A.",
+    "IATA": null,
+    "ICAO": "TVP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551830"
+  },
+  {
+    "name": "Transportes Transpenta Ltda.",
+    "IATA": null,
+    "ICAO": "TPT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551845"
+  },
+  {
+    "name": "Varmontt Air Ltda",
+    "IATA": null,
+    "ICAO": "VMT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:26.551861"
+  }
+]

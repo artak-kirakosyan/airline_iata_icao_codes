@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Air Mauritius",
+    "IATA": "MK",
+    "ICAO": "MAU",
+    "website": "www.airmauritius.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:29.937148"
+  },
+  {
+    "name": "IBL Aviation Ltd",
+    "IATA": null,
+    "ICAO": "IBL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:29.937177"
+  },
+  {
+    "name": "Pan African Airlines Leasing Company Ltd",
+    "IATA": null,
+    "ICAO": "FBE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:29.937195"
+  },
+  {
+    "name": "Air Mascareignes Ltd. t/a Air Mascareignes",
+    "IATA": "MV",
+    "ICAO": null,
+    "website": "www.air-mascareignes.aero",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:29.937213"
+  },
+  {
+    "name": "IBL Aviation Ltd",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.iblgroup.com",
+    "notes": "Designator 0C* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:29.937232"
+  }
+]

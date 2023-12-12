@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Aviation Machine Works - Centrafrique (AMW-Centrafrique)",
+    "IATA": null,
+    "ICAO": "MCW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:23.054792"
+  },
+  {
+    "name": "Centrafric'air S.A.",
+    "IATA": null,
+    "ICAO": "CFK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:23.054822"
+  },
+  {
+    "name": "Centrafrican Airlines",
+    "IATA": null,
+    "ICAO": "CET",
+    "website": null,
+    "notes": "Designator GC recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:23.054840"
+  },
+  {
+    "name": "Centrafrique Air Express",
+    "IATA": null,
+    "ICAO": "CAE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:23.054857"
+  },
+  {
+    "name": "Central Airways",
+    "IATA": null,
+    "ICAO": "CEW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:23.054873"
+  },
+  {
+    "name": "Inter RCA",
+    "IATA": null,
+    "ICAO": "CAR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:23.054889"
+  },
+  {
+    "name": "Karinou Airlines",
+    "IATA": null,
+    "ICAO": "KRN",
+    "website": "karinou.worldticket.net/en",
+    "notes": "Designator U5* recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:23.054906"
+  },
+  {
+    "name": "Linex",
+    "IATA": null,
+    "ICAO": "LEC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:23.054921"
+  },
+  {
+    "name": "Minair",
+    "IATA": null,
+    "ICAO": "OMR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:23.054936"
+  },
+  {
+    "name": "Soci\u00e9t\u00e9 Centrafricaine de Transport Aerien",
+    "IATA": null,
+    "ICAO": "SNS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:23.054952"
+  },
+  {
+    "name": "Via Air",
+    "IATA": null,
+    "ICAO": "VID",
+    "website": "viaairgroup.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:23.054968"
+  },
+  {
+    "name": "Via Air",
+    "IATA": null,
+    "ICAO": "VIS",
+    "website": "viaairgroup.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:23.054982"
+  },
+  {
+    "name": "Air Bangui",
+    "IATA": "VB",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:23.054998"
+  },
+  {
+    "name": "Centrafrican Airlines",
+    "IATA": "GC",
+    "ICAO": "CET",
+    "website": null,
+    "notes": "Designator GC recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:23.055014"
+  },
+  {
+    "name": "Centrafrique",
+    "IATA": "QR",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:23.055029"
+  },
+  {
+    "name": "Centrafrrique Air Express (C.A.E.)",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:23.055044"
+  },
+  {
+    "name": "Karinou Airlines",
+    "IATA": null,
+    "ICAO": "KRN",
+    "website": "karinou.worldticket.net/en",
+    "notes": "Designator U5* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:23.055060"
+  }
+]

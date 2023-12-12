@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Al-Haya Aviation",
+    "IATA": null,
+    "ICAO": "HYA",
+    "website": "www.alhaya-aviation.com",
+    "notes": "Designator HA* recalled by IATA.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:44.949049"
+  },
+  {
+    "name": "Al-Rafedain Falcon Air Cargo",
+    "IATA": null,
+    "ICAO": "RFA",
+    "website": "al-rafedainfalcon.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:44.949079"
+  },
+  {
+    "name": "Fly Baghdad",
+    "IATA": "IF",
+    "ICAO": "FBA",
+    "website": "www.flybaghdad.net",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:44.949097"
+  },
+  {
+    "name": "FlyErbil",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.flyebl.com",
+    "notes": "All flights operated by Aircompany Jonika LLC. (JNK)",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:44.949115"
+  },
+  {
+    "name": "Iraq Gate",
+    "IATA": null,
+    "ICAO": "IGC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:44.949131"
+  },
+  {
+    "name": "Iraqi Airways",
+    "IATA": "IA",
+    "ICAO": "IAW",
+    "website": "www.iq-airways.com",
+    "notes": "Founded in 1945",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:44.949147"
+  },
+  {
+    "name": "Iraqi Prime Minister Office",
+    "IATA": null,
+    "ICAO": "IPF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:44.949164"
+  },
+  {
+    "name": "UR Airlines d/b/a UBD",
+    "IATA": "UD",
+    "ICAO": "UBD",
+    "website": null,
+    "notes": "All flights operated by Aircompany Jonika LLC. (JNK)",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:44.949181"
+  },
+  {
+    "name": "Al Naser Wings Airlines",
+    "IATA": "NG",
+    "ICAO": "NAD",
+    "website": "www.alnaserwings.com",
+    "notes": "Ceased operations on 16 April 2019.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:44.949198"
+  },
+  {
+    "name": "Al-Haya Aviation",
+    "IATA": null,
+    "ICAO": "HYA",
+    "website": "www.alhaya-aviation.com",
+    "notes": "Designator HA* recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:44.949215"
+  },
+  {
+    "name": "Al-Naser Airlines",
+    "IATA": "NG",
+    "ICAO": "MHK",
+    "website": "www.alnaser-airlines.com",
+    "notes": "IATA designator changed from NR. Designator 6N recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:44.949233"
+  },
+  {
+    "name": "Al-Naser Airlines",
+    "IATA": "6N",
+    "ICAO": "MHK",
+    "website": "www.alnaserairlines.com",
+    "notes": "Designator 6N recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:44.949250"
+  },
+  {
+    "name": "Al-Naser Airlines",
+    "IATA": "NR",
+    "ICAO": "MHK",
+    "website": "www.alnaser-airlines.com",
+    "notes": "IATA designator changed to NG. Designator 6N recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:44.949266"
+  },
+  {
+    "name": "Iraqi Airways",
+    "IATA": "IA",
+    "ICAO": null,
+    "website": null,
+    "notes": "ICAO callsign changed to Iraqi",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:44.949282"
+  },
+  {
+    "name": "Zagros Air",
+    "IATA": null,
+    "ICAO": "GZQ",
+    "website": "www.zagrosairways.com",
+    "notes": "Name changed to Zagrosjet Airlines in Augsut 2013. Affiliate of Atlasjet Turkey",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:44.949300"
+  },
+  {
+    "name": "Zagrosjet Airlines",
+    "IATA": "Z4",
+    "ICAO": "GZQ",
+    "website": "www.zagrosjet.com",
+    "notes": "Ceased operations during March 2018. Name changed to Zagros Air in August 2013. Affiliate of Atlasjet Turkey",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:44.949317"
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Airspeed Charter Ltd.",
+    "IATA": null,
+    "ICAO": "ACC",
+    "website": "airspeedjm.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:51.331415"
+  },
+  {
+    "name": "Aeronautical Telecommunications Ltd. (AEROTEL)",
+    "IATA": "XI",
+    "ICAO": "XXI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:51.331443"
+  },
+  {
+    "name": "Air Jamaica",
+    "IATA": "JM",
+    "ICAO": "AJM",
+    "website": null,
+    "notes": "ICAO callsign changed to Jamaica",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:51.331461"
+  },
+  {
+    "name": "Air Jamaica",
+    "IATA": "JM",
+    "ICAO": "AJM",
+    "website": "www.airjamaica.com",
+    "notes": "Ceased operations during 2015. ICAO callsign changed from Juliett Mike",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:51.331478"
+  },
+  {
+    "name": "Air Jamaica Express Limited",
+    "IATA": "J4",
+    "ICAO": "JMX",
+    "website": "www.airjamaica.com",
+    "notes": "Commenced operations on 18 April 1996. IATA Designator changed to JQ.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:51.331495"
+  },
+  {
+    "name": "Air Jamaica Express Limited",
+    "IATA": "JQ",
+    "ICAO": "JMX",
+    "website": "www.airjamaica.com/express.asp",
+    "notes": "Ceased operations on 14 October 2005. IATA Designator changed from J4.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:51.331511"
+  },
+  {
+    "name": "Air Negril",
+    "IATA": "5T",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator 5T recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:51.331528"
+  },
+  {
+    "name": "Airways International Limited",
+    "IATA": "J6",
+    "ICAO": null,
+    "website": "www.jamaicaairshuttle.com",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:51.331544"
+  },
+  {
+    "name": "Fly Jamaica Airways Limited",
+    "IATA": "OJ",
+    "ICAO": "FJM",
+    "website": "www.fly-jamaica.com",
+    "notes": "Founded in 2012, Commenced operations on 14 February 2013. Ceased operations on 31 March 2019.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:51.331561"
+  },
+  {
+    "name": "Rutair Limited d/b/a Jam Air Link Express Limited",
+    "IATA": "J0",
+    "ICAO": "LJM",
+    "website": "flyjamair.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:51.331578"
+  },
+  {
+    "name": "Jamaica Air Services",
+    "IATA": "JT",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:51.331594"
+  },
+  {
+    "name": "Jamaica Far East Limited",
+    "IATA": "JW",
+    "ICAO": "JFE",
+    "website": "www.jamaicafareast.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:51.331609"
+  },
+  {
+    "name": "Tropical Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "TOA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:51.331624"
+  }
+]

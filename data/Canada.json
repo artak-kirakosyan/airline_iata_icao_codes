@@ -1,0 +1,5744 @@
+[
+  {
+    "name": "AccesRail and Partner Railways",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.accesrail.com",
+    "notes": "Name changed from Norwegian State Railways d/b/a AccesRail Inc. Railway Service",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.806529"
+  },
+  {
+    "name": "Adler Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "SWH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.806560"
+  },
+  {
+    "name": "Aero 1 Prop-Jet, Inc.",
+    "IATA": null,
+    "ICAO": "SSM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.806579"
+  },
+  {
+    "name": "Aero Control Air Ltd.",
+    "IATA": null,
+    "ICAO": "LFC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.806597"
+  },
+  {
+    "name": "Aero Taxi",
+    "IATA": null,
+    "ICAO": "QAT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.806615"
+  },
+  {
+    "name": "Kelowna Flightcraft Limited t/a Aeroflyer",
+    "IATA": null,
+    "ICAO": null,
+    "website": "kfaeroflyer.com",
+    "notes": "A division of KF Aeropace.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.806633"
+  },
+  {
+    "name": "Air Borealis",
+    "IATA": null,
+    "ICAO": "LBR",
+    "website": "www.airborealis.ca",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.806651"
+  },
+  {
+    "name": "Air Canada",
+    "IATA": "AC",
+    "ICAO": "ACA",
+    "website": "www.aircanada.ca",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.806668"
+  },
+  {
+    "name": "Air Canada rouge LP",
+    "IATA": "RV",
+    "ICAO": "ROU",
+    "website": "www.aircanadarouge.com",
+    "notes": "Name changed from 8165343 Canada Inc. dba Air Canada rouge w.e.f. 09 January 2014.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.806686"
+  },
+  {
+    "name": "Air Creebec (1994), Inc.",
+    "IATA": "YN",
+    "ICAO": "CRQ",
+    "website": "www.aircreebec.ca",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.806703"
+  },
+  {
+    "name": "Air Inuit Ltd/Ltee.",
+    "IATA": "3H",
+    "ICAO": "AIE",
+    "website": "www.airinuit.ca",
+    "notes": "ICAO callsign changed from Air Inuit. Name changed from Air Inuit (1985) Ltd.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.806721"
+  },
+  {
+    "name": "Air Liaison",
+    "IATA": null,
+    "ICAO": "LSJ",
+    "website": "www.airliaison.ca",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.806738"
+  },
+  {
+    "name": "Air Muskoka",
+    "IATA": null,
+    "ICAO": "AMS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.806754"
+  },
+  {
+    "name": "Air North Charter and Training Ltd. t/a Air North",
+    "IATA": "4N",
+    "ICAO": "ANT",
+    "website": "www.flyairnorth.com",
+    "notes": "Name changed from Air North Charter.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.806771"
+  },
+  {
+    "name": "Air Nunavut",
+    "IATA": null,
+    "ICAO": "BFF",
+    "website": "www.airnunavut.ca",
+    "notes": "Name changed from Air Baffin.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.806790"
+  },
+  {
+    "name": "Air Park Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "APA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.806807"
+  },
+  {
+    "name": "Air Partners Corp",
+    "IATA": null,
+    "ICAO": "SDE",
+    "website": "www.airpartners.ca",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.806823"
+  },
+  {
+    "name": "Air Roberval",
+    "IATA": null,
+    "ICAO": "RBV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.806839"
+  },
+  {
+    "name": "Air Sorel Ltee.",
+    "IATA": null,
+    "ICAO": "WHY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.806856"
+  },
+  {
+    "name": "Air Tindi Ltd.",
+    "IATA": null,
+    "ICAO": "TIN",
+    "website": "www.airtindi.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.806872"
+  },
+  {
+    "name": "Air Toronto, Inc.",
+    "IATA": null,
+    "ICAO": "CNE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.806889"
+  },
+  {
+    "name": "Air Transat",
+    "IATA": "TS",
+    "ICAO": "TSC",
+    "website": "www.airtransat.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.806904"
+  },
+  {
+    "name": "Airbus Canada",
+    "IATA": null,
+    "ICAO": "ABK",
+    "website": "www.airbus.com",
+    "notes": "ICAO Callsign changed from Airbus Canada.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.806922"
+  },
+  {
+    "name": "Airco Aircraft Charters Ltd.",
+    "IATA": null,
+    "ICAO": "ARQ",
+    "website": "www.aircocharters.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.806938"
+  },
+  {
+    "name": "Aireon Canada Limited",
+    "IATA": null,
+    "ICAO": "AEN",
+    "website": "aireon.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.806954"
+  },
+  {
+    "name": "Air-Spray 1967 Ltd.",
+    "IATA": null,
+    "ICAO": "ASB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.806971"
+  },
+  {
+    "name": "AirSprint, Inc.",
+    "IATA": null,
+    "ICAO": "ASP",
+    "website": "www.airsprint.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.806988"
+  },
+  {
+    "name": "Airwave Transport, Inc.",
+    "IATA": null,
+    "ICAO": "AWV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807005"
+  },
+  {
+    "name": "Aklak Air, Inc.",
+    "IATA": null,
+    "ICAO": "AKK",
+    "website": "www.aklakair.ca",
+    "notes": "Designator 6L recalled by IATA.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807022"
+  },
+  {
+    "name": "Albatros Aircraft Corp",
+    "IATA": null,
+    "ICAO": "VLC",
+    "website": "albatrosaircraft.ca",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807042"
+  },
+  {
+    "name": "Alberta Government",
+    "IATA": null,
+    "ICAO": "GOA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807059"
+  },
+  {
+    "name": "Alkan Air Ltd.",
+    "IATA": null,
+    "ICAO": "AKN",
+    "website": "alkanair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807078"
+  },
+  {
+    "name": "Altair Aviation (1986) Ltd.",
+    "IATA": null,
+    "ICAO": "ALQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807095"
+  },
+  {
+    "name": "Anderson Air Limited",
+    "IATA": null,
+    "ICAO": "ADS",
+    "website": "andersonair.ca",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807111"
+  },
+  {
+    "name": "AOSAC - Airline Operations Support and Aviation Consultant",
+    "IATA": null,
+    "ICAO": "ACG",
+    "website": "www.aosac.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807128"
+  },
+  {
+    "name": "Arrow Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "ARO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807144"
+  },
+  {
+    "name": "Astoria, Inc.",
+    "IATA": null,
+    "ICAO": "AOI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807160"
+  },
+  {
+    "name": "Atlantair Ltd.",
+    "IATA": null,
+    "ICAO": "ATB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807176"
+  },
+  {
+    "name": "Atlantis-Air Link Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.atlantis-airlink.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807193"
+  },
+  {
+    "name": "Aviation Quebec Labrador LTEE",
+    "IATA": null,
+    "ICAO": "QLA",
+    "website": null,
+    "notes": "Designator QC recalled by IATA. IATA designator changed from JT*",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807210"
+  },
+  {
+    "name": "Awood Air Ltd.",
+    "IATA": null,
+    "ICAO": "AWO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807226"
+  },
+  {
+    "name": "Bar XH Air, Inc.",
+    "IATA": null,
+    "ICAO": "BXH",
+    "website": "barxh.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807242"
+  },
+  {
+    "name": "Perimeter Aviation LP d/b/a Bearskin Airlines",
+    "IATA": "JV",
+    "ICAO": "BLS",
+    "website": "www.bearskinairlines.com",
+    "notes": "Name changed from Bearskin Lake Air Service Limited w.e.f. 15 October 2004.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807260"
+  },
+  {
+    "name": "Bell Helicopter",
+    "IATA": null,
+    "ICAO": "TXH",
+    "website": "www.bellhelicopter.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807276"
+  },
+  {
+    "name": "Bell Helicopter, Textron Canada",
+    "IATA": null,
+    "ICAO": "TXB",
+    "website": "www.bellhelicopter.textron.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807293"
+  },
+  {
+    "name": "Bombardier, Inc.",
+    "IATA": null,
+    "ICAO": "CDR",
+    "website": "www.bombardier.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807309"
+  },
+  {
+    "name": "Bombardier, Inc.",
+    "IATA": null,
+    "ICAO": "BBA",
+    "website": "www.bombardier.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807324"
+  },
+  {
+    "name": "Buffalo Airways Ltd.",
+    "IATA": null,
+    "ICAO": "BFL",
+    "website": "www.buffaloairways.com",
+    "notes": "Designator J4* recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807341"
+  },
+  {
+    "name": "Calm Air International Ltd.",
+    "IATA": "MO",
+    "ICAO": "CAV",
+    "website": "www.calmair.com",
+    "notes": "Canadian Partner",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807358"
+  },
+  {
+    "name": "Canada - Transport Canada",
+    "IATA": null,
+    "ICAO": "TGO",
+    "website": null,
+    "notes": "Designator GO recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807374"
+  },
+  {
+    "name": "Canada Jet Charters Ltd.",
+    "IATA": null,
+    "ICAO": "PIL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807391"
+  },
+  {
+    "name": "Canadian Armed Forces",
+    "IATA": null,
+    "ICAO": "CFC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807406"
+  },
+  {
+    "name": "Canadian Coast Guard",
+    "IATA": null,
+    "ICAO": "CTG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807422"
+  },
+  {
+    "name": "Canadian Helicopters",
+    "IATA": null,
+    "ICAO": "WSR",
+    "website": "www.canadianhelicopters.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807439"
+  },
+  {
+    "name": "Canadian National Telecommunications",
+    "IATA": null,
+    "ICAO": "XNC",
+    "website": null,
+    "notes": "Designator XN recalled by IATA. Non-airline Org. in airline industry",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807457"
+  },
+  {
+    "name": "Canadian North Inc.",
+    "IATA": "5T",
+    "ICAO": "AKT",
+    "website": "canadiannorth.com",
+    "notes": "ICAO designator changed from MPE. ICAO callsign changed from Empress w.e.f 26 May 2021.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807475"
+  },
+  {
+    "name": "Canadian Pacific Railway",
+    "IATA": null,
+    "ICAO": "CRR",
+    "website": "www.cpr.ca",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807492"
+  },
+  {
+    "name": "Canadian Warplane Heritage Museum",
+    "IATA": null,
+    "ICAO": "CWH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807509"
+  },
+  {
+    "name": "Canair",
+    "IATA": null,
+    "ICAO": "CWW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807526"
+  },
+  {
+    "name": "Canlink Aviation Inc.",
+    "IATA": null,
+    "ICAO": "MFC",
+    "website": "www.canlinkaviation.com",
+    "notes": "Name changed from Moncton Flying Club",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807543"
+  },
+  {
+    "name": "Can West Corporate Air Charters Ltd.",
+    "IATA": null,
+    "ICAO": "CWA",
+    "website": "canwestair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807559"
+  },
+  {
+    "name": "Cargojet Airways Ltd.",
+    "IATA": "W8",
+    "ICAO": "CJT",
+    "website": "www.cargojet.com",
+    "notes": "Name changed from Winnport Logistics Ltd. ICAO Code changed from WNT. ICAO callsign changed to Winnport. Name changed to Kelowna Flightcraft International Air Cargo Ltd.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807577"
+  },
+  {
+    "name": "Carson Air Ltd.",
+    "IATA": null,
+    "ICAO": "CRN",
+    "website": "www.carsonair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807593"
+  },
+  {
+    "name": "Cascadia Airways Inc",
+    "IATA": null,
+    "ICAO": "CBF",
+    "website": "www.cascadiaair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807608"
+  },
+  {
+    "name": "Central Mountain Air Ltd.",
+    "IATA": "9M",
+    "ICAO": "GLR",
+    "website": "flycma.com",
+    "notes": "Formerly Central Mountain Air Services Ltd.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807625"
+  },
+  {
+    "name": "Chartright Air Inc.",
+    "IATA": null,
+    "ICAO": "HRT",
+    "website": "www.chartright.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807641"
+  },
+  {
+    "name": "CHC Global Operations",
+    "IATA": null,
+    "ICAO": "HMB",
+    "website": "www.chc.ca",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807657"
+  },
+  {
+    "name": "CHC Helicopters Canada Inc",
+    "IATA": null,
+    "ICAO": "RBD",
+    "website": "www.chc.ca",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807672"
+  },
+  {
+    "name": "Chrono Aviation Inc. d/b/a Chrono Aviation",
+    "IATA": null,
+    "ICAO": "NDL",
+    "website": "www.chronoaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807688"
+  },
+  {
+    "name": "Chrono Jet, Inc.",
+    "IATA": null,
+    "ICAO": "MBK",
+    "website": "www.chronoaviation.com",
+    "notes": "ICAO designator changed from BLK. ICAO Callsign changed from Blackmat.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807705"
+  },
+  {
+    "name": "CMC Electronics, Inc.",
+    "IATA": null,
+    "ICAO": "CMC",
+    "website": "www.cmcelectronics.ca",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807721"
+  },
+  {
+    "name": "Conair Group Inc. d/b/a Conair",
+    "IATA": null,
+    "ICAO": "FGD",
+    "website": "conair.ca",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807738"
+  },
+  {
+    "name": "Connect Air Ltd.",
+    "IATA": null,
+    "ICAO": "CCT",
+    "website": "www.connectair.ca",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807756"
+  },
+  {
+    "name": "Connectair Charters Ltd.",
+    "IATA": null,
+    "ICAO": "BSN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807771"
+  },
+  {
+    "name": "Cougar Helicopters, Inc.",
+    "IATA": null,
+    "ICAO": "CHI",
+    "website": "www.cougar.ca",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807787"
+  },
+  {
+    "name": "Coval Air Ltd.",
+    "IATA": null,
+    "ICAO": "CVL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807802"
+  },
+  {
+    "name": "Crownair",
+    "IATA": null,
+    "ICAO": "CRW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807819"
+  },
+  {
+    "name": "CTW Consulting",
+    "IATA": "1W",
+    "ICAO": null,
+    "website": "www.ctwconsulting.ca",
+    "notes": "Computer Reservation System",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807838"
+  },
+  {
+    "name": "Cypress Airlines",
+    "IATA": null,
+    "ICAO": "CYS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807853"
+  },
+  {
+    "name": "De Havilland Aircraft of Canada Ltd",
+    "IATA": null,
+    "ICAO": "DHC",
+    "website": "dehavilland.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807869"
+  },
+  {
+    "name": "Delta Air Charter Ltd.",
+    "IATA": null,
+    "ICAO": "SNO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807884"
+  },
+  {
+    "name": "Dome Petroleum Ltd.",
+    "IATA": null,
+    "ICAO": "DPL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807900"
+  },
+  {
+    "name": "Dynamair Aviation, Inc.",
+    "IATA": null,
+    "ICAO": "DNR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807917"
+  },
+  {
+    "name": "Esso Resources Canada Ltd.",
+    "IATA": null,
+    "ICAO": "ERC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807935"
+  },
+  {
+    "name": "Execaire, Inc.",
+    "IATA": null,
+    "ICAO": "EXA",
+    "website": "www.execaire.com",
+    "notes": "Designator MB* recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807954"
+  },
+  {
+    "name": "Executive Flight Operations, Ontario Government",
+    "IATA": null,
+    "ICAO": "TRI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807971"
+  },
+  {
+    "name": "Exploits Valley Air Services Ltd",
+    "IATA": null,
+    "ICAO": null,
+    "website": "evasair.com/evasair/",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.807988"
+  },
+  {
+    "name": "Farelogix Inc",
+    "IATA": "F1",
+    "ICAO": null,
+    "website": "www.farelogix.com",
+    "notes": "Computer Reservation System",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808005"
+  },
+  {
+    "name": "Fast Air Ltd.",
+    "IATA": null,
+    "ICAO": "PBR",
+    "website": "www.flyfastair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808023"
+  },
+  {
+    "name": "Flair Airlines Ltd",
+    "IATA": "F8",
+    "ICAO": "FLE",
+    "website": "www.flairair.ca",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808039"
+  },
+  {
+    "name": "Flight Centre Victoria",
+    "IATA": null,
+    "ICAO": "FCV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808056"
+  },
+  {
+    "name": "FlightExec Limited",
+    "IATA": null,
+    "ICAO": "FEX",
+    "website": "flightexec.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808073"
+  },
+  {
+    "name": "flyGTA, Inc.",
+    "IATA": "SX",
+    "ICAO": "TOR",
+    "website": "www.flygta.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808091"
+  },
+  {
+    "name": "Gander Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "GAN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808108"
+  },
+  {
+    "name": "General Aerospace, Inc.",
+    "IATA": null,
+    "ICAO": "SWK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808125"
+  },
+  {
+    "name": "General Aviation Terminal, Inc.",
+    "IATA": null,
+    "ICAO": "XGA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808143"
+  },
+  {
+    "name": "Geographic Air Surveys Ltd.",
+    "IATA": null,
+    "ICAO": "GSL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808160"
+  },
+  {
+    "name": "Golfe Air Quebec Ltee.",
+    "IATA": null,
+    "ICAO": "GAQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808178"
+  },
+  {
+    "name": "Government of Ontario",
+    "IATA": null,
+    "ICAO": "ONT",
+    "website": "www.ontario.ca",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808196"
+  },
+  {
+    "name": "Gouvernement Du Quebec, Service Aerien Gouvernemental",
+    "IATA": null,
+    "ICAO": "QUE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808214"
+  },
+  {
+    "name": "Harbour Air Ltd.",
+    "IATA": "YB",
+    "ICAO": null,
+    "website": "www.harbourair.com",
+    "notes": "Designator H3 recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808233"
+  },
+  {
+    "name": "Helijet International, Inc.",
+    "IATA": null,
+    "ICAO": "JBA",
+    "website": "www.helijet.com",
+    "notes": "Designator JB recalled by IATA. Name changed from Helijet Airways.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808253"
+  },
+  {
+    "name": "High-Line Airways, Inc.",
+    "IATA": null,
+    "ICAO": "HLB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808272"
+  },
+  {
+    "name": "Canadian Helicopters Limited d/b/a HNZ Global",
+    "IATA": null,
+    "ICAO": "CDN",
+    "website": "www.canadianhelicopters.ca",
+    "notes": "Name changed from Canadian Helicopters Ltd.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808292"
+  },
+  {
+    "name": "Hydro-Quebec",
+    "IATA": null,
+    "ICAO": "HYD",
+    "website": "www.hydroquebec.com",
+    "notes": "Designator 0Q* recalled by IATA.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808311"
+  },
+  {
+    "name": "ICC International Cargo Charters Canada Ltd.. d/b/a ICC Canada Ltd.",
+    "IATA": null,
+    "ICAO": "CIC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808331"
+  },
+  {
+    "name": "Image Air Charter Ltd",
+    "IATA": null,
+    "ICAO": "BMG",
+    "website": "www.imageaircharter.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808349"
+  },
+  {
+    "name": "IMP Group Aviation Services Limited",
+    "IATA": null,
+    "ICAO": "XGG",
+    "website": null,
+    "notes": "Designator XG recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808368"
+  },
+  {
+    "name": "InteliSys Aviation Systems (2013) Inc",
+    "IATA": "1Q",
+    "ICAO": null,
+    "website": "www.intelisysaviation.com",
+    "notes": "Computer Reservations Systems (CRS)",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808388"
+  },
+  {
+    "name": "International Air Transport Association",
+    "IATA": "XB",
+    "ICAO": "IAT",
+    "website": "www.iata.org",
+    "notes": "Non-airline org. relating to the airline industry",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808410"
+  },
+  {
+    "name": "International Air Transport Association",
+    "IATA": "XB",
+    "ICAO": "IAT",
+    "website": "www.iata.org",
+    "notes": "Billing and Settlement Plan. Non-airline org. relating to the airline industry",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808432"
+  },
+  {
+    "name": "International Air Transport Association",
+    "IATA": "XB",
+    "ICAO": "IAT",
+    "website": "www.iata.org",
+    "notes": "Billing and Settlement Plan. Non-airline org. relating to the airline industry",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808453"
+  },
+  {
+    "name": "International Security Assistance Force",
+    "IATA": null,
+    "ICAO": "THN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808473"
+  },
+  {
+    "name": "Irving Oil Ltd (Gander Fbo)",
+    "IATA": null,
+    "ICAO": "XIA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808492"
+  },
+  {
+    "name": "Irving Oil Transport Ltd.",
+    "IATA": null,
+    "ICAO": "KCE",
+    "website": "www.irvingoil.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808512"
+  },
+  {
+    "name": "Jackson Air Services Ltd.",
+    "IATA": null,
+    "ICAO": "JCK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808532"
+  },
+  {
+    "name": "Jazz Aviation LP",
+    "IATA": "QK",
+    "ICAO": "JZA",
+    "website": "www.flyjazz.ca",
+    "notes": "Name changed from Air Canada Jazz. ICAO designator changed from JZZ. Name changed from Air Canada Regional Inc. ICAO designator changed from ARN. ICAO callsign changed from Transcan.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808555"
+  },
+  {
+    "name": "Canada Jetlines Operations Ltd",
+    "IATA": "AU",
+    "ICAO": "CJL",
+    "website": "www.jetlines.ca",
+    "notes": "Vancouver based planned Ultra Low Cost Carrier. Planned startup 17 December 2019. 49% owned by Jet Metal Corporation (US). Planned startup with two A320 from SmartLynx.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808575"
+  },
+  {
+    "name": "Jive Aviation LP",
+    "IATA": null,
+    "ICAO": "JVE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808594"
+  },
+  {
+    "name": "Keewatin Air Ltd.",
+    "IATA": null,
+    "ICAO": "KEW",
+    "website": "www.kivalliqair.com",
+    "notes": "Designator FK* recalled by IATA. IATA designator changed from 6K. Founded in 1998.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808615"
+  },
+  {
+    "name": "Kelowna Flightcraft Air Charter Ltd.",
+    "IATA": "FK",
+    "ICAO": "KFA",
+    "website": "www.flightcraft.ca",
+    "notes": "IATA designator changed from KW*. Designator KW* reinstated by IATA. IATA Prefix Code 758 recalled.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808636"
+  },
+  {
+    "name": "Kenn Borek Air Ltd.",
+    "IATA": null,
+    "ICAO": "KBA",
+    "website": "www.borekair.com",
+    "notes": "Designator 4K recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808655"
+  },
+  {
+    "name": "Kent Aviation Limited",
+    "IATA": null,
+    "ICAO": "KAH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808674"
+  },
+  {
+    "name": "Keystone Air Service",
+    "IATA": null,
+    "ICAO": "KEE",
+    "website": "www.keystoneair.mb.ca",
+    "notes": "Designator BZ recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808694"
+  },
+  {
+    "name": "Kudlik Aviation Inc.",
+    "IATA": null,
+    "ICAO": "KUK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808716"
+  },
+  {
+    "name": "Levaero Aviation",
+    "IATA": null,
+    "ICAO": "FKL",
+    "website": "www.levaero.com",
+    "notes": "Name changed from V. Kelner Pilatus Center, Inc. in May 2015. Name changed from Kelner Airways Ltd, V.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808737"
+  },
+  {
+    "name": "Levaero Aviation Inc.",
+    "IATA": null,
+    "ICAO": "CNP",
+    "website": "www.levaero.com",
+    "notes": "Name changed from Private Air Inc.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808755"
+  },
+  {
+    "name": "Little Red Air Service",
+    "IATA": null,
+    "ICAO": "LRA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808773"
+  },
+  {
+    "name": "1263343 Alberta Inc t/a Lynx Air",
+    "IATA": "Y9",
+    "ICAO": "DAT",
+    "website": "flylynx.com",
+    "notes": "Name changed from 1263343 Alberta Inc t/a Enerjet.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808794"
+  },
+  {
+    "name": "M I T Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "MNC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808814"
+  },
+  {
+    "name": "Max Aviation Inc.",
+    "IATA": null,
+    "ICAO": "MAX",
+    "website": "www.maxaviation.com",
+    "notes": "Designator L4* recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808832"
+  },
+  {
+    "name": "Morningstar Air Express Inc.",
+    "IATA": null,
+    "ICAO": "MAL",
+    "website": "www.maei.ca",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808851"
+  },
+  {
+    "name": "Mountain Pacific Air Ltd.",
+    "IATA": null,
+    "ICAO": "MPC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808868"
+  },
+  {
+    "name": "Nahanni Air Services Ltd.",
+    "IATA": null,
+    "ICAO": "NAH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808887"
+  },
+  {
+    "name": "Nav Canada",
+    "IATA": null,
+    "ICAO": "NVC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808904"
+  },
+  {
+    "name": "Navtech System Support, Inc.",
+    "IATA": null,
+    "ICAO": "XNS",
+    "website": "www.navtechinc.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808924"
+  },
+  {
+    "name": "Newfoundland Labrador Air Transport Ltd.",
+    "IATA": null,
+    "ICAO": "NLT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808941"
+  },
+  {
+    "name": "Les Investissements Nolinor Inc. t/a Nolinor Aviation",
+    "IATA": "N5",
+    "ICAO": "NRL",
+    "website": "www.nolinor.com",
+    "notes": "Founded in 1992.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808968"
+  },
+  {
+    "name": "North Caribou Flying Service Ltd.",
+    "IATA": null,
+    "ICAO": "NCB",
+    "website": "www.flynca.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.808988"
+  },
+  {
+    "name": "North Star Air Limited",
+    "IATA": "0N",
+    "ICAO": null,
+    "website": "www.northstarair.ca",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809008"
+  },
+  {
+    "name": "Northern Air Charter, Inc.",
+    "IATA": null,
+    "ICAO": "NLI",
+    "website": "www.flynorthernair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809028"
+  },
+  {
+    "name": "Northern Thunderbird Air Ltd.",
+    "IATA": null,
+    "ICAO": "NTA",
+    "website": "www.ntair.ca",
+    "notes": "Designator 4R recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809050"
+  },
+  {
+    "name": "1590877AB d/b/a NorthStar Air Tours Ltd.",
+    "IATA": null,
+    "ICAO": "GJA",
+    "website": "www.northstarairtours.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809068"
+  },
+  {
+    "name": "Northway Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "NAL",
+    "website": "www.northwayav.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809087"
+  },
+  {
+    "name": "Northwestern Air Lease Ltd.",
+    "IATA": "J3",
+    "ICAO": "PLR",
+    "website": "www.nwal.ca",
+    "notes": "IATA Desigantor changed form CT*",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809105"
+  },
+  {
+    "name": "Northwinds Northern Ltd.",
+    "IATA": null,
+    "ICAO": "NWN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809123"
+  },
+  {
+    "name": "North-Wright Airways Ltd.",
+    "IATA": "HW",
+    "ICAO": "NWL",
+    "website": "www.north-wrightairways.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809140"
+  },
+  {
+    "name": "2106701 Ontario Inc. t/a Novajet",
+    "IATA": null,
+    "ICAO": "NOJ",
+    "website": "www.novajet.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809158"
+  },
+  {
+    "name": "Nunasi-Central Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "NUN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809175"
+  },
+  {
+    "name": "On Air Limited",
+    "IATA": null,
+    "ICAO": "ORL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809194"
+  },
+  {
+    "name": "Operation Enduring Freedom",
+    "IATA": null,
+    "ICAO": "LLO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809213"
+  },
+  {
+    "name": "Ornge Air",
+    "IATA": null,
+    "ICAO": "PUL",
+    "website": "www.ornge.ca",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809230"
+  },
+  {
+    "name": "Pacific Coastal Airlines Limited",
+    "IATA": "8P",
+    "ICAO": "PCO",
+    "website": "www.pacific-coastal.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809248"
+  },
+  {
+    "name": "Pacific Sky Aviation Inc",
+    "IATA": null,
+    "ICAO": "LVW",
+    "website": "www.pacificsky.ca",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809267"
+  },
+  {
+    "name": "PAL Aerospace Ltd.",
+    "IATA": null,
+    "ICAO": "SPR",
+    "website": "palaerospace.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809285"
+  },
+  {
+    "name": "PAL Airlines Ltd.",
+    "IATA": "PB",
+    "ICAO": "PVL",
+    "website": "www.palairlines.ca",
+    "notes": "Name changed from Provincial Airlines.  w.e.f. 01 June 2016.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809303"
+  },
+  {
+    "name": "Panorama Aviation, Inc.",
+    "IATA": null,
+    "ICAO": "PNO",
+    "website": "www.panoramaaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809322"
+  },
+  {
+    "name": "9736140 Canada Inc t/a Pascan",
+    "IATA": null,
+    "ICAO": "PSC",
+    "website": "www.pascan.com",
+    "notes": "Name changed from Pascan Aviation Inc.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809340"
+  },
+  {
+    "name": "Perimeter Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "PAG",
+    "website": "www.perimeter.ca",
+    "notes": "Designator 4B recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809360"
+  },
+  {
+    "name": "Phoenix Flight Operations Ltd.",
+    "IATA": null,
+    "ICAO": "XPX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809378"
+  },
+  {
+    "name": "Pimichikamac Air Ltd.",
+    "IATA": null,
+    "ICAO": "MKS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809395"
+  },
+  {
+    "name": "2746904 Ontario Inc. d/b/a Pivot Airlines",
+    "IATA": null,
+    "ICAO": null,
+    "website": "flypivot.com",
+    "notes": "owned by Binder Capital Corporation. A a regional and charter airline based in Toronto, Canada.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809413"
+  },
+  {
+    "name": "2746904 Ontario Inc. d/b/a Pivot Airlines",
+    "IATA": "ZX",
+    "ICAO": "GGN",
+    "website": "flypivot.com",
+    "notes": "Founded on 06 March 2020 after the purchase of the assets of Air Georgian Ltd. Owned by Binder Capital Corporation.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809433"
+  },
+  {
+    "name": "Porter Airlines Inc.",
+    "IATA": "P3",
+    "ICAO": "PTR",
+    "website": "www.flyporter.com",
+    "notes": "ICAO code changed from POE. ICAO Callsign changed from Porter Air. IATA Designator changed from PD. ICAO Callsign changed from Porter Dash.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809452"
+  },
+  {
+    "name": "Porter Airlines (Canada) Limited",
+    "IATA": "PD",
+    "ICAO": "POE",
+    "website": "www.flyporter.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809470"
+  },
+  {
+    "name": "Powell Air Ltd.",
+    "IATA": null,
+    "ICAO": "PWL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809487"
+  },
+  {
+    "name": "Pratt And Whitney Canada, Inc.",
+    "IATA": null,
+    "ICAO": "PWC",
+    "website": "www.pwc.ca",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809505"
+  },
+  {
+    "name": "Privateair Inc.",
+    "IATA": null,
+    "ICAO": "FSY",
+    "website": "privateair.ca",
+    "notes": "Name changed from Algonquin Airlink Inc.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809524"
+  },
+  {
+    "name": "Propair, Inc.",
+    "IATA": null,
+    "ICAO": "PRO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809542"
+  },
+  {
+    "name": "Province of Manitoba, Air Services Branch",
+    "IATA": null,
+    "ICAO": "MBT",
+    "website": "www.gov.mb.ca",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809560"
+  },
+  {
+    "name": "Quantex Environmental, Inc.",
+    "IATA": null,
+    "ICAO": "QTX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809579"
+  },
+  {
+    "name": "R1 Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "TSH",
+    "website": "r1airlines.ca",
+    "notes": "Name changed from Regional 1 Airlines Ltd.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809596"
+  },
+  {
+    "name": "Rise Air",
+    "IATA": null,
+    "ICAO": null,
+    "website": "riseair.ca",
+    "notes": "Formed by the merger of Transwest Air and West Wind Aviation.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809613"
+  },
+  {
+    "name": "Rocky Mountain Airlines",
+    "IATA": null,
+    "ICAO": "ROC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809631"
+  },
+  {
+    "name": "Royal Canadian Mounted Police",
+    "IATA": null,
+    "ICAO": "SST",
+    "website": "www.rcmp-grc.gc.ca",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809649"
+  },
+  {
+    "name": "Samaritan Air Service Ltd.",
+    "IATA": null,
+    "ICAO": "HLO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809666"
+  },
+  {
+    "name": "Sansar Aviation International",
+    "IATA": null,
+    "ICAO": "SNZ",
+    "website": "www.sansaraviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809684"
+  },
+  {
+    "name": "Saskatchewan Government Air Ambulance Service",
+    "IATA": null,
+    "ICAO": "SLG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809702"
+  },
+  {
+    "name": "Saskatchewan Government Executive Air Service",
+    "IATA": null,
+    "ICAO": "SGS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809720"
+  },
+  {
+    "name": "Sector Airlines",
+    "IATA": null,
+    "ICAO": "XTR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809736"
+  },
+  {
+    "name": "Seneca College",
+    "IATA": null,
+    "ICAO": "BZQ",
+    "website": "www.senecacollege.ca",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809755"
+  },
+  {
+    "name": "Shell Canada",
+    "IATA": null,
+    "ICAO": "SCL",
+    "website": "www.shell.ca",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809772"
+  },
+  {
+    "name": "Shuswap Air",
+    "IATA": null,
+    "ICAO": "SFC",
+    "website": null,
+    "notes": "Designator 3S recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809790"
+  },
+  {
+    "name": "Stuck in the Middle Airlines Limited t/a SIM Air",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Planned start up.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809807"
+  },
+  {
+    "name": "Simpson Air Ltd.",
+    "IATA": null,
+    "ICAO": "NCS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809824"
+  },
+  {
+    "name": "Sky Jet M.G. Inc.",
+    "IATA": "DU",
+    "ICAO": null,
+    "website": "www.skyjetaviation.ca",
+    "notes": "Commenced Operations on 01 August 2007. IATA Designator changed from Q9*",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809843"
+  },
+  {
+    "name": "Sky Jet M.G. Inc.",
+    "IATA": "DU",
+    "ICAO": "LIZ",
+    "website": "www.skyjetaviation.ca",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809860"
+  },
+  {
+    "name": "2080061 Ontario Inc t/a SkyCare",
+    "IATA": null,
+    "ICAO": "PHX",
+    "website": "www.skycare.ca",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809877"
+  },
+  {
+    "name": "Skycharter (Malton) Limited",
+    "IATA": null,
+    "ICAO": "SKL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809896"
+  },
+  {
+    "name": "Skylink Express Inc",
+    "IATA": null,
+    "ICAO": "SLQ",
+    "website": "www.skylinkexpress.com",
+    "notes": "Formerly QuikAire Cargo Inc.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809915"
+  },
+  {
+    "name": "Skyplan Services Ltd.",
+    "IATA": null,
+    "ICAO": "XXS",
+    "website": "www.skyplan.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809934"
+  },
+  {
+    "name": "Skyservice Business Aviation Inc",
+    "IATA": null,
+    "ICAO": "SYB",
+    "website": "www.skyservice.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809953"
+  },
+  {
+    "name": "SKYTRAC Systems Ltd",
+    "IATA": null,
+    "ICAO": "TTQ",
+    "website": "www.skytrac.ca",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809971"
+  },
+  {
+    "name": "Slate Falls Airways Ltd.",
+    "IATA": null,
+    "ICAO": "SYJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.809989"
+  },
+  {
+    "name": "Sontair Ltd.",
+    "IATA": null,
+    "ICAO": "STI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.810006"
+  },
+  {
+    "name": "Southport Aerospace Centre",
+    "IATA": null,
+    "ICAO": "XPG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.810023"
+  },
+  {
+    "name": "Starlink Aviation Inc.",
+    "IATA": null,
+    "ICAO": "TLK",
+    "website": "www.starlinkaviation.com",
+    "notes": "Designator Q4 recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.810042"
+  },
+  {
+    "name": "Strait Air (2000) Ltd",
+    "IATA": null,
+    "ICAO": "NUK",
+    "website": "www.strait-air.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.810060"
+  },
+  {
+    "name": "Summit Air Limited",
+    "IATA": null,
+    "ICAO": "SUT",
+    "website": "flysummitair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.810078"
+  },
+  {
+    "name": "Suncor Energy Inc.",
+    "IATA": null,
+    "ICAO": "JSN",
+    "website": "www.suncor.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.810096"
+  },
+  {
+    "name": "Sunwest Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "CNK",
+    "website": "www.sunwestaviation.ca",
+    "notes": "Name changed from Sunwest Home Aviation Ltd.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.810116"
+  },
+  {
+    "name": "Sunwing Airlines Inc",
+    "IATA": "WG",
+    "ICAO": "SWG",
+    "website": "www.flysunwing.com",
+    "notes": "IATA designator changed from K0 on 15 Aug 2006. Founded in 2005. Purchased by WestJet on 01 May 2023.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.810137"
+  },
+  {
+    "name": "Syncrude Canada Ltd.",
+    "IATA": null,
+    "ICAO": "SYN",
+    "website": "www.syncrude.ca",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.810155"
+  },
+  {
+    "name": "Tantalus Air",
+    "IATA": null,
+    "ICAO": "TTU",
+    "website": "tantalusair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.810173"
+  },
+  {
+    "name": "Thunder Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "THU",
+    "website": "www.thunderair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.810190"
+  },
+  {
+    "name": "Tradewinds Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "TWL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.810206"
+  },
+  {
+    "name": "Trans North Turbo Air Ltd.",
+    "IATA": null,
+    "ICAO": "TNT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.810224"
+  },
+  {
+    "name": "Trans-Provincial Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "TPY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.810241"
+  },
+  {
+    "name": "Transwest Air Limited",
+    "IATA": "4T",
+    "ICAO": null,
+    "website": "www.transwestair.com",
+    "notes": "Formed by the merger of Air Sask and Athabaska Airways",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.810261"
+  },
+  {
+    "name": "Triton Airlines, Inc.",
+    "IATA": null,
+    "ICAO": "DRC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.810278"
+  },
+  {
+    "name": "Viking Air Ltd",
+    "IATA": null,
+    "ICAO": "VKN",
+    "website": "www.vikingair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.810294"
+  },
+  {
+    "name": "Vintage Wings Of Canada",
+    "IATA": null,
+    "ICAO": "GHK",
+    "website": "www.vintagewings.ca",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.810312"
+  },
+  {
+    "name": "Vision Airways Corporation",
+    "IATA": null,
+    "ICAO": "VSN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.810329"
+  },
+  {
+    "name": "VMO Solutions",
+    "IATA": null,
+    "ICAO": "VMO",
+    "website": "www.vmo.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.810347"
+  },
+  {
+    "name": "Voyageur Airways Limited",
+    "IATA": null,
+    "ICAO": "VAL",
+    "website": "airways.voyav.com",
+    "notes": "Designator VC* recalled by IATA. Designator 4V recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.810364"
+  },
+  {
+    "name": "Walsten Air Services (1986) Ltd.",
+    "IATA": null,
+    "ICAO": "WAS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.810380"
+  },
+  {
+    "name": "Wasaya Airways L.P.",
+    "IATA": "WP",
+    "ICAO": "WSG",
+    "website": "www.wasaya.com",
+    "notes": "Designator WT recalled by IATA. IATA designator changed from WG*. Name changed from Wasaya Airways Ltd.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.810399"
+  },
+  {
+    "name": "West Wind Aviation, Inc",
+    "IATA": null,
+    "ICAO": "WEW",
+    "website": "www.westwindaviation.ca",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.810424"
+  },
+  {
+    "name": "Westair Aviation, Inc.",
+    "IATA": null,
+    "ICAO": "NLF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.810441"
+  },
+  {
+    "name": "Westjet",
+    "IATA": "WS",
+    "ICAO": "WJA",
+    "website": "www.westjet.com",
+    "notes": "Name changed from Westjet Airlines Ltd.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.810458"
+  },
+  {
+    "name": "Westjet Encore Ltd.",
+    "IATA": "WR",
+    "ICAO": "WEN",
+    "website": "www.westjet.com/guest/en/help/encore.shtml",
+    "notes": "Commenced operations on 24 June 2013.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.810475"
+  },
+  {
+    "name": "Westpoint Air",
+    "IATA": null,
+    "ICAO": "WTP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.810491"
+  },
+  {
+    "name": "White River Air Services Ltd.",
+    "IATA": null,
+    "ICAO": "WRA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.810507"
+  },
+  {
+    "name": "World Weatherwatch",
+    "IATA": null,
+    "ICAO": "XWW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.810523"
+  },
+  {
+    "name": "Xstrata Nickel",
+    "IATA": null,
+    "ICAO": "RAG",
+    "website": "www.glencore.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:20.810540"
+  },
+  {
+    "name": "Air Nootka Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.airnootka.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.810557"
+  },
+  {
+    "name": "Amigo Airways Corp.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.amigoairways.ca",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.810574"
+  },
+  {
+    "name": "Atlas Aviation Services, Inc.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.atlasaviationservices.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.810591"
+  },
+  {
+    "name": "Bates Air Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.batesair.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.810608"
+  },
+  {
+    "name": "CHC Helicoter Corporation",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.chc.ca",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.810625"
+  },
+  {
+    "name": "Cloud Air Service Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.cloudair.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.810644"
+  },
+  {
+    "name": "Corporate Express Business & Charter Airline",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.corpxair.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.810662"
+  },
+  {
+    "name": "Exact Air",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.exactair.ca",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.810679"
+  },
+  {
+    "name": "Gateway Airlines Limited",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.gatewayltd.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.810698"
+  },
+  {
+    "name": "Helijet International, Inc.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.helijet.com",
+    "notes": "Name changed from Helijet Airways.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.810716"
+  },
+  {
+    "name": "London Air Services",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.londonair.ca",
+    "notes": "Due to start ops First quarter 2001",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.810733"
+  },
+  {
+    "name": "Montair Aviation, Inc.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.montair.com",
+    "notes": "Designator UJ recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.810750"
+  },
+  {
+    "name": "North Vancouver Air",
+    "IATA": null,
+    "ICAO": "NRV",
+    "website": "www.northvanair.com",
+    "notes": "Name changed to International Express Air Charter Ltd. Designator VL* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.810768"
+  },
+  {
+    "name": "Skylink Express Inc",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.skylinkexpress.com",
+    "notes": "Name changed from QuikAire Cargo Inc",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.810787"
+  },
+  {
+    "name": "Westcoast Air",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.westcoastair.com",
+    "notes": "Designator 8O recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.810804"
+  },
+  {
+    "name": "8199400 Canada Inc. d/b/a Summit Air",
+    "IATA": null,
+    "ICAO": null,
+    "website": "flysummitair.com",
+    "notes": "Founded in 1987.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.810823"
+  },
+  {
+    "name": "3701379 Canada, Inc.",
+    "IATA": null,
+    "ICAO": "WZP",
+    "website": null,
+    "notes": "Name changed to Zir Air, Inc.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.810841"
+  },
+  {
+    "name": "611897 Alberta Ltd.",
+    "IATA": null,
+    "ICAO": "THD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.810859"
+  },
+  {
+    "name": "Abbotsford Air Services",
+    "IATA": null,
+    "ICAO": "ABE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.810877"
+  },
+  {
+    "name": "Norwegian State Railways d/b/a AccesRail Inc.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.accesrail.com",
+    "notes": "Name changed to AccesRail and Partner Railways. Railway Service",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.810896"
+  },
+  {
+    "name": "Worldwide Air Charter Systems d/b/a ACS of Canada - Air Charter Sysytems",
+    "IATA": "EF",
+    "ICAO": "CSW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.810913"
+  },
+  {
+    "name": "Adastra Aviation",
+    "IATA": null,
+    "ICAO": "ADD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.810929"
+  },
+  {
+    "name": "Advance Air Charters",
+    "IATA": null,
+    "ICAO": "ADV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.810947"
+  },
+  {
+    "name": "Advantis",
+    "IATA": "1H",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator 1H recalled by IATA. Computer Reservation System",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.810966"
+  },
+  {
+    "name": "Aero Aviation Centre Ltd.",
+    "IATA": null,
+    "ICAO": "AAD",
+    "website": null,
+    "notes": "Ceased operations 1995",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.810984"
+  },
+  {
+    "name": "Aero Bee Airlines Inc.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811001"
+  },
+  {
+    "name": "Aero Bonaventure, Inc.",
+    "IATA": null,
+    "ICAO": "BIA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811019"
+  },
+  {
+    "name": "Aero Trades (Western) Ltd.",
+    "IATA": "VM",
+    "ICAO": "ATW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811036"
+  },
+  {
+    "name": "Aerocharter, Inc.",
+    "IATA": null,
+    "ICAO": "MRM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811054"
+  },
+  {
+    "name": "Aero-North Aviation Services",
+    "IATA": null,
+    "ICAO": "SKP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811072"
+  },
+  {
+    "name": "Aeropro",
+    "IATA": null,
+    "ICAO": "APO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811090"
+  },
+  {
+    "name": "Air 2000 Canada Airlines Ltd.",
+    "IATA": "2T",
+    "ICAO": "CMM",
+    "website": null,
+    "notes": "Name changed from to Canada 3000 Airlines Limited in May 1989.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811108"
+  },
+  {
+    "name": "Air 500 Limited",
+    "IATA": null,
+    "ICAO": "BRM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811125"
+  },
+  {
+    "name": "Air Alliance, Inc.",
+    "IATA": "3J",
+    "ICAO": "AAQ",
+    "website": null,
+    "notes": "Air Canada Connector",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811141"
+  },
+  {
+    "name": "Air Georgian Ltd. d/b/a Air Alliance",
+    "IATA": "ZO",
+    "ICAO": "GGN",
+    "website": "www.airalliance.ca",
+    "notes": "IATA designator changed to ZX",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811159"
+  },
+  {
+    "name": "Air Georgian Ltd. d/b/a Air Alliance",
+    "IATA": "ZX",
+    "ICAO": "GGN",
+    "website": null,
+    "notes": "Designator ZX recaelled by IATA. IATA Designator changed from ZO.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811177"
+  },
+  {
+    "name": "Air Alma, Inc.",
+    "IATA": "QB",
+    "ICAO": "AAJ",
+    "website": "www.airalma.com",
+    "notes": "Ceased operations on 10 january 2002.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811196"
+  },
+  {
+    "name": "Air Alma, Inc.",
+    "IATA": "4L",
+    "ICAO": "AAJ",
+    "website": "www.airalma.com",
+    "notes": "Designator 4L recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811213"
+  },
+  {
+    "name": "Air Atlantic",
+    "IATA": null,
+    "ICAO": "ATL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811233"
+  },
+  {
+    "name": "Air Atlantic - A Division of IMP Group",
+    "IATA": "9A",
+    "ICAO": "ATL",
+    "website": null,
+    "notes": "Canadian Partner",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811251"
+  },
+  {
+    "name": "Air Atonabee Limited d/b/a City Express",
+    "IATA": "OU",
+    "ICAO": "OUL",
+    "website": null,
+    "notes": "Designator OU recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811270"
+  },
+  {
+    "name": "Air Baffin",
+    "IATA": null,
+    "ICAO": "BFF",
+    "website": "www.airnunavut.ca",
+    "notes": "Name changed to Air Nunavut.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811289"
+  },
+  {
+    "name": "Air B.C. Ltd.",
+    "IATA": "ZX",
+    "ICAO": "ABL",
+    "website": null,
+    "notes": "Merged into Air Canada Jazz. Air Canada Connector",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811307"
+  },
+  {
+    "name": "Air Brasd'or",
+    "IATA": null,
+    "ICAO": "BRL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811323"
+  },
+  {
+    "name": "Air Brousse, Inc",
+    "IATA": null,
+    "ICAO": "ABT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811342"
+  },
+  {
+    "name": "Air Caledonia, Inc.",
+    "IATA": null,
+    "ICAO": "ACM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811360"
+  },
+  {
+    "name": "Air Canada Jazz",
+    "IATA": "QK",
+    "ICAO": "JZA",
+    "website": "www.flyjazz.ca",
+    "notes": "ICAO designator changed from JZZ. Name changed from Air Canada Regional Inc. ICAO designator changed from ARN. ICAO callsign changed from Transcan.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811381"
+  },
+  {
+    "name": "Air Canada Jazz",
+    "IATA": "QK",
+    "ICAO": "JZZ",
+    "website": "www.flyjazz.ca",
+    "notes": "ICAO designator changed to JZA. Name changed from Air Canada Regional Inc. ICAO designator changed from ARN. ICAO callsign changed from Transcan.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811400"
+  },
+  {
+    "name": "Air Canada Regional, Inc.",
+    "IATA": "QK",
+    "ICAO": "ARN",
+    "website": "www.airnova.ca",
+    "notes": "Name changed to Air Canada Jazz. ICAO Designator changed to JZZ. Name changed from Air Nova Inc. ICAO callsign changed from Nova.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811419"
+  },
+  {
+    "name": "8165343 Canada Inc. dba Air Canada rouge",
+    "IATA": "RV",
+    "ICAO": "ROU",
+    "website": "flyrouge.com",
+    "notes": "Name changed to Air Canada rouge LP w.e.f. 09 January 2014.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811439"
+  },
+  {
+    "name": "Air Caravane, Inc.",
+    "IATA": null,
+    "ICAO": "ACR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811458"
+  },
+  {
+    "name": "Air Charters, Inc.",
+    "IATA": null,
+    "ICAO": "ACX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811475"
+  },
+  {
+    "name": "Air Club International Ltd.",
+    "IATA": null,
+    "ICAO": "CLI",
+    "website": null,
+    "notes": "Established in 1993. Commenced operations in Janaury 1995. Ceased operations during 1998.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811495"
+  },
+  {
+    "name": "Executive Air Link d/b/a Air Direct",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811512"
+  },
+  {
+    "name": "Air Dorval Ltee.",
+    "IATA": null,
+    "ICAO": "ADT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811530"
+  },
+  {
+    "name": "Air Fecteau Ltee.",
+    "IATA": null,
+    "ICAO": "AFH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811548"
+  },
+  {
+    "name": "Air Fecteau Ltee",
+    "IATA": "JG",
+    "ICAO": null,
+    "website": null,
+    "notes": "Merged with La Sarre Air Service to form Propair",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811566"
+  },
+  {
+    "name": "Air Gava, Inc.",
+    "IATA": null,
+    "ICAO": "AGV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811585"
+  },
+  {
+    "name": "Air Integra",
+    "IATA": null,
+    "ICAO": "AII",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811603"
+  },
+  {
+    "name": "Air Inuit (1985) Ltd.",
+    "IATA": "3H",
+    "ICAO": "AIE",
+    "website": "www.airinuit.ca",
+    "notes": "Name changed to Air Inuit Ltd/Ltee.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811621"
+  },
+  {
+    "name": "Air Inuit Ltd/Ltee.",
+    "IATA": "3H",
+    "ICAO": "AIE",
+    "website": "www.airinuit.ca",
+    "notes": "ICAO callsign changed to Inuit. Name changed from Air Inuit (1985) Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811642"
+  },
+  {
+    "name": "Air Labrador Limited",
+    "IATA": "WJ",
+    "ICAO": "LAL",
+    "website": "www.airlabrador.com",
+    "notes": "Ceased operations in June 2017. Name changed from Labrador Airways Limited. ICAO callsign changed from Lab Air. Designator WJ reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811662"
+  },
+  {
+    "name": "Air Liaison",
+    "IATA": null,
+    "ICAO": "LIZ",
+    "website": "www.airliaison.ca",
+    "notes": "Founded in 2001.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811680"
+  },
+  {
+    "name": "Air Link Charters",
+    "IATA": null,
+    "ICAO": "FSR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811697"
+  },
+  {
+    "name": "Air Madeleine, Inc.",
+    "IATA": null,
+    "ICAO": "MLN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811713"
+  },
+  {
+    "name": "Air Montreal (Air Holdings Inc.)",
+    "IATA": "F8",
+    "ICAO": "AMO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811729"
+  },
+  {
+    "name": "Air Muskoka",
+    "IATA": "8K",
+    "ICAO": "AMS",
+    "website": null,
+    "notes": "Designator recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811746"
+  },
+  {
+    "name": "Air New-Bec, Inc",
+    "IATA": null,
+    "ICAO": "ANB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811762"
+  },
+  {
+    "name": "Air Niagara (1978) Limited",
+    "IATA": "DB",
+    "ICAO": "DBD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811780"
+  },
+  {
+    "name": "Air Niagara",
+    "IATA": "NX",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811795"
+  },
+  {
+    "name": "Air Niagara Express, Inc.",
+    "IATA": null,
+    "ICAO": "DBD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811811"
+  },
+  {
+    "name": "Air Norterra, Inc",
+    "IATA": null,
+    "ICAO": "ANX",
+    "website": null,
+    "notes": "ICAO designator changed to MPE, ICAO Callsign changed to Empress",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811831"
+  },
+  {
+    "name": "Air North Charter",
+    "IATA": "4N",
+    "ICAO": "ANT",
+    "website": "www.flyairnorth.com",
+    "notes": "Name changed to Air North Charter and Training Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811851"
+  },
+  {
+    "name": "Air Nova, Inc.",
+    "IATA": "QK",
+    "ICAO": "ARN",
+    "website": null,
+    "notes": "Merged into Air Canada Regional Inc. during 2001. Air Canada Connector",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811870"
+  },
+  {
+    "name": "Air Nova, Inc.",
+    "IATA": null,
+    "ICAO": "ARN",
+    "website": null,
+    "notes": "ICAO callsign changed to Nova",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811888"
+  },
+  {
+    "name": "Air Ontario",
+    "IATA": "GX",
+    "ICAO": "ONT",
+    "website": "www.airontario.com",
+    "notes": "Founded in June 1987. Merged into Air Canada Jazz in January 2001. Air Canada Connector",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811906"
+  },
+  {
+    "name": "Air Sandy, Inc.",
+    "IATA": null,
+    "ICAO": "SNY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811925"
+  },
+  {
+    "name": "Air Sask Aviation 1991",
+    "IATA": "7W",
+    "ICAO": "ASK",
+    "website": null,
+    "notes": "Merged with Athabaska Airways to from Transwest Air 09/2000. Designator 7W recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811944"
+  },
+  {
+    "name": "Air Satellite, Inc.",
+    "IATA": "QR",
+    "ICAO": "ASJ",
+    "website": null,
+    "notes": "Designator HV recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811963"
+  },
+  {
+    "name": "Air Satellite, Inc.",
+    "IATA": null,
+    "ICAO": "ASJ",
+    "website": "www.air-satellite.com",
+    "notes": "Sold to Exactair Feb 2008. Designator HV recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.811983"
+  },
+  {
+    "name": "Air Schefferville, Inc.",
+    "IATA": "9V",
+    "ICAO": "ASF",
+    "website": null,
+    "notes": "Designator 9V recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812000"
+  },
+  {
+    "name": "Air Southwest Ltd.",
+    "IATA": null,
+    "ICAO": "ASW",
+    "website": "www.airsouthwest.ca",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812017"
+  },
+  {
+    "name": "Air St. Pierre, S.A.",
+    "IATA": null,
+    "ICAO": "PSP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812033"
+  },
+  {
+    "name": "Air Star Corporation",
+    "IATA": "KK",
+    "ICAO": "ASC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812051"
+  },
+  {
+    "name": "Air Toronto",
+    "IATA": "CS",
+    "ICAO": "SDR",
+    "website": null,
+    "notes": "Air Canada Connector",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812069"
+  },
+  {
+    "name": "Air West",
+    "IATA": null,
+    "ICAO": "AWT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812088"
+  },
+  {
+    "name": "Airbus Canada",
+    "IATA": null,
+    "ICAO": "ABK",
+    "website": "www.airbus.com",
+    "notes": "ICAO Callsign changed to Airbus Canuck.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812107"
+  },
+  {
+    "name": "Air-Dale Limited",
+    "IATA": null,
+    "ICAO": "ADL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812123"
+  },
+  {
+    "name": "Airlliance LLC",
+    "IATA": "L1",
+    "ICAO": null,
+    "website": "www.airlliance.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812141"
+  },
+  {
+    "name": "Airspeed Aviation Inc.",
+    "IATA": null,
+    "ICAO": "ASM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812158"
+  },
+  {
+    "name": "Airspeed Aviation, Inc.",
+    "IATA": "5S",
+    "ICAO": "SPD",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812175"
+  },
+  {
+    "name": "Aklak Air, Inc.",
+    "IATA": "6L",
+    "ICAO": "AKK",
+    "website": "www.aklakair.ca",
+    "notes": "Designator 6L recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812193"
+  },
+  {
+    "name": "Alberni Airways",
+    "IATA": null,
+    "ICAO": "BNI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812211"
+  },
+  {
+    "name": "Alberta Citylink",
+    "IATA": null,
+    "ICAO": "ABK",
+    "website": null,
+    "notes": "Ceased opertions",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812229"
+  },
+  {
+    "name": "Alexandair, Inc.",
+    "IATA": null,
+    "ICAO": "ABT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812246"
+  },
+  {
+    "name": "Alexandair, Inc.",
+    "IATA": null,
+    "ICAO": "JMR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812262"
+  },
+  {
+    "name": "Algoma Airways, Inc.",
+    "IATA": null,
+    "ICAO": "AGG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812278"
+  },
+  {
+    "name": "Algonquin Airlink Inc.",
+    "IATA": null,
+    "ICAO": "FSY",
+    "website": "www.algonquinairlink.com",
+    "notes": "Name changed to Privateair Inc.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812297"
+  },
+  {
+    "name": "Alkan Air Ltd.",
+    "IATA": "TO",
+    "ICAO": "AKN",
+    "website": null,
+    "notes": "Designator TO recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812316"
+  },
+  {
+    "name": "AllCanada Express, Inc.",
+    "IATA": null,
+    "ICAO": "CNX",
+    "website": "www.allcanadaexpress.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812335"
+  },
+  {
+    "name": "Alta Flights (Charters) Ltd.",
+    "IATA": null,
+    "ICAO": "ALZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812351"
+  },
+  {
+    "name": "Angus Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "AAZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812367"
+  },
+  {
+    "name": "Aquila Air Ltd.",
+    "IATA": null,
+    "ICAO": "AQL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812383"
+  },
+  {
+    "name": "8199400 Canada Inc. d/b/a Arctic Sunwest Charters",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Founded in 1989. The airline was established in 1989 and was created from the Aviation Division of RTL-Robinson Enterprises. On the 31 August 2012, Arctic Sunwest Charters became part of the Ledcor Group of Companies. In 2013 it was fully integrated into",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812402"
+  },
+  {
+    "name": "Arctic Wings And Rotors Ltd.",
+    "IATA": null,
+    "ICAO": "AWR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812419"
+  },
+  {
+    "name": "Armstrong Air, Inc.",
+    "IATA": null,
+    "ICAO": "ARQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812436"
+  },
+  {
+    "name": "Athabaska Airways Ltd.",
+    "IATA": "9T",
+    "ICAO": "ABS",
+    "website": null,
+    "notes": "Name changed to Transwest Air Limited. Merged with Air Sask",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812453"
+  },
+  {
+    "name": "Atlantic Island Airways",
+    "IATA": null,
+    "ICAO": "AIW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812470"
+  },
+  {
+    "name": "Atlantis Transportation Services, Ltd.",
+    "IATA": null,
+    "ICAO": "ATE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812487"
+  },
+  {
+    "name": "Austin Airways Limited",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812503"
+  },
+  {
+    "name": "Austin Airways Limited",
+    "IATA": null,
+    "ICAO": "AAW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812521"
+  },
+  {
+    "name": "Aviair Aviation Ltd.",
+    "IATA": "5V",
+    "ICAO": "AVF",
+    "website": null,
+    "notes": "Designator 5V recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812538"
+  },
+  {
+    "name": "Aviation Amos M. Et J. Inc. d/b/a Aviation Amos",
+    "IATA": null,
+    "ICAO": "AMJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812554"
+  },
+  {
+    "name": "Aviation Quebec Labrador LTEE",
+    "IATA": "QC",
+    "ICAO": "QLA",
+    "website": null,
+    "notes": "Designator QC recalled by IATA. IATA designator changed from JT*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812571"
+  },
+  {
+    "name": "Aviation Quebec Labrador LTEE",
+    "IATA": null,
+    "ICAO": "QLA",
+    "website": null,
+    "notes": "IATA designator changed to QC",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812588"
+  },
+  {
+    "name": "Avion Taxi (2695731 Canada Inc.)",
+    "IATA": null,
+    "ICAO": "ADQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812604"
+  },
+  {
+    "name": "Avionair, Inc.",
+    "IATA": null,
+    "ICAO": "ANU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812620"
+  },
+  {
+    "name": "Baxter Aviation",
+    "IATA": "6B",
+    "ICAO": null,
+    "website": "www.baxterair.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812636"
+  },
+  {
+    "name": "Bay Chaleur Airlines, Inc.",
+    "IATA": "VY",
+    "ICAO": null,
+    "website": "www.baychaleurairlines.com",
+    "notes": "Designator VY recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812653"
+  },
+  {
+    "name": "Bearskin Lake Air Service Limited",
+    "IATA": null,
+    "ICAO": "BLS",
+    "website": null,
+    "notes": "Name changed to Perimeter Aviation LP d/b/a Bearskin Airlines w.e.f. from 15 October 2004.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812671"
+  },
+  {
+    "name": "Bombardier, Inc",
+    "IATA": null,
+    "ICAO": "BFO",
+    "website": "www.bombardier.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812687"
+  },
+  {
+    "name": "Bonair Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "BNR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812702"
+  },
+  {
+    "name": "Bonavair Ltd.",
+    "IATA": null,
+    "ICAO": "BOV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812718"
+  },
+  {
+    "name": "Bordaire Ltd.",
+    "IATA": null,
+    "ICAO": "BOF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812735"
+  },
+  {
+    "name": "Bradley Air Services Limited",
+    "IATA": null,
+    "ICAO": "FAB",
+    "website": null,
+    "notes": "Name changed to First Air. (ICAO callsign First Air - Canada only)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812752"
+  },
+  {
+    "name": "Bradley Air (Charter) Services Ltd.",
+    "IATA": null,
+    "ICAO": "BAR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812768"
+  },
+  {
+    "name": "British Columbia Government",
+    "IATA": null,
+    "ICAO": "BCG",
+    "website": null,
+    "notes": "ICAO callsign changed to British Columbia Government.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812786"
+  },
+  {
+    "name": "British Columbia Government",
+    "IATA": null,
+    "ICAO": "BCG",
+    "website": null,
+    "notes": "ICAO callsign changed from Expo",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812805"
+  },
+  {
+    "name": "British Columbia Power And Hydro Authority",
+    "IATA": null,
+    "ICAO": "BCH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812824"
+  },
+  {
+    "name": "British Columbia Telephone Ltd.",
+    "IATA": null,
+    "ICAO": "BCT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812841"
+  },
+  {
+    "name": "Brock Air Services Ltd.",
+    "IATA": null,
+    "ICAO": "BRD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812858"
+  },
+  {
+    "name": "Brooker-Wheaton Aviation, Ltd.",
+    "IATA": null,
+    "ICAO": "BWB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812874"
+  },
+  {
+    "name": "Buffalo Airways Ltd.",
+    "IATA": null,
+    "ICAO": "BFL",
+    "website": "www.buffaloairways.com",
+    "notes": "Designator J4* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812933"
+  },
+  {
+    "name": "Burrard Air (1989) Ltd.",
+    "IATA": "6E",
+    "ICAO": "BXA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812952"
+  },
+  {
+    "name": "Burrard Air",
+    "IATA": null,
+    "ICAO": "BXA",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812970"
+  },
+  {
+    "name": "Business Air Services (Toronto) Ltd.",
+    "IATA": null,
+    "ICAO": "BAM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.812987"
+  },
+  {
+    "name": "Business Express Delivery Ltd.",
+    "IATA": null,
+    "ICAO": "EXP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813005"
+  },
+  {
+    "name": "Business Flights",
+    "IATA": "CZ",
+    "ICAO": "BFA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813024"
+  },
+  {
+    "name": "Canada - Department of Transport",
+    "IATA": "GO",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813044"
+  },
+  {
+    "name": "Canada - Transport Canada",
+    "IATA": "GO",
+    "ICAO": "TGO",
+    "website": null,
+    "notes": "Designator GO recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813060"
+  },
+  {
+    "name": "Canada 3000 Airlines Limited",
+    "IATA": "2T",
+    "ICAO": "CMM",
+    "website": "www.canada3000.com",
+    "notes": "Ceased operations on 08 November 2001. Name changed from Air 2000 Canada Airlines Ltd. In May 1989.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813080"
+  },
+  {
+    "name": "Canada West Air Ltd.",
+    "IATA": null,
+    "ICAO": "CWA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813097"
+  },
+  {
+    "name": "Canadian Airlines International Limited",
+    "IATA": "CP",
+    "ICAO": "CDN",
+    "website": null,
+    "notes": "Merged into Air Canada. Formerly CP Air",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813115"
+  },
+  {
+    "name": "Canadian Armed Forces",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813131"
+  },
+  {
+    "name": "Canadian Eagle Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "HIA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813147"
+  },
+  {
+    "name": "Canadian Global Air Ambulance Ltd",
+    "IATA": null,
+    "ICAO": "BZD",
+    "website": null,
+    "notes": "Declared Bankrupt on 30 September 2008.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813164"
+  },
+  {
+    "name": "Canadian Helicopters Ltd",
+    "IATA": null,
+    "ICAO": "CDN",
+    "website": "www.canadianhelicopters.ca",
+    "notes": "Name changed to Canadian Helicopters Limited d/b/a HNZ Global",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813183"
+  },
+  {
+    "name": "Canadian Interagency Forest Fire Centre",
+    "IATA": null,
+    "ICAO": "TKR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813200"
+  },
+  {
+    "name": "Canadian National Telecommunications",
+    "IATA": "XN",
+    "ICAO": "XNC",
+    "website": null,
+    "notes": "Designator XN recalled by IATA. Non-airline Org. in airline industry",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813219"
+  },
+  {
+    "name": "Air Norterra Inc, d/b/a Canadian North",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "IATA designator changed to 5T",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813237"
+  },
+  {
+    "name": "Air Norterra Inc, d/b/a Canadian North",
+    "IATA": "5T",
+    "ICAO": "MPE",
+    "website": "www.canadiannorth.com",
+    "notes": "Founded in 1989. ICAO designator changed from ANX, ICAO Callsign changed to Norterra",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813254"
+  },
+  {
+    "name": "Bradley Air Services Limited t/a Canadian North",
+    "IATA": null,
+    "ICAO": "AKT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813271"
+  },
+  {
+    "name": "Air NorTerra, Inc. Operates as Canadian North",
+    "IATA": null,
+    "ICAO": "ANX",
+    "website": "www.cdn-north.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813289"
+  },
+  {
+    "name": "Air Norterra Inc, d/b/a Canadian North",
+    "IATA": "5T",
+    "ICAO": "MPE",
+    "website": "www.canadiannorth.com",
+    "notes": "Founded in 1989. Name changed to Canadian North Inc. ICAO callsign changed to Empress. IATA designator changed from 3F*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813309"
+  },
+  {
+    "name": "Canadian North Inc.",
+    "IATA": "5T",
+    "ICAO": "MPE",
+    "website": "www.canadiannorth.com",
+    "notes": "Founded in 1989. Name changed from Air Norterra Inc, d/b/a Canadian North w.e.f. 07 May 1998. ICAO callsign changed from Emphis. IATA designator changed from 3F*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813329"
+  },
+  {
+    "name": "Canadian Pacific Airlines Ltd.",
+    "IATA": "CP",
+    "ICAO": "CPC",
+    "website": null,
+    "notes": "Name changed to Canadian Airlines International Ltd. Name changed from CP Air",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813347"
+  },
+  {
+    "name": "Canadian Regional Airlines (1998) Ltd.",
+    "IATA": "KI",
+    "ICAO": "CDR",
+    "website": null,
+    "notes": "Merged into Air Canada Jazz",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813366"
+  },
+  {
+    "name": "Canadian Western Airlines, Inc.",
+    "IATA": null,
+    "ICAO": "CWA",
+    "website": "www.cwair.com",
+    "notes": "Founded in 2002. Ceased operations in 2004.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813385"
+  },
+  {
+    "name": "CanJet Airlines",
+    "IATA": "C6",
+    "ICAO": "CJA",
+    "website": "www.canjet.com",
+    "notes": "Founded in 1999 and commenced operations on 05 September 2000. Wholly owned by IMP Group International. Merged into Canada 3000 24 April 2001.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813404"
+  },
+  {
+    "name": "CanJet Airlines",
+    "IATA": "C6",
+    "ICAO": "CJA",
+    "website": "www.canjet.com",
+    "notes": "Relaunched on 20 June 2002. Suspeneded all operations on 01 September 2015. Wholly owned by IMP Group International.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813423"
+  },
+  {
+    "name": "Capital Aviation Services Ltd.",
+    "IATA": null,
+    "ICAO": "VEN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813443"
+  },
+  {
+    "name": "Cargojet Airways Ltd.",
+    "IATA": "W8",
+    "ICAO": "WNT",
+    "website": "www.cargojet.com",
+    "notes": "Name changed from Winnport Logistics Ltd. ICAO Code changed to CJT. ICAO callsign changed to Cargojet. Name changed to Kelowna Flightcraft International Air Cargo Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813462"
+  },
+  {
+    "name": "Centennial Flight Centre Ltd. d/b/a Centennial Airlines",
+    "IATA": "FA",
+    "ICAO": "CNS",
+    "website": null,
+    "notes": "IATA designator FA voluntary surrendered",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813479"
+  },
+  {
+    "name": "Central Airways Corp.",
+    "IATA": null,
+    "ICAO": "CEN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813496"
+  },
+  {
+    "name": "Century Aviation International, Ltd.",
+    "IATA": null,
+    "ICAO": "HAI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813514"
+  },
+  {
+    "name": "Chilcotin Caribou Aviation",
+    "IATA": null,
+    "ICAO": "DES",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813531"
+  },
+  {
+    "name": "Chilliwack Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "CAD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813547"
+  },
+  {
+    "name": "Chrono Jet, Inc.",
+    "IATA": null,
+    "ICAO": "BLK",
+    "website": "www.chronoaviation.com",
+    "notes": "ICAO designator changed to MBK. ICAO callsign changed to Matblack.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813566"
+  },
+  {
+    "name": "Citizen Airways",
+    "IATA": null,
+    "ICAO": "VAX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813583"
+  },
+  {
+    "name": "Colibri Aviation Reg'd",
+    "IATA": null,
+    "ICAO": "CAE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813599"
+  },
+  {
+    "name": "Collingwood Air Services Limited",
+    "IATA": null,
+    "ICAO": "BLE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813615"
+  },
+  {
+    "name": "Columbia Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "COL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813630"
+  },
+  {
+    "name": "Commander Air Charter Limited",
+    "IATA": null,
+    "ICAO": "CML",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813647"
+  },
+  {
+    "name": "Commercial Aviation",
+    "IATA": null,
+    "ICAO": "CMS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813662"
+  },
+  {
+    "name": "Conair Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "CRC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813678"
+  },
+  {
+    "name": "Confort Air, Inc.",
+    "IATA": null,
+    "ICAO": "COF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813696"
+  },
+  {
+    "name": "Conifair Aviation, Inc.",
+    "IATA": null,
+    "ICAO": "CNF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813715"
+  },
+  {
+    "name": "Corpac Canada Ltd.",
+    "IATA": null,
+    "ICAO": "CPB",
+    "website": null,
+    "notes": "Ceased Operations on 18 June 2009.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813732"
+  },
+  {
+    "name": "Corporate Airlink",
+    "IATA": null,
+    "ICAO": "COO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813748"
+  },
+  {
+    "name": "Cougar Air, Inc.",
+    "IATA": null,
+    "ICAO": "CAJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813763"
+  },
+  {
+    "name": "Coval Air Ltd.",
+    "IATA": null,
+    "ICAO": "ODY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813780"
+  },
+  {
+    "name": "CP Air",
+    "IATA": "CP",
+    "ICAO": "CPC",
+    "website": null,
+    "notes": "Bought by Pacific Western and merged to form Canadian Airlines International",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813797"
+  },
+  {
+    "name": "Cree Airways Corporation",
+    "IATA": null,
+    "ICAO": "CRE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813814"
+  },
+  {
+    "name": "CTI - Container Transport International",
+    "IATA": null,
+    "ICAO": "CTI",
+    "website": "www.cticonsultancy.com",
+    "notes": "Non-airline Unit Load Devices (ULD) companies",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813832"
+  },
+  {
+    "name": "Canadian Armed Forces",
+    "IATA": null,
+    "ICAO": "CAM",
+    "website": null,
+    "notes": "ICAO designator changed to CFC",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813849"
+  },
+  {
+    "name": "De Havilland, Inc.",
+    "IATA": null,
+    "ICAO": "DHC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813865"
+  },
+  {
+    "name": "Delta Air Charter Ltd.",
+    "IATA": "9D",
+    "ICAO": "SNO",
+    "website": null,
+    "notes": "Designator recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813883"
+  },
+  {
+    "name": "Eastern Flying Service Ltd.",
+    "IATA": null,
+    "ICAO": "SPR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813901"
+  },
+  {
+    "name": "Eastern Pacific Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "EPB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813921"
+  },
+  {
+    "name": "Eastern Provincial Airways (1963) Ltd.",
+    "IATA": "PV",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813938"
+  },
+  {
+    "name": "Eastern Provincial Airways (1963) Ltd.",
+    "IATA": "PV",
+    "ICAO": "EPA",
+    "website": null,
+    "notes": "Taken over by Canadian Pacific Airlines in 1986. Formerly Maritime Central Airways",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813955"
+  },
+  {
+    "name": "1263343 Alberta Inc t/a Enerjet",
+    "IATA": "Y9",
+    "ICAO": "DAT",
+    "website": "www.enerjet.ca",
+    "notes": "Name changed to 1263343 Alberta Inc t/a Lynx Air.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813975"
+  },
+  {
+    "name": "1263343 Alberta Ltd t/a Enerjet",
+    "IATA": null,
+    "ICAO": "ENJ",
+    "website": "www.enerjet.ca",
+    "notes": "Formerly known as NewAir & Tours",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.813992"
+  },
+  {
+    "name": "Execaire, Inc.",
+    "IATA": null,
+    "ICAO": "EXA",
+    "website": "www.execaire.com",
+    "notes": "Designator MB* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814012"
+  },
+  {
+    "name": "Execaire Aviation Ltd.",
+    "IATA": "DB",
+    "ICAO": "EXA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814027"
+  },
+  {
+    "name": "Express Air Charter",
+    "IATA": null,
+    "ICAO": "RXX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814043"
+  },
+  {
+    "name": "Bradley Air Services Limited t/a First Air",
+    "IATA": "7F",
+    "ICAO": "FAB",
+    "website": "www.firstair.ca",
+    "notes": "Merged into Canadian North w.e.f. 26 May 2021. Name changed from Bradley Air Services Limited.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814061"
+  },
+  {
+    "name": "Flight Operations Services, Inc.",
+    "IATA": "XY",
+    "ICAO": "XYF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814076"
+  },
+  {
+    "name": "Fortunair Canada",
+    "IATA": null,
+    "ICAO": "FXC",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814092"
+  },
+  {
+    "name": "Frontier Air Ltd.",
+    "IATA": "4F",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814107"
+  },
+  {
+    "name": "Futura Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "FUT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814123"
+  },
+  {
+    "name": "Galileo Canada Distribution Systems, Inc.",
+    "IATA": "1C",
+    "ICAO": null,
+    "website": null,
+    "notes": "Computer Reservation System",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814139"
+  },
+  {
+    "name": "Garrison Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "AHM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814155"
+  },
+  {
+    "name": "Geeseair",
+    "IATA": null,
+    "ICAO": "GEE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814171"
+  },
+  {
+    "name": "Gendall Air Ltd.",
+    "IATA": null,
+    "ICAO": "GAB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814186"
+  },
+  {
+    "name": "Georgian Bay Airways Limited",
+    "IATA": "DD",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814202"
+  },
+  {
+    "name": "Georgian Bay Airways",
+    "IATA": null,
+    "ICAO": "GBA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814217"
+  },
+  {
+    "name": "Globemaster Air Cargo Limited",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.globemasteraircargo.ca",
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814235"
+  },
+  {
+    "name": "Gold Belt Air Transport, Inc.",
+    "IATA": null,
+    "ICAO": "GBT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814251"
+  },
+  {
+    "name": "Golden Eagle Air Services Ltd. (FAA)",
+    "IATA": null,
+    "ICAO": "SAJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814268"
+  },
+  {
+    "name": "Gouvernement Du Quebec, Service Aerien Gouvernemental",
+    "IATA": null,
+    "ICAO": "TPQ",
+    "website": null,
+    "notes": "ICAO designator changed to QUE",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814285"
+  },
+  {
+    "name": "Great Lakes Airlines",
+    "IATA": "GX",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814301"
+  },
+  {
+    "name": "Green Forest Lumber Ltd.",
+    "IATA": null,
+    "ICAO": "GFL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814316"
+  },
+  {
+    "name": "Harbour Air Ltd.",
+    "IATA": "H3",
+    "ICAO": null,
+    "website": "www.harbour-air.com",
+    "notes": "Designator H3 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814334"
+  },
+  {
+    "name": "Tantalus Air Ltd. d/b/a Harbour Air Seaplanes",
+    "IATA": "R0",
+    "ICAO": null,
+    "website": "www.harbourair.com",
+    "notes": "Part of Harbour Air Group",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814351"
+  },
+  {
+    "name": "HMY Airways, Inc. d/b/a Harmony Airways",
+    "IATA": "HQ",
+    "ICAO": "HMY",
+    "website": "www.hmyairways.com",
+    "notes": "Founded\tin 2002. Ceased operationon 09 April 2007. Name changed from HMY Airways, Inc.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814368"
+  },
+  {
+    "name": "Harrison Air",
+    "IATA": null,
+    "ICAO": "HAA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814386"
+  },
+  {
+    "name": "Hawkair Aviation Services Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.hawkair.net",
+    "notes": "IATA Designator BH* recalled",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814402"
+  },
+  {
+    "name": "Hearst Air Service Ltd.",
+    "IATA": null,
+    "ICAO": "HAF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814421"
+  },
+  {
+    "name": "Helijet Airways",
+    "IATA": null,
+    "ICAO": "JBA",
+    "website": "www.helijet.com",
+    "notes": "Name changed to Helijet International, Inc.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814438"
+  },
+  {
+    "name": "Helijet International, Inc.",
+    "IATA": "JB",
+    "ICAO": "JBA",
+    "website": "www.helijet.com",
+    "notes": "Designator JB recalled by IATA. Name changed from Helijet Airways.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814458"
+  },
+  {
+    "name": "HMY Airways, Inc.",
+    "IATA": "HQ",
+    "ICAO": "HMY",
+    "website": "www.hmyairways.com",
+    "notes": "Name changed to HMY Airways, Inc. d/b/a Harmony Airways",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814481"
+  },
+  {
+    "name": "Hyack Air (1981) Ltd.",
+    "IATA": null,
+    "ICAO": "HYA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814499"
+  },
+  {
+    "name": "Hydro-Quebec",
+    "IATA": null,
+    "ICAO": "APZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814516"
+  },
+  {
+    "name": "Hydro-Quebec",
+    "IATA": null,
+    "ICAO": "HYD",
+    "website": "www.hydroquebec.com",
+    "notes": "Designator 0Q* recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814533"
+  },
+  {
+    "name": "I M P Aviation Services Ltd.",
+    "IATA": null,
+    "ICAO": "BLU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814549"
+  },
+  {
+    "name": "Ilford-Riverton Airways Ltd",
+    "IATA": null,
+    "ICAO": "RIP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814565"
+  },
+  {
+    "name": "IMP Group Aviation Services Limited",
+    "IATA": "XG",
+    "ICAO": "XGG",
+    "website": null,
+    "notes": "Designator XG recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814581"
+  },
+  {
+    "name": "Innotech Aviation Limited",
+    "IATA": null,
+    "ICAO": "IVA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814597"
+  },
+  {
+    "name": "Intair, Inc.",
+    "IATA": null,
+    "ICAO": "INT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814613"
+  },
+  {
+    "name": "Inter-Canadian",
+    "IATA": "ND",
+    "ICAO": "ICN",
+    "website": null,
+    "notes": "Designator ND recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814630"
+  },
+  {
+    "name": "Inter-Canadian",
+    "IATA": null,
+    "ICAO": "ICN",
+    "website": null,
+    "notes": "suspended operations in December 1999. Entered bankruptcy in April 2000.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814647"
+  },
+  {
+    "name": "Jetall Holdings Corp",
+    "IATA": null,
+    "ICAO": "JTL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814664"
+  },
+  {
+    "name": "Jetsgo Corporation",
+    "IATA": "SG",
+    "ICAO": "JGO",
+    "website": "www.jetsgo.net/en/index.shtml",
+    "notes": "Ceased operations on 11 March 2005.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814683"
+  },
+  {
+    "name": "Juan Air (!979) Ltd.",
+    "IATA": null,
+    "ICAO": "JAB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814699"
+  },
+  {
+    "name": "Juan Air (1979) Ltd.",
+    "IATA": null,
+    "ICAO": "WON",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814714"
+  },
+  {
+    "name": "K.D. Air Corporation",
+    "IATA": null,
+    "ICAO": "KDC",
+    "website": "www.kdair.com",
+    "notes": "Ceased operaitons.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814731"
+  },
+  {
+    "name": "Kackson Air Services Ltd.",
+    "IATA": null,
+    "ICAO": "JAS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814747"
+  },
+  {
+    "name": "Keewatin Air Ltd.",
+    "IATA": "6K",
+    "ICAO": "KEW",
+    "website": null,
+    "notes": "IATA designator changed to FK*. Founded in 1998.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814764"
+  },
+  {
+    "name": "Keewatin Air Ltd.",
+    "IATA": null,
+    "ICAO": "KEW",
+    "website": "www.kivalliqair.com",
+    "notes": "Designator FK* recalled by IATA. IATA designator changed from 6K. Founded in 1998.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814781"
+  },
+  {
+    "name": "Kelner Airways Ltd, V.",
+    "IATA": null,
+    "ICAO": "FKL",
+    "website": null,
+    "notes": "Name changed to V. Kelner Pilatus Center, Inc.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814797"
+  },
+  {
+    "name": "Kelner Airways Limited",
+    "IATA": null,
+    "ICAO": "KEL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814813"
+  },
+  {
+    "name": "Kelowna Flightcraft Air Charter Ltd.",
+    "IATA": "FK",
+    "ICAO": "KFA",
+    "website": "www.flightcraft.ca",
+    "notes": "IATA designator changed from KW*. Designator KW* reinstated by IATA. IATA Prefix Code 758 recalled.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814832"
+  },
+  {
+    "name": "Kelowna Flightcraft Air Charter Ltd.",
+    "IATA": null,
+    "ICAO": "KFA",
+    "website": "www.flightcraft.ca",
+    "notes": "IATA designator changed to FK. Designator KW* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814849"
+  },
+  {
+    "name": "Kenn Borek Air Ltd.",
+    "IATA": "4K",
+    "ICAO": "KBA",
+    "website": "www.borekair.com",
+    "notes": "Designator 4K recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814866"
+  },
+  {
+    "name": "Keystone Air Service",
+    "IATA": "BZ",
+    "ICAO": "KEE",
+    "website": "www.keystoneair.mb.ca",
+    "notes": "Designator BZ recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814883"
+  },
+  {
+    "name": "Kingston Air Services",
+    "IATA": null,
+    "ICAO": "KAS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814899"
+  },
+  {
+    "name": "Knighthawk Air Express Ltd.",
+    "IATA": null,
+    "ICAO": "KNX",
+    "website": "www.knighthawk.ca",
+    "notes": "Founded\tin December 1993. Ceased operations in 2005.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814916"
+  },
+  {
+    "name": "Labrador Airways Limited",
+    "IATA": "WJ",
+    "ICAO": "LAL",
+    "website": "www.airlabrador.com",
+    "notes": "Name changed to Air Labrador Limited. ICAO callsign changed to Air Labrador. Designator WJ reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814933"
+  },
+  {
+    "name": "MAK Aviation Services",
+    "IATA": null,
+    "ICAO": "MKV",
+    "website": "www.makavia.com",
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814949"
+  },
+  {
+    "name": "Manitoulin Air Services Ltd.",
+    "IATA": null,
+    "ICAO": "MTO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814964"
+  },
+  {
+    "name": "Maple Air Services Ltd.",
+    "IATA": null,
+    "ICAO": "MAD",
+    "website": null,
+    "notes": "Ceased Operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814980"
+  },
+  {
+    "name": "Max Aviation Inc.",
+    "IATA": null,
+    "ICAO": "MAX",
+    "website": "www.maxaviation.com",
+    "notes": "Designator L4* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.814999"
+  },
+  {
+    "name": "Millardair Limited",
+    "IATA": null,
+    "ICAO": "MAB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815014"
+  },
+  {
+    "name": "Minerve Canada",
+    "IATA": null,
+    "ICAO": "MRV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815030"
+  },
+  {
+    "name": "Ministic Air",
+    "IATA": null,
+    "ICAO": "MNS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815047"
+  },
+  {
+    "name": "Miramichi Air Service Ltd.",
+    "IATA": null,
+    "ICAO": "MIR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815063"
+  },
+  {
+    "name": "Mobil Oil Ltd.",
+    "IATA": null,
+    "ICAO": "MBO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815079"
+  },
+  {
+    "name": "Moncton Flying Club",
+    "IATA": null,
+    "ICAO": "MFC",
+    "website": null,
+    "notes": "Name changed to Canlink Aviation Inc.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815095"
+  },
+  {
+    "name": "Montair Aviation, Inc.",
+    "IATA": "UJ",
+    "ICAO": null,
+    "website": "www.montair.com",
+    "notes": "Designator UJ reinstated by IATA. Designator UJ recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815112"
+  },
+  {
+    "name": "Northern Thunderbird Air Ltd. d/b/a N.T. Air",
+    "IATA": "4R",
+    "ICAO": "NTA",
+    "website": null,
+    "notes": "Designator 4R recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815128"
+  },
+  {
+    "name": "Nacair LP",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator C8* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815145"
+  },
+  {
+    "name": "Nakina Outpost Camp & Air Service Ltd. d/b/a Nakina Air Service",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator T2* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815162"
+  },
+  {
+    "name": "Nationair Canada",
+    "IATA": "NX",
+    "ICAO": "NXA",
+    "website": null,
+    "notes": "Ceased operation",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815178"
+  },
+  {
+    "name": "National Aviation Consultants Ltd.",
+    "IATA": null,
+    "ICAO": "TNC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815194"
+  },
+  {
+    "name": "Neiltown Air Ltd.",
+    "IATA": null,
+    "ICAO": "NLA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815210"
+  },
+  {
+    "name": "NewAir & Tours",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.newairandtours.ca",
+    "notes": "Name changed to Enerjet",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815227"
+  },
+  {
+    "name": "Norcanair",
+    "IATA": "SQ",
+    "ICAO": null,
+    "website": null,
+    "notes": "IATA designator changed to NK",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815246"
+  },
+  {
+    "name": "Norcanair",
+    "IATA": "NK",
+    "ICAO": null,
+    "website": null,
+    "notes": "IATA designator changed from SQ",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815261"
+  },
+  {
+    "name": "Nordair Ltd.",
+    "IATA": "ND",
+    "ICAO": "NDR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815281"
+  },
+  {
+    "name": "NorOntair",
+    "IATA": "NR",
+    "ICAO": "NOT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815296"
+  },
+  {
+    "name": "Norontair",
+    "IATA": null,
+    "ICAO": "NOA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815312"
+  },
+  {
+    "name": "North Aamerican Airlines",
+    "IATA": null,
+    "ICAO": "TRR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815328"
+  },
+  {
+    "name": "North American Charters",
+    "IATA": null,
+    "ICAO": "HMR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815344"
+  },
+  {
+    "name": "North Coast Air Services Ltd.",
+    "IATA": null,
+    "ICAO": "NCC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815360"
+  },
+  {
+    "name": "North Vancouver Air",
+    "IATA": null,
+    "ICAO": "NRV",
+    "website": "www.northvanair.com",
+    "notes": "Name changed to International Express Air Charter Ltd. Designator VL* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815376"
+  },
+  {
+    "name": "North West Geomatics Ltd.",
+    "IATA": null,
+    "ICAO": "PTO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815392"
+  },
+  {
+    "name": "Northern Dene Airways Ltd.",
+    "IATA": null,
+    "ICAO": "NKA",
+    "website": "www.norcanair.com",
+    "notes": "Designator U7* recalled by IATA. Name changed from Norcanair",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815408"
+  },
+  {
+    "name": "Northwesrtern Air Lease Ltd.",
+    "IATA": "3E",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815423"
+  },
+  {
+    "name": "Northwestern Air Lease Ltd.",
+    "IATA": null,
+    "ICAO": "PLR",
+    "website": null,
+    "notes": "IATA Desigantor changed to J3",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815440"
+  },
+  {
+    "name": "Northwinds Northern Ltd.",
+    "IATA": "9W",
+    "ICAO": "NWN",
+    "website": null,
+    "notes": "Designator 9W recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815457"
+  },
+  {
+    "name": "North-Wright Air Ltd.",
+    "IATA": "HW",
+    "ICAO": "NWL",
+    "website": null,
+    "notes": "Name changed to North-Wright Airways Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815474"
+  },
+  {
+    "name": "Nortland Air Manitoba",
+    "IATA": "7N",
+    "ICAO": "NAM",
+    "website": null,
+    "notes": "Designator 7N recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815492"
+  },
+  {
+    "name": "Nova Scotia Department Of Lands And Forests",
+    "IATA": null,
+    "ICAO": "PTR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815509"
+  },
+  {
+    "name": "NTW Air",
+    "IATA": "NV",
+    "ICAO": "NWT",
+    "website": null,
+    "notes": "Name changed to NWT Air. Air Canada Connector",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815525"
+  },
+  {
+    "name": "Nunasi-Central Airlines Ltd.",
+    "IATA": "6N",
+    "ICAO": "NUN",
+    "website": null,
+    "notes": "Designator 6N recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815541"
+  },
+  {
+    "name": "NW Territoral Airways",
+    "IATA": "NQ",
+    "ICAO": "NWT",
+    "website": null,
+    "notes": "Bought and merged into First Air during 1997.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815558"
+  },
+  {
+    "name": "NWT Air",
+    "IATA": "NV",
+    "ICAO": "NWT",
+    "website": null,
+    "notes": "Designator NV recalled by IATA. Name changed from NTW Air / Air Canada Connector",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815575"
+  },
+  {
+    "name": "NWT Air",
+    "IATA": null,
+    "ICAO": "NWT",
+    "website": null,
+    "notes": "Designator NV recalled by IATA. Name changed from NTW Air / Air Canada Connector",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815592"
+  },
+  {
+    "name": "Odyssey International",
+    "IATA": "OL",
+    "ICAO": "ODY",
+    "website": null,
+    "notes": "Founded in June 1988. Ceased operations during April 1990.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815610"
+  },
+  {
+    "name": "Ontario Express Ltd.",
+    "IATA": "9X",
+    "ICAO": "OEL",
+    "website": null,
+    "notes": "Canadian Partner",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815626"
+  },
+  {
+    "name": "Ontario Metro Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "OMA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815642"
+  },
+  {
+    "name": "Ontario Ministry Of Health",
+    "IATA": null,
+    "ICAO": "MED",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815658"
+  },
+  {
+    "name": "Pacific Air Boats Ltd.",
+    "IATA": null,
+    "ICAO": "PAB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815674"
+  },
+  {
+    "name": "Pacific Rim Airlines Ltd.",
+    "IATA": "4T",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815690"
+  },
+  {
+    "name": "Pacific Western Airlines",
+    "IATA": "PW",
+    "ICAO": "PWA",
+    "website": null,
+    "notes": "Bought CP Air and merged to form Canadian Airlines International. ICAO callsign changed from Pacific Western",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815708"
+  },
+  {
+    "name": "Pacific Western Airlines",
+    "IATA": "PW",
+    "ICAO": "PWA",
+    "website": null,
+    "notes": "ICAO callsign changed to Pac West",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815726"
+  },
+  {
+    "name": "PAL Aerospace Ltd.",
+    "IATA": null,
+    "ICAO": "SPR",
+    "website": "www.provincialaerospace.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815742"
+  },
+  {
+    "name": "Parsons Airways Northern Ltd.",
+    "IATA": null,
+    "ICAO": "FAP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815758"
+  },
+  {
+    "name": "Pascan Aviation Inc.",
+    "IATA": null,
+    "ICAO": "PSC",
+    "website": "www.pascan.com",
+    "notes": "Name changed to 9736140 Canada Inc. t/a Pascan",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815774"
+  },
+  {
+    "name": "Pemair",
+    "IATA": "PD",
+    "ICAO": "PEM",
+    "website": "www.pemair.on.ca",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815791"
+  },
+  {
+    "name": "Perimeter Aviation Ltd.",
+    "IATA": "4B",
+    "ICAO": "PAG",
+    "website": "www.perimeter.ca",
+    "notes": "Designator 4B recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815806"
+  },
+  {
+    "name": "Perimeter Aviation Ltd.",
+    "IATA": "UW",
+    "ICAO": "PAG",
+    "website": null,
+    "notes": "Designator UW recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815824"
+  },
+  {
+    "name": "Porter Airlines Inc.",
+    "IATA": "PD",
+    "ICAO": "POE",
+    "website": "www.flyporter.com",
+    "notes": "IATA Designator changed to P3.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815841"
+  },
+  {
+    "name": "Porter Airlines Inc.",
+    "IATA": "P3",
+    "ICAO": "POE",
+    "website": "www.flyporter.com",
+    "notes": "ICAO code changed to PTR. ICAO Callsign changed to Porter Dash. IATA Designator changed from PD.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815858"
+  },
+  {
+    "name": "Porter Airlines Inc.",
+    "IATA": "P3",
+    "ICAO": "PTR",
+    "website": "www.flyporter.com",
+    "notes": "ICAO code changed from POE. ICAO Callsign changed from Porter Air. IATA Designator changed from PD. ICAO Callsign changed to Dast Port.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815875"
+  },
+  {
+    "name": "Prairie Flying Service (1976) Ltd.",
+    "IATA": "2P",
+    "ICAO": "PFS",
+    "website": null,
+    "notes": "Designator recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815891"
+  },
+  {
+    "name": "Preferred Flights, Inc.",
+    "IATA": null,
+    "ICAO": "EMS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815908"
+  },
+  {
+    "name": "Prince Edward Air Ltd.",
+    "IATA": null,
+    "ICAO": "CME",
+    "website": null,
+    "notes": "Operations transferred to SkyLink Express Inc on 01 November 2010.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815925"
+  },
+  {
+    "name": "Private Air Inc.",
+    "IATA": null,
+    "ICAO": "CNP",
+    "website": "www.privateair.ca",
+    "notes": "Name changed to Levaero Aviation Inc.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815942"
+  },
+  {
+    "name": "Propair, Inc.",
+    "IATA": "6P",
+    "ICAO": "PRO",
+    "website": null,
+    "notes": "Designator recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815958"
+  },
+  {
+    "name": "Provincial Airlines",
+    "IATA": "PB",
+    "ICAO": "PVL",
+    "website": "www.provincialairlines.ca",
+    "notes": "Name changed to PAL Airlines Ltd. w.e.f. 01 June 2016.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815975"
+  },
+  {
+    "name": "Provincial Express, Inc.",
+    "IATA": null,
+    "ICAO": "PRV",
+    "website": null,
+    "notes": "Subsidary of Labrador Airways Ltd. WJ/LAL",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.815993"
+  },
+  {
+    "name": "Ptarmigan Airways Ltd.",
+    "IATA": "5P",
+    "ICAO": "PTA",
+    "website": null,
+    "notes": "Designator 5P recalled by IATA. Bought and merged in First Air during 1995.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816010"
+  },
+  {
+    "name": "Quebec Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "QBC",
+    "website": null,
+    "notes": "ICAO callsign changed to Quebec Aviation",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816026"
+  },
+  {
+    "name": "Quebec Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "QBC",
+    "website": null,
+    "notes": "ICAO callsign changed from Inter",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816041"
+  },
+  {
+    "name": "Quebecair, Inc.",
+    "IATA": "QB",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816056"
+  },
+  {
+    "name": "Quebecair Express",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.quebecairexpress.com",
+    "notes": "Designator Q0* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816072"
+  },
+  {
+    "name": "QuikAir Airline Service Inc",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.quikair.ca",
+    "notes": "Ceased Operations on 24 October 2006.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816089"
+  },
+  {
+    "name": "International Express Air Charter Ltd. n/a Regency Express Flight Operations",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.regencyexpress.com",
+    "notes": "Name changed to International Express Air Charter Ltd. dba Sonicblue Airways. Name changed from North Vancouver Air",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816106"
+  },
+  {
+    "name": "Regent Air",
+    "IATA": null,
+    "ICAO": "RAH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816121"
+  },
+  {
+    "name": "Region Air, Inc.",
+    "IATA": null,
+    "ICAO": "RGR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816137"
+  },
+  {
+    "name": "Regional 1 Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "TSH",
+    "website": "r1airlines.ca",
+    "notes": "Name changed to R1 Airlines.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816155"
+  },
+  {
+    "name": "Regionnair, Inc.",
+    "IATA": "RH",
+    "ICAO": "GIO",
+    "website": null,
+    "notes": "Ceased operations on 01 June 2001.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816171"
+  },
+  {
+    "name": "Roadair Lines",
+    "IATA": null,
+    "ICAO": "RDL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816187"
+  },
+  {
+    "name": "Rog-Air Ltd.",
+    "IATA": null,
+    "ICAO": "FAD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816203"
+  },
+  {
+    "name": "Royal Aviation, Inc.",
+    "IATA": "QN",
+    "ICAO": "ROY",
+    "website": null,
+    "notes": "Merged in Canada 3000",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816219"
+  },
+  {
+    "name": "Royal Aviation Express",
+    "IATA": null,
+    "ICAO": "RXP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816235"
+  },
+  {
+    "name": "Sabourin Lake Airways Ltd.",
+    "IATA": "9S",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816251"
+  },
+  {
+    "name": "Sair Aviation (FAA)",
+    "IATA": null,
+    "ICAO": "SRA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816266"
+  },
+  {
+    "name": "Sasair, Inc.",
+    "IATA": null,
+    "ICAO": "SSB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816281"
+  },
+  {
+    "name": "Sea Island Air Ltd.",
+    "IATA": null,
+    "ICAO": "SIL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816297"
+  },
+  {
+    "name": "Sector Airlines",
+    "IATA": "XT",
+    "ICAO": "XTR",
+    "website": null,
+    "notes": "Designator recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816313"
+  },
+  {
+    "name": "Selkirk Remote Sensing Ltd.",
+    "IATA": null,
+    "ICAO": "SRS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816328"
+  },
+  {
+    "name": "Shooter Air Courier, Corp.",
+    "IATA": null,
+    "ICAO": "SHR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816343"
+  },
+  {
+    "name": "Shuswap Air",
+    "IATA": "3S",
+    "ICAO": "SFC",
+    "website": null,
+    "notes": "Designator 3S recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816360"
+  },
+  {
+    "name": "Simpson Air Ltd.",
+    "IATA": "7B",
+    "ICAO": "NCS",
+    "website": null,
+    "notes": "Designator recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816376"
+  },
+  {
+    "name": "Sky Jet M.G. Inc.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.skyjetaviation.ca",
+    "notes": "Commenced Operations on 01 August 2007. IATA Designator changed to DU.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816393"
+  },
+  {
+    "name": "Sky Regional Airlines, Inc.",
+    "IATA": "KV",
+    "ICAO": "SKV",
+    "website": "www.skyregional.com",
+    "notes": "Ceased operations on 31 March 2021. IATA Designator changed from RS*.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816410"
+  },
+  {
+    "name": "Sky Regional Airlines, Inc.",
+    "IATA": null,
+    "ICAO": "SKV",
+    "website": "www.skyregional.com",
+    "notes": "IATA Designator changed to KV.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816427"
+  },
+  {
+    "name": "Skycraft Air Transport, Inc.",
+    "IATA": "9F",
+    "ICAO": "SKG",
+    "website": null,
+    "notes": "Designator recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816443"
+  },
+  {
+    "name": "Skyjet MG Inc.",
+    "IATA": null,
+    "ICAO": "VSL",
+    "website": "skyjetaviation.ca",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816458"
+  },
+  {
+    "name": "Skylink Aviation, Inc.",
+    "IATA": null,
+    "ICAO": "SKK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816473"
+  },
+  {
+    "name": "Skyservice Airlines, Inc.",
+    "IATA": "5G",
+    "ICAO": "SSV",
+    "website": "www.skyserviceairlines.com",
+    "notes": "Ceased operations on 31 March 2010. IATA Designator changed from 6J*. Name changed from Skyservice Airlines Inc. d/b/a Skyservice Roots Air",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816491"
+  },
+  {
+    "name": "Skyservice Airlines, Inc.",
+    "IATA": null,
+    "ICAO": "SSV",
+    "website": null,
+    "notes": "Name changed to Skyservice Airlines Inc. d/b/a Skyservice Roots Air",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816508"
+  },
+  {
+    "name": "Skyservice Airlines, Inc.",
+    "IATA": null,
+    "ICAO": "SSV",
+    "website": "www.skyserviceairlines.com",
+    "notes": "IATA Designator changed to 5G. Name changed from Skyservice Airlines Inc. d/b/a Skyservice Roots Air",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816525"
+  },
+  {
+    "name": "Skyservice Airlines Inc. d/b/a Skyservice Roots Air",
+    "IATA": null,
+    "ICAO": "SSV",
+    "website": null,
+    "notes": "Name reverts to Skyservice Airlines Inc. on 04 May 2001. Name changed from Skyservice Airlines Inc.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816543"
+  },
+  {
+    "name": "Skyward Aviation Ltd.",
+    "IATA": "K9",
+    "ICAO": "SGK",
+    "website": "www.skyward.mb.ca",
+    "notes": "Designator K9 reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816561"
+  },
+  {
+    "name": "Flight-Ops International, Inc. t/a Skyxpress Airline",
+    "IATA": null,
+    "ICAO": "KLO",
+    "website": "skyxpress.ca",
+    "notes": "Ceased operations in November 2008 due to the financial crisis.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816580"
+  },
+  {
+    "name": "Smith Air (1976) Ltd.",
+    "IATA": null,
+    "ICAO": "SML",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816596"
+  },
+  {
+    "name": "International Express Air Charter Ltd. dba Sonicblue Airways",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.sonicblueair.com",
+    "notes": "Name changed from International Express Air Charter Ltd. n/a Regency Express Flight Operations. Name changed from North Vancouver Air",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816614"
+  },
+  {
+    "name": "Soundair Express",
+    "IATA": null,
+    "ICAO": "SDR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816630"
+  },
+  {
+    "name": "South West Air Ltd.",
+    "IATA": null,
+    "ICAO": "SWC",
+    "website": null,
+    "notes": "Founded in 1983. Ceased operations during 2005.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816646"
+  },
+  {
+    "name": "Southern Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "SAL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816661"
+  },
+  {
+    "name": "Southern Frontier Air Transport Ltd.",
+    "IATA": null,
+    "ICAO": "SFS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816677"
+  },
+  {
+    "name": "Sowind Air Ltd.",
+    "IATA": null,
+    "ICAO": "SOW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816693"
+  },
+  {
+    "name": "Springbank Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "SAQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816708"
+  },
+  {
+    "name": "St. Andrews Airways Ltd.",
+    "IATA": null,
+    "ICAO": "SDA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816723"
+  },
+  {
+    "name": "Starlink Aviation Inc.",
+    "IATA": "Q4",
+    "ICAO": "TLK",
+    "website": "www.starlinkaviation.com",
+    "notes": "Designator Q4 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816739"
+  },
+  {
+    "name": "Stephenville Aviation Services",
+    "IATA": null,
+    "ICAO": "XSN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816754"
+  },
+  {
+    "name": "Stratford Airways Ltd.",
+    "IATA": null,
+    "ICAO": "FCA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816769"
+  },
+  {
+    "name": "Sun Air Aviation Services",
+    "IATA": null,
+    "ICAO": "SNX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816785"
+  },
+  {
+    "name": "Sunwest Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "SST",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816801"
+  },
+  {
+    "name": "Sunwest Home Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "CNK",
+    "website": "www.sunwesthome.com",
+    "notes": "Name changed toSunwest Aviation Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816817"
+  },
+  {
+    "name": "Sunwing Airlines Inc",
+    "IATA": "K0",
+    "ICAO": "SWG",
+    "website": "www.flysunwing.com",
+    "notes": "IATA designator changed to WG on 15 Aug 2006",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816834"
+  },
+  {
+    "name": "Sutra Inc",
+    "IATA": "1K",
+    "ICAO": null,
+    "website": "www.sutrainc.com",
+    "notes": "Computer Reservation System",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816851"
+  },
+  {
+    "name": "Swiftair Cargo Ltd.",
+    "IATA": null,
+    "ICAO": "SCL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816867"
+  },
+  {
+    "name": "Swoop, Inc",
+    "IATA": "WO",
+    "ICAO": "WSW",
+    "website": "www.flyswoop.com",
+    "notes": "Ulta LCC subsidary of WestJet. Commenced operations on 20 June 2018. Merged into Westjet on 29 October 2023.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816884"
+  },
+  {
+    "name": "Tal Air Charters Ltd.",
+    "IATA": null,
+    "ICAO": "JEL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816902"
+  },
+  {
+    "name": "Thunderbird Tours",
+    "IATA": null,
+    "ICAO": "TBD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816917"
+  },
+  {
+    "name": "Timberline Air",
+    "IATA": null,
+    "ICAO": "TMR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816932"
+  },
+  {
+    "name": "Time Air, Inc.",
+    "IATA": "KI",
+    "ICAO": "TAF",
+    "website": null,
+    "notes": "Canadian Partner",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816949"
+  },
+  {
+    "name": "Toronto Airways Ltd.",
+    "IATA": null,
+    "ICAO": "TOR",
+    "website": "www.torontoairways.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816966"
+  },
+  {
+    "name": "Totavia - Aviation Information Services",
+    "IATA": null,
+    "ICAO": "TOT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816982"
+  },
+  {
+    "name": "Toyota Canada, Inc.",
+    "IATA": null,
+    "ICAO": "TOY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.816998"
+  },
+  {
+    "name": "Trans Atlantis",
+    "IATA": null,
+    "ICAO": "LTA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.817014"
+  },
+  {
+    "name": "Trans Cote, Inc.",
+    "IATA": "7T",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.817031"
+  },
+  {
+    "name": "Transair Limited",
+    "IATA": "TZ",
+    "ICAO": "TTZ",
+    "website": null,
+    "notes": "Formed by the merger of Central Northern Airways and Arctic Wings in 1956. Merged into Pacific Western Airlines on 01 November 1979.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.817048"
+  },
+  {
+    "name": "Trans-Provincial Airlines Ltd.",
+    "IATA": "CD",
+    "ICAO": "TPY",
+    "website": null,
+    "notes": "Designator CD recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.817064"
+  },
+  {
+    "name": "Transwest Air Limited",
+    "IATA": "9T",
+    "ICAO": "ABS",
+    "website": "www.transwestair.com",
+    "notes": "Name changed from Athabaska Airways Ltd. Merged with Air Sask",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.817080"
+  },
+  {
+    "name": "Tyee Airways Ltd.",
+    "IATA": "6T",
+    "ICAO": "TYE",
+    "website": null,
+    "notes": "Designator recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.817095"
+  },
+  {
+    "name": "Tyee Airways Ltd.",
+    "IATA": null,
+    "ICAO": "TYE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.817110"
+  },
+  {
+    "name": "V. Kelner Pilatus Center, Inc.",
+    "IATA": null,
+    "ICAO": "FKL",
+    "website": "www.kelner.com",
+    "notes": "Name changed to Levaero Aviation in May 2015. Name changed from Kelner Airways Ltd, V.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.817127"
+  },
+  {
+    "name": "Vacationair, Inc.",
+    "IATA": null,
+    "ICAO": "VAC",
+    "website": null,
+    "notes": "Ceased operations on 07 January 1990.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.817143"
+  },
+  {
+    "name": "Val Air, Inc.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.valair.ca",
+    "notes": "Founded \ton 09 December 2003. Ceased operationon s 24 February 2004.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.817159"
+  },
+  {
+    "name": "VIA Rail Canada, Inc.",
+    "IATA": null,
+    "ICAO": "VRR",
+    "website": "www.viarail.ca",
+    "notes": "Accounting Code 830 recalled by IATA. Railway Service",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.817176"
+  },
+  {
+    "name": "VIA Rail Canada, Inc.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.viarail.ca",
+    "notes": "ICAO designator VRR cancelled. Accounting Code 830 recalled by IATA. Railway Service",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.817193"
+  },
+  {
+    "name": "Vistajet, Inc.",
+    "IATA": "5V",
+    "ICAO": "VJT",
+    "website": null,
+    "notes": "Designator 5V recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.817209"
+  },
+  {
+    "name": "Voyageur Airways",
+    "IATA": "4V",
+    "ICAO": "VAL",
+    "website": "www.voyageurairways.com",
+    "notes": "Designator 4V recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.817227"
+  },
+  {
+    "name": "Voyageur Airways Limited",
+    "IATA": null,
+    "ICAO": "VAL",
+    "website": "www.voyageurairways.com",
+    "notes": "Designator VC* recalled by IATA. Designator 4V recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.817243"
+  },
+  {
+    "name": "Waglisla Air, Inc.",
+    "IATA": null,
+    "ICAO": "SEH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.817260"
+  },
+  {
+    "name": "Wapiti Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "WPT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.817275"
+  },
+  {
+    "name": "Wardair Canada Ltd.",
+    "IATA": "WD",
+    "ICAO": "WDA",
+    "website": null,
+    "notes": "Merged into Canadian Airlines 15 January 1990.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.817291"
+  },
+  {
+    "name": "Wasaya Airways L.P.",
+    "IATA": "WT",
+    "ICAO": "WSG",
+    "website": "www.wasaya.com",
+    "notes": "Designator WT recalled by IATA. IATA designator changed from WG*. Name changed from Wasaya Airways Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.817307"
+  },
+  {
+    "name": "Wasaya Airways L.P.",
+    "IATA": null,
+    "ICAO": "WSG",
+    "website": "www.wasaya.com",
+    "notes": "IATA designator changed to WT. Name changed from Wasaya Airways Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.817324"
+  },
+  {
+    "name": "Wasaya Airways Ltd.",
+    "IATA": null,
+    "ICAO": "WSG",
+    "website": "www.wasaya.com",
+    "notes": "Name changed to Wasaya Airways L.P.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.817341"
+  },
+  {
+    "name": "West Coast Air",
+    "IATA": "8O",
+    "ICAO": null,
+    "website": "www.westcoastair.com",
+    "notes": "Designator 8O recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.817358"
+  },
+  {
+    "name": "Westcoast Energy",
+    "IATA": null,
+    "ICAO": "BLK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.817374"
+  },
+  {
+    "name": "Western Arctic Air Ltd.",
+    "IATA": null,
+    "ICAO": "WAL",
+    "website": null,
+    "notes": "Formerly Antler Aviation Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.817389"
+  },
+  {
+    "name": "Western Express Air Lines, Inc.",
+    "IATA": null,
+    "ICAO": "WES",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.817405"
+  },
+  {
+    "name": "Westjet Airlines Ltd.",
+    "IATA": "WS",
+    "ICAO": "WJA",
+    "website": "www.westjet.com",
+    "notes": "Name changed to Westjet",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.817421"
+  },
+  {
+    "name": "Westjet Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "WJA",
+    "website": "www.westjet.com",
+    "notes": "IATA designator changed to WS",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.817438"
+  },
+  {
+    "name": "Wilderness Airline (1975) Ltd.",
+    "IATA": null,
+    "ICAO": "WLD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.817454"
+  },
+  {
+    "name": "Kelowna Flightcraft International Air Cargo Ltd. d/b/a Winnport Air Cargo",
+    "IATA": "KN",
+    "ICAO": "KFA",
+    "website": "www.winnport.com",
+    "notes": "IATA designator changed to W8",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.817471"
+  },
+  {
+    "name": "Kelowna Flightcraft International Air Cargo Ltd. d/b/a Winnport Air Cargo",
+    "IATA": "W8",
+    "ICAO": "KFA",
+    "website": "www.winnport.com",
+    "notes": "IATA designator changed from KN",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.817489"
+  },
+  {
+    "name": "Winnport Logistics Ltd.",
+    "IATA": "W8",
+    "ICAO": "WNT",
+    "website": null,
+    "notes": "Name changed to Cargojet Airways Ltd. Name changed to Kelowna Flightcraft International Air Cargo Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.817506"
+  },
+  {
+    "name": "Worldways Canada Ltd.",
+    "IATA": "WG",
+    "ICAO": "WWC",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.817522"
+  },
+  {
+    "name": "Worldwide Air Charter Systems",
+    "IATA": null,
+    "ICAO": "CSW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.817538"
+  },
+  {
+    "name": "Zip Air, Inc.",
+    "IATA": "3J",
+    "ICAO": "WZP",
+    "website": "www.flyzip.ca",
+    "notes": "New low cost subsidiary of Air Canada. ICAO Callsign changed to Zipper. Name changed from 3701379 Canada, Inc.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.817556"
+  },
+  {
+    "name": "Zip Air, Inc.",
+    "IATA": "3J",
+    "ICAO": "WZP",
+    "website": "www.flyzip.ca",
+    "notes": "Ceased operations. New low cost subsidiary of Air Canada. ICAO Callsign changed from Wind Zip. Name changed from 3701379 Canada, Inc.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.817574"
+  },
+  {
+    "name": "Zoom Airlines, Inc.",
+    "IATA": null,
+    "ICAO": "OOM",
+    "website": "www.flyzoom.com",
+    "notes": "Ceased Operations and filed for Bankruptcy protection on 28 August 2008.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.817591"
+  },
+  {
+    "name": "Holidair Airways Ltd",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Filed for bankruptcy on 16 October 1989.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.817608"
+  },
+  {
+    "name": "Trillium Air Ltd.",
+    "IATA": null,
+    "ICAO": "XXX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:20.817624"
+  }
+]

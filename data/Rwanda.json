@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Alliance Express Rwanada (Rwanda)",
+    "IATA": null,
+    "ICAO": "RWB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:26.066009"
+  },
+  {
+    "name": "Royal Rwanda Airlines",
+    "IATA": null,
+    "ICAO": "RRA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:26.066035"
+  },
+  {
+    "name": "Rwanda Airlines",
+    "IATA": null,
+    "ICAO": "RUA",
+    "website": null,
+    "notes": "Designator 9R recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:26.066052"
+  },
+  {
+    "name": "RwandAir Limited",
+    "IATA": "WB",
+    "ICAO": "RWD",
+    "website": "www.rwandair.com",
+    "notes": "Commence operation on 01 December 2002. Name changed from Rwandair Express in March 2009. IATA code changed from WB*",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:26.066069"
+  },
+  {
+    "name": "Silverback Cargo Freighters",
+    "IATA": null,
+    "ICAO": "VRB",
+    "website": "www.silverbackcargo.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:26.066085"
+  },
+  {
+    "name": "Air Rwanda",
+    "IATA": "UW",
+    "ICAO": "SAR",
+    "website": null,
+    "notes": "IATA desigantor changed to RY",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:26.066102"
+  },
+  {
+    "name": "Air Rwanda",
+    "IATA": "RY",
+    "ICAO": "RWD",
+    "website": null,
+    "notes": "Designator RY recalled by IATA. IATA desigantor changed from UW",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:26.066117"
+  },
+  {
+    "name": "Alliance Express Rwanda",
+    "IATA": "ZM",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator ZM recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:26.066134"
+  },
+  {
+    "name": "Rwanda Airlines",
+    "IATA": "9R",
+    "ICAO": "RUA",
+    "website": null,
+    "notes": "Designator 9R recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:26.066149"
+  },
+  {
+    "name": "Rwanda Airways",
+    "IATA": null,
+    "ICAO": "RWA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:26.066164"
+  },
+  {
+    "name": "Rwandair Cargo, Soci\u00e9t\u00e9",
+    "IATA": null,
+    "ICAO": "RWC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:26.066179"
+  },
+  {
+    "name": "Rwandair Express",
+    "IATA": "WB",
+    "ICAO": "RWD",
+    "website": "www.rwandair.com",
+    "notes": "Commenced operations on 01 December 2002. Name changed to RwandAir Limited in March 2009. IATA code changed from WB*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:26.066196"
+  },
+  {
+    "name": "Rwandair Express",
+    "IATA": null,
+    "ICAO": "RWD",
+    "website": null,
+    "notes": "Commenced operations on 01 December 2002. IATA code changed to WB",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:26.066213"
+  },
+  {
+    "name": "Soci\u00e9t\u00e9 de Transport Aerien du Rwanda (STAR)",
+    "IATA": "UI",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:26.066228"
+  },
+  {
+    "name": "Transafricair",
+    "IATA": "UR",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:26.066243"
+  }
+]

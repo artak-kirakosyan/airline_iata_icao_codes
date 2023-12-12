@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Air Rarotonga",
+    "IATA": "GZ",
+    "ICAO": null,
+    "website": "www.airraro.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:36.376291"
+  },
+  {
+    "name": "Cook Islands Airways Ltd.",
+    "IATA": "KH",
+    "ICAO": "KHH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:36.376317"
+  },
+  {
+    "name": "Cook Islands International",
+    "IATA": null,
+    "ICAO": "CII",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:36.376333"
+  }
+]

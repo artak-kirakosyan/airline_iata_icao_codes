@@ -1,0 +1,1127 @@
+[
+  {
+    "name": "4 Airways Limited",
+    "IATA": null,
+    "ICAO": "DAK",
+    "website": "4airways.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.333919"
+  },
+  {
+    "name": "Aerospace Engineering Services",
+    "IATA": null,
+    "ICAO": "AES",
+    "website": "www.aerospace-engineering.eu",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.333951"
+  },
+  {
+    "name": "Air Atlanta Europe Limited",
+    "IATA": null,
+    "ICAO": "AAE",
+    "website": "www.airatlanta.com",
+    "notes": "Established on 09 December 2020.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.333970"
+  },
+  {
+    "name": "Air Charter Scotland Europe Ltd.",
+    "IATA": null,
+    "ICAO": "SCO",
+    "website": "www.aircharterscotland.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.333989"
+  },
+  {
+    "name": "Air Horizont",
+    "IATA": null,
+    "ICAO": "HAT",
+    "website": "airhorizont.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334006"
+  },
+  {
+    "name": "Air Malta p.l.c.",
+    "IATA": "KM",
+    "ICAO": "AMC",
+    "website": "www.airmalta.com",
+    "notes": "Name changed to Air Malta Co. Ltd. ICAO callsign changed to Kilo Mike",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334024"
+  },
+  {
+    "name": "Air X Charter Limited",
+    "IATA": null,
+    "ICAO": "AXY",
+    "website": "www.airx.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334042"
+  },
+  {
+    "name": "Aire Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "ION",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334060"
+  },
+  {
+    "name": "Airhub Airlines Limited",
+    "IATA": "RE",
+    "ICAO": "GJM",
+    "website": "airhubairlines.aero",
+    "notes": "IATA Designator changed from AH*.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334079"
+  },
+  {
+    "name": "Albinati Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "ULC",
+    "website": "www.albinati.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334096"
+  },
+  {
+    "name": "Alliance Executive Jets Ltd.",
+    "IATA": null,
+    "ICAO": "ALE",
+    "website": "www.alliancejet.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334113"
+  },
+  {
+    "name": "Av8jet Charter Limited",
+    "IATA": null,
+    "ICAO": "AJO",
+    "website": "www.av8jet.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334130"
+  },
+  {
+    "name": "Avcon Jet Malta Ltd.",
+    "IATA": null,
+    "ICAO": "VCJ",
+    "website": "www.avconjet.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334146"
+  },
+  {
+    "name": "Avion Express Malta Ltd.",
+    "IATA": "4X",
+    "ICAO": "MLH",
+    "website": "www.avionexpress.aero",
+    "notes": "IATA ndesignator changed from X8*. Name changed from ALH Airlines Ltd.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334164"
+  },
+  {
+    "name": "Blue Square Aviation Group Malta Ltd.",
+    "IATA": null,
+    "ICAO": "BSG",
+    "website": "bsag-mt.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334181"
+  },
+  {
+    "name": "Bridges Air Cargo Limited",
+    "IATA": "5B",
+    "ICAO": "BRD",
+    "website": "www.bridgesaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334198"
+  },
+  {
+    "name": "Challenge Air Cargo Limited",
+    "IATA": "X6",
+    "ICAO": "CHZ",
+    "website": "www.challenge-aircargo.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334215"
+  },
+  {
+    "name": "Comlux Malta Ltd",
+    "IATA": null,
+    "ICAO": "MLM",
+    "website": "comlux.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334232"
+  },
+  {
+    "name": "Touristic Aviation Services Ltd. t/a Corendon Airlines Europe",
+    "IATA": "XR",
+    "ICAO": "CXI",
+    "website": "www.corendon.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334249"
+  },
+  {
+    "name": "DC Aviation (Malta) Limited",
+    "IATA": null,
+    "ICAO": "DCW",
+    "website": "www.dc-aviation.com.mt",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334267"
+  },
+  {
+    "name": "Dronamics Europe Airlines Limited",
+    "IATA": "OY",
+    "ICAO": "DXE",
+    "website": "www.dronamics.com",
+    "notes": "First drone cargo airline.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334285"
+  },
+  {
+    "name": "Elitavia Malta Ltd",
+    "IATA": null,
+    "ICAO": "EAU",
+    "website": "www.elitavia.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334302"
+  },
+  {
+    "name": "Emperor Aviation",
+    "IATA": null,
+    "ICAO": "EMM",
+    "website": "www.emperor-aviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334318"
+  },
+  {
+    "name": "European SAO Limited",
+    "IATA": null,
+    "ICAO": "EKT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334334"
+  },
+  {
+    "name": "Eurowings Europe Limited",
+    "IATA": null,
+    "ICAO": "EWL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334350"
+  },
+  {
+    "name": "Flexjet Operations Malta Limited",
+    "IATA": null,
+    "ICAO": "FJO",
+    "website": "www.flexjet.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334367"
+  },
+  {
+    "name": "Flite Aviation Limited t/a Flite",
+    "IATA": null,
+    "ICAO": "FLA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334384"
+  },
+  {
+    "name": "Flyawesome Limited",
+    "IATA": null,
+    "ICAO": "MDW",
+    "website": null,
+    "notes": "Name changed from Flyawesome Holdings Limited. ICAO designator changed from FMB. ICAO Callsign changed from Rescue JEt.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334402"
+  },
+  {
+    "name": "Freebird Airlines Europe Limited",
+    "IATA": null,
+    "ICAO": "FHM",
+    "website": "www.freebirdairlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334426"
+  },
+  {
+    "name": "Galistair Trading Limited",
+    "IATA": "8S",
+    "ICAO": "GTR",
+    "website": "galistair.com",
+    "notes": "IATA designator changed from GH*",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334444"
+  },
+  {
+    "name": "Gestair Aviation Malta Limited",
+    "IATA": null,
+    "ICAO": "GSM",
+    "website": "www.gestair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334462"
+  },
+  {
+    "name": "Gulf Med Aviation Services Ltd.",
+    "IATA": null,
+    "ICAO": "GMD",
+    "website": "www.gulfmedaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334479"
+  },
+  {
+    "name": "Harmony Jets Limited",
+    "IATA": null,
+    "ICAO": "HMJ",
+    "website": "www.harmony-jets.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334496"
+  },
+  {
+    "name": "Helicopter Services Malta Limited",
+    "IATA": null,
+    "ICAO": "HSM",
+    "website": "hsml.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334513"
+  },
+  {
+    "name": "Helicopterflights Ltd.",
+    "IATA": null,
+    "ICAO": "HCF",
+    "website": "helicopterflights.mt",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334531"
+  },
+  {
+    "name": "Hermes Aviation",
+    "IATA": null,
+    "ICAO": "HME",
+    "website": "www.hermesaviation.eu",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334548"
+  },
+  {
+    "name": "Hi Fly Ltd.",
+    "IATA": null,
+    "ICAO": "HFM",
+    "website": "www.hifly.aero",
+    "notes": "IATA Designator 5M* recalled.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334565"
+  },
+  {
+    "name": "Hyperion Aviation Ltd",
+    "IATA": null,
+    "ICAO": "HYP",
+    "website": "www.hyperion-aviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334582"
+  },
+  {
+    "name": "Jet Aviation Flight Services (Malta) Ltd.",
+    "IATA": null,
+    "ICAO": "JML",
+    "website": "www.jetaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334599"
+  },
+  {
+    "name": "JetClub Malta Limited",
+    "IATA": null,
+    "ICAO": "JLN",
+    "website": "jetclubgroup.com",
+    "notes": "Name changed from Private Jet Company Malta Limited. ICAO designator changed from PJM. ICAO callsign changed from Privatec.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334617"
+  },
+  {
+    "name": "JetHouse Limited",
+    "IATA": null,
+    "ICAO": "JTH",
+    "website": "jethouse.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334635"
+  },
+  {
+    "name": "JetMagic Limited",
+    "IATA": null,
+    "ICAO": "JMK",
+    "website": "www.jetmagic.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334651"
+  },
+  {
+    "name": "Kermas Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "KER",
+    "website": "www.flykermas.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334668"
+  },
+  {
+    "name": "Lauda Europe Ltd.",
+    "IATA": "LW",
+    "ICAO": "LDA",
+    "website": null,
+    "notes": "Ryanair Holdings Group",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334685"
+  },
+  {
+    "name": "Le One",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.flyleone.com",
+    "notes": "Plans to launch of ACMI/charter operations in 2019. 1 x 737-500, 1 x 737-400",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334702"
+  },
+  {
+    "name": "LEAF - Lease & Fly Limited",
+    "IATA": null,
+    "ICAO": "HFL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334719"
+  },
+  {
+    "name": "Luke Air",
+    "IATA": null,
+    "ICAO": "LKA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334734"
+  },
+  {
+    "name": "Luxaviation Malta",
+    "IATA": null,
+    "ICAO": "LXM",
+    "website": "www.luxaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334751"
+  },
+  {
+    "name": "Luxwing Limited",
+    "IATA": "BN",
+    "ICAO": "LWG",
+    "website": "www.luxwing.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334768"
+  },
+  {
+    "name": "Maleth-Aero AOC Ltd",
+    "IATA": "DB",
+    "ICAO": "MLT",
+    "website": "www.maleth-aero.com",
+    "notes": "Name changed from Hangar 8 AOC Malta Limited t/a Maleth-Aero",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334785"
+  },
+  {
+    "name": "Malta Air Limited",
+    "IATA": null,
+    "ICAO": "MAY",
+    "website": null,
+    "notes": "Designator AL recalled by IATA. Name changed from MAAT Ltd t/a Malta Air. Ryanair Holdings Group",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334802"
+  },
+  {
+    "name": "Malta Air Travel Ltd d/b/a Malta MedAir",
+    "IATA": "MT",
+    "ICAO": "MMO",
+    "website": "www.maltamedair.com",
+    "notes": "IATA designator changed from MM*.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334820"
+  },
+  {
+    "name": "Malta Wings Company Limited",
+    "IATA": null,
+    "ICAO": "MWS",
+    "website": "maltawings.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334836"
+  },
+  {
+    "name": "Mediterranean Coastal Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "MCA",
+    "website": "mc-air.eu",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334853"
+  },
+  {
+    "name": "Mel Air Limited",
+    "IATA": null,
+    "ICAO": "MDO",
+    "website": "medavia.com",
+    "notes": "Name changed from Mediterranean Aviation Operations Company Ltd. d/b/a MedOps and previously from Mediterranean Aviation Operations Company Ltd.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334870"
+  },
+  {
+    "name": "Melitair Limited",
+    "IATA": null,
+    "ICAO": "BNM",
+    "website": "www.melitair.mt",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334888"
+  },
+  {
+    "name": "Move Aircraft Flight Solutions Ltd. t/a Move",
+    "IATA": null,
+    "ICAO": "MVE",
+    "website": "move.flights",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334904"
+  },
+  {
+    "name": "Nomad Aviation (Europe) Ltd.",
+    "IATA": null,
+    "ICAO": "NUB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334920"
+  },
+  {
+    "name": "Nordic Sky Limited",
+    "IATA": null,
+    "ICAO": "WET",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334936"
+  },
+  {
+    "name": "Privajet Ltd",
+    "IATA": null,
+    "ICAO": "PVJ",
+    "website": "www.privajet.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334953"
+  },
+  {
+    "name": "Projets Aviation Malta Limited",
+    "IATA": null,
+    "ICAO": "POM",
+    "website": "www.projetsaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334968"
+  },
+  {
+    "name": "Sky Prime Malta",
+    "IATA": null,
+    "ICAO": "LXR",
+    "website": "www.skyprimeav.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.334985"
+  },
+  {
+    "name": "Sky Services Malta Ltd.",
+    "IATA": null,
+    "ICAO": "SYM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.335001"
+  },
+  {
+    "name": "Skyfirst Ltd.",
+    "IATA": null,
+    "ICAO": "KFE",
+    "website": "skyfirst.aero",
+    "notes": "Name changed from Skyfree Ltd. ICAO Callsign changed to Skyfree.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.335019"
+  },
+  {
+    "name": "SkyUp MT Limited",
+    "IATA": "U5",
+    "ICAO": "SEU",
+    "website": "skyup.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.335035"
+  },
+  {
+    "name": "SmartLynx Airlines Malta Limited",
+    "IATA": null,
+    "ICAO": "LYX",
+    "website": "www.smartlynx.aero",
+    "notes": "Designator 2N reinstated by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.335052"
+  },
+  {
+    "name": "SPARFELL Malta Limited",
+    "IATA": null,
+    "ICAO": "QFX",
+    "website": "www.sparfell.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.335069"
+  },
+  {
+    "name": "TAG Aviation (Malta) Ltd",
+    "IATA": null,
+    "ICAO": "TEU",
+    "website": "www.tagaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.335085"
+  },
+  {
+    "name": "Titan Airways Malta Limited",
+    "IATA": null,
+    "ICAO": "TMT",
+    "website": "www.titan-airways.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.335101"
+  },
+  {
+    "name": "TRTO Agency Ltd.",
+    "IATA": null,
+    "ICAO": "MGF",
+    "website": "www.trtoagency.it",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.335116"
+  },
+  {
+    "name": "Tyrolean Jet Services Malta Ltd.",
+    "IATA": null,
+    "ICAO": "TYJ",
+    "website": "www.tjs.at",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.335133"
+  },
+  {
+    "name": "Universal Air Charter and Management Limited",
+    "IATA": "VO",
+    "ICAO": "UVL",
+    "website": "universalair.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.335150"
+  },
+  {
+    "name": "Valletta Airlines Limited",
+    "IATA": null,
+    "ICAO": "HOT",
+    "website": "www.valletta.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.335165"
+  },
+  {
+    "name": "VistaJet",
+    "IATA": null,
+    "ICAO": "VJS",
+    "website": "www.vistajet.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.335181"
+  },
+  {
+    "name": "VistaJet Ltd.",
+    "IATA": null,
+    "ICAO": "VJT",
+    "website": "www.vistajet.com",
+    "notes": "ICAO callsign changed from Vista Malta.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.335197"
+  },
+  {
+    "name": "Wizz Air Malta Limited",
+    "IATA": "W4",
+    "ICAO": "WMT",
+    "website": "wizzair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:25.335213"
+  },
+  {
+    "name": "Air Ambulance Malta Limited",
+    "IATA": null,
+    "ICAO": "ELP",
+    "website": "airambulance.it",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335229"
+  },
+  {
+    "name": "Air CM Global Ltd.",
+    "IATA": null,
+    "ICAO": "RJR",
+    "website": "www.aircm.aero",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335246"
+  },
+  {
+    "name": "Air Malta co. Ltd.",
+    "IATA": "KM",
+    "ICAO": "AMC",
+    "website": null,
+    "notes": "Name changed to Air Malta p.l.c. ICAO callsign changed to Air Malta",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335262"
+  },
+  {
+    "name": "Air Walser Limited",
+    "IATA": null,
+    "ICAO": "AWL",
+    "website": "www.airwalser.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335280"
+  },
+  {
+    "name": "Airhub Airlines Limited",
+    "IATA": null,
+    "ICAO": "GJM",
+    "website": "airhubairlines.aero",
+    "notes": "IATA Designator changed to RE.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335297"
+  },
+  {
+    "name": "ALH Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "MLH",
+    "website": "www.alhairlines.aero",
+    "notes": "Name changed to Avion Express Malta Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335313"
+  },
+  {
+    "name": "Alieurope Management International Ltd",
+    "IATA": null,
+    "ICAO": "EUP",
+    "website": "www.alieurope.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335329"
+  },
+  {
+    "name": "Avion Express Malta Ltd.",
+    "IATA": null,
+    "ICAO": "MLH",
+    "website": "www.avionexpress.aero",
+    "notes": "IATA ndesignator changed to 4X. Name changed from ALH Airlines Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335348"
+  },
+  {
+    "name": "Bravo Zulu (Malta) Ltd",
+    "IATA": null,
+    "ICAO": "BZX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335363"
+  },
+  {
+    "name": "Cardiff Aviation Malta Ltd.",
+    "IATA": "IV",
+    "ICAO": "SGO",
+    "website": "www.cardiffaviation.com",
+    "notes": "Ceased operations in 2017. Name changed from VVB Aviation Malta",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335381"
+  },
+  {
+    "name": "Carre Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "CRE",
+    "website": "www.carreaviation.com",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335397"
+  },
+  {
+    "name": "E Fly Co. Ltd.",
+    "IATA": "LE",
+    "ICAO": "LEF",
+    "website": "www.efly.it",
+    "notes": "Ceased operations on 05 November 2009. Founded in 2009",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335414"
+  },
+  {
+    "name": "Eurojet Limited",
+    "IATA": null,
+    "ICAO": "JLN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335429"
+  },
+  {
+    "name": "Europe Executive Jet Services",
+    "IATA": null,
+    "ICAO": "EES",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335446"
+  },
+  {
+    "name": "European 2000 Airlines Limited",
+    "IATA": null,
+    "ICAO": "EUT",
+    "website": "www.e2000air.com",
+    "notes": "Ceased Operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335462"
+  },
+  {
+    "name": "Europstar Express",
+    "IATA": null,
+    "ICAO": "XES",
+    "website": "www.europ-star.aero",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335477"
+  },
+  {
+    "name": "Executive Flight Services",
+    "IATA": null,
+    "ICAO": "URF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335493"
+  },
+  {
+    "name": "Fly Volare Ltd.",
+    "IATA": null,
+    "ICAO": "FVE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335509"
+  },
+  {
+    "name": "Flyawesome Holdings Limited",
+    "IATA": null,
+    "ICAO": "FMB",
+    "website": null,
+    "notes": "Name changed to Flyawesome Limited. ICAO designator changed to MDW. ICAO Callsign changed to Medwing.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335525"
+  },
+  {
+    "name": "Galistair Trading Limited",
+    "IATA": null,
+    "ICAO": "GTR",
+    "website": "galistair.com",
+    "notes": "IATA designator changed to 8S",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335542"
+  },
+  {
+    "name": "Harbour Air (Malta) Ltd",
+    "IATA": null,
+    "ICAO": "HES",
+    "website": "www.harbourairmalta.com",
+    "notes": "Ceased operations. sunsidary of Harbour Air Seaplanes, Canada. Founded in June 2007.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335559"
+  },
+  {
+    "name": "Hi Fly Ltd.",
+    "IATA": null,
+    "ICAO": "HFM",
+    "website": "www.hifly.aero",
+    "notes": "IATA Designator 5M* recalled.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335576"
+  },
+  {
+    "name": "Hangar 8 AOC Malta Limited t/a Maleth-Aero",
+    "IATA": null,
+    "ICAO": "MLT",
+    "website": "www.maleth-aero.com",
+    "notes": "Name changed to Maleth-Aero AOC Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335594"
+  },
+  {
+    "name": "Maleth-Aero AOC Ltd",
+    "IATA": null,
+    "ICAO": "MLT",
+    "website": "www.maleth-aero.com",
+    "notes": "Name changed from Hangar 8 AOC Malta Limited t/a Maleth-Aero",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335610"
+  },
+  {
+    "name": "Malta Air Limited",
+    "IATA": "AL",
+    "ICAO": "MAY",
+    "website": null,
+    "notes": "Name changed from MAAT Ltd t/a Malta Air. Ryanair Holdings Group",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335627"
+  },
+  {
+    "name": "MAAT Ltd t/a Malta Air",
+    "IATA": "AL",
+    "ICAO": "MAY",
+    "website": null,
+    "notes": "Name changed to Malta Air Limited. Ryanair Holdings Group",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335644"
+  },
+  {
+    "name": "Malta Air Charter Company Limited",
+    "IATA": "R5",
+    "ICAO": "MAC",
+    "website": "www.airmalta.com/mac/",
+    "notes": "Designator R5 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335660"
+  },
+  {
+    "name": "Malta Air Charter Company Limited",
+    "IATA": null,
+    "ICAO": "MAC",
+    "website": "www.airmalta.com/mac/",
+    "notes": "Designator R5 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335677"
+  },
+  {
+    "name": "Malta Airlines",
+    "IATA": "MG",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335693"
+  },
+  {
+    "name": "Malta Air Travel Ltd d/b/a Malta MedAir",
+    "IATA": null,
+    "ICAO": "MMO",
+    "website": "www.maltamedair.com",
+    "notes": "IATA designator changed to MT.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335711"
+  },
+  {
+    "name": "Mediterranean Aviation Company Ltd. d/b/a Medavia Ops",
+    "IATA": null,
+    "ICAO": "MDM",
+    "website": "www.medavia.com.mt",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335728"
+  },
+  {
+    "name": "Medilink International Air Ambulance",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335745"
+  },
+  {
+    "name": "Mediterranean Aviation Operations Company Ltd.",
+    "IATA": null,
+    "ICAO": "MDO",
+    "website": "medavia.com",
+    "notes": "Name changed to Mediterranean Aviation Operations Company Ltd. d/b/a MedOps",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335762"
+  },
+  {
+    "name": "Mediterranean Express Ltd",
+    "IATA": null,
+    "ICAO": "MKM",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335780"
+  },
+  {
+    "name": "Mediterranean Aviation Operations Company Ltd. d/b/a MedOps",
+    "IATA": null,
+    "ICAO": "MDO",
+    "website": "medavia.com",
+    "notes": "Name changed from Mediterranean Aviation Operations Company Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335797"
+  },
+  {
+    "name": "Oasis Flight Malta Ltd",
+    "IATA": null,
+    "ICAO": "OFM",
+    "website": "www.oasisflightmalta.it",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335813"
+  },
+  {
+    "name": "Orion (Malta) Ltd",
+    "IATA": null,
+    "ICAO": "OXM",
+    "website": "www.orion-malta.ru",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335830"
+  },
+  {
+    "name": "PanAfriqiyah",
+    "IATA": null,
+    "ICAO": "PNF",
+    "website": null,
+    "notes": "Subsidary of Afriqiyah",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335846"
+  },
+  {
+    "name": "Personal Air Transport Ltd.",
+    "IATA": null,
+    "ICAO": "PPD",
+    "website": "www.personalairtransport.eu",
+    "notes": "Flights operated by Air Prague",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335862"
+  },
+  {
+    "name": "Pontair Limited",
+    "IATA": null,
+    "ICAO": "PTA",
+    "website": "www.pontair.eu",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335879"
+  },
+  {
+    "name": "Private Jet Company Malta Limited",
+    "IATA": null,
+    "ICAO": "JLN",
+    "website": null,
+    "notes": "Name changed to JetClub Malta Limited. ICAO designator changed from PJM. ICAO callsign changed from Privatec.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335896"
+  },
+  {
+    "name": "Private Jet Company Malta Limited.",
+    "IATA": null,
+    "ICAO": "PJM",
+    "website": null,
+    "notes": "ICAO designator changed to JLN. ICAO callsign changed to Jetline",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335912"
+  },
+  {
+    "name": "Skyfirst Ltd.",
+    "IATA": null,
+    "ICAO": "KFE",
+    "website": "www.sky-free.com",
+    "notes": "Name changed from Skyfree Ltd. ICAO Callsign changed to Skyfree.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335930"
+  },
+  {
+    "name": "Skyfree Ltd.",
+    "IATA": null,
+    "ICAO": "KFE",
+    "website": "www.sky-free.com",
+    "notes": "Name changed to Skyfirst Ltd. ICAO Callsign changed to Morito.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335947"
+  },
+  {
+    "name": "SmartLynx Airlines Malta Limited",
+    "IATA": null,
+    "ICAO": "LYX",
+    "website": "www.smartlynx.aero",
+    "notes": "Designator 2N recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335964"
+  },
+  {
+    "name": "Valorfly Limited",
+    "IATA": null,
+    "ICAO": "VLF",
+    "website": "valorfly.eu",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335980"
+  },
+  {
+    "name": "VistaJet Ltd.",
+    "IATA": null,
+    "ICAO": "VJT",
+    "website": "www.vistajet.com",
+    "notes": "ICAO callsign changed to Vista Jet",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.335997"
+  },
+  {
+    "name": "VVB Aviation Malta",
+    "IATA": "IV",
+    "ICAO": "SGO",
+    "website": "vvb-aviation.com",
+    "notes": "Name changed to Cardiff Aviation Malta Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.336014"
+  },
+  {
+    "name": "Zenith Aviation (Malta) Ltd",
+    "IATA": null,
+    "ICAO": "MZE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:25.336029"
+  }
+]

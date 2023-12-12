@@ -1,0 +1,416 @@
+[
+  {
+    "name": "Compagnie Africaine d'Aviation (CAA)",
+    "IATA": "BU",
+    "ICAO": "DBP",
+    "website": "www.caacongo.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:35.154522"
+  },
+  {
+    "name": "Congo Airways SA (CGA)",
+    "IATA": "8Z",
+    "ICAO": "CGA",
+    "website": "www.congoairways.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:35.154551"
+  },
+  {
+    "name": "Serve Air S.a.r.l.",
+    "IATA": "V6",
+    "ICAO": null,
+    "website": "serveaircargo.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:35.154568"
+  },
+  {
+    "name": "Business Aviation",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.businessaviation.cd",
+    "notes": "Designator 4P* recalled by IATA. Reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.154586"
+  },
+  {
+    "name": "Compagnie Africaine d'Aviation CAA",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.pageweb.cd/caa/",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.154603"
+  },
+  {
+    "name": "Africa One",
+    "IATA": null,
+    "ICAO": "CFR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.154620"
+  },
+  {
+    "name": "African Business and Transportations",
+    "IATA": null,
+    "ICAO": "ABB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.154637"
+  },
+  {
+    "name": "Air Castilla",
+    "IATA": "7P",
+    "ICAO": null,
+    "website": "www.aircastilla.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.154652"
+  },
+  {
+    "name": "Air Charter Services (ACS)",
+    "IATA": null,
+    "ICAO": "CHR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.154669"
+  },
+  {
+    "name": "Air Plan International",
+    "IATA": null,
+    "ICAO": "APV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.154685"
+  },
+  {
+    "name": "Air Transport Service",
+    "IATA": null,
+    "ICAO": "ATS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.154700"
+  },
+  {
+    "name": "Alliance Airlines Sprl",
+    "IATA": null,
+    "ICAO": "ALX",
+    "website": null,
+    "notes": "Name changed to Congo Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.154717"
+  },
+  {
+    "name": "Blue Airlines",
+    "IATA": null,
+    "ICAO": "BUL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.154732"
+  },
+  {
+    "name": "Bravo Air Congo",
+    "IATA": null,
+    "ICAO": "BRV",
+    "website": "www.bravoaircongo.com",
+    "notes": "Founded in 2006. Ceased operations on 10 December 2007.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.154749"
+  },
+  {
+    "name": "Bravo Air Congo",
+    "IATA": "K6",
+    "ICAO": "BBV",
+    "website": "www.bravoairlines.com",
+    "notes": "Founded in 2006. Ceased operations on 10 December 2007.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.154767"
+  },
+  {
+    "name": "Bravo Air Congo Brazzaville",
+    "IATA": "Z2",
+    "ICAO": "BAO",
+    "website": "www.bravoairlines.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.154783"
+  },
+  {
+    "name": "Business Aviation",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.businessaviation.cd",
+    "notes": "Designator 4P* recalled by IATA. Reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.154799"
+  },
+  {
+    "name": "Central Air Express",
+    "IATA": null,
+    "ICAO": "CAX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.154815"
+  },
+  {
+    "name": "Cetraca Aviation Service",
+    "IATA": null,
+    "ICAO": "CER",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.154830"
+  },
+  {
+    "name": "Compagnie Africaine d'Aviation CAA",
+    "IATA": "BU",
+    "ICAO": "FPY",
+    "website": "www.caacongo.com",
+    "notes": "IATA Designator changed from E9",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.154847"
+  },
+  {
+    "name": "Compagnie Africaine d'Aviation CAA",
+    "IATA": "E9",
+    "ICAO": null,
+    "website": null,
+    "notes": "IATA Designator changed to BU",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.154863"
+  },
+  {
+    "name": "Compagnie Africaine d'Aviation CAA",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.154879"
+  },
+  {
+    "name": "Congo Airlines",
+    "IATA": null,
+    "ICAO": "ALX",
+    "website": null,
+    "notes": "Name changed to Hewa Bora Airways. Designator EO* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.154896"
+  },
+  {
+    "name": "Dahla Airlines",
+    "IATA": null,
+    "ICAO": "DHA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.154912"
+  },
+  {
+    "name": "Enterprise World Airways",
+    "IATA": null,
+    "ICAO": "EWS",
+    "website": "www.enterpriseworldairways.com/main.php",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.154929"
+  },
+  {
+    "name": "Espace Aviation Services",
+    "IATA": null,
+    "ICAO": "EPC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.154945"
+  },
+  {
+    "name": "Finalair Congo",
+    "IATA": "4S",
+    "ICAO": "FNC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.154960"
+  },
+  {
+    "name": "flyCongo",
+    "IATA": null,
+    "ICAO": "ALX",
+    "website": "www.flycongo.com",
+    "notes": "Founded in 2012. Commenced operations on 24 March 2012. Ceased operations in October 2012 when merged into Compagnie Africaine d'Aviation (CAA). Formerly Hewa Bora Airways",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.154979"
+  },
+  {
+    "name": "Funtshi Aviation Service",
+    "IATA": null,
+    "ICAO": "FUN",
+    "website": null,
+    "notes": "Designator FY recalled by IATA. ICAO callsign changed from Foxtrot Yankee.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.154995"
+  },
+  {
+    "name": "Global Airways",
+    "IATA": null,
+    "ICAO": "BSP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.155011"
+  },
+  {
+    "name": "Hewa Bora Airways",
+    "IATA": null,
+    "ICAO": "ALX",
+    "website": "www.hba.cd",
+    "notes": "Founded in 1994. Ceased operations in 2011. Name changed from Congo Airlines. Designator EO* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.155028"
+  },
+  {
+    "name": "Jambo Africa Airlines",
+    "IATA": null,
+    "ICAO": "JMB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.155044"
+  },
+  {
+    "name": "kinshasa Airways S.p.r.l.",
+    "IATA": null,
+    "ICAO": "KNS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.155061"
+  },
+  {
+    "name": "Korongo Airlines sprl",
+    "IATA": "ZC",
+    "ICAO": "KGO",
+    "website": "flykorongo.com",
+    "notes": "Ceased operations on 04 September 2015. Founded 15 December 2009. Operations commenced 16 April 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.155078"
+  },
+  {
+    "name": "Lignes Aeriennes Congolaises",
+    "IATA": "V4",
+    "ICAO": "LCG",
+    "website": null,
+    "notes": "Designator V4 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.155094"
+  },
+  {
+    "name": "Lignes Aeriennes Congolaises",
+    "IATA": null,
+    "ICAO": "LCG",
+    "website": null,
+    "notes": "Designator 6V* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.155111"
+  },
+  {
+    "name": "Malila Airlift",
+    "IATA": null,
+    "ICAO": "MLC",
+    "website": "www.malila.cd/engindex.htm",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.155127"
+  },
+  {
+    "name": "Natalco Airlines Limited",
+    "IATA": "OD",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator OD recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.155143"
+  },
+  {
+    "name": "Scibe-Airlift",
+    "IATA": "ZM",
+    "ICAO": "SBZ",
+    "website": null,
+    "notes": "Ceased operations on 29 September 1998. Founded in 1976 as SBZ Cargo.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.155159"
+  },
+  {
+    "name": "Serve Air S.a.r.l.",
+    "IATA": "S2",
+    "ICAO": null,
+    "website": "serveaircargo.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.155175"
+  },
+  {
+    "name": "Shabair",
+    "IATA": null,
+    "ICAO": "SHB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.155190"
+  },
+  {
+    "name": "TMK Air Commuter",
+    "IATA": null,
+    "ICAO": "TMK",
+    "website": "www.tmkcongo.com/aviation.htm",
+    "notes": "Ceased operations on 31 August 2011.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.155206"
+  },
+  {
+    "name": "Trans Service Airlift",
+    "IATA": null,
+    "ICAO": "TSR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.155222"
+  },
+  {
+    "name": "Wimbi Dira Airways",
+    "IATA": null,
+    "ICAO": "WDA",
+    "website": "www.wda.cd",
+    "notes": "Designator 9C* recalled by IATA. Accounting code 357 recalled by IATA. Founded in 2003. Operations commenced on 13 August 2003.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.155239"
+  },
+  {
+    "name": "Zaire Aero Service (ZAS)",
+    "IATA": null,
+    "ICAO": "ZAI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.155255"
+  },
+  {
+    "name": "Zairean Airlines",
+    "IATA": "VZ",
+    "ICAO": "ZAR",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:35.155270"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Aero Express",
+    "IATA": null,
+    "ICAO": "XPN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:54.785443"
+  },
+  {
+    "name": "Contact Air Sarl",
+    "IATA": null,
+    "ICAO": "CAN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:54.785472"
+  },
+  {
+    "name": "Fly Skyjet",
+    "IATA": null,
+    "ICAO": "SJF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:54.785489"
+  },
+  {
+    "name": "Max Air SA Niger",
+    "IATA": null,
+    "ICAO": "MWN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:54.785506"
+  },
+  {
+    "name": "Niger Air Cargo",
+    "IATA": "NO",
+    "ICAO": "NAB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:54.785522"
+  },
+  {
+    "name": "Niger Airlines S.A.",
+    "IATA": "6N",
+    "ICAO": "NIN",
+    "website": "nigerairlines.net",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:54.785540"
+  },
+  {
+    "name": "Oasis Air",
+    "IATA": null,
+    "ICAO": "OGA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:54.785556"
+  },
+  {
+    "name": "Sahel Airlines",
+    "IATA": null,
+    "ICAO": "AWJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:54.785571"
+  },
+  {
+    "name": "Tamara Niger Aviation SA",
+    "IATA": null,
+    "ICAO": "TMR",
+    "website": "www.tamaranigeraviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:54.785587"
+  },
+  {
+    "name": "Air Inter Afrique",
+    "IATA": null,
+    "ICAO": "MMJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:54.785603"
+  },
+  {
+    "name": "Air Inter Niger",
+    "IATA": null,
+    "ICAO": "AWH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:54.785618"
+  },
+  {
+    "name": "Air Niamey, S.A.",
+    "IATA": "A7",
+    "ICAO": "AWN",
+    "website": "www.flyairniamey.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:54.785634"
+  },
+  {
+    "name": "Air Niger, S.A.",
+    "IATA": "AW",
+    "ICAO": "AWN",
+    "website": null,
+    "notes": "Ceased Operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:54.785650"
+  },
+  {
+    "name": "Air Niger International",
+    "IATA": null,
+    "ICAO": "AWP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:54.785665"
+  },
+  {
+    "name": "Arik Niger",
+    "IATA": "Q9",
+    "ICAO": "NAK",
+    "website": "www.arikair.com",
+    "notes": "Ceased Operations in April 2009 and shutdown in February 2010.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:54.785682"
+  },
+  {
+    "name": "Contact, Compagnie Nigerienne Des Transports Aerien",
+    "IATA": null,
+    "ICAO": "AWM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:54.785697"
+  },
+  {
+    "name": "Fennec",
+    "IATA": null,
+    "ICAO": "FNA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:54.785712"
+  },
+  {
+    "name": "Massy Airlines",
+    "IATA": null,
+    "ICAO": "MIH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:54.785728"
+  },
+  {
+    "name": "Niger Air Continental",
+    "IATA": "N9",
+    "ICAO": "NCN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:54.785744"
+  },
+  {
+    "name": "Niger Airways SA",
+    "IATA": "NJ",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator NJ recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:54.785759"
+  }
+]

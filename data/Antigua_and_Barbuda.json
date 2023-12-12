@@ -1,0 +1,173 @@
+[
+  {
+    "name": "Globe Air Cargo",
+    "IATA": null,
+    "ICAO": "GBC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:37.908865"
+  },
+  {
+    "name": "LIAT (1974) Ltd.",
+    "IATA": "LI",
+    "ICAO": "LIA",
+    "website": "www.liat.com",
+    "notes": "Entered in administration on 24/07/2020.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:37.908893"
+  },
+  {
+    "name": "Aerowings, Inc.",
+    "IATA": null,
+    "ICAO": "AWG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:37.908911"
+  },
+  {
+    "name": "Antigua And Barbuda Airways International Ltd.,",
+    "IATA": null,
+    "ICAO": "ABI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:37.908928"
+  },
+  {
+    "name": "Cardinal Airlines Limited",
+    "IATA": "NN",
+    "ICAO": "DCF",
+    "website": null,
+    "notes": "Designator NN recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:37.908944"
+  },
+  {
+    "name": "Carib Aviation Limited",
+    "IATA": null,
+    "ICAO": "DEL",
+    "website": null,
+    "notes": "Designator K7* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:37.908960"
+  },
+  {
+    "name": "Carib Aviation Limited",
+    "IATA": "6C",
+    "ICAO": "DEL",
+    "website": null,
+    "notes": "IATA designator changed to 3Q",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:37.908976"
+  },
+  {
+    "name": "Carib Aviation Limited",
+    "IATA": "3Q",
+    "ICAO": "DEL",
+    "website": "www.carib-aviation.com",
+    "notes": "Founded in 1972. Ceased operations on 30 September 2008. IATA designator changed from 6C",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:37.908993"
+  },
+  {
+    "name": "Carib Express",
+    "IATA": "IM",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:37.909008"
+  },
+  {
+    "name": "Caribbean Star Airlines Limited",
+    "IATA": "8B",
+    "ICAO": "GFI",
+    "website": "www.flycaribbeanstar.com",
+    "notes": "Merged with LIAT",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:37.909025"
+  },
+  {
+    "name": "Caribbean Winds Airways, Inc.",
+    "IATA": null,
+    "ICAO": "WND",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:37.909040"
+  },
+  {
+    "name": "Caribjet, Inc.",
+    "IATA": null,
+    "ICAO": "CBJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:37.909055"
+  },
+  {
+    "name": "Central Caribbean Air Ltd.",
+    "IATA": "JK",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:37.909070"
+  },
+  {
+    "name": "Four Island Air Ltd. (Antigua)",
+    "IATA": "FX",
+    "ICAO": "FIA",
+    "website": null,
+    "notes": "Designator FX recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:37.909086"
+  },
+  {
+    "name": "Jetworld Airways Ltd.",
+    "IATA": null,
+    "ICAO": "JWA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:37.909101"
+  },
+  {
+    "name": "Leeward Islands Air Transport Ltd. (LIAT)",
+    "IATA": "LI",
+    "ICAO": null,
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:37.909116"
+  },
+  {
+    "name": "Leeward Islands Air Transport (1974) Ltd. (LIAT)",
+    "IATA": "LI",
+    "ICAO": "LIA",
+    "website": "www.fly-liat.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:37.909132"
+  },
+  {
+    "name": "Seagreen Air Transport",
+    "IATA": "ES",
+    "ICAO": "ESA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:37.909147"
+  },
+  {
+    "name": "Skyjet, Inc.",
+    "IATA": null,
+    "ICAO": "SKJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:37.909162"
+  }
+]

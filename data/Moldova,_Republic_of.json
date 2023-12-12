@@ -1,0 +1,443 @@
+[
+  {
+    "name": "Aeriantur-M",
+    "IATA": null,
+    "ICAO": "MBV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:35.617909"
+  },
+  {
+    "name": "Aerotranscargo SRL",
+    "IATA": "F5",
+    "ICAO": "ATG",
+    "website": null,
+    "notes": "ICAO callsign changed to Worldcargo",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:35.617939"
+  },
+  {
+    "name": "Aim Air",
+    "IATA": null,
+    "ICAO": "AAM",
+    "website": "aimair.md",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:35.617956"
+  },
+  {
+    "name": "Air Wings",
+    "IATA": null,
+    "ICAO": "BSB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:35.617972"
+  },
+  {
+    "name": "CA Fly Pro SRL",
+    "IATA": null,
+    "ICAO": "PVV",
+    "website": null,
+    "notes": "AOC granted 30 November 2016",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:35.617989"
+  },
+  {
+    "name": "FlyOne Airlines S.R.L.",
+    "IATA": "5F",
+    "ICAO": "FIA",
+    "website": "flyone.md",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:35.618004"
+  },
+  {
+    "name": "CA HiSky SRL",
+    "IATA": "H7",
+    "ICAO": "HYM",
+    "website": "hisky.md",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:35.618020"
+  },
+  {
+    "name": "Jet Line International Ltd.",
+    "IATA": null,
+    "ICAO": "MJL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:35.618035"
+  },
+  {
+    "name": "Megaviation Srl",
+    "IATA": null,
+    "ICAO": "ARM",
+    "website": "www.megaviation.com",
+    "notes": "Name changed from Sky One.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:35.618052"
+  },
+  {
+    "name": "Moldaeroservice",
+    "IATA": null,
+    "ICAO": "MLE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:35.618068"
+  },
+  {
+    "name": "Moldova",
+    "IATA": null,
+    "ICAO": "MVG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:35.618086"
+  },
+  {
+    "name": "CA \"Oscar Jet\" SRL",
+    "IATA": null,
+    "ICAO": "OSJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:35.618102"
+  },
+  {
+    "name": "Pecotox Air S.r.l.",
+    "IATA": null,
+    "ICAO": "PXA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:35.618117"
+  },
+  {
+    "name": "Sky Prim Air",
+    "IATA": null,
+    "ICAO": "KPM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:35.618132"
+  },
+  {
+    "name": "CA Terra Avia S.r.l.",
+    "IATA": null,
+    "ICAO": "TVR",
+    "website": "terraavia.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:35.618148"
+  },
+  {
+    "name": "Tiramavia Ltd.",
+    "IATA": null,
+    "ICAO": "TVI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:35.618163"
+  },
+  {
+    "name": "Air Company \"Valan International Cargo Charter\" Ltd",
+    "IATA": null,
+    "ICAO": "VLN",
+    "website": "www.valanicc.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:35.618178"
+  },
+  {
+    "name": "Vichi",
+    "IATA": null,
+    "ICAO": "VIH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:35.618194"
+  },
+  {
+    "name": "Aeriantur-M Airlines",
+    "IATA": null,
+    "ICAO": "TUM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:35.618209"
+  },
+  {
+    "name": "Aerocom",
+    "IATA": null,
+    "ICAO": "MCC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:35.618224"
+  },
+  {
+    "name": "Aerodacia",
+    "IATA": null,
+    "ICAO": "DCA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:35.618240"
+  },
+  {
+    "name": "Aeroportul International Marculesti",
+    "IATA": null,
+    "ICAO": "AMM",
+    "website": "www.airportmarculesti.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:35.618256"
+  },
+  {
+    "name": "Aerotranscargo",
+    "IATA": null,
+    "ICAO": "ATG",
+    "website": null,
+    "notes": "ICAO callsign changed to Moldcargo",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:35.618272"
+  },
+  {
+    "name": "Air Moldova",
+    "IATA": "9U",
+    "ICAO": "MLD",
+    "website": "www.airmoldova.md",
+    "notes": "Operations suspended on 02 May 2023. Designator 9U reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:35.618291"
+  },
+  {
+    "name": "Air Moldova International, S.A.",
+    "IATA": "RM",
+    "ICAO": "MLV",
+    "website": "www.ami.md",
+    "notes": "Designator RM recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:35.618310"
+  },
+  {
+    "name": "Air Moldova International, S.A.",
+    "IATA": "3R",
+    "ICAO": "MLV",
+    "website": null,
+    "notes": "IATA designator changed to RM",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:35.618325"
+  },
+  {
+    "name": "CA Air Stork SRL",
+    "IATA": null,
+    "ICAO": "MSB",
+    "website": "www.airstork.md",
+    "notes": "IATA designator changed from 0S*.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:35.618341"
+  },
+  {
+    "name": "CA Air Stork SRL",
+    "IATA": null,
+    "ICAO": "MSB",
+    "website": "www.airstork.md",
+    "notes": "IATA designator changed to 2S*.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:35.618357"
+  },
+  {
+    "name": "Air Trans NG Group",
+    "IATA": null,
+    "ICAO": "NGG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:35.618372"
+  },
+  {
+    "name": "Airline Transport Incorporation",
+    "IATA": null,
+    "ICAO": "RIN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:35.618387"
+  },
+  {
+    "name": "Cirus Aero",
+    "IATA": null,
+    "ICAO": "SFA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:35.618401"
+  },
+  {
+    "name": "Continental Airways",
+    "IATA": null,
+    "ICAO": "CNW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:35.618422"
+  },
+  {
+    "name": "Galata Aviacharter Ltd.",
+    "IATA": null,
+    "ICAO": "GLT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:35.618437"
+  },
+  {
+    "name": "Hellis Avia Charter",
+    "IATA": null,
+    "ICAO": "HCH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:35.618452"
+  },
+  {
+    "name": "Jet Star Srl",
+    "IATA": null,
+    "ICAO": "JSR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:35.618467"
+  },
+  {
+    "name": "Jet Stream",
+    "IATA": null,
+    "ICAO": "JSM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:35.618481"
+  },
+  {
+    "name": "Mikma Ltd.",
+    "IATA": null,
+    "ICAO": "ITL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:35.618498"
+  },
+  {
+    "name": "Moldavian Airlines",
+    "IATA": "2M",
+    "ICAO": "MDV",
+    "website": "www.mdv.md",
+    "notes": "Established on 26 July 1994. Commenced operations on 19 August 1994. Ceased operations during 2014.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:35.618514"
+  },
+  {
+    "name": "Moldtransavia",
+    "IATA": null,
+    "ICAO": "MLT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:35.618529"
+  },
+  {
+    "name": "Nistransair",
+    "IATA": null,
+    "ICAO": "NTP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:35.618544"
+  },
+  {
+    "name": "Renan Ltd.",
+    "IATA": null,
+    "ICAO": "RAN",
+    "website": "www.renan.moldpac.md",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:35.618559"
+  },
+  {
+    "name": "Sky One",
+    "IATA": null,
+    "ICAO": "ARM",
+    "website": null,
+    "notes": "Name changed to Megaviation Srl",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:35.618575"
+  },
+  {
+    "name": "South-West-Avia",
+    "IATA": null,
+    "ICAO": "MSW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:35.618589"
+  },
+  {
+    "name": "Sud Aerocargo",
+    "IATA": null,
+    "ICAO": "KSA",
+    "website": "www.aercargo.inform.md",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:35.618604"
+  },
+  {
+    "name": "Tandem Aero Ltd.",
+    "IATA": "TQ",
+    "ICAO": "TDM",
+    "website": "www.tandemaero.md",
+    "notes": "Designator TQ reinstated by IATA. Ceased operations in April 2019.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:35.618620"
+  },
+  {
+    "name": "Tepavia-Trans Airline",
+    "IATA": null,
+    "ICAO": "TET",
+    "website": "wb-air.narod.ru/tepavia_trans.htm",
+    "notes": "Founded on 18 May 1999. Ceased operations in 2006.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:35.618636"
+  },
+  {
+    "name": "Trans Air Valeologia",
+    "IATA": null,
+    "ICAO": "VLG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:35.618651"
+  },
+  {
+    "name": "Viraj-Avia, S.A.",
+    "IATA": null,
+    "ICAO": "VRA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:35.618665"
+  },
+  {
+    "name": "Aeronord-Grup",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:35.618680"
+  }
+]

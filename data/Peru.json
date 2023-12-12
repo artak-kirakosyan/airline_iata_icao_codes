@@ -1,0 +1,587 @@
+[
+  {
+    "name": "Aero Transporte S.A. (ATSA)",
+    "IATA": "4A",
+    "ICAO": "AMP",
+    "website": "atsaairlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:12.043780"
+  },
+  {
+    "name": "Aerolinea del Caribe - Peru S.A.C.",
+    "IATA": "EF",
+    "ICAO": "CPR",
+    "website": "aercaribe.com/peru/",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:12.043809"
+  },
+  {
+    "name": "Aerotransporte Peruanos Internacionales, S.A.",
+    "IATA": null,
+    "ICAO": "APS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:12.043828"
+  },
+  {
+    "name": "Air Majoro S.A.",
+    "IATA": null,
+    "ICAO": "MJP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:12.043844"
+  },
+  {
+    "name": "Airmax S.A.",
+    "IATA": "X8",
+    "ICAO": "MMX",
+    "website": "www.airmaxcargo.com.pe",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:12.043861"
+  },
+  {
+    "name": "F A Naval Del Peru",
+    "IATA": null,
+    "ICAO": "INP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:12.043878"
+  },
+  {
+    "name": "Corporacion Asesora S.A. (Faucett S.A.)",
+    "IATA": null,
+    "ICAO": "CFP",
+    "website": null,
+    "notes": "Designator CF recalled by IATA. Name changed from Compania de Aviacion Faucett",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:12.043895"
+  },
+  {
+    "name": "Fuerza Aerea Del Peru",
+    "IATA": null,
+    "ICAO": "FPR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:12.043911"
+  },
+  {
+    "name": "jetSMART Airlines Peru SAC",
+    "IATA": "JZ",
+    "ICAO": "JAP",
+    "website": "jetsmart.com/pe/",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:12.043929"
+  },
+  {
+    "name": "Lan Peru, S.A. d/b/a LATAM Airlines Peru",
+    "IATA": "LP",
+    "ICAO": "LPE",
+    "website": "www.latamairlines.com/pe/es",
+    "notes": "Name changed from Lan Peru, S.A. w.e.f. 05 May 2016. Changed from Air Patagonia - Linea Aerea Del Sur S.A. ICAO changed from PTG",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:12.043947"
+  },
+  {
+    "name": "Servicios Aereos de Los Andes S.A.C.",
+    "IATA": null,
+    "ICAO": "AND",
+    "website": "www.andesair.com",
+    "notes": "Designator FP recalled by IATA.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:12.043964"
+  },
+  {
+    "name": "Sky Airline Peru S.A.C.",
+    "IATA": "H8",
+    "ICAO": "SKX",
+    "website": "www.skyairline.com/peru",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:12.043981"
+  },
+  {
+    "name": "Sky Bus S.A.C.",
+    "IATA": null,
+    "ICAO": "HVY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:12.043996"
+  },
+  {
+    "name": "Star Up S.A. dba Star Peru",
+    "IATA": "2I",
+    "ICAO": "SRU",
+    "website": "www.starperu.com",
+    "notes": "Name changed from Star Up, S.A.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:12.044012"
+  },
+  {
+    "name": "T Doble A, Empresa de Transportes Aerecs Andahuaylas",
+    "IATA": null,
+    "ICAO": "TEA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:12.044028"
+  },
+  {
+    "name": "Transporte Aereo Expreso Moche S.A.C.",
+    "IATA": null,
+    "ICAO": "APU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:12.044045"
+  },
+  {
+    "name": "Nuevo Continente, S.A.",
+    "IATA": "N6",
+    "ICAO": "ACQ",
+    "website": "www.aerocontinente.com.pe",
+    "notes": "Name changed from Aero Continente",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044062"
+  },
+  {
+    "name": "Aero Continente",
+    "IATA": "N6",
+    "ICAO": "ACQ",
+    "website": "www.aerocontinente.com.pe",
+    "notes": "Name changed to Nuevo Continente, S.A. Operting License was revoked by Chilean Avition officials on 10 June 2002.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044079"
+  },
+  {
+    "name": "Aero-C\u00f3ndor, S.A.",
+    "IATA": null,
+    "ICAO": "CDP",
+    "website": null,
+    "notes": "Founded in 1975. IATA designator changed to Q6.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044096"
+  },
+  {
+    "name": "Aero-C\u00f3ndor, S.A.",
+    "IATA": "Q6",
+    "ICAO": "CDP",
+    "website": "www.aerocondor.com.pe",
+    "notes": "Operations suspended during June 2008. Designator Q6 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044113"
+  },
+  {
+    "name": "Aerolineas Peruanas, S.A.",
+    "IATA": "EP",
+    "ICAO": "PRU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044129"
+  },
+  {
+    "name": "Aeronaves del Peru S.A.",
+    "IATA": null,
+    "ICAO": "WPL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044145"
+  },
+  {
+    "name": "Aeroperu - Empresa de Transportes Aereos del Peru",
+    "IATA": "PL",
+    "ICAO": "PLI",
+    "website": "www.aeroperu.com",
+    "notes": "Ceased operations on 10 March 1999.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044163"
+  },
+  {
+    "name": "Aerorepresentaciones Tupac Amaru",
+    "IATA": "XU",
+    "ICAO": "XUT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044179"
+  },
+  {
+    "name": "Aerorepresentaciones Tupac Amaru",
+    "IATA": "XU",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044195"
+  },
+  {
+    "name": "Airmax S.A.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.airmaxcargo.pe",
+    "notes": "Designator M8* recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044212"
+  },
+  {
+    "name": "Amazon Sky S.A.C.",
+    "IATA": null,
+    "ICAO": "AMT",
+    "website": "www.amazonskysac.com",
+    "notes": "Founded in 2006. AOC granted 04 April 2007.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044228"
+  },
+  {
+    "name": "Americana de Aviacion, S.A.",
+    "IATA": null,
+    "ICAO": "ANE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044243"
+  },
+  {
+    "name": "Trans American Airlines, S.A. Avianca Peru",
+    "IATA": "T0",
+    "ICAO": "TPU",
+    "website": "www.avianca.com",
+    "notes": "Ceased operations on 10 May 2020. Name changed from Trans American Airlines, S.A. TACA Peru. Established in 1999. Commenced operations in July 1999.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044261"
+  },
+  {
+    "name": "Aviandina S.A.C.",
+    "IATA": null,
+    "ICAO": "VND",
+    "website": null,
+    "notes": "Designator SJ* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044278"
+  },
+  {
+    "name": "Compania Aeronaves Del Peru, S.A.",
+    "IATA": "WP",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044293"
+  },
+  {
+    "name": "Compania Internacional de Aviacion, S.A. (COPISA)",
+    "IATA": "PM",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044310"
+  },
+  {
+    "name": "Empresa de Servicios Maritima Y Aerea, S.A.",
+    "IATA": null,
+    "ICAO": "ASP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044326"
+  },
+  {
+    "name": "E-Savtravel",
+    "IATA": "L1",
+    "ICAO": null,
+    "website": "www.e-savtravel.com",
+    "notes": "Computer Reservations Systems (CRS)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044342"
+  },
+  {
+    "name": "E-Savtravel",
+    "IATA": "E1",
+    "ICAO": null,
+    "website": "www.e-savtravel.com",
+    "notes": "Computer Reservations Systems (CRS)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044358"
+  },
+  {
+    "name": "Expreso Aereo",
+    "IATA": null,
+    "ICAO": "EPR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044373"
+  },
+  {
+    "name": "Corporacion Asesora S.A. (Faucett S.A.)",
+    "IATA": "CF",
+    "ICAO": "CFP",
+    "website": null,
+    "notes": "Name changed from Compania de Aviacion Faucett",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044389"
+  },
+  {
+    "name": "Compania de Aviacion Faucett S.A.",
+    "IATA": "CF",
+    "ICAO": "CFP",
+    "website": null,
+    "notes": "Name changed to Corporacion Asesora S.A. (Faucett S.A.)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044405"
+  },
+  {
+    "name": "Compania de Aviacion Faucett S.A.",
+    "IATA": "CF",
+    "ICAO": "CFP",
+    "website": null,
+    "notes": "ICAO callsign changed to Faucet",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044422"
+  },
+  {
+    "name": "Imperial Air",
+    "IATA": null,
+    "ICAO": "IMP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044438"
+  },
+  {
+    "name": "Lan Peru, S.A.",
+    "IATA": "LP",
+    "ICAO": "LPE",
+    "website": "www.lanperu.com",
+    "notes": "Name changed to Lan Peru, S.A. d/b/a LATAM Airlines Peru w.e.f. 05 May 2016. Changed from Air Patagonia - Linea Aerea Del Sur S.A. ICAO changed from PTG",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044456"
+  },
+  {
+    "name": "LC Busre S.A.C.",
+    "IATA": null,
+    "ICAO": "LCB",
+    "website": null,
+    "notes": "Founded in 1993. Name changed to LC Busre S.A.C. t/a LC Peru.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044472"
+  },
+  {
+    "name": "LC Busre S.A.C. t/a LC Peru",
+    "IATA": null,
+    "ICAO": "LCB",
+    "website": "www.lcperu.pe",
+    "notes": "Operations suspended on 25 November 2018 by authorities due no valid insurance. Declared bankrupt 12 December 2018.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044490"
+  },
+  {
+    "name": "Linea Aerea Del Sur, S.A.",
+    "IATA": "LP",
+    "ICAO": "PTG",
+    "website": null,
+    "notes": "Changed to Lan Peru S.A. ICAO changed to LPE",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044506"
+  },
+  {
+    "name": "Lineas Aereas Nacionales S.A. (LANSA)",
+    "IATA": "IL",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044522"
+  },
+  {
+    "name": "Aeroturismo y Publicidad S.A.C. t/a Magenta Air",
+    "IATA": "I2",
+    "ICAO": null,
+    "website": null,
+    "notes": "Commenced operations in September 2002. Ceased operations during 2005.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044539"
+  },
+  {
+    "name": "Peruvian Air Lines S.A.",
+    "IATA": "P9",
+    "ICAO": "PVN",
+    "website": "www.peruvianairlines.pe",
+    "notes": "Ceased operations on 02 October 2019.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044556"
+  },
+  {
+    "name": "Rutas Internacionales Peruanas, S.A. (RIPSA)",
+    "IATA": "RI",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044573"
+  },
+  {
+    "name": "Servicio Aereo Ejecutivo S.A. (SAE)",
+    "IATA": null,
+    "ICAO": "SEJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044589"
+  },
+  {
+    "name": "Servicios Aereos Amazonicos",
+    "IATA": null,
+    "ICAO": "AZN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044604"
+  },
+  {
+    "name": "Servicios Aereos de Los Andes S.A.C.",
+    "IATA": "FP",
+    "ICAO": "AND",
+    "website": "www.andesair.com",
+    "notes": "Designator FP recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044620"
+  },
+  {
+    "name": "Sitra Cargo System",
+    "IATA": null,
+    "ICAO": "SCG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044636"
+  },
+  {
+    "name": "South American Airlines",
+    "IATA": null,
+    "ICAO": "SCN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044651"
+  },
+  {
+    "name": "Star Up, S.A.",
+    "IATA": "2I",
+    "ICAO": "SRU",
+    "website": "www.starup.com.pe",
+    "notes": "Name changed to Star Up S.A. dba Star Peru",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044668"
+  },
+  {
+    "name": "Trans American Airlines, S.A. TACA Peru",
+    "IATA": "T0",
+    "ICAO": "TPU",
+    "website": "www.taca.com",
+    "notes": "Name changed to Avianca Peru. Established in 1999. Commenced operations in July 1999.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044685"
+  },
+  {
+    "name": "TAISA Transportes Aereos Internacionales S.A.",
+    "IATA": "TI",
+    "ICAO": null,
+    "website": null,
+    "notes": "ICAO callsign changed to Taisa",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044701"
+  },
+  {
+    "name": "TAISA Transportes Aereos Internacionales S.A.",
+    "IATA": "TI",
+    "ICAO": "TII",
+    "website": null,
+    "notes": "ICAO callsign changed from Tango India",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044719"
+  },
+  {
+    "name": "Trans AM, S.A.",
+    "IATA": "ES",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator ES recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044734"
+  },
+  {
+    "name": "Trans-American Airlines, S.A.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Name changed to TACA Peru",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044751"
+  },
+  {
+    "name": "Transportes Aereos del Peru S.A. d/b/a Transperu S.A.",
+    "IATA": "4P",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator 4P recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044767"
+  },
+  {
+    "name": "Transportes Aereos Nacionales de Selva (TANS)",
+    "IATA": null,
+    "ICAO": "ELV",
+    "website": "www.tans.com.pe",
+    "notes": "Designator TJ* recalled by IATA. IATA designator changed from SS*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044784"
+  },
+  {
+    "name": "Transportes Aereos Nacionales De Selva (TANS)",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "IATA designator changed to TJ*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044802"
+  },
+  {
+    "name": "Transportes Aereos Nacionales de Selva (TANS)",
+    "IATA": null,
+    "ICAO": "ELV",
+    "website": null,
+    "notes": "IATA designator changed to TJ*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044818"
+  },
+  {
+    "name": "Viva Airlines Peru S.A.C.",
+    "IATA": "VV",
+    "ICAO": "VPE",
+    "website": "www.vivaair.com",
+    "notes": "Founded in November 2016 by Irelandia Aviation. Commenced operations on 09 May 2017. Suspended operations on 26 February 2023.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044836"
+  },
+  {
+    "name": "Wayra Peru S.A.C.",
+    "IATA": null,
+    "ICAO": "WAY",
+    "website": "www.wayra.com.pe",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:12.044852"
+  }
+]

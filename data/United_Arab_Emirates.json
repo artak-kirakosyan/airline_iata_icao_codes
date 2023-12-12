@@ -1,0 +1,632 @@
+[
+  {
+    "name": "Abu Dhabi Amiri Flight",
+    "IATA": null,
+    "ICAO": "AUH",
+    "website": null,
+    "notes": "Designator OM* recaled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:31.202655"
+  },
+  {
+    "name": "Abu Dhabi Aviation",
+    "IATA": null,
+    "ICAO": "BAR",
+    "website": "ada.aer",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:31.202685"
+  },
+  {
+    "name": "Air Arabia PJSC",
+    "IATA": "G9",
+    "ICAO": "ABY",
+    "website": "www.airarabia.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:31.202703"
+  },
+  {
+    "name": "Air Arabia Abu Dhabi",
+    "IATA": "3L",
+    "ICAO": "ADY",
+    "website": "www.airarabia.com",
+    "notes": "AOC granted 23 April 2020.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:31.202721"
+  },
+  {
+    "name": "Al Jabeer",
+    "IATA": null,
+    "ICAO": "LJB",
+    "website": "www.aljaber.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:31.202738"
+  },
+  {
+    "name": "Al Rais Cargo agemcies L.L.C.",
+    "IATA": null,
+    "ICAO": "HJT",
+    "website": "www.alraiscargo.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:31.202756"
+  },
+  {
+    "name": "Aviation Services Management LLC",
+    "IATA": null,
+    "ICAO": "VGG",
+    "website": "asm.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:31.202772"
+  },
+  {
+    "name": "Dana Executive Jets",
+    "IATA": null,
+    "ICAO": "DEJ",
+    "website": "www.danajets.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:31.202788"
+  },
+  {
+    "name": "DC Aviation Al-Futtaim LLC",
+    "IATA": null,
+    "ICAO": "DCF",
+    "website": "www.dc-aviation.ae",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:31.202805"
+  },
+  {
+    "name": "Dolphin Air",
+    "IATA": null,
+    "ICAO": "FDN",
+    "website": "www.dolphinair.ae",
+    "notes": "The airline started operations in 2002. It was formerly known as Flying Dolphin Airlines and Santa Cruz Imperial Airlines. It was reorganised by Arabian Devt Trading and Construction, taking over assets from Santa Cruz Imperial",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:31.202824"
+  },
+  {
+    "name": "Dubai Air Wing / Royal Flight",
+    "IATA": null,
+    "ICAO": "DUB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:31.202842"
+  },
+  {
+    "name": "Eastern Skyjets",
+    "IATA": null,
+    "ICAO": "ESJ",
+    "website": "www.easternskyjets.com",
+    "notes": "Designator EE recalled by IATA. IATA Designator changed from EA*.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:31.202859"
+  },
+  {
+    "name": "Emirates",
+    "IATA": "EK",
+    "ICAO": "UAE",
+    "website": "www.emirates.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:31.202875"
+  },
+  {
+    "name": "Emirates Flight Training Academy",
+    "IATA": null,
+    "ICAO": "EFC",
+    "website": "www.emiratesflighttrainingacademy.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:31.202892"
+  },
+  {
+    "name": "Empire Aviation Group",
+    "IATA": null,
+    "ICAO": "MJE",
+    "website": "empireaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:31.202909"
+  },
+  {
+    "name": "Etihad Airways d/b/a Etihad",
+    "IATA": "EY",
+    "ICAO": "ETD",
+    "website": "www.etihad.com",
+    "notes": "Name changed from Etihad Airways.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:31.202927"
+  },
+  {
+    "name": "Etihad Flight College",
+    "IATA": null,
+    "ICAO": "YET",
+    "website": "www.etihad.com/en-us/about-us/our-subsidiaries/",
+    "notes": "Subsidiary of Etihad Airways.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:31.202944"
+  },
+  {
+    "name": "Etihad Flight College",
+    "IATA": null,
+    "ICAO": "EYT",
+    "website": null,
+    "notes": "ICAO callsign changed from Zayed.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:31.202962"
+  },
+  {
+    "name": "Execujet Middle East",
+    "IATA": null,
+    "ICAO": "EJO",
+    "website": "www.execujet.com/en/region/middle-east.aspx",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:31.202979"
+  },
+  {
+    "name": "Falcon Aviation Services",
+    "IATA": null,
+    "ICAO": "FVS",
+    "website": "www.falconaviation.ae",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:31.202995"
+  },
+  {
+    "name": "FJR Private Flight",
+    "IATA": null,
+    "ICAO": "FPF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:31.203010"
+  },
+  {
+    "name": "Fliteport",
+    "IATA": null,
+    "ICAO": "FOW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:31.203027"
+  },
+  {
+    "name": "Fly RAK",
+    "IATA": null,
+    "ICAO": "FRB",
+    "website": "www.flyrak.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:31.203044"
+  },
+  {
+    "name": "Dubai Aviation Corporation d/b/a flydubai",
+    "IATA": "FZ",
+    "ICAO": "FDB",
+    "website": "www.flydubai.com",
+    "notes": "Founded on 19 March 2008. Commenced operations on 01 June 2009.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:31.203061"
+  },
+  {
+    "name": "Fujairah Aviation Centre",
+    "IATA": null,
+    "ICAO": "FUJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:31.203077"
+  },
+  {
+    "name": "Gama Aviation FZC",
+    "IATA": null,
+    "ICAO": "GSH",
+    "website": "www.gamaaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:31.203095"
+  },
+  {
+    "name": "Gulf Wings",
+    "IATA": null,
+    "ICAO": "GWC",
+    "website": "www.gulfwings-fze.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:31.203111"
+  },
+  {
+    "name": "Istithmar World Aviation",
+    "IATA": null,
+    "ICAO": "NKL",
+    "website": "www.istithmarworld.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:31.203127"
+  },
+  {
+    "name": "Jet Ops",
+    "IATA": null,
+    "ICAO": "OPS",
+    "website": "www.jet-ops.com",
+    "notes": "Designator J6* recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:31.203144"
+  },
+  {
+    "name": "Maximus Air Cargo",
+    "IATA": null,
+    "ICAO": "MXU",
+    "website": "www.maximus.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:31.203159"
+  },
+  {
+    "name": "Mersal Air Cargo",
+    "IATA": null,
+    "ICAO": "MZH",
+    "website": "www.mersalair.com",
+    "notes": "Planned start up.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:31.203175"
+  },
+  {
+    "name": "Prestige Jets Rentals",
+    "IATA": null,
+    "ICAO": "PJR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:31.203191"
+  },
+  {
+    "name": "Rotana Jet Aviation d/b/a Rotana Jet",
+    "IATA": "RG",
+    "ICAO": "RJD",
+    "website": "www.rotanajet.ae",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:31.203207"
+  },
+  {
+    "name": "Royal Jet",
+    "IATA": null,
+    "ICAO": "ROJ",
+    "website": "www.royaljetgroup.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:31.203224"
+  },
+  {
+    "name": "Sharjah Ruler's Royal Flight",
+    "IATA": null,
+    "ICAO": "SHJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:31.203240"
+  },
+  {
+    "name": "Unique Air FZE",
+    "IATA": null,
+    "ICAO": "UQA",
+    "website": "uniqueair.ae",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:31.203256"
+  },
+  {
+    "name": "United Arab Emirates Air Force",
+    "IATA": null,
+    "ICAO": "UAF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:31.203271"
+  },
+  {
+    "name": "Wizz Air Abu Dhabi d/b/a Wizz Air",
+    "IATA": "5W",
+    "ICAO": "WAZ",
+    "website": "wizzair.com",
+    "notes": "Commenced operations 15 January 2021. Subsidary of Wizz Air Hungary.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:31.203290"
+  },
+  {
+    "name": "Damal Airlines",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.damalair.co.ae",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:31.203306"
+  },
+  {
+    "name": "Emarat Link",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.emaratlink.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:31.203321"
+  },
+  {
+    "name": "Emirates SkyCargo",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.sky-cargo.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:31.203338"
+  },
+  {
+    "name": "Silver Air",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.silverairuae.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:31.203354"
+  },
+  {
+    "name": "Skies Airlines",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.skiesairlines.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:31.203370"
+  },
+  {
+    "name": "Abu Dhabi Amiri Flight",
+    "IATA": null,
+    "ICAO": "AUH",
+    "website": null,
+    "notes": "Designator OM* recaled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:31.203387"
+  },
+  {
+    "name": "Aerogulf Services Company",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:31.203403"
+  },
+  {
+    "name": "Aerogulf Services Company",
+    "IATA": "GZ",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:31.203419"
+  },
+  {
+    "name": "Aerovista Gulf Express FZC",
+    "IATA": null,
+    "ICAO": "VGF",
+    "website": "www.aerovista.net",
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:31.203436"
+  },
+  {
+    "name": "Air Intergulf Ltd.",
+    "IATA": "GZ",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:31.203451"
+  },
+  {
+    "name": "AirGlow Aviation Services FZC",
+    "IATA": null,
+    "ICAO": null,
+    "website": "airglowaviation.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:31.203468"
+  },
+  {
+    "name": "Al Jaber Aviation",
+    "IATA": null,
+    "ICAO": "AJA",
+    "website": "www.ajaprivatejets.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:31.203483"
+  },
+  {
+    "name": "ave.com",
+    "IATA": "2E",
+    "ICAO": "PHW",
+    "website": "www.avecom.ae",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:31.203499"
+  },
+  {
+    "name": "Cargo Plus Aviation, Inc.",
+    "IATA": "8L",
+    "ICAO": null,
+    "website": "www.cargoplus.co.ae",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:31.203516"
+  },
+  {
+    "name": "Eastern Skyjets",
+    "IATA": "EE",
+    "ICAO": "ESJ",
+    "website": "www.easternskyjets.com",
+    "notes": "Designator EE recalled by IATA. IATA Designator changed from EA*.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:31.203532"
+  },
+  {
+    "name": "Eastern Skyjets",
+    "IATA": null,
+    "ICAO": "ESJ",
+    "website": "www.easternskyjets.com",
+    "notes": "IATA Designator changed to EE.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:31.203549"
+  },
+  {
+    "name": "Etihad Airways",
+    "IATA": "EY",
+    "ICAO": "ETD",
+    "website": "www.etihadairways.com",
+    "notes": "Name changed to Etihad Airways d/b/a Etihad.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:31.203565"
+  },
+  {
+    "name": "Etihad Flight College",
+    "IATA": null,
+    "ICAO": "EYT",
+    "website": null,
+    "notes": "ICAO callsign changed to Jernas.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:31.203582"
+  },
+  {
+    "name": "Falcon Express Cargo Airlines",
+    "IATA": null,
+    "ICAO": "FCX",
+    "website": "www.feca.bz",
+    "notes": "Founded in 1995. Ceased operations in 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:31.203598"
+  },
+  {
+    "name": "Flying Dolphin Airlines",
+    "IATA": null,
+    "ICAO": "FDN",
+    "website": null,
+    "notes": "Name changed to Dolphin Air",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:31.203614"
+  },
+  {
+    "name": "Global Jet Limited",
+    "IATA": null,
+    "ICAO": "GBG",
+    "website": "www.globaljetdubai.com",
+    "notes": "Designator 7G* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:31.203631"
+  },
+  {
+    "name": "Hamra Air",
+    "IATA": null,
+    "ICAO": "HMM",
+    "website": null,
+    "notes": "Name changed to RAK Airways.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:31.203648"
+  },
+  {
+    "name": "HeavyLift International Airlines d/b/a Heavy Lift",
+    "IATA": "HC",
+    "ICAO": "HVL",
+    "website": "www.hl-cargo.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:31.203664"
+  },
+  {
+    "name": "Infinity Aviation",
+    "IATA": null,
+    "ICAO": "INF",
+    "website": "www.infinityaviation.aero",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:31.203682"
+  },
+  {
+    "name": "Jet Ops",
+    "IATA": null,
+    "ICAO": "OPS",
+    "website": "www.jet-ops.com",
+    "notes": "Designator J6* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:31.203698"
+  },
+  {
+    "name": "Menajet",
+    "IATA": "IM",
+    "ICAO": "MNJ",
+    "website": "www.menajet.com",
+    "notes": "Desigantor IM restated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:31.203715"
+  },
+  {
+    "name": "Midex Airlines",
+    "IATA": "MG",
+    "ICAO": "MIX",
+    "website": "www.midexairlines.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:31.203732"
+  },
+  {
+    "name": "Pluto Airlines LLC",
+    "IATA": "PD",
+    "ICAO": "PPL",
+    "website": null,
+    "notes": "Ceased Operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:31.203748"
+  },
+  {
+    "name": "RAK Airways",
+    "IATA": "RT",
+    "ICAO": "RKM",
+    "website": "www.rakairways.com",
+    "notes": "Founded in 2006. Suspended operations 01 January 2014. Desigantor RT recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:31.203766"
+  },
+  {
+    "name": "Rizon Jet",
+    "IATA": null,
+    "ICAO": "RZJ",
+    "website": "www.rizonjet.com",
+    "notes": "Founded in 2006. Ceased operations during 2016.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:31.203782"
+  },
+  {
+    "name": "Sama Air LLC",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.flysama.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:31.203800"
+  },
+  {
+    "name": "Trans Gulf Express F.Z.C.",
+    "IATA": null,
+    "ICAO": "GEX",
+    "website": "www.transgulfxpress.org",
+    "notes": "Desigantor GV* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:31.203816"
+  }
+]

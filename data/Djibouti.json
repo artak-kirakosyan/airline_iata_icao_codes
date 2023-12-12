@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Air Djibouti SAS",
+    "IATA": "DJ",
+    "ICAO": "DJI",
+    "website": "air-djibouti.com",
+    "notes": "Established in 1963, ceased all operations in 1991, relaunched in 2015.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:48.771917"
+  },
+  {
+    "name": "Air Falcon",
+    "IATA": null,
+    "ICAO": "AVG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:48.771944"
+  },
+  {
+    "name": "Amal Airlines",
+    "IATA": null,
+    "ICAO": "MLF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:48.771961"
+  },
+  {
+    "name": "Daallo Airlines",
+    "IATA": "D3",
+    "ICAO": "DAO",
+    "website": "www.daallo.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:48.771977"
+  },
+  {
+    "name": "Djibouti Airlines",
+    "IATA": null,
+    "ICAO": "DJB",
+    "website": null,
+    "notes": "Designator L2* recalled by IATA.IATA designator changed from MG*. IATA designator changed from DY / ICAO designator chan ged from DJU",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:48.771994"
+  },
+  {
+    "name": "Puntavia Air Services",
+    "IATA": null,
+    "ICAO": "PTV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:48.772009"
+  },
+  {
+    "name": "Air Djibouti",
+    "IATA": "DY",
+    "ICAO": "DJU",
+    "website": null,
+    "notes": "Established in 1963, ceased all operations in 1991.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:48.772025"
+  },
+  {
+    "name": "Djibouti Airlines",
+    "IATA": null,
+    "ICAO": "DJB",
+    "website": null,
+    "notes": "IATA designator changed from MG*. IATA designator changed from DY / ICAO designator chan ged from DJU",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:48.772043"
+  },
+  {
+    "name": "Djibouti Airlines",
+    "IATA": null,
+    "ICAO": "DJB",
+    "website": null,
+    "notes": "IATA designator changed to L2. IATA designator changed from DY / DJU",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:48.772059"
+  },
+  {
+    "name": "Djibouti Airlines",
+    "IATA": "D8",
+    "ICAO": "DJB",
+    "website": "www.publexfrance.com/Djibouti/djiboutiair.htm",
+    "notes": "Designator D8 reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:48.772086"
+  },
+  {
+    "name": "Jibair",
+    "IATA": null,
+    "ICAO": "JIB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:48.772103"
+  },
+  {
+    "name": "Silver Air",
+    "IATA": null,
+    "ICAO": "SVJ",
+    "website": null,
+    "notes": "Ceased operations in 2009",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:48.772118"
+  }
+]
