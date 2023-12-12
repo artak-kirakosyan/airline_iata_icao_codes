@@ -142,7 +142,7 @@ def main():
         country_name = country.replace(" ", "_")
         country_name = country_name.replace("/", "_")
         try:
-            with open(f"data/{country_name}.json", "w") as f:
+            with open(f"{config.base_directory}/{country_name}.json", "w") as f:
                 json.dump(country_data, f, indent=2)
         except Exception as e:
             logging.exception(f"Failed to write {country} data: {e}")
