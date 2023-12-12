@@ -1,4 +1,6 @@
 # Headers and data are for making a request and getting proper result
+import os
+
 headers = {
     "Host": "www.avcodes.co.uk",
     "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0",
@@ -25,5 +27,8 @@ countries_url = "https://www.avcodes.co.uk/airlcodesearch.asp"
 # This link is where we get all airline information
 url = "https://www.avcodes.co.uk/airlcoderes.asp"
 
+
+base_directory = "data"
+os.makedirs(base_directory, exist_ok=True)
 # A file name where to write the info
 target_file_name = "airline_iata_icao_codes.json"
