@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "ATA - Aerotaxi Abaete Ltda",
+    "IATA": "E4",
+    "ICAO": "ABJ",
+    "website": "www.abaete.com.br",
+    "notes": "Name changed from Ala Abaete Linhas Aereas S/A",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.787328"
+  },
+  {
+    "name": "Aerosul Taxi A\u00e9reo Ltda",
+    "IATA": null,
+    "ICAO": "ASO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.787361"
+  },
+  {
+    "name": "Air Club Transportes Aereos Ltda - Viabrasil",
+    "IATA": null,
+    "ICAO": "VBR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.787383"
+  },
+  {
+    "name": "Anivia Servicos Aereos Ltda",
+    "IATA": null,
+    "ICAO": "TOT",
+    "website": null,
+    "notes": "Planned start-up will operate obo Total Express.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.787402"
+  },
+  {
+    "name": "ASAS Linhas Aereas",
+    "IATA": null,
+    "ICAO": "CEU",
+    "website": "www.voeasas.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.787420"
+  },
+  {
+    "name": "Avion Express Brazil",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Planned start-up with A321 P2F.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.787438"
+  },
+  {
+    "name": "Azul Linhas Aereas Brasileiras",
+    "IATA": "AD",
+    "ICAO": "AZU",
+    "website": "www.voeazul.com.br",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.787455"
+  },
+  {
+    "name": "Azul Conecta Ltda",
+    "IATA": null,
+    "ICAO": "ACN",
+    "website": "www.voeazul.com.br/azulconecta",
+    "notes": "Name changed from twoFlex Taxi Aereo Ltda on 11 August 2020. ICAO designator changed from OWT. ICAO Callsign changed from Brasil Cargo. Name changed from TWO Taxi Aereo Ltda.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.787475"
+  },
+  {
+    "name": "Brasair Transportes Aereos",
+    "IATA": null,
+    "ICAO": "BSI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.787491"
+  },
+  {
+    "name": "Braspress Air Cargo Transportes Aereos Ltda",
+    "IATA": null,
+    "ICAO": "BPC",
+    "website": "www.braspress.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.787510"
+  },
+  {
+    "name": "Forca Aerea Brasileira (F.A.B.)",
+    "IATA": null,
+    "ICAO": "BRS",
+    "website": "www.fab.mil.br",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.787527"
+  },
+  {
+    "name": "Brazilian Army Aviation",
+    "IATA": null,
+    "ICAO": "EXB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.787544"
+  },
+  {
+    "name": "Brazilian Navy Aviation",
+    "IATA": null,
+    "ICAO": "MBR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.787562"
+  },
+  {
+    "name": "Bringer Air Cargo Taxi Aereo Ltda.",
+    "IATA": null,
+    "ICAO": "BCT",
+    "website": "www.bringeraircargo.com.br",
+    "notes": "ICAO changed from BRC.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.787582"
+  },
+  {
+    "name": "Colt Transportes Aereos S.A.",
+    "IATA": null,
+    "ICAO": "XCA",
+    "website": "www.coltaviation.com.br",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.787598"
+  },
+  {
+    "name": "Empresa Brasileira de Aeronautica, S/A",
+    "IATA": null,
+    "ICAO": "EMB",
+    "website": "www.embraer.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.787616"
+  },
+  {
+    "name": "Empresa Brasileira de Infraestrutura",
+    "IATA": null,
+    "ICAO": "XLT",
+    "website": "www.infraero.gov.br",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.787635"
+  },
+  {
+    "name": "Flex Linhas A\u00e9reas S.A.",
+    "IATA": null,
+    "ICAO": "FFX",
+    "website": "www.voeflex.com.br",
+    "notes": "Designator JH recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.787653"
+  },
+  {
+    "name": "Flyways Linhas Aereas Ltda",
+    "IATA": null,
+    "ICAO": "FYW",
+    "website": "www.flyways.com.br",
+    "notes": "Founded on 11 June 2014. Suspended operations on 15 July 2016. Re-commenced operations on 31 October 2016.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.787671"
+  },
+  {
+    "name": "GENSA - General Services Aviation",
+    "IATA": null,
+    "ICAO": "GEN",
+    "website": "www.voegensa.com.br",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.787691"
+  },
+  {
+    "name": "GOL Linhas Aereas Inteligentes",
+    "IATA": "G3",
+    "ICAO": "GLO",
+    "website": "www.voegol.com.br",
+    "notes": "Merged into VRG Linhas Aereas S.A. w.e.f. 19 February 2009. IATA designator changed from G9*",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.787711"
+  },
+  {
+    "name": "TAM Linhas Aereas S.A. d/b/a LATAM Airlines Brasil",
+    "IATA": "JJ",
+    "ICAO": "TAM",
+    "website": "www.latamairlines.com",
+    "notes": "Name changed from TAM Linhas Aereas S.A. Name change from TAM - Transportes Aereos Meridionais S.A.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.787733"
+  },
+  {
+    "name": "ABSA - Aerolinhas Brasileiras S.A. d/b/a LATAM Cargo Brasil",
+    "IATA": "M3",
+    "ICAO": "LTG",
+    "website": "www.latamcargo.com",
+    "notes": "Name changed to ABSA - Aerolinhas Brasileiras S.A. d/b/a LATAM Cargo Brasil. ICAO callsign changed from Turismo. Purchased by LAN Chile",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.787754"
+  },
+  {
+    "name": "Levu Transporte A\u00e9reo e Logistica de Cargas Ltda",
+    "IATA": null,
+    "ICAO": "LVU",
+    "website": "levulogistics.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.787772"
+  },
+  {
+    "name": "Life Air Linhas Aereas S.A.",
+    "IATA": null,
+    "ICAO": "LFE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.787790"
+  },
+  {
+    "name": "LRC - Linhas Aereas Ltda",
+    "IATA": null,
+    "ICAO": "LRN",
+    "website": "www.lrc.com.br",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.787809"
+  },
+  {
+    "name": "Mais Linhas Aereas S.A.",
+    "IATA": null,
+    "ICAO": "MLI",
+    "website": "www.voemais.com.br",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.787827"
+  },
+  {
+    "name": "Map Linhas Aereas Ltda",
+    "IATA": "7M",
+    "ICAO": "PAM",
+    "website": "voemap.com.br",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.787846"
+  },
+  {
+    "name": "Modern Transporte Aereo De Carga S.A. d/b/a Modern Logistics",
+    "IATA": "WD",
+    "ICAO": "MWM",
+    "website": "www.modern.com.br",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.787863"
+  },
+  {
+    "name": "NELLA Linhas Ltda.",
+    "IATA": null,
+    "ICAO": "NEL",
+    "website": "nellaairlines.com",
+    "notes": "Planned to start operations during 2022. Name changed from NELLA Linhas A\u00e9reas Ltda.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.787881"
+  },
+  {
+    "name": "Omni Taxi Aereo S.A.",
+    "IATA": null,
+    "ICAO": "OMI",
+    "website": "www.omnibrasil.com.br",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.787898"
+  },
+  {
+    "name": "Placar Linhas A\u00e9reas S.A.",
+    "IATA": null,
+    "ICAO": "PLS",
+    "website": null,
+    "notes": "Founded on 05 October 2022.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.787916"
+  },
+  {
+    "name": "Regional Linhas Aereas S/A",
+    "IATA": null,
+    "ICAO": "RZB",
+    "website": null,
+    "notes": "Subsidary of Air Nostrum.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.787933"
+  },
+  {
+    "name": "Regional Linhas Aer\u00e9as Ltda",
+    "IATA": null,
+    "ICAO": "RGO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.787950"
+  },
+  {
+    "name": "Rio Air Express S/A",
+    "IATA": null,
+    "ICAO": "SKA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.787967"
+  },
+  {
+    "name": "Sideral Linhas Aereas Ltda",
+    "IATA": null,
+    "ICAO": "SID",
+    "website": "www.sideralaircargo.com.br",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.787983"
+  },
+  {
+    "name": "Sol Linhas Aereas Ltda",
+    "IATA": null,
+    "ICAO": "SBA",
+    "website": "www.voesol.com.br",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.787999"
+  },
+  {
+    "name": "Tam Aviacao Executiva",
+    "IATA": null,
+    "ICAO": "TVE",
+    "website": "www.tamaviacaoexecutiva.com.br",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.788017"
+  },
+  {
+    "name": "Total Linhas A\u00e9reas S/A",
+    "IATA": null,
+    "ICAO": "TTL",
+    "website": "www.total.com.br",
+    "notes": "Split from TRIP Linhas A\u00e9reas in May 2012.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.788033"
+  },
+  {
+    "name": "UNEX - Universal Express Linhas Aereas Ltda.",
+    "IATA": null,
+    "ICAO": "UNX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.788050"
+  },
+  {
+    "name": "Voar Aviation Taxi Aereo e Manutencao Ltda",
+    "IATA": null,
+    "ICAO": "VOA",
+    "website": "voar.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.788067"
+  },
+  {
+    "name": "Passaredo Transportes Aereos, S.A. t/a VOEPASS",
+    "IATA": "2Z",
+    "ICAO": "PTB",
+    "website": "www.voepass.com.br",
+    "notes": "IATA designator changed to 2Z",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:07.788083"
+  },
+  {
+    "name": "AeroStar Taxi Aereo",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.aerostar.com.br",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788101"
+  },
+  {
+    "name": "CIONS Software Ltda",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.cions.com.br",
+    "notes": "Designator B1 recalled by IATA. Computer Reservations Systems (CRS)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788121"
+  },
+  {
+    "name": "Cruiser",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.voecruiser.com.br",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788137"
+  },
+  {
+    "name": "Latin Air Cargi Airlines",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.latinair.com.br",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788153"
+  },
+  {
+    "name": "Roraima Airlines",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788169"
+  },
+  {
+    "name": "ABSA - Aerolinhas Brasileiras S.A.",
+    "IATA": "M3",
+    "ICAO": "TUS",
+    "website": "www.absacargo.com.br",
+    "notes": "ICAO callsign changed to ABSA Cargo. Purchased by LAN Chile",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788188"
+  },
+  {
+    "name": "ABSA - Aerolinhas Brasileiras S.A.",
+    "IATA": "M3",
+    "ICAO": "TUS",
+    "website": "www.absacargo.com.br",
+    "notes": "Name changed to ABSA - Aerolinhas Brasileiras S.A. d/b/a LATAM Cargo Brasil. ICAO callsign changed from Turismo. Purchased by LAN Chile",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788206"
+  },
+  {
+    "name": "Air Brasil Linhas Aereas Ltda",
+    "IATA": null,
+    "ICAO": "BSL",
+    "website": null,
+    "notes": "Founded in Janaury 2005. Ceased operations in March 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788223"
+  },
+  {
+    "name": "Air Minas Linhas Aereas Ltda",
+    "IATA": "6M",
+    "ICAO": "AMG",
+    "website": "www.airminas.com.br",
+    "notes": "Founded in 2002. Ceased operations on 30 May 2010. Operating licence revoked on 20 September 2011.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788242"
+  },
+  {
+    "name": "Airvias S/A Linhas Aereas",
+    "IATA": null,
+    "ICAO": "AIV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788258"
+  },
+  {
+    "name": "Ala Abaete Linhas Aereas S/A",
+    "IATA": null,
+    "ICAO": "ABJ",
+    "website": "www.abaete.com.br",
+    "notes": "Name changed to ATA - Aerotaxi Abaete Ltda",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788277"
+  },
+  {
+    "name": "America do Sul Linhas Aereas Ltda",
+    "IATA": null,
+    "ICAO": "SUL",
+    "website": null,
+    "notes": "Name chnaged to Asta Linhas Aereas Ltda.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788295"
+  },
+  {
+    "name": "Asta Linhas Aereas Ltda",
+    "IATA": null,
+    "ICAO": "SUL",
+    "website": "www.voeeasta.com.br",
+    "notes": "Suspended operations on 08 April 2021. Name changed from America do Sul Linhas Aereas Ltda.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788314"
+  },
+  {
+    "name": "ATA - Atlantico Transporte Aereo Ltda",
+    "IATA": null,
+    "ICAO": "ABZ",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788332"
+  },
+  {
+    "name": "Atlantico Linhas Aereas Ltda",
+    "IATA": null,
+    "ICAO": "TLN",
+    "website": null,
+    "notes": "Founded in 1994. Operated between 1995 and 1996",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788349"
+  },
+  {
+    "name": "Oceanair Linhas Aereas Ltda t/a Avianca Brazil",
+    "IATA": "O6",
+    "ICAO": "ONE",
+    "website": "www.avianca.com.br",
+    "notes": "Ceased operations on 24 May 2019. Name changed from Oceanair Linhas Aereas Ltda w.e.f. 26 March 2010.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788369"
+  },
+  {
+    "name": "Bay Air Cargo S/A",
+    "IATA": null,
+    "ICAO": "BAO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788387"
+  },
+  {
+    "name": "BETA - Brazilian Express Transportes Ltda",
+    "IATA": null,
+    "ICAO": "BET",
+    "website": null,
+    "notes": "Founded in 1990. Ceased operations in 2012. Prefix Code 376 reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788405"
+  },
+  {
+    "name": "BRA Transportes Aeroes Ltda",
+    "IATA": "7R",
+    "ICAO": "BRB",
+    "website": "www.voebra.com.br",
+    "notes": "Founded in 1999. Ceased operations on 07 November 2007. Designator 7R recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788426"
+  },
+  {
+    "name": "Brasil - Central Linhas Aereas Regional, S.A.",
+    "IATA": null,
+    "ICAO": "BLC",
+    "website": null,
+    "notes": "Name changed to TAM - Transportes Aereos Meridionais S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788445"
+  },
+  {
+    "name": "Brasil Minas Express Ltda, - Brasmex",
+    "IATA": null,
+    "ICAO": "BCA",
+    "website": "www.brasmex.com",
+    "notes": "Founded in 2001. Ceased operations in February 2004.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788465"
+  },
+  {
+    "name": "Brava Linhas Aereas",
+    "IATA": "N7",
+    "ICAO": "NHG",
+    "website": "www.voebrava.com.br",
+    "notes": "Name changed from NHT Lineas Aereas",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788483"
+  },
+  {
+    "name": "Bringer Air Cargo Taxi Aereo Ltda",
+    "IATA": null,
+    "ICAO": "BRC",
+    "website": "www.bringeraircargo.com.br",
+    "notes": "ICAO designator changed to BCT.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788500"
+  },
+  {
+    "name": "CIONS Software Ltda",
+    "IATA": "B1",
+    "ICAO": null,
+    "website": "www.cions.com.br",
+    "notes": "Designator B1 recalled by IATA. Computer Reservations Systems (CRS)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788519"
+  },
+  {
+    "name": "Connect Linhas Aereas S.A.",
+    "IATA": null,
+    "ICAO": "CNT",
+    "website": "www.connect-cargo.com",
+    "notes": "AOC voluntarily revoked on 16 March 2020.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788536"
+  },
+  {
+    "name": "Cruiser Linhas A\u00e9reas Ltda",
+    "IATA": null,
+    "ICAO": "VCR",
+    "website": "www.voecruiser.com.br",
+    "notes": "Commenced operations on 2001. Ceased operations during 2010.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788553"
+  },
+  {
+    "name": "Fly S.A. Linhas Aereas",
+    "IATA": "4H",
+    "ICAO": "FLB",
+    "website": "www.voefly.com.br",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788570"
+  },
+  {
+    "name": "GOL Transportes Aeros Ltda.",
+    "IATA": null,
+    "ICAO": "GLO",
+    "website": "www.voegol.com.br",
+    "notes": "IATA designator changed to G3",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788587"
+  },
+  {
+    "name": "Helisul Linhas Aereas S.A.",
+    "IATA": null,
+    "ICAO": "SUL",
+    "website": null,
+    "notes": "IATA designator changed to H9",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788604"
+  },
+  {
+    "name": "Helisul Linhas Aereas S.A.",
+    "IATA": "H9",
+    "ICAO": "SUL",
+    "website": null,
+    "notes": "IATA designator changed from PE*. Name changed to TAM Express S/A",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788621"
+  },
+  {
+    "name": "Interbrasil Star, S.A.",
+    "IATA": "Q9",
+    "ICAO": "ITB",
+    "website": null,
+    "notes": "Designator Q9 recalled by IATA. Designator Q9 reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788639"
+  },
+  {
+    "name": "Itapemirim Transportes A\u00e9reos Ltda d/b/a ITA",
+    "IATA": "8I",
+    "ICAO": "IPM",
+    "website": "voeita.com.br",
+    "notes": "Founded on 23 September 2020. Commenced operations on 29/06/2021. Ceased operations on 17 December 2021. AOC revoked on 05 May 2022.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788657"
+  },
+  {
+    "name": "Itapemirim Transportes Aereos S.A.",
+    "IATA": null,
+    "ICAO": "ITM",
+    "website": null,
+    "notes": "IATA designator changed to 5W*. Branded as Itapemirim Cargo.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788675"
+  },
+  {
+    "name": "Itapemirim Transportes Aereos S.A.",
+    "IATA": null,
+    "ICAO": "ITM",
+    "website": "www.itapemirim.com.br",
+    "notes": "Designator 5W* recalled by IATA / Designator 5W* reinstated by IATA. Designator changed from K9*. Branded as Itapemirim Cargo.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788694"
+  },
+  {
+    "name": "Itapemirim, Transportes Aereos Regionais, S.A.",
+    "IATA": null,
+    "ICAO": "ITI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788711"
+  },
+  {
+    "name": "Master Top Linhas Aereas Ltda",
+    "IATA": null,
+    "ICAO": "MST",
+    "website": "www.mt-airlines.com.br",
+    "notes": "Designator Q4* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788730"
+  },
+  {
+    "name": "Master Top Linhas Aereas Ltda",
+    "IATA": "BM",
+    "ICAO": "MST",
+    "website": "www.mt-airlines.com.br",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788747"
+  },
+  {
+    "name": "Meta - Mesquita Transportes Aereos Ltda",
+    "IATA": null,
+    "ICAO": "MSQ",
+    "website": null,
+    "notes": "Founded\tin 1991. Ceased operations during 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788766"
+  },
+  {
+    "name": "Nacional Transportes Aereos Ltda. - NATA",
+    "IATA": null,
+    "ICAO": "NCT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788782"
+  },
+  {
+    "name": "NELLA Linhas A\u00e9reas Ltda.",
+    "IATA": null,
+    "ICAO": "NEL",
+    "website": "nellaairlines.com",
+    "notes": "Planned to start operations during 2022. Name changed to NELLA Linhas Ltda.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788801"
+  },
+  {
+    "name": "NHT Lineas Aereas",
+    "IATA": "N7",
+    "ICAO": "NHG",
+    "website": "www.voenht.com.br",
+    "notes": "Name changed to Brava Linhas Aereas",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788818"
+  },
+  {
+    "name": "Noar Linhas Aereas",
+    "IATA": null,
+    "ICAO": "NRA",
+    "website": "www.voenoar.com.br",
+    "notes": "Founded in 2009. Commenced operations in 2010. Ceased operations 20 September 2011.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788836"
+  },
+  {
+    "name": "Nordeste-Linhas Aereas Regionais, S.A.",
+    "IATA": "JH",
+    "ICAO": "NES",
+    "website": "www.voenordeste.com.br",
+    "notes": "Ceased operations. Designator JH reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788855"
+  },
+  {
+    "name": "Oceanair Linhas Aereas Ltda",
+    "IATA": null,
+    "ICAO": "ONE",
+    "website": "www.oceanair.com.br",
+    "notes": "Name changed to Oceanair Linhas Aereas Ltda t/a Avianca Brazil w.e.f. 26 March 2010.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788873"
+  },
+  {
+    "name": "Pantanal Linhas Aereas Sul-Matogrossenses, S.A.",
+    "IATA": null,
+    "ICAO": "PTN",
+    "website": "www.pantanal-airlines.com.br",
+    "notes": "Designator P8 recalled by IATA. Designator P8 reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788890"
+  },
+  {
+    "name": "Pantanal Linhas Aereas Sul-Matogrossenses, S.A.",
+    "IATA": "GP",
+    "ICAO": "PTN",
+    "website": "www.pantanal-airlines.com.br",
+    "notes": "Founded in 1990. Commenced operations in 1993. Merged with TAM on 26 March 2013.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788909"
+  },
+  {
+    "name": "Passaredo Transportes Aereos, S.A.",
+    "IATA": null,
+    "ICAO": "PTB",
+    "website": "www.voepassaredo.com.br",
+    "notes": "IATA designator changed to 2Z",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788926"
+  },
+  {
+    "name": "Passaredo Transportes Aereos, S.A.",
+    "IATA": "Y8",
+    "ICAO": "PTB",
+    "website": "www.passaredo.com.br",
+    "notes": "Ceased operations on 18 April 2002.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788943"
+  },
+  {
+    "name": "Pena Transportes Aereos, S.A.",
+    "IATA": "5P",
+    "ICAO": "PEP",
+    "website": null,
+    "notes": "Founded and Commenced operations in 1995. Name changed to PENTA - Pena Transportes Aereos S.A. IATA designator reinstated",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788961"
+  },
+  {
+    "name": "PENTA - Pena Transportes Aereos, S.A.",
+    "IATA": "5P",
+    "ICAO": "PEP",
+    "website": null,
+    "notes": "Founded and Commenced operations in 1995. Ceased operations during 2005. Name changed from Pena Transportes Aereos S.A. IATA designator reinstated",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788979"
+  },
+  {
+    "name": "Phoenix Air Lines Ltd.",
+    "IATA": null,
+    "ICAO": "PHN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.788996"
+  },
+  {
+    "name": "Platinum Air Linhas Aereas Ltda",
+    "IATA": null,
+    "ICAO": "PLJ",
+    "website": "www.platinumair.com.br",
+    "notes": "Founded in 2007. Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789014"
+  },
+  {
+    "name": "Promodal Transportes Aereos Ltda",
+    "IATA": null,
+    "ICAO": "GPT",
+    "website": null,
+    "notes": "Established in 2003. Operations ceased in 2004.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789031"
+  },
+  {
+    "name": "Puma Linhas Aereas Ltda",
+    "IATA": "Z4",
+    "ICAO": "PLY",
+    "website": "www.pumaair.com.br",
+    "notes": "Founded in 2002. Ceased operations on 16 August 2011. Name changed from Puma Air Linhas Aereas",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789050"
+  },
+  {
+    "name": "Puma Air Linhas Aereas",
+    "IATA": null,
+    "ICAO": "PLY",
+    "website": null,
+    "notes": "Name changed to Puma Linhas Aereas Ltda",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789068"
+  },
+  {
+    "name": "Regional Linhas Aereas S/A",
+    "IATA": null,
+    "ICAO": "RSB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789086"
+  },
+  {
+    "name": "Rico Linhas Aereas - RLA",
+    "IATA": null,
+    "ICAO": "RLE",
+    "website": "www.voerico.com.br",
+    "notes": "Ceased operation during 2010.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789106"
+  },
+  {
+    "name": "RIMA Rio Madeira Aerot\u00e1xi Ltda",
+    "IATA": "R8",
+    "ICAO": null,
+    "website": "site.voerima.com",
+    "notes": "Designator R8 recalled by IATA. IATA Designator changed from RM*.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789124"
+  },
+  {
+    "name": "RIMA Rio Madeira Aerot\u00e1xi Ltda",
+    "IATA": null,
+    "ICAO": null,
+    "website": "site.voerima.com",
+    "notes": "IATA Designator chanegd to R8.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789142"
+  },
+  {
+    "name": "RIO Linhas Aereas Ltda.",
+    "IATA": null,
+    "ICAO": "RIO",
+    "website": "www.voerio.com",
+    "notes": "Ceased operations during 2017.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789159"
+  },
+  {
+    "name": "Rio Sul Linhas Aereos, S.A.",
+    "IATA": "SL",
+    "ICAO": "RSL",
+    "website": "www.voeriosul.com.br",
+    "notes": "Merged with Nordeste and then into Varig. Name changed from Rio-Sul Servicos Aereos Regionais, S.A. Designator SL reinstated  by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789178"
+  },
+  {
+    "name": "Rio-Sul Servicos Aereos Regionais, S.A.",
+    "IATA": "SL",
+    "ICAO": "RSL",
+    "website": null,
+    "notes": "Name changed to Rio Sul Linhas Aereas S.A. Designator SL reinstated  by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789195"
+  },
+  {
+    "name": "Sadia Transportes Aereos S.A.",
+    "IATA": "QD",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789212"
+  },
+  {
+    "name": "Servicos Aereos Cruzeiro Do Sul, S.A.",
+    "IATA": "SC",
+    "ICAO": "CRZ",
+    "website": null,
+    "notes": "Founded\tin 1927 as Syndicato Condor. Commenced operations in 1928. Ceased operations during 1993.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789231"
+  },
+  {
+    "name": "Servicos Aereos Do Vale Amazonico S/A",
+    "IATA": null,
+    "ICAO": "TNS",
+    "website": null,
+    "notes": "Founded in 1951. Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789248"
+  },
+  {
+    "name": "Servicos Auxiliares de Transportes Aereos (SATA)",
+    "IATA": "XT",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789266"
+  },
+  {
+    "name": "Servicos Auxiliaries de Transportes Aereos (SATA)",
+    "IATA": null,
+    "ICAO": "STS",
+    "website": "www.sata.com.br",
+    "notes": "Founded in 1954. Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789285"
+  },
+  {
+    "name": "Skyjet Brasil",
+    "IATA": null,
+    "ICAO": "SKA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789303"
+  },
+  {
+    "name": "Skymaster Air Lines Ltda",
+    "IATA": null,
+    "ICAO": "SKC",
+    "website": "www.skymaster.com.br",
+    "notes": "Established on 30 November 1995 and started operations in 1997. Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789320"
+  },
+  {
+    "name": "Sociedade Brasileira de Turismo (ROTASTUR)",
+    "IATA": null,
+    "ICAO": "RTR",
+    "website": null,
+    "notes": "ICAO callsign changed from Delta Romeo",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789337"
+  },
+  {
+    "name": "Sociedade Brasileira de Turismo (ROTASTUR)",
+    "IATA": "DR",
+    "ICAO": "RTR",
+    "website": null,
+    "notes": "ICAO callsign changed to Rotatur",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789354"
+  },
+  {
+    "name": "Solitaire Lil - Tayran",
+    "IATA": null,
+    "ICAO": "STR",
+    "website": null,
+    "notes": "Name changed to Sterna Linhas Aereas Ltda",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789371"
+  },
+  {
+    "name": "Sterna Linhas Aereas Ltda",
+    "IATA": null,
+    "ICAO": "STR",
+    "website": "www.sternacargo.com.br",
+    "notes": "Ceased operations in 2017. Name changed from Solitaire Lil - Tayran.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789389"
+  },
+  {
+    "name": "TABA, Transportes Aereos Da Bacia Amazonica, S.A.",
+    "IATA": null,
+    "ICAO": "TAB",
+    "website": null,
+    "notes": "Founded\tin 1976. Ceased operations during 1999.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789405"
+  },
+  {
+    "name": "TAF Linhas Aereas S.A.",
+    "IATA": "R9",
+    "ICAO": "TSD",
+    "website": "www.voetaf.com.br",
+    "notes": "Operations suspeneded on 15 June 2010. AOC revoked by authorities on 07 February 2013. Name changed from T\u00e1xi A\u00e9reo Fortaleza w.e.f. 17 March 1996.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789423"
+  },
+  {
+    "name": "TAM - Linhas Aerea, S.A.",
+    "IATA": "KK",
+    "ICAO": "TAM",
+    "website": null,
+    "notes": "Merged into TAM Linhas Aereas (JJ*/BLC). Name changed from Transportes Aereos Regionais S.A. (TAM)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789439"
+  },
+  {
+    "name": "TAM - Transportes Aereos Meridionais, S.A.",
+    "IATA": null,
+    "ICAO": "BLC",
+    "website": null,
+    "notes": "Name changed from Brasil - Central Linhas Aereas Regional, S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789456"
+  },
+  {
+    "name": "ABSA - Aerolinhas Brasileiras S.A. d/b/a TAM Cargo",
+    "IATA": "M3",
+    "ICAO": "LTG",
+    "website": "www.absacargo.com.br",
+    "notes": "Name changed to ABSA Aerolinhas Brasileir S/A d/b/a LATAM Cargo S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789473"
+  },
+  {
+    "name": "TAM Express S/A",
+    "IATA": "H9",
+    "ICAO": "SUL",
+    "website": "www.tamcwb.com.br",
+    "notes": "Name changed from Helisul Linhas Aereas S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789490"
+  },
+  {
+    "name": "TAM Linhas Aereas S.A.",
+    "IATA": null,
+    "ICAO": "TAM",
+    "website": "www.tam.com.br",
+    "notes": "Name changed to TAM Linhas Aereas S.A. d/b/a LATAM Airlines Brasil. Name change from TAM - Transportes Aereos Meridionais S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789507"
+  },
+  {
+    "name": "TAP - Transportes Aereos Presidente S/A",
+    "IATA": null,
+    "ICAO": "TPE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789522"
+  },
+  {
+    "name": "Telecomunicacoes Aeronauticas S/A - TASA",
+    "IATA": null,
+    "ICAO": "XLT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789538"
+  },
+  {
+    "name": "Tavaj Transportes Aereos Regulares S/A  d/b/a TAVAJ Linhas Aereas",
+    "IATA": "4U",
+    "ICAO": "TVJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789554"
+  },
+  {
+    "name": "TCB - Transportes Charter Do Brasil Ltda.",
+    "IATA": null,
+    "ICAO": "TCJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789571"
+  },
+  {
+    "name": "TEAM Linhas A\u00e9reas Ltda. (Transportes Especiais A\u00e9reos e Malotes)",
+    "IATA": null,
+    "ICAO": "TIM",
+    "website": "www.voeteam.com.br",
+    "notes": "Founded \tin 2001. Ceased operationon 16 April 2012 (AOC Suspened).",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789588"
+  },
+  {
+    "name": "Total Linhas A\u00e9reas S/A",
+    "IATA": null,
+    "ICAO": "TTL",
+    "website": "www.total.com.br",
+    "notes": "Merged into TRIP Linhas A\u00e9reas in May 2008.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789605"
+  },
+  {
+    "name": "Transair International Linhas Aereas Ltda.",
+    "IATA": null,
+    "ICAO": "TNI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789621"
+  },
+  {
+    "name": "Transbrasil S.A. Linhas Aereas",
+    "IATA": "TR",
+    "ICAO": "TBA",
+    "website": null,
+    "notes": "Suspended Operations on 03 December 2001. ICAO callsign changed to Transbrasil",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789638"
+  },
+  {
+    "name": "Transbrasil S.A. Linhas Aereas",
+    "IATA": "TR",
+    "ICAO": "TBA",
+    "website": null,
+    "notes": "Suspended Operations on 03 December 2001. ICAO callsign changed from Tango Romeo",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789654"
+  },
+  {
+    "name": "Transportes A\u00e9reas Salvador",
+    "IATA": "QD",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789671"
+  },
+  {
+    "name": "Transportes Aereos Belem Amazonia, S.A.",
+    "IATA": null,
+    "ICAO": "BEL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789686"
+  },
+  {
+    "name": "Transportes Aereos Regionais S.A. (TAM)",
+    "IATA": "KK",
+    "ICAO": "TAM",
+    "website": null,
+    "notes": "Name changed to TAM - Linhas Aerea S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789703"
+  },
+  {
+    "name": "TRIP Linhas A\u00e9reas",
+    "IATA": null,
+    "ICAO": "TIB",
+    "website": "www.voetrip.com.br",
+    "notes": "IATA designator changed to T4",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789720"
+  },
+  {
+    "name": "TRIP Linhas A\u00e9reas",
+    "IATA": "T4",
+    "ICAO": "TIB",
+    "website": "www.voetrip.com.br",
+    "notes": "Founded in 1998. Merged in Azul Brazilian Airlines on 06 May 2014. IATA designator changed from T4*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789738"
+  },
+  {
+    "name": "TRIP Transporte Aereo Regional do Interior Paulista Ltda.",
+    "IATA": "8R",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789754"
+  },
+  {
+    "name": "TWO Taxi Aereo Ltda",
+    "IATA": null,
+    "ICAO": "OWT",
+    "website": "www.twoaviation.com.br",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789770"
+  },
+  {
+    "name": "TWO Taxi Aereo Ltda",
+    "IATA": null,
+    "ICAO": "OWT",
+    "website": "www.twoaviation.com.br",
+    "notes": "Name changed to twoFlex Taxi Aereo Ltda",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789787"
+  },
+  {
+    "name": "twoFlex Taxi Aereo Ltda",
+    "IATA": null,
+    "ICAO": "OWT",
+    "website": "www.twoaviation.com.br",
+    "notes": "Name changed from TWO Taxi Aereo Ltda.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789804"
+  },
+  {
+    "name": "twoFlex Taxi Aereo Ltda",
+    "IATA": null,
+    "ICAO": "OWT",
+    "website": "www.twoaviation.com.br",
+    "notes": "Name changed to Azul Conecta Ltda on 11 August 2020. ICAO designator changed to ACN. ICAO Callsign changed to Azul Conecta. Name changed from TWO Taxi Aereo Ltda.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789822"
+  },
+  {
+    "name": "VRG Linhas Aereas S/A d/b/a VARIG",
+    "IATA": null,
+    "ICAO": "VRN",
+    "website": "www.varig.com.br",
+    "notes": "Merged into GOL",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789838"
+  },
+  {
+    "name": "Varig S.A. (Viacao Aerea Rio-Grandense)",
+    "IATA": "RG",
+    "ICAO": "VRG",
+    "website": "www.varig.com.br",
+    "notes": "Ceased operations on 20 July 2006.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789855"
+  },
+  {
+    "name": "Varig Logistica, S/A",
+    "IATA": null,
+    "ICAO": "VLO",
+    "website": "www.varig.com.br",
+    "notes": "IATA designator changed to LC",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789871"
+  },
+  {
+    "name": "Varig Logistica, S/A",
+    "IATA": "LC",
+    "ICAO": "VLO",
+    "website": "www.varig.com.br",
+    "notes": "Ceased operations 01 February 2012. Declared bankrupt 27 September 2012. IATA designator changed from 4V*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789889"
+  },
+  {
+    "name": "Viacao Aerea Sao Paulo, S.A. (VASP)",
+    "IATA": "VP",
+    "ICAO": "VSP",
+    "website": "www.vasp.com.br",
+    "notes": "Ceased operations on 01 July 2005.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789905"
+  },
+  {
+    "name": "Vica - Viacao Charter Aerea Ltda.",
+    "IATA": null,
+    "ICAO": "VCA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789920"
+  },
+  {
+    "name": "Webjet Linhas A\u00e9reas",
+    "IATA": null,
+    "ICAO": "WEB",
+    "website": "www.webjet.com.br",
+    "notes": "Founded in 2005. Ceased operations on 23 November 2012. Designator WH* reinstated by IATA. IATA designator changed from WJ*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789938"
+  },
+  {
+    "name": "Webjet Linhas A\u00e9reas",
+    "IATA": null,
+    "ICAO": "WEB",
+    "website": "www.webjet.com.br",
+    "notes": "IATA designator changed to WH*.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789955"
+  },
+  {
+    "name": "Whitejets Transportes Aereos Ltda.",
+    "IATA": "W7",
+    "ICAO": "WTJ",
+    "website": null,
+    "notes": "Founded in 2010. Commenced operations on 12 June 2010. Ceased operations during 2014. Parent company - Omni Aviation/White Airways. Was due to change name to POP Linhas A\u00e9reas but project was abandoned.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:07.789974"
+  }
+]

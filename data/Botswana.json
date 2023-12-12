@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Air Botswana Corporation",
+    "IATA": "BP",
+    "ICAO": "BOT",
+    "website": "www.airbotswana.co.bw",
+    "notes": "Name changed from Air Botswana (PTY) Ltd.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:04.978919"
+  },
+  {
+    "name": "Bluesky Airways",
+    "IATA": null,
+    "ICAO": "BKY",
+    "website": "www.blueskyairways.co.bw",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:04.978947"
+  },
+  {
+    "name": "Mack Air",
+    "IATA": null,
+    "ICAO": "MKB",
+    "website": "www.mackair.co.bw",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:04.978965"
+  },
+  {
+    "name": "Desert Airways Botswana (PTY) Ltd.",
+    "IATA": "RZ",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:04.978981"
+  }
+]

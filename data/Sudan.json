@@ -1,0 +1,605 @@
+[
+  {
+    "name": "Ababeel Aviation Co. Ltd.",
+    "IATA": null,
+    "ICAO": "BBE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.283729"
+  },
+  {
+    "name": "Air Express",
+    "IATA": null,
+    "ICAO": "AXD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.283759"
+  },
+  {
+    "name": "Air Taxi & Cargo",
+    "IATA": null,
+    "ICAO": "WAM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.283776"
+  },
+  {
+    "name": "AirWest",
+    "IATA": null,
+    "ICAO": "AWZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.283793"
+  },
+  {
+    "name": "Alfa Airlines SD Co. Ltd.",
+    "IATA": null,
+    "ICAO": "AAJ",
+    "website": "alfaairlines.sd",
+    "notes": "Designator 5E recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.283811"
+  },
+  {
+    "name": "Almajara Aviation",
+    "IATA": null,
+    "ICAO": "MJA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.283828"
+  },
+  {
+    "name": "Alok Air Co.",
+    "IATA": null,
+    "ICAO": "LOK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.283843"
+  },
+  {
+    "name": "Avia Trans Air Transport Co. Ltd.",
+    "IATA": null,
+    "ICAO": "VTT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.283859"
+  },
+  {
+    "name": "Azza Transport Co. Ltd.",
+    "IATA": null,
+    "ICAO": "AZZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.283875"
+  },
+  {
+    "name": "Badr Airlines",
+    "IATA": "J4",
+    "ICAO": "BDR",
+    "website": "www.badrairlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.283891"
+  },
+  {
+    "name": "Bentiu Air Transport",
+    "IATA": null,
+    "ICAO": "BNT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.283906"
+  },
+  {
+    "name": "Blue Bird Aviation Co. Ltd.",
+    "IATA": null,
+    "ICAO": "BLB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.283923"
+  },
+  {
+    "name": "Coptrade Air Transport",
+    "IATA": null,
+    "ICAO": "CCW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.283939"
+  },
+  {
+    "name": "DATA International Aviation",
+    "IATA": null,
+    "ICAO": "DTN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.283954"
+  },
+  {
+    "name": "Dove Air Services Co Ltd",
+    "IATA": null,
+    "ICAO": "DOV",
+    "website": "doveair-sd.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.283970"
+  },
+  {
+    "name": "E-Freight International Ltd",
+    "IATA": null,
+    "ICAO": "EFE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.283985"
+  },
+  {
+    "name": "El Quilada International Aviation Co. Ltd.",
+    "IATA": null,
+    "ICAO": "GLQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284001"
+  },
+  {
+    "name": "Eldinder Airlines",
+    "IATA": null,
+    "ICAO": "DND",
+    "website": "www.dinderaviation.com",
+    "notes": "Name changed from Eldinder Aviation.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284017"
+  },
+  {
+    "name": "Elisra Airlines",
+    "IATA": null,
+    "ICAO": "RSA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284032"
+  },
+  {
+    "name": "Farnas Aviation Services",
+    "IATA": null,
+    "ICAO": "RAF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284047"
+  },
+  {
+    "name": "Federal Airlines",
+    "IATA": null,
+    "ICAO": "FLL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284063"
+  },
+  {
+    "name": "Feeder Airlines",
+    "IATA": null,
+    "ICAO": "FDD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284078"
+  },
+  {
+    "name": "Forty Eight Aviation Co. Ltd",
+    "IATA": null,
+    "ICAO": "WHB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284093"
+  },
+  {
+    "name": "Golden Star Air Cargo Co. Ltd.",
+    "IATA": null,
+    "ICAO": "GLD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284108"
+  },
+  {
+    "name": "Green Flag Aviation Co. Ltd.",
+    "IATA": null,
+    "ICAO": "GNF",
+    "website": "www.greenflag-sdn.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284123"
+  },
+  {
+    "name": "Hadison Aviation",
+    "IATA": null,
+    "ICAO": "FMS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284139"
+  },
+  {
+    "name": "Hala Air Co.",
+    "IATA": null,
+    "ICAO": "HLH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284153"
+  },
+  {
+    "name": "Ibk-Petra",
+    "IATA": null,
+    "ICAO": "AKI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284168"
+  },
+  {
+    "name": "Interfreight Forwarding Ltd.",
+    "IATA": null,
+    "ICAO": "IFF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284184"
+  },
+  {
+    "name": "Joint Military Commission (JMC) Nuba Mountains",
+    "IATA": null,
+    "ICAO": "JMM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284200"
+  },
+  {
+    "name": "Juba Cargo Services & Aviation Co. Ltd.",
+    "IATA": null,
+    "ICAO": "JUC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284215"
+  },
+  {
+    "name": "Kata Transportation Co. Ltd.",
+    "IATA": null,
+    "ICAO": "KTV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284230"
+  },
+  {
+    "name": "Kush Aviation Co. Ltd.",
+    "IATA": null,
+    "ICAO": "KUH",
+    "website": "www.kushair.net",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284246"
+  },
+  {
+    "name": "Lamra Ltd.",
+    "IATA": null,
+    "ICAO": "LMR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284261"
+  },
+  {
+    "name": "Mid Airlines",
+    "IATA": null,
+    "ICAO": "NYL",
+    "website": "www.midairlines.com",
+    "notes": "Designator 7Y* recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284277"
+  },
+  {
+    "name": "Nile Safaris Aviation",
+    "IATA": null,
+    "ICAO": "NSA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284292"
+  },
+  {
+    "name": "Nile Wings Aviation Services",
+    "IATA": null,
+    "ICAO": "NLW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284307"
+  },
+  {
+    "name": "Orient Airlines",
+    "IATA": null,
+    "ICAO": "OTR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284322"
+  },
+  {
+    "name": "Salpa Aviation Co. Ltd. (Sudan)",
+    "IATA": null,
+    "ICAO": "SLP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284336"
+  },
+  {
+    "name": "Sarit Air Lines",
+    "IATA": null,
+    "ICAO": "SRW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284352"
+  },
+  {
+    "name": "SFT-Sudanese Flight",
+    "IATA": null,
+    "ICAO": "STF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284366"
+  },
+  {
+    "name": "Sky Line For Air Services Ltd.",
+    "IATA": null,
+    "ICAO": "SLY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284382"
+  },
+  {
+    "name": "Spirt of Africa Airlines",
+    "IATA": null,
+    "ICAO": "SDN",
+    "website": null,
+    "notes": "ICAO Callsign changed from Falair",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284397"
+  },
+  {
+    "name": "Sudan Airways Co. Ltd.",
+    "IATA": "SD",
+    "ICAO": "SUD",
+    "website": "www.sudanair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284412"
+  },
+  {
+    "name": "Sudan Pezetel For Aviation",
+    "IATA": null,
+    "ICAO": "SDZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284427"
+  },
+  {
+    "name": "Sudanese Aeronautical Services Co. Ltd (Sasco Airlines)",
+    "IATA": null,
+    "ICAO": "SAC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284443"
+  },
+  {
+    "name": "Sudanese States Aviation Co. Ltd.",
+    "IATA": null,
+    "ICAO": "SNV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284458"
+  },
+  {
+    "name": "Sun Air Co.",
+    "IATA": "SO",
+    "ICAO": "SNR",
+    "website": "www.sunairgroup.com",
+    "notes": "Designator S6 recalled by IATA.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284474"
+  },
+  {
+    "name": "Tajouj Aviation",
+    "IATA": null,
+    "ICAO": "TUJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284489"
+  },
+  {
+    "name": "Tarco Aviation Company Limited",
+    "IATA": "3T",
+    "ICAO": "TQQ",
+    "website": "www.tarcoaviation.com",
+    "notes": "Established in 2009. Name changed from Tarco Air. ICAO desigantor changed from TRQ. ICAO callsign changed from Airtarco.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284506"
+  },
+  {
+    "name": "Tramson Limited",
+    "IATA": null,
+    "ICAO": "TRR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284521"
+  },
+  {
+    "name": "Trans Arabian Air Transport",
+    "IATA": null,
+    "ICAO": "TRT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284536"
+  },
+  {
+    "name": "Trans Continental Airlines",
+    "IATA": null,
+    "ICAO": "TCC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284551"
+  },
+  {
+    "name": "United Arabian Airlines",
+    "IATA": null,
+    "ICAO": "UAB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284566"
+  },
+  {
+    "name": "Vega Aviation & Eng. Systems Co. Ltd.",
+    "IATA": null,
+    "ICAO": "VIG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284581"
+  },
+  {
+    "name": "Wings Air Transport Co.",
+    "IATA": null,
+    "ICAO": "WAT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:01.284596"
+  },
+  {
+    "name": "Aghalieaku Airways",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.aghalieakuairways.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:01.284612"
+  },
+  {
+    "name": "African Transport Trading And Investment Co. (ATTICO)",
+    "IATA": null,
+    "ICAO": "ETC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:01.284628"
+  },
+  {
+    "name": "Alfa Airlines SD Co. Ltd.",
+    "IATA": "5E",
+    "ICAO": "AAJ",
+    "website": "alfaairlines.sd",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:01.284644"
+  },
+  {
+    "name": "Eldinder Aviation",
+    "IATA": null,
+    "ICAO": "DND",
+    "website": "www.dinderaviation.com",
+    "notes": "Name changed to Eldinder Airlines.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:01.284660"
+  },
+  {
+    "name": "Marsland Aviation",
+    "IATA": null,
+    "ICAO": "MSL",
+    "website": "www.marsland-avi.com",
+    "notes": "Ceased operations during 2013.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:01.284676"
+  },
+  {
+    "name": "Mid Airlines",
+    "IATA": null,
+    "ICAO": "NYL",
+    "website": "www.midairlines.com",
+    "notes": "Designator 7Y* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:01.284692"
+  },
+  {
+    "name": "Nova Airlines",
+    "IATA": "O9",
+    "ICAO": "NOV",
+    "website": "www.novaairways.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:01.284707"
+  },
+  {
+    "name": "Spirt of Africa Airlines",
+    "IATA": null,
+    "ICAO": "SDN",
+    "website": null,
+    "notes": "ICAO Callsign changed to Blue Nile",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:01.284723"
+  },
+  {
+    "name": "Sun Air Co.",
+    "IATA": "S6",
+    "ICAO": "SNR",
+    "website": "www.sunairgroup.com",
+    "notes": "Designator S6 recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:01.284739"
+  },
+  {
+    "name": "Tarco Air",
+    "IATA": "3T",
+    "ICAO": "TRQ",
+    "website": "tarcoair.reservaweb.com.br/empresa/site/default.asp",
+    "notes": "Established in 2009. Name changed to Tarco Aviation. ICAO designator changed to TQQ. ICAO callsign changed to Aviation Tarco.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:01.284757"
+  },
+  {
+    "name": "United Arabian Co. Ltd.",
+    "IATA": null,
+    "ICAO": "SMJ",
+    "website": null,
+    "notes": "Prefix Code 674 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:01.284773"
+  }
+]

@@ -1,0 +1,371 @@
+[
+  {
+    "name": "AAC - Angola Air Charter Ltd.",
+    "IATA": null,
+    "ICAO": "AGO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:34.227454"
+  },
+  {
+    "name": "ACA-Ancargo Air Sociedade de Transporte de Carga Lda",
+    "IATA": null,
+    "ICAO": "NCL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:34.227482"
+  },
+  {
+    "name": "Aero Jet",
+    "IATA": null,
+    "ICAO": "TEJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:34.227499"
+  },
+  {
+    "name": "Aero Tropical, Lda",
+    "IATA": null,
+    "ICAO": "TPB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:34.227515"
+  },
+  {
+    "name": "AF-Air International",
+    "IATA": null,
+    "ICAO": "FAN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:34.227531"
+  },
+  {
+    "name": "Air Cassai Lda.",
+    "IATA": null,
+    "ICAO": "RCI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:34.227546"
+  },
+  {
+    "name": "Air Cruzal",
+    "IATA": null,
+    "ICAO": "CRJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:34.227562"
+  },
+  {
+    "name": "Air Gemini, Lda",
+    "IATA": null,
+    "ICAO": "GLL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:34.227577"
+  },
+  {
+    "name": "Air Kissari, Transporte Aereo",
+    "IATA": null,
+    "ICAO": "KSI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:34.227592"
+  },
+  {
+    "name": "Air Metack, Lda",
+    "IATA": null,
+    "ICAO": "MTK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:34.227607"
+  },
+  {
+    "name": "Air26 S.A.",
+    "IATA": null,
+    "ICAO": "DCD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:34.227623"
+  },
+  {
+    "name": "Air-Angol Sociedad Aeronautica, Lda.",
+    "IATA": null,
+    "ICAO": "NGO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:34.227639"
+  },
+  {
+    "name": "Airjet Exploracao Aerea de Carga, Passageiros e Correios, Lda",
+    "IATA": null,
+    "ICAO": "MBC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:34.227655"
+  },
+  {
+    "name": "Alada Empresa de Transportes Aereos",
+    "IATA": null,
+    "ICAO": "RAD",
+    "website": "netangola.com/alada/",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:34.227672"
+  },
+  {
+    "name": "Angoavia",
+    "IATA": null,
+    "ICAO": "NGV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:34.227687"
+  },
+  {
+    "name": "Angoservice, Lda.",
+    "IATA": null,
+    "ICAO": "NGC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:34.227703"
+  },
+  {
+    "name": "APA - Aeropublicitaria de Angola Lda",
+    "IATA": null,
+    "ICAO": "MOP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:34.227718"
+  },
+  {
+    "name": "ASA Pesada, Lda.",
+    "IATA": null,
+    "ICAO": "API",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:34.227733"
+  },
+  {
+    "name": "Aviacao Transportes Aereos E Cargas, Lda",
+    "IATA": null,
+    "ICAO": "VTG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:34.227748"
+  },
+  {
+    "name": "Avita-Servicos Aereos, Lda",
+    "IATA": null,
+    "ICAO": "ITF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:34.227763"
+  },
+  {
+    "name": "Ecomex Air Cargo, Lda.",
+    "IATA": null,
+    "ICAO": "ECX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:34.227779"
+  },
+  {
+    "name": "Efaos, Agencia de Viagens e Turismo, Lda",
+    "IATA": null,
+    "ICAO": "EFS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:34.227794"
+  },
+  {
+    "name": "Fly AO-Linhas Aereas, Limiteda d/b/a Fly AO Angola",
+    "IATA": "EQ",
+    "ICAO": "FLA",
+    "website": "www.flyangola.co.ao",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:34.227810"
+  },
+  {
+    "name": "Gira Globo Lda.",
+    "IATA": null,
+    "ICAO": "GGL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:34.227825"
+  },
+  {
+    "name": "Nacoia Lda",
+    "IATA": null,
+    "ICAO": "ANL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:34.227842"
+  },
+  {
+    "name": "Organizacoes Mambra, Lda",
+    "IATA": null,
+    "ICAO": "OML",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:34.227858"
+  },
+  {
+    "name": "Pinframat, Lda",
+    "IATA": null,
+    "ICAO": "PIM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:34.227874"
+  },
+  {
+    "name": "Planar - Sociedade de Aviacao Civil Sarl",
+    "IATA": null,
+    "ICAO": "PLN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:34.227890"
+  },
+  {
+    "name": "Savanair (Angola) Lda.",
+    "IATA": null,
+    "ICAO": "SVN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:34.227905"
+  },
+  {
+    "name": "Socofer Lda",
+    "IATA": null,
+    "ICAO": "SCF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:34.227920"
+  },
+  {
+    "name": "SonAir Servi\u00e7o A\u00e9reo, S.A.R.L.",
+    "IATA": null,
+    "ICAO": "SOR",
+    "website": "www.sonairsarl.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:34.227937"
+  },
+  {
+    "name": "Super Luza",
+    "IATA": null,
+    "ICAO": "SLZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:34.227952"
+  },
+  {
+    "name": "TAAG - Linhas Aereas de Angola Airlines",
+    "IATA": "DT",
+    "ICAO": "DTA",
+    "website": "www.taag.com",
+    "notes": "Name changed from TAAG - Linhas Aereas de Angola S.A.R.L. (TMA)",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:34.227969"
+  },
+  {
+    "name": "Trans Air Welwitchia",
+    "IATA": null,
+    "ICAO": "TWW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:34.227985"
+  },
+  {
+    "name": "Transteco",
+    "IATA": null,
+    "ICAO": "TTC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:34.228001"
+  },
+  {
+    "name": "VH-Air Industrie",
+    "IATA": null,
+    "ICAO": "VHA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:34.228016"
+  },
+  {
+    "name": "Voar Lda.",
+    "IATA": null,
+    "ICAO": "VRL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:34.228031"
+  },
+  {
+    "name": "Heli Malongo Airways (HM Airways)",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:34.228048"
+  },
+  {
+    "name": "Air Metack",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:34.228063"
+  },
+  {
+    "name": "TAAG - Linhas Aereas de Angola S.A.R.L. (TMA)",
+    "IATA": "DT",
+    "ICAO": "DTA",
+    "website": "www.taag-airlines.com",
+    "notes": "Name changed to TAAG - Linhas Aereas de Angola Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:34.228080"
+  },
+  {
+    "name": "Diexim Expresso",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:34.228095"
+  }
+]

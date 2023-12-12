@@ -1,0 +1,173 @@
+[
+  {
+    "name": "Air Bagan Limited",
+    "IATA": null,
+    "ICAO": "JAB",
+    "website": "www.airbagan.com",
+    "notes": "Designator W9* recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:44.070820"
+  },
+  {
+    "name": "Air KBZ Limited",
+    "IATA": "K7",
+    "ICAO": "KBZ",
+    "website": "www.airkbz.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:44.070848"
+  },
+  {
+    "name": "Air Thanlwin Holding Company Limited",
+    "IATA": "ST",
+    "ICAO": "RTL",
+    "website": "www.airthanlwin.com",
+    "notes": "Name changed from Yangon Airways Limited in February 2014. IATA Designator changed from YH*. ICAO designator changed from AYG. IATA designator changed from HK* w.e.f. 15 June 2009.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:44.070867"
+  },
+  {
+    "name": "Apex Airline Public Company Limited",
+    "IATA": "SO",
+    "ICAO": null,
+    "website": "www.apexairline.com",
+    "notes": "Incorporated on 27th November 2012. Commenced operations in March 2015.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:44.070884"
+  },
+  {
+    "name": "Mann Yadanarpon Airlines Co. Ltd.",
+    "IATA": "7Y",
+    "ICAO": "MYP",
+    "website": "www.airmyp.com",
+    "notes": "Founded in February 2014.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:44.070900"
+  },
+  {
+    "name": "Myanmar Airways",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.myanmaairways.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:44.070917"
+  },
+  {
+    "name": "Myanmar Airways International Company Ltd.",
+    "IATA": "8M",
+    "ICAO": "MMA",
+    "website": "maiair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:44.070933"
+  },
+  {
+    "name": "Myanmar National Airlines",
+    "IATA": null,
+    "ICAO": "UBA",
+    "website": "www.flymna.com",
+    "notes": "Name changed from Myanmar Airways",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:44.070949"
+  },
+  {
+    "name": "Air Bagan Limited",
+    "IATA": null,
+    "ICAO": "JAB",
+    "website": "www.airbagan.com",
+    "notes": "Designator W9* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:44.070966"
+  },
+  {
+    "name": "Air Mandalay Limited",
+    "IATA": "6T",
+    "ICAO": "AMY",
+    "website": "www.airmandalay.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:44.070982"
+  },
+  {
+    "name": "Air Thanlwin Holding Company Limited",
+    "IATA": null,
+    "ICAO": "AYG",
+    "website": "www.airthanlwin.com",
+    "notes": "Name changed from Yangon Airways Limited in February 2014. IATA Designator changed to ST. IATA designator changed from HK* w.e.f. 15 June 2009.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:44.070999"
+  },
+  {
+    "name": "Air Thanlwin Holding Company Limited",
+    "IATA": "ST",
+    "ICAO": "AYG",
+    "website": "www.airthanlwin.com",
+    "notes": "Name changed from Yangon Airways Limited in February 2014. IATA Designator changed from YH*. ICAO designator changed to RTL. IATA designator changed from HK* w.e.f. 15 June 2009.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:44.071020"
+  },
+  {
+    "name": "Asian Wings Airways Ltd",
+    "IATA": "YJ",
+    "ICAO": "AWM",
+    "website": "asianwingsair.com",
+    "notes": "Suspended operations on 01 January 2019. Commenced operations on 27 January 2011.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:44.071036"
+  },
+  {
+    "name": "FIM Air Ltd.",
+    "IATA": "MD",
+    "ICAO": "FMI",
+    "website": "www.fmiair.com",
+    "notes": "ICAO callsign changed to Gecko.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:44.071052"
+  },
+  {
+    "name": "FMI Air Ltd.",
+    "IATA": "ND",
+    "ICAO": "FMI",
+    "website": "www.fmiair.com",
+    "notes": "ICAO callsign changed from First Myanmar.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:44.071068"
+  },
+  {
+    "name": "Golden Myanmar Airlines Public Co., Ltd",
+    "IATA": "Y5",
+    "ICAO": "GMR",
+    "website": "www.gmairlines.com",
+    "notes": "Established in August 2012. Commenced operations on 11 January 2013. Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:44.071085"
+  },
+  {
+    "name": "Myanmar Airways",
+    "IATA": null,
+    "ICAO": "UBA",
+    "website": "www.maiair.com",
+    "notes": "Name changed to Myanmar National Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:44.071102"
+  },
+  {
+    "name": "Yangon Airways Limited",
+    "IATA": null,
+    "ICAO": "AYG",
+    "website": "www.yangonair.com.mm",
+    "notes": "IATA designator changed to YH w.e.f. 15 June 2009.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:44.071118"
+  },
+  {
+    "name": "Yangon Airways Limited",
+    "IATA": null,
+    "ICAO": "AYG",
+    "website": "www.yangonair.com",
+    "notes": "Name changed to Air Thanlwin Holding Company Ltd in February 2014. IATA designator changed from HK* w.e.f. 15 June 2009.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:44.071135"
+  }
+]

@@ -1,0 +1,209 @@
+[
+  {
+    "name": "Excel Air Services, Inc.",
+    "IATA": null,
+    "ICAO": "EXI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:10.993779"
+  },
+  {
+    "name": "International Air Serivces, Inc.",
+    "IATA": null,
+    "ICAO": "IAX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:10.993808"
+  },
+  {
+    "name": "Liberia Airways, Inc.",
+    "IATA": null,
+    "ICAO": "LBA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:10.993824"
+  },
+  {
+    "name": "Lonestar Airways",
+    "IATA": null,
+    "ICAO": "LOA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:10.993840"
+  },
+  {
+    "name": "Satgur Air Transport Corporation",
+    "IATA": null,
+    "ICAO": "TGR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:10.993856"
+  },
+  {
+    "name": "Trans-African Airways, Inc.",
+    "IATA": null,
+    "ICAO": "TSF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:10.993871"
+  },
+  {
+    "name": "United Africa Airline (Liberia), Inc.",
+    "IATA": null,
+    "ICAO": "UFR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:10.993886"
+  },
+  {
+    "name": "Weasua Air Transport Company Limited (WATCO)",
+    "IATA": null,
+    "ICAO": "WTC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:10.993902"
+  },
+  {
+    "name": "Air Cargo Plus",
+    "IATA": null,
+    "ICAO": "ACH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:10.993918"
+  },
+  {
+    "name": "Air Cess (Liberia), Inc.",
+    "IATA": null,
+    "ICAO": "ACS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:10.993933"
+  },
+  {
+    "name": "Air Liberia",
+    "IATA": "NL",
+    "ICAO": "ALI",
+    "website": null,
+    "notes": "Designator NL recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:10.993950"
+  },
+  {
+    "name": "Bridge Airlines",
+    "IATA": null,
+    "ICAO": "BGE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:10.993966"
+  },
+  {
+    "name": "Jet Cargo-Liberia",
+    "IATA": null,
+    "ICAO": "JCL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:10.993981"
+  },
+  {
+    "name": "Liberian World Airlines, Inc.",
+    "IATA": null,
+    "ICAO": "LWA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:10.993996"
+  },
+  {
+    "name": "Liberian World Airlines, Inc.",
+    "IATA": "LE",
+    "ICAO": "LWA",
+    "website": null,
+    "notes": "Designator LE recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:10.994012"
+  },
+  {
+    "name": "Lierian National Airlines",
+    "IATA": "NL",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:10.994027"
+  },
+  {
+    "name": "Midair Limited, Inc.",
+    "IATA": null,
+    "ICAO": "MLR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:10.994042"
+  },
+  {
+    "name": "Occidental Airlines",
+    "IATA": null,
+    "ICAO": "OCC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:10.994057"
+  },
+  {
+    "name": "Occidental Airlines (Liberia), Inc.",
+    "IATA": null,
+    "ICAO": "OCT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:10.994072"
+  },
+  {
+    "name": "Santa Cruise Imperial Airlines",
+    "IATA": null,
+    "ICAO": "SNZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:10.994087"
+  },
+  {
+    "name": "Satgur Air Transport",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator 2S* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:10.994103"
+  },
+  {
+    "name": "Simon Air",
+    "IATA": "8U",
+    "ICAO": "SIQ",
+    "website": null,
+    "notes": "Designator 8U recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:10.994118"
+  },
+  {
+    "name": "Transway Air Services, Inc.",
+    "IATA": null,
+    "ICAO": "TAW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:10.994134"
+  }
+]

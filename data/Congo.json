@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Canadian Airways Congo",
+    "IATA": null,
+    "ICAO": "TWC",
+    "website": "www.canaircongo.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:33.925671"
+  },
+  {
+    "name": "Congo Falcon",
+    "IATA": null,
+    "ICAO": "AAT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:33.925699"
+  },
+  {
+    "name": "Equaflight Service",
+    "IATA": null,
+    "ICAO": "EKA",
+    "website": "www.equaflight.com/en/",
+    "notes": "Part of the Regourd Aviation Group. Designator E7 recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:33.925717"
+  },
+  {
+    "name": "Equajet",
+    "IATA": null,
+    "ICAO": "EKJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:33.925733"
+  },
+  {
+    "name": "Jetstream Aviation Congo",
+    "IATA": null,
+    "ICAO": "JSC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:33.925748"
+  },
+  {
+    "name": "Lignes Nationales Aeriennes - Linacongo",
+    "IATA": null,
+    "ICAO": "GCB",
+    "website": null,
+    "notes": "Designator GC recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:33.925765"
+  },
+  {
+    "name": "Trans Air Congo (TAC)",
+    "IATA": "Q8",
+    "ICAO": "TSG",
+    "website": "www.flytransaircongo.com",
+    "notes": "Designator Q8* recalled by IATA. IATA Accounting code 223 recalled.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:33.925783"
+  },
+  {
+    "name": "Aero-Service",
+    "IATA": null,
+    "ICAO": "RSR",
+    "website": "www.aero-service.net",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:33.925799"
+  },
+  {
+    "name": "Equaflight Service",
+    "IATA": "E7",
+    "ICAO": "EKA",
+    "website": "www.equaflight.com/en/",
+    "notes": "Part of the Regourd Aviation Group. Designator E7 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:33.925816"
+  },
+  {
+    "name": "Equaflight Service",
+    "IATA": "5E",
+    "ICAO": "EKA",
+    "website": null,
+    "notes": "Designator 8H* recalled by IATA. Designator 8H* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:33.925832"
+  },
+  {
+    "name": "Equaflight Service",
+    "IATA": null,
+    "ICAO": "EKA",
+    "website": null,
+    "notes": "Designator 8H* recalled by IATA. Designator 8H* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:33.925848"
+  },
+  {
+    "name": "Finalair Congo",
+    "IATA": null,
+    "ICAO": "FNL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:33.925864"
+  },
+  {
+    "name": "Lignes Nationales Aeriennes - Linacongo",
+    "IATA": "GC",
+    "ICAO": "GCB",
+    "website": null,
+    "notes": "Designator GC recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:33.925880"
+  }
+]

@@ -1,0 +1,560 @@
+[
+  {
+    "name": "Aeroworld Pakistan Private Ltd",
+    "IATA": null,
+    "ICAO": "AWP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849119"
+  },
+  {
+    "name": "AHS Air International",
+    "IATA": null,
+    "ICAO": "AHS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849156"
+  },
+  {
+    "name": "Air Eagle (Pvt) Ltd.",
+    "IATA": null,
+    "ICAO": "EPE",
+    "website": "www.aireagle.pk",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849179"
+  },
+  {
+    "name": "Air Express (Pvt) Ltd",
+    "IATA": null,
+    "ICAO": "DAD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849198"
+  },
+  {
+    "name": "M/S Air Falcon (Pvt) Ltd.",
+    "IATA": null,
+    "ICAO": "FPK",
+    "website": "airfalcon.com.pk",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849218"
+  },
+  {
+    "name": "Air Speed Charter (Pvt) Ltd",
+    "IATA": null,
+    "ICAO": "ASG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849236"
+  },
+  {
+    "name": "Airbiz Aviation Services Worldwide",
+    "IATA": null,
+    "ICAO": "BZR",
+    "website": "www.air-biz.org",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849256"
+  },
+  {
+    "name": "M/S Airblue (PVT) Ltd",
+    "IATA": "PA",
+    "ICAO": "ABQ",
+    "website": "www.airblue.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849273"
+  },
+  {
+    "name": "Aircraft Sales and Services (Pvt) Ltd",
+    "IATA": null,
+    "ICAO": "ACS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849290"
+  },
+  {
+    "name": "AirSial Limited",
+    "IATA": "PF",
+    "ICAO": "SIF",
+    "website": "airsial.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849307"
+  },
+  {
+    "name": "Askaria Air Pakistan",
+    "IATA": null,
+    "ICAO": "AKP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849323"
+  },
+  {
+    "name": "Avex International",
+    "IATA": null,
+    "ICAO": "AIV",
+    "website": "www.avex.pk",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849340"
+  },
+  {
+    "name": "Avicon Aviation Consultants & Agents",
+    "IATA": null,
+    "ICAO": "AAA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849358"
+  },
+  {
+    "name": "Bhoja Airlines",
+    "IATA": null,
+    "ICAO": "BHO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849375"
+  },
+  {
+    "name": "Chemech Aviation (Pvt) Limited",
+    "IATA": null,
+    "ICAO": "CHM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849391"
+  },
+  {
+    "name": "Fly Jinnah",
+    "IATA": "9P",
+    "ICAO": "FJL",
+    "website": "www.flyjinnah.com",
+    "notes": "Joint venture company between the Lakson group and Air Arabia Group.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849410"
+  },
+  {
+    "name": "Galaxy Aviation (Pvt) Ltd",
+    "IATA": null,
+    "ICAO": "GLY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849428"
+  },
+  {
+    "name": "Gerry's Dnata, M/S",
+    "IATA": null,
+    "ICAO": "GDN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849445"
+  },
+  {
+    "name": "Happy Landings (Flight Training)",
+    "IATA": null,
+    "ICAO": "IQP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849461"
+  },
+  {
+    "name": "M/S IAMC (Pvt) Ltd.",
+    "IATA": null,
+    "ICAO": "IMC",
+    "website": "www.iamc.com.pk",
+    "notes": "Founded on 04 September 2012.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849479"
+  },
+  {
+    "name": "Iconair (Pvt) Ltd.",
+    "IATA": null,
+    "ICAO": "ICN",
+    "website": "www.flyiconair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849495"
+  },
+  {
+    "name": "Jetstream International",
+    "IATA": null,
+    "ICAO": "JSS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849511"
+  },
+  {
+    "name": "JS Air (Private) Limited",
+    "IATA": null,
+    "ICAO": "JSJ",
+    "website": "www.jsair.com.pk",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849529"
+  },
+  {
+    "name": "K2 Airways",
+    "IATA": null,
+    "ICAO": "KTA",
+    "website": "k2airways.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849546"
+  },
+  {
+    "name": "Kingcrete Associates Pvt. Ltd.",
+    "IATA": null,
+    "ICAO": "BTP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849562"
+  },
+  {
+    "name": "Maxin Air (Pvt) Ltd",
+    "IATA": null,
+    "ICAO": "MXR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849579"
+  },
+  {
+    "name": "Pakistan International Airlines",
+    "IATA": "PK",
+    "ICAO": "PIA",
+    "website": "www.piac.com.pk",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849597"
+  },
+  {
+    "name": "Pearl Air Pvt. Ltd.",
+    "IATA": null,
+    "ICAO": "PRL",
+    "website": "www.pearlair.com.pk",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849613"
+  },
+  {
+    "name": "Princely Jets (Pvt)",
+    "IATA": null,
+    "ICAO": "PJP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849629"
+  },
+  {
+    "name": "Providence Aviation Services (Pvt) Limited",
+    "IATA": null,
+    "ICAO": "AWD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849645"
+  },
+  {
+    "name": "Raji Airlines",
+    "IATA": null,
+    "ICAO": "RAJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849662"
+  },
+  {
+    "name": "Safe Air International",
+    "IATA": null,
+    "ICAO": "SFP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849679"
+  },
+  {
+    "name": "Serene Air (Private) Limited",
+    "IATA": "ER",
+    "ICAO": "SEP",
+    "website": "www.sereneair.com",
+    "notes": "Founded in May 2016. AOC granted 18 March 2016.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849696"
+  },
+  {
+    "name": "Shaheen Airport Services",
+    "IATA": null,
+    "ICAO": "SHN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849712"
+  },
+  {
+    "name": "Sky Link Aviation Services",
+    "IATA": null,
+    "ICAO": "SKS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849727"
+  },
+  {
+    "name": "Sky Wings Flight Support Services",
+    "IATA": null,
+    "ICAO": "SWJ",
+    "website": "www.skywingsaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849743"
+  },
+  {
+    "name": "Track Aviation Services Pakistan",
+    "IATA": null,
+    "ICAO": "TAZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849758"
+  },
+  {
+    "name": "Vision Air International (Pvt) Ltd",
+    "IATA": null,
+    "ICAO": "VIS",
+    "website": "visionairintl.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849774"
+  },
+  {
+    "name": "Worldwide Aviation Services",
+    "IATA": null,
+    "ICAO": "WWS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:05.849790"
+  },
+  {
+    "name": "Aero Asia International (Private) Ltd.",
+    "IATA": "E4",
+    "ICAO": "RSO",
+    "website": "www.aeroasia.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:05.849806"
+  },
+  {
+    "name": "Air Falcon (Private) Limited",
+    "IATA": null,
+    "ICAO": "FLD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:05.849821"
+  },
+  {
+    "name": "Air Indus (Pvt) Ltd",
+    "IATA": "I6",
+    "ICAO": "MPK",
+    "website": "www.airindus.com.pk",
+    "notes": "Ceased operations on 01 July 2015.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:05.849838"
+  },
+  {
+    "name": "Air Vista (Pvt) Ltd",
+    "IATA": null,
+    "ICAO": "AVR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:05.849854"
+  },
+  {
+    "name": "Airblue Limited",
+    "IATA": "2L",
+    "ICAO": "ABQ",
+    "website": null,
+    "notes": "IATA designator changed to ED",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:05.849870"
+  },
+  {
+    "name": "Airblue Limited",
+    "IATA": null,
+    "ICAO": "ABQ",
+    "website": "www.airblue.com",
+    "notes": "IATA designator changed from 2L",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:05.849886"
+  },
+  {
+    "name": "Askari Aviation (Pvt) Ltd.",
+    "IATA": null,
+    "ICAO": "AAS",
+    "website": "www.askariaviation.com",
+    "notes": "Name changed from M/S Askari Aviation Serivces (Pvt) Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:05.849903"
+  },
+  {
+    "name": "AST Pakistan Airways Pvt. Ltd.",
+    "IATA": null,
+    "ICAO": "PKA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:05.849918"
+  },
+  {
+    "name": "Chemech Aviation (Pvt) Ltd.",
+    "IATA": null,
+    "ICAO": "CMC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:05.849934"
+  },
+  {
+    "name": "Crescent Air Transport Ltd.",
+    "IATA": "KJ",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:05.849949"
+  },
+  {
+    "name": "Hajvairy Airlines",
+    "IATA": null,
+    "ICAO": "HAJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:05.849964"
+  },
+  {
+    "name": "Jet Serve International",
+    "IATA": null,
+    "ICAO": "JSP",
+    "website": "jetserveinternational.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:05.849980"
+  },
+  {
+    "name": "Lynx Aviation (Private) Limited",
+    "IATA": null,
+    "ICAO": "LYX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:05.849995"
+  },
+  {
+    "name": "M/S Askari Aviation Serivces (Pvt) Ltd.",
+    "IATA": null,
+    "ICAO": "AAS",
+    "website": null,
+    "notes": "Name changed to Askari Aviation (Pvt) Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:05.850012"
+  },
+  {
+    "name": "Orient Airways",
+    "IATA": null,
+    "ICAO": "ORN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:05.850028"
+  },
+  {
+    "name": "Pioneers (PVT) Ltd.",
+    "IATA": null,
+    "ICAO": "PER",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:05.850044"
+  },
+  {
+    "name": "Rayyan Air Pvt. Ltd.",
+    "IATA": null,
+    "ICAO": "RAB",
+    "website": "www.rayyanair.com",
+    "notes": "Shutdown during 2014. Assets transferred to AHS Air International.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:05.850061"
+  },
+  {
+    "name": "Regency Air Pvt. Ltd.",
+    "IATA": null,
+    "ICAO": "REE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:05.850076"
+  },
+  {
+    "name": "M/S Royal Airlines (PVT) Limited",
+    "IATA": "R0",
+    "ICAO": "RPK",
+    "website": "www.royalpakistan.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:05.850092"
+  },
+  {
+    "name": "Shaheen Air International Limited",
+    "IATA": "NL",
+    "ICAO": "SAI",
+    "website": "www.shaheenair.com",
+    "notes": "Established in 1984. Commenced operations in December 1993. Ceased operations on 06 October 2018.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:05.850109"
+  },
+  {
+    "name": "Shaheen Air Cargo (Primate) Limited",
+    "IATA": null,
+    "ICAO": "SEE",
+    "website": "www.shaheenair.com",
+    "notes": "Ceased operations on 01 August 2018.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:05.850126"
+  },
+  {
+    "name": "Star Air Aviation (Private) Limited",
+    "IATA": null,
+    "ICAO": "URJ",
+    "website": "www.starairaviation.net",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:05.850142"
+  },
+  {
+    "name": "Success Aviation Services (Pvt) Ltd.",
+    "IATA": null,
+    "ICAO": "SAJ",
+    "website": "www.successaviation.pk",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:05.850158"
+  }
+]

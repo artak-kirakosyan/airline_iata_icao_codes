@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Air Burundi",
+    "IATA": null,
+    "ICAO": "PBU",
+    "website": "www.flyairburundi.com",
+    "notes": "Formed as Societe de Transports A\u00e9riens du Burundi' and adopted the present name in June 1975. The airline was established in April 1971 and started operations in 1975.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:14.837169"
+  },
+  {
+    "name": "Manaf International Airways",
+    "IATA": null,
+    "ICAO": "MLB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:14.837195"
+  },
+  {
+    "name": "Air Burundi",
+    "IATA": "PB",
+    "ICAO": "PBU",
+    "website": null,
+    "notes": "Designator PB recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:14.837213"
+  },
+  {
+    "name": "Air Burundi",
+    "IATA": "8Y",
+    "ICAO": "PBU",
+    "website": null,
+    "notes": "Formed as Societe de Transports A\u00e9riens du Burundi' and adopted the present name in June 1975. The airline was established in April 1971 and started operations in 1975.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:14.837231"
+  },
+  {
+    "name": "City Connexion Airlines",
+    "IATA": "G3",
+    "ICAO": "CIX",
+    "website": "www.cca-airlines.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:14.837246"
+  },
+  {
+    "name": "Service des Transports A\u00e9riens du Burundi",
+    "IATA": "PB",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:14.837262"
+  }
+]

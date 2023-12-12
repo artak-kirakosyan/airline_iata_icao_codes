@@ -1,0 +1,1055 @@
+[
+  {
+    "name": "Airfast Indonesia PT",
+    "IATA": null,
+    "ICAO": "AFE",
+    "website": "www.airfastindonesia.com",
+    "notes": "Name changed from Airfast Service Indonesia PT",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:42.484802"
+  },
+  {
+    "name": "Angkasa Super Service, PT.",
+    "IATA": null,
+    "ICAO": "LBZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:42.484832"
+  },
+  {
+    "name": "PT. Aviastar Mandiri",
+    "IATA": null,
+    "ICAO": "VIT",
+    "website": "www.aviastar.biz",
+    "notes": "Designator MV recalled by IATA. Established on 12 June 2000.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:42.484852"
+  },
+  {
+    "name": "PT. Batik Air Indonesia d/b/a Batik Air",
+    "IATA": "ID",
+    "ICAO": "BTK",
+    "website": "www.batikair.com",
+    "notes": "Founded in 2013 Commenced operations on 03 May 2013.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:42.484870"
+  },
+  {
+    "name": "BBN Airlines Indonesia",
+    "IATA": null,
+    "ICAO": "BBL",
+    "website": "bbnairlines.aero",
+    "notes": "Planned start up with 2 x B737-800BCF.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:42.484887"
+  },
+  {
+    "name": "PT. Raffles Global Angkasa (RGA)",
+    "IATA": null,
+    "ICAO": "RGM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:42.484905"
+  },
+  {
+    "name": "PT Cardig Air",
+    "IATA": null,
+    "ICAO": "CAD",
+    "website": "www.cardigair.com",
+    "notes": "Designator 8F* recalled by IATA.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:42.484922"
+  },
+  {
+    "name": "PT. Citilink Indonesia",
+    "IATA": "QG",
+    "ICAO": "CTV",
+    "website": "www.citilink.co.id",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:42.484939"
+  },
+  {
+    "name": "Deraya Air Taxi PT.",
+    "IATA": null,
+    "ICAO": "DRY",
+    "website": "www.boedihardjogroup.com/aviation/deraya.htm",
+    "notes": "Name changed from Deraya P.T.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:42.484956"
+  },
+  {
+    "name": "Derazona Air Service, PT.",
+    "IATA": null,
+    "ICAO": "DRZ",
+    "website": "www.derazona.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:42.484972"
+  },
+  {
+    "name": "Eastindo Services",
+    "IATA": null,
+    "ICAO": "ESD",
+    "website": "www.eastindo.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:42.484989"
+  },
+  {
+    "name": "PT. Express Cargo Airlines",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Planned start up with 1 x 737-300SF. Received its AOC received on 11 August 2023. Commenced operations on 13 August 2023.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:42.485008"
+  },
+  {
+    "name": "PT. Flyindo Aviasi Nusantara",
+    "IATA": null,
+    "ICAO": "FYN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:42.485025"
+  },
+  {
+    "name": "Garuda Indonesia",
+    "IATA": "GA",
+    "ICAO": "GIA",
+    "website": "www.garuda-indonesia.com",
+    "notes": "Name changed from Garuda Indonesia Airways P.T. ICAO callsign changed from Garuda",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:42.485042"
+  },
+  {
+    "name": "PT. Indonesia Air Transport. Tbk",
+    "IATA": null,
+    "ICAO": "IDA",
+    "website": "www.indonesia-air.com",
+    "notes": "Designator I7 recalled by IATA.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:42.485058"
+  },
+  {
+    "name": "PT. Indonesia AirAsia",
+    "IATA": "QZ",
+    "ICAO": "AWQ",
+    "website": "www.airasia.com",
+    "notes": "Designator QZ reinstated by IATA. Name changed to from AWAIR International PT / P.T. Air Wagon International",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:42.485076"
+  },
+  {
+    "name": "Jayawijaya Dirgantara, PT.",
+    "IATA": null,
+    "ICAO": "JWD",
+    "website": null,
+    "notes": "AOC granted on 24 July 2012.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:42.485093"
+  },
+  {
+    "name": "PT. Jet Eksekutif Travya",
+    "IATA": null,
+    "ICAO": "CEO",
+    "website": "www.travya.asia",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:42.485108"
+  },
+  {
+    "name": "Jhonlin Air Transport, PT.",
+    "IATA": null,
+    "ICAO": "JLB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:42.485124"
+  },
+  {
+    "name": "Lion Mentari Airlines, PT.",
+    "IATA": null,
+    "ICAO": "LNI",
+    "website": "www.lionair.co.id",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:42.485140"
+  },
+  {
+    "name": "PT. My Indo Airlines",
+    "IATA": null,
+    "ICAO": "MYU",
+    "website": "www.myindoairlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:42.485155"
+  },
+  {
+    "name": "PT. Nam Air",
+    "IATA": "IN",
+    "ICAO": "LKN",
+    "website": "www.flynamair.com",
+    "notes": "Subsidiary of Sriwijaya Air",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:42.485172"
+  },
+  {
+    "name": "Nusantara Air Charter, PT.",
+    "IATA": null,
+    "ICAO": "SJK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:42.485187"
+  },
+  {
+    "name": "P.T. Pelita Air Service",
+    "IATA": "IP",
+    "ICAO": "PAS",
+    "website": "www.pelita-air.com",
+    "notes": "Designator 6D recalled by IATA. IATA designator changed from 6D*. Designator 6D* reinstated by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:42.485204"
+  },
+  {
+    "name": "PT. Rusky Aero Indonesia t/a Raindo United Services",
+    "IATA": "R0",
+    "ICAO": "RBF",
+    "website": "rus.co.id",
+    "notes": "Commenced operations on 21 September 2023.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:42.485221"
+  },
+  {
+    "name": "PT Rimbun Abadi Aviasi d/b/a RIMBUN AIR",
+    "IATA": "RI",
+    "ICAO": "OEY",
+    "website": "www.rimbunair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:42.485237"
+  },
+  {
+    "name": "Sampoerna Air Nusantara, PT.",
+    "IATA": null,
+    "ICAO": "SAE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:42.485253"
+  },
+  {
+    "name": "PT. Sqiva Sistem",
+    "IATA": "Q1",
+    "ICAO": null,
+    "website": "www.sqiva.com",
+    "notes": "Computer Reservations Systems (CRS)",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:42.485269"
+  },
+  {
+    "name": "Sriwijaya Air PT",
+    "IATA": "SJ",
+    "ICAO": "SJY",
+    "website": "www.sriwijaya-air.com",
+    "notes": "Designator SJ reinstated by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:42.485285"
+  },
+  {
+    "name": "PT. Super Air Jet",
+    "IATA": "IU",
+    "ICAO": "SJV",
+    "website": null,
+    "notes": "Subsidiary of Lion Air Group.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:42.485300"
+  },
+  {
+    "name": "ASI Pudjiastuti Aviation, PT",
+    "IATA": null,
+    "ICAO": "SQS",
+    "website": "www.susiair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:42.485316"
+  },
+  {
+    "name": "PT. Transnusa Aviation Mandiri",
+    "IATA": "8B",
+    "ICAO": "TNU",
+    "website": "www.transnusa.co.id",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:42.485332"
+  },
+  {
+    "name": "Transwisata Prima Aviation",
+    "IATA": null,
+    "ICAO": "TWT",
+    "website": "www.transwisata.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:42.485348"
+  },
+  {
+    "name": "Travira Air",
+    "IATA": null,
+    "ICAO": "TVV",
+    "website": "www.travira-air.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:42.485364"
+  },
+  {
+    "name": "Trigana Air Service P.T.",
+    "IATA": "IL",
+    "ICAO": "TGN",
+    "website": "www.trigana-air.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:42.485380"
+  },
+  {
+    "name": "Tri-MG Intra Asia Airlines, PT.",
+    "IATA": "GM",
+    "ICAO": "TMG",
+    "website": "www.trimgairlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:42.485395"
+  },
+  {
+    "name": "Wings Abadi Airlines, PT.",
+    "IATA": "IW",
+    "ICAO": "WON",
+    "website": "www.lionair.co.id",
+    "notes": "Commenced  operations on 10 July 2003. Wholly owned subsidiary of Lion Air",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:42.485411"
+  },
+  {
+    "name": "Citilink Express",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.citilink.co.id",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.485428"
+  },
+  {
+    "name": "Riau Airlines",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.riau-airlines.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.485444"
+  },
+  {
+    "name": "RPX Airlines",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.rpxholding.com/product-services.php?service=airlines",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.485460"
+  },
+  {
+    "name": "PT. Sky Aviation",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.sky-aviation.co.id",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.485475"
+  },
+  {
+    "name": "Adam SkyConnection Airlines PT",
+    "IATA": "KI",
+    "ICAO": "DHI",
+    "website": "www.adamair.co.id",
+    "notes": "AOC suspended on 18 March 2008.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.485492"
+  },
+  {
+    "name": "PT. Efata Papua Airlines",
+    "IATA": "W2",
+    "ICAO": "EPA",
+    "website": null,
+    "notes": "Commenced operations on 09 January 2006. Ceased operations in February 2007.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.485509"
+  },
+  {
+    "name": "Air Indonesia P.T.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.485525"
+  },
+  {
+    "name": "PT. Air Paradise International",
+    "IATA": "AD",
+    "ICAO": "PRZ",
+    "website": "www.airparadise.co.id",
+    "notes": "Ceased operations on 24 November 2005.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.485542"
+  },
+  {
+    "name": "Airfast Service Indonesia PT",
+    "IATA": null,
+    "ICAO": "AFE",
+    "website": "www.airfastindonesia.com",
+    "notes": "Name changed to Airfast Indonesia PT",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.485558"
+  },
+  {
+    "name": "Indonesia - Angkasa Civil Air Transport P.T.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.485574"
+  },
+  {
+    "name": "Angkasa Pura Perum",
+    "IATA": null,
+    "ICAO": "PAP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.485589"
+  },
+  {
+    "name": "Asia Avia Megatama, PT.",
+    "IATA": null,
+    "ICAO": "AVT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.485604"
+  },
+  {
+    "name": "PT. Asialink Cargo Express",
+    "IATA": null,
+    "ICAO": "AKC",
+    "website": "www.asialinkcargo.co.id",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.485620"
+  },
+  {
+    "name": "Auvia Air PT.",
+    "IATA": null,
+    "ICAO": "UVT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.485635"
+  },
+  {
+    "name": "PT. Aviastar Mandiri",
+    "IATA": "MV",
+    "ICAO": "VIT",
+    "website": "www.aviastar.biz",
+    "notes": "Designator MV recalled by IATA. Established on 12 June 2000.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.485652"
+  },
+  {
+    "name": "AWAIR International PT / P.T. Air Wagon International",
+    "IATA": "QZ",
+    "ICAO": "AWQ",
+    "website": "www.awairlines.com",
+    "notes": "Name changed to PT. Indonesia AirAsia w.e.f. 01 December 2005. Suspended opertions 08 March 2002.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.485669"
+  },
+  {
+    "name": "Bali International Air Service",
+    "IATA": null,
+    "ICAO": "BLN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.485685"
+  },
+  {
+    "name": "Batavia Air - Metro Batavia, PT.",
+    "IATA": null,
+    "ICAO": "BTV",
+    "website": "www.batavia-air.co.id",
+    "notes": "Name changed from PT Metro Batavia",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.485702"
+  },
+  {
+    "name": "Bayu Indonesia Air P.T.",
+    "IATA": "DD",
+    "ICAO": "BYU",
+    "website": null,
+    "notes": "Designator DD recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.485718"
+  },
+  {
+    "name": "Bayu Indonesia Air P.T.",
+    "IATA": "BM",
+    "ICAO": "BYU",
+    "website": null,
+    "notes": "Designator BM recalled by IATA. Designator DD recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.485736"
+  },
+  {
+    "name": "PT Bouraq Indonesia Airlines",
+    "IATA": "BO",
+    "ICAO": "BOU",
+    "website": "www.bouraq.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.485752"
+  },
+  {
+    "name": "Bristow Masayu Helicopters P.T.",
+    "IATA": null,
+    "ICAO": "BMH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.485767"
+  },
+  {
+    "name": "PT Cardig Air",
+    "IATA": null,
+    "ICAO": "CAD",
+    "website": "www.cardigair.com",
+    "notes": "Designator 8F* recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.485783"
+  },
+  {
+    "name": "Deraya P.T.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Name changed to Deraya Air Taxi P.T.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.485799"
+  },
+  {
+    "name": "Dirgantara Air Service, PT.",
+    "IATA": null,
+    "ICAO": "DIR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.485814"
+  },
+  {
+    "name": "P.T. Dirgantara Air Services",
+    "IATA": null,
+    "ICAO": "DIR",
+    "website": null,
+    "notes": "AOC withdrawn by authorities. Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.485831"
+  },
+  {
+    "name": "PT. Efata Papua Airlines",
+    "IATA": null,
+    "ICAO": "EIJ",
+    "website": null,
+    "notes": "ICAO code changed to EPA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.485847"
+  },
+  {
+    "name": "PT. Travel Express Aviation Services d/b/a Express Air",
+    "IATA": "XN",
+    "ICAO": "XAR",
+    "website": "www.xpressair.co.id",
+    "notes": "Name changed to PT. Travel Express Aviation Services d/b/a xpressair during 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.485864"
+  },
+  {
+    "name": "Garuda Indonesia Airways P.T.",
+    "IATA": "GA",
+    "ICAO": "GIA",
+    "website": "www.garuda-indonesia.com",
+    "notes": "Name changed to Garuda Indonesia. ICAO callsign changed to Indonesia",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.485882"
+  },
+  {
+    "name": "Gatari Air Service, PT.",
+    "IATA": null,
+    "ICAO": "GHS",
+    "website": "www.gatariair.com",
+    "notes": "Name changed from Gatari Hutama Air Services, PT.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.485898"
+  },
+  {
+    "name": "Gatari Hutama Air Services, PT.",
+    "IATA": null,
+    "ICAO": "GHS",
+    "website": null,
+    "notes": "Name changed to Gatari Air Service, PT.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.485914"
+  },
+  {
+    "name": "PT. Indonesia Air Transport. Tbk",
+    "IATA": "I7",
+    "ICAO": "IDA",
+    "website": "www.iat.co.id",
+    "notes": "Designator I7 recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.485931"
+  },
+  {
+    "name": "PT. Indonesia AirAsia Extra",
+    "IATA": "XT",
+    "ICAO": "IDX",
+    "website": "ww.airasia.com/id/",
+    "notes": "Ceased operations on 14 January 2019. Subsidary of AirAsia X Berhad.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.485947"
+  },
+  {
+    "name": "PT Indonesian Airlines Av iapatria",
+    "IATA": "IO",
+    "ICAO": "IAA",
+    "website": "www.indonesian-airlines.co.id",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.485962"
+  },
+  {
+    "name": "Industri Pesawat Terbang Nurtanio",
+    "IATA": null,
+    "ICAO": "IPN",
+    "website": null,
+    "notes": "Name changed to Industri Pesawat Terbang Nusantara, PT. ICAO callsign changed to Nusantata",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.485980"
+  },
+  {
+    "name": "Industri Pesawat Terbang Nusantara, PT.",
+    "IATA": null,
+    "ICAO": "IPN",
+    "website": null,
+    "notes": "Name changed to Industri Pesawat Terbang Nurtanio, PT. ICAO callsign changed to Nurtanio",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.485996"
+  },
+  {
+    "name": "Jatayu Gelang Sejahtera",
+    "IATA": null,
+    "ICAO": "JTY",
+    "website": "www.jatayu-air.com",
+    "notes": "AOC withdrawn by Authorities on 26 June 2007.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486012"
+  },
+  {
+    "name": "Juanda Flying School",
+    "IATA": null,
+    "ICAO": "JFS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486027"
+  },
+  {
+    "name": "Kal Star Aviation, PT.",
+    "IATA": "KD",
+    "ICAO": "KLS",
+    "website": "www.kalstaronline.com",
+    "notes": "Ceased operations on 30 November 2017.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486043"
+  },
+  {
+    "name": "Kartika Airlines, PT.",
+    "IATA": null,
+    "ICAO": "KAE",
+    "website": "www.kartika-airlines.com",
+    "notes": "Founded in 2001. Commenced operations on 15 May 2001. Ceased operations in 2010.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486060"
+  },
+  {
+    "name": "Kura Kura Aviation, PT.",
+    "IATA": null,
+    "ICAO": "KUR",
+    "website": "www.kurakuraaviation.com",
+    "notes": "Name changed to Whitesky Aviation Indonesia, PT. during 2010.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486077"
+  },
+  {
+    "name": "Mandala Airlines",
+    "IATA": null,
+    "ICAO": "MDL",
+    "website": null,
+    "notes": "IATA designator changed to RI. Name changed from PT. Mandala Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486093"
+  },
+  {
+    "name": "Mandala Airlines",
+    "IATA": null,
+    "ICAO": "MDL",
+    "website": null,
+    "notes": "Name changed from PT. Mandala Airlines. Designator RI* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486110"
+  },
+  {
+    "name": "PT. Mandala Airlines",
+    "IATA": null,
+    "ICAO": "MDL",
+    "website": null,
+    "notes": "Name changed to Mandala Airlines. Designator RI* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486126"
+  },
+  {
+    "name": "Mantrust Asahi Airways, PT",
+    "IATA": null,
+    "ICAO": "MTS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486141"
+  },
+  {
+    "name": "Manunggal Air Service, PT.",
+    "IATA": null,
+    "ICAO": "MNS",
+    "website": "manunggal-air.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486157"
+  },
+  {
+    "name": "PT. Megantara Air",
+    "IATA": null,
+    "ICAO": "MKE",
+    "website": "www.megantara.co.id",
+    "notes": "Founded in 2007. Ceased operations in May 2009. Designator reinstated by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486173"
+  },
+  {
+    "name": "Merpati Nusantara Airlines, Pt.",
+    "IATA": "MZ",
+    "ICAO": "MNA",
+    "website": "www.merpati.co.id",
+    "notes": "Designator MZ recalled by IATA. Name changed from PT. Merpati Nusantara",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486189"
+  },
+  {
+    "name": "PT. Merpati Nusantara",
+    "IATA": "MZ",
+    "ICAO": "MNA",
+    "website": "www.merpati.co.id",
+    "notes": "Name changed to Merpati Nusantara Airlines, Pt.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486205"
+  },
+  {
+    "name": "PT Metro Batavia",
+    "IATA": null,
+    "ICAO": "BTV",
+    "website": null,
+    "notes": "Name changed to Batavia Air - PT. Metro Batavia",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486221"
+  },
+  {
+    "name": "PT. Metro Batavia",
+    "IATA": "Y6",
+    "ICAO": "BTV",
+    "website": "www.batavia-air.co.id",
+    "notes": "Founded in 2002. Ceased operations on 31 January 2013.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486237"
+  },
+  {
+    "name": "Mission Aviation Fellowship (MAF)",
+    "IATA": null,
+    "ICAO": "MAF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486253"
+  },
+  {
+    "name": "National Air Charter, PT.",
+    "IATA": null,
+    "ICAO": "NSR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486268"
+  },
+  {
+    "name": "PT. Jatayu Gelang Sejahtera",
+    "IATA": "JZ",
+    "ICAO": "JTY",
+    "website": "jatayuair.co.id",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486284"
+  },
+  {
+    "name": "Nurman Avia Indopura",
+    "IATA": null,
+    "ICAO": "NIN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486299"
+  },
+  {
+    "name": "PT. Pacific Royale Airways",
+    "IATA": "RY",
+    "ICAO": "PRQ",
+    "website": "www.pacificroyale.com",
+    "notes": "Ceased operations in November 2012. Founded Nov 2011. Commenced operations 11 June 2012. ICAO designator changed from ROY. ICAO callsign changed to Paxroy.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486317"
+  },
+  {
+    "name": "Pacific Royale Airways, PT.",
+    "IATA": null,
+    "ICAO": "ROY",
+    "website": "www.pacificroyale.com",
+    "notes": "ICAO designator changed to PRQ. ICAO callsign changed to Skyrider",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486335"
+  },
+  {
+    "name": "P.T. Pelita Air Service",
+    "IATA": null,
+    "ICAO": "PAS",
+    "website": "www.pelita-air.co.id",
+    "notes": "IATA designator changed to 6D. Designator 6D* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486351"
+  },
+  {
+    "name": "P.T. Pelita Air Service",
+    "IATA": "6D",
+    "ICAO": "PAS",
+    "website": "www.pelita-airventure.com",
+    "notes": "IATA designator changed from 6D*. Designator 6D* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486368"
+  },
+  {
+    "name": "PT Aerosystems Indonesia",
+    "IATA": "1T",
+    "ICAO": null,
+    "website": "www.asyst.co.id",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486383"
+  },
+  {
+    "name": "Pusdiklat Perhubungan Udara/Plp",
+    "IATA": null,
+    "ICAO": "UDA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486399"
+  },
+  {
+    "name": "PT. Republic Express Airlines",
+    "IATA": "RV",
+    "ICAO": "RPH",
+    "website": null,
+    "notes": "IATA designator changed to RH",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486423"
+  },
+  {
+    "name": "Republic Express Airlines, Pt.",
+    "IATA": "RH",
+    "ICAO": "RPH",
+    "website": "www.rpx.co.id",
+    "notes": "IATA designator changed from RV",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486441"
+  },
+  {
+    "name": "PT. Riau Airlines",
+    "IATA": null,
+    "ICAO": "RIU",
+    "website": "www.riau-airlines.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486458"
+  },
+  {
+    "name": "Sabang Merauke Raya Air Charter PT.",
+    "IATA": null,
+    "ICAO": "SMC",
+    "website": null,
+    "notes": "Name changed to SMAC (Sabang Merauke Raya Air Charter), PT.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486474"
+  },
+  {
+    "name": "P.T. Sempati Air",
+    "IATA": "SG",
+    "ICAO": "SSR",
+    "website": "web.singnet.com.sg/~images/welcome.html",
+    "notes": "Declared Bankrupt.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486491"
+  },
+  {
+    "name": "Sempati Air Transport P.T.",
+    "IATA": null,
+    "ICAO": "SMP",
+    "website": null,
+    "notes": "Ceased operations 1998",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486507"
+  },
+  {
+    "name": "Seulawah Air Services P.T.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486522"
+  },
+  {
+    "name": "Seulawah Nad Air",
+    "IATA": null,
+    "ICAO": "NAD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486538"
+  },
+  {
+    "name": "SMAC (Sabang Merauke Raya Air Charter), PT.",
+    "IATA": null,
+    "ICAO": "SMC",
+    "website": null,
+    "notes": "Name changed from Sabang Merauke Raya Air Charter PT.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486555"
+  },
+  {
+    "name": "Star Air",
+    "IATA": "5H",
+    "ICAO": "STQ",
+    "website": "www.starair-online.com",
+    "notes": "Designator 5H recalled by IATA. ICAO designator changed from STZ",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486571"
+  },
+  {
+    "name": "Star Air",
+    "IATA": "5H",
+    "ICAO": "STZ",
+    "website": null,
+    "notes": "ICAO designator changed to STQ",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486588"
+  },
+  {
+    "name": "Survey Udara (Penas) PT.",
+    "IATA": null,
+    "ICAO": "PNS",
+    "website": null,
+    "notes": "Name changed to Survey Udara Penas, PT.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486607"
+  },
+  {
+    "name": "Survey Udara Penas, PT.",
+    "IATA": null,
+    "ICAO": "PNS",
+    "website": null,
+    "notes": "Name changed from Survey Udara (Penas) PT.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486624"
+  },
+  {
+    "name": "Mandala Airlines, PT. t/a Tigerair Mandala",
+    "IATA": "RI",
+    "ICAO": "MDL",
+    "website": "www.mandalaair.com",
+    "notes": "Ceased operations on 01 July 2014. Designator RI reinstated by IATA. IATA designator changed from RI*. Name changed from PT. Mandala Airlines in 2010. Founded on 17 April 1969.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486642"
+  },
+  {
+    "name": "Transnusa Aviation Mandiri, PT.",
+    "IATA": "M8",
+    "ICAO": "TNU",
+    "website": "www.transnusa.co.id",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486658"
+  },
+  {
+    "name": "Tri-MG Intra Asia Airlines, PT.",
+    "IATA": "GY",
+    "ICAO": "TMG",
+    "website": "www.trimgairlines.com",
+    "notes": "Designator GY recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486675"
+  },
+  {
+    "name": "Whitesky Aviation Indonesia",
+    "IATA": null,
+    "ICAO": "KUR",
+    "website": "whitesky.co.id",
+    "notes": "Name changed from Kura Kura Aviation, PT. during 2010.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486693"
+  },
+  {
+    "name": "PT. Travel Express Aviation Services d/b/a Xpress Air",
+    "IATA": "XN",
+    "ICAO": "XAR",
+    "website": "www.xpressair.co.id",
+    "notes": "Name change from PT. Travel Express Aviation Services d/b/a Express Air during 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486710"
+  },
+  {
+    "name": "Zamrud Airlines P.T.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:42.486725"
+  }
+]

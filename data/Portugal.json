@@ -1,0 +1,1001 @@
+[
+  {
+    "name": "Aero Club de Portugal",
+    "IATA": null,
+    "ICAO": "CLP",
+    "website": "www.aecp.pt/default2.asp",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920228"
+  },
+  {
+    "name": "Aero Clube de Algarve",
+    "IATA": null,
+    "ICAO": "CGV",
+    "website": "aeroclubealgarve.no.sapo.pt",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920259"
+  },
+  {
+    "name": "Aeroclube de Coimbra",
+    "IATA": null,
+    "ICAO": "MOD",
+    "website": "www.aeroclubedecoimbra.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920278"
+  },
+  {
+    "name": "Aeronautical Academy of Europe - Academa Aeronautica de Evora, S.A.",
+    "IATA": null,
+    "ICAO": "EVR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920297"
+  },
+  {
+    "name": "AWA - Aeronautical Web Academy",
+    "IATA": null,
+    "ICAO": "WEY",
+    "website": "www.awa.pt",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920317"
+  },
+  {
+    "name": "Air Dream College",
+    "IATA": null,
+    "ICAO": "ADM",
+    "website": "airdreamcollege.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920335"
+  },
+  {
+    "name": "Airjetsul",
+    "IATA": null,
+    "ICAO": "AJU",
+    "website": "www.airjetsul.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920353"
+  },
+  {
+    "name": "Airnimbus",
+    "IATA": null,
+    "ICAO": "NIM",
+    "website": "www.jetopseurope.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920371"
+  },
+  {
+    "name": "SATA International Servicos e Transportes Aereos, S.A. t/a Azores Airlines",
+    "IATA": "S4",
+    "ICAO": "RZO",
+    "website": "www.azoresairlines.pt",
+    "notes": "Name changed from SATA International Servicos e Transportes Aereos, S.A.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920391"
+  },
+  {
+    "name": "Babcock Mission Critical Services Portugal Lda.",
+    "IATA": null,
+    "ICAO": "IHP",
+    "website": "www.babcockinternational.com/en/Locations/UK_Europe/Babcock%20MCS%20Portugal",
+    "notes": "Name changed from INAER Helicopter Portugal Lda.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920411"
+  },
+  {
+    "name": "Babcock Mission Critical Services Portugal",
+    "IATA": null,
+    "ICAO": "BBO",
+    "website": "www.babcockinternational.com",
+    "notes": "Formerly Helisul/INAER Portugal.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920430"
+  },
+  {
+    "name": "DBT-Transportes Aereos Lda (DB Aviation)",
+    "IATA": null,
+    "ICAO": "DBT",
+    "website": "www.dbaviation.eu",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920448"
+  },
+  {
+    "name": "EAA - Escola de Aviacao AeroCondor, S.A.",
+    "IATA": null,
+    "ICAO": "EAD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920465"
+  },
+  {
+    "name": "EJME (Portugal) Aircraft Management Ltda",
+    "IATA": null,
+    "ICAO": "JME",
+    "website": "www.ejme.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920483"
+  },
+  {
+    "name": "EMA S.A., Empresa de Melos Aereos",
+    "IATA": null,
+    "ICAO": "EML",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920502"
+  },
+  {
+    "name": "EuroAtlantic Airways Transportes Aereos, S.A.",
+    "IATA": "YU",
+    "ICAO": "MMZ",
+    "website": "www.euroatlantic.pt",
+    "notes": "IATA designator changed from MM*. Name changed from EuroAtlantic Airways, S.A. Formerly Air Zarco d/b/a Air Maderia",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920522"
+  },
+  {
+    "name": "Everjets - Aviacao Executiva, S.A.",
+    "IATA": null,
+    "ICAO": "EVJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920540"
+  },
+  {
+    "name": "Get High, Unipessoal Lda",
+    "IATA": null,
+    "ICAO": "GET",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920557"
+  },
+  {
+    "name": "Global Flight School",
+    "IATA": null,
+    "ICAO": "GSP",
+    "website": "www.gfs.pt",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920575"
+  },
+  {
+    "name": "Heliavia-Transporte Aereo, Lda",
+    "IATA": null,
+    "ICAO": "HEA",
+    "website": "www.heliavia.pt",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920592"
+  },
+  {
+    "name": "Helibravo Aviacao. Lda.",
+    "IATA": null,
+    "ICAO": "HIB",
+    "website": "www.helibravo.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920610"
+  },
+  {
+    "name": "Heliportugal - Trabalhos E Transporte Aereo, Representacoes, Importacao E Exportacao, Lda",
+    "IATA": null,
+    "ICAO": "HPL",
+    "website": "www.heliportugal.pt",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920628"
+  },
+  {
+    "name": "Springjet, S.A. t/a HiFly",
+    "IATA": "5K",
+    "ICAO": "HFY",
+    "website": "www.hifly.aero",
+    "notes": "Name changed from HiFly Transportes Aereos, S.A. w.e.f. 25 August 2021. Name changed from Air Luxor",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920647"
+  },
+  {
+    "name": "HTA Helicopteros, Lda",
+    "IATA": null,
+    "ICAO": "AHT",
+    "website": "www.htahelicopteros.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920664"
+  },
+  {
+    "name": "Orbest Airlines, S.L. d/b/a iberojet",
+    "IATA": "6O",
+    "ICAO": "OBS",
+    "website": "www.iberojet.com",
+    "notes": "Name changed from Orbest Airlines, S.L.  IATA desigantor changed from 4O",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920681"
+  },
+  {
+    "name": "IFA - Instituto de Formacao Aeronautica",
+    "IATA": null,
+    "ICAO": "IFJ",
+    "website": "www.ifajet-training.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920699"
+  },
+  {
+    "name": "Jetcapital Aviation",
+    "IATA": null,
+    "ICAO": "ILM",
+    "website": "www.jetcapital.eu",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920716"
+  },
+  {
+    "name": "Lease Fly",
+    "IATA": null,
+    "ICAO": "LZF",
+    "website": "lease-fly.com",
+    "notes": "Name changed from Airlinair during 2012.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920734"
+  },
+  {
+    "name": "Lowlevel, Lda",
+    "IATA": null,
+    "ICAO": "LWL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920751"
+  },
+  {
+    "name": "Luxaviation E.A, S.A.",
+    "IATA": null,
+    "ICAO": "LMJ",
+    "website": "www.luxaviation.com",
+    "notes": "Name changed from Masterjet Aviacao Executiva. Part of the Luxaviation Group. Luxaviation Portugal.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920770"
+  },
+  {
+    "name": "Madjet-Tranportes Aereos, S.A.",
+    "IATA": null,
+    "ICAO": "MJT",
+    "website": "www.madjet.pt",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920787"
+  },
+  {
+    "name": "Navegacao Aerea de Portugal, NAV, EP",
+    "IATA": null,
+    "ICAO": "NVP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920805"
+  },
+  {
+    "name": "Netjets, Transportes Aereos, S.A.",
+    "IATA": null,
+    "ICAO": "NJE",
+    "website": "www.netjets.com",
+    "notes": "ICAO callsign changed from Skyshare",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920822"
+  },
+  {
+    "name": "Nortavia",
+    "IATA": null,
+    "ICAO": "RTV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920839"
+  },
+  {
+    "name": "Omni - Aviacao E Tecnologia, Lda",
+    "IATA": null,
+    "ICAO": "OAV",
+    "website": "www.omni.pt",
+    "notes": "Designator OC recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920858"
+  },
+  {
+    "name": "Omni Aviation Training Center",
+    "IATA": null,
+    "ICAO": "ONI",
+    "website": "www.oatc.pt",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920875"
+  },
+  {
+    "name": "Perfect Aviaton SA",
+    "IATA": null,
+    "ICAO": "PEF",
+    "website": "www.perfect.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920892"
+  },
+  {
+    "name": "PHS Premium Aviation and Handling Services, Sociedada Unipessoal Lda",
+    "IATA": null,
+    "ICAO": "PSU",
+    "website": "phsaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920910"
+  },
+  {
+    "name": "Portuguese Air Force",
+    "IATA": null,
+    "ICAO": "AFP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920927"
+  },
+  {
+    "name": "Portuguese Army",
+    "IATA": null,
+    "ICAO": "POA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920945"
+  },
+  {
+    "name": "Portuguese Navy",
+    "IATA": null,
+    "ICAO": "PON",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920962"
+  },
+  {
+    "name": "Publivoo, Publicidade E imagens Aereas Lda",
+    "IATA": null,
+    "ICAO": "PUV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920980"
+  },
+  {
+    "name": "SATA - Air Acores",
+    "IATA": "SP",
+    "ICAO": "SAT",
+    "website": "www.sata.pt",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.920997"
+  },
+  {
+    "name": "Sevenair Air Services",
+    "IATA": null,
+    "ICAO": "RVP",
+    "website": "airservices.sevenair.com",
+    "notes": "Name changed to Sevenair Air Services. ICAO callsign changed from Aerovip.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.921015"
+  },
+  {
+    "name": "Taespejo Portugal, Lda",
+    "IATA": null,
+    "ICAO": "TES",
+    "website": "www.taespejo.net",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.921032"
+  },
+  {
+    "name": "Portugalia - Companhia Portuguesa de Transportes Aereos SA",
+    "IATA": "NI",
+    "ICAO": "PGA",
+    "website": "www.portugalia-airlines.pt",
+    "notes": "Founded on 25 July 1988. Commenced operation on 07 July 1990. Rebranded as TAP Express on 27 March 2016.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.921050"
+  },
+  {
+    "name": "TAP Portugal",
+    "IATA": "TP",
+    "ICAO": "TAP",
+    "website": "www.flytap.com",
+    "notes": "Name changed from TAP - Air Portugal",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.921067"
+  },
+  {
+    "name": "Valair-Aviacao, Lda",
+    "IATA": null,
+    "ICAO": "VVV",
+    "website": "www.valairprivatejets.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.921083"
+  },
+  {
+    "name": "White Airways S.A.",
+    "IATA": "WI",
+    "ICAO": "WHT",
+    "website": "www.flywhite.com",
+    "notes": "Accounting Code reinstated by IATA. Name change from YES - Linhas Aereas Charter, S.A. - Yestours. ICAO designator changed from YSS",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.921101"
+  },
+  {
+    "name": "World 2 Fly Portugal, S.A.",
+    "IATA": "3P",
+    "ICAO": "WPT",
+    "website": "www.w2fly.es",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:16.921118"
+  },
+  {
+    "name": "Aero Algarve, Lda",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.aeroalgarve.com",
+    "notes": "Established in 1976. ICAO designator DSk cancelled.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921136"
+  },
+  {
+    "name": "Windavia",
+    "IATA": null,
+    "ICAO": null,
+    "website": "flywindavia.com",
+    "notes": "Operations commenced 11 December 2013.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921154"
+  },
+  {
+    "name": "ACEF - Transportes Aereos Cargas, Lda",
+    "IATA": null,
+    "ICAO": "CFM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921170"
+  },
+  {
+    "name": "Aero Algarve, Lda",
+    "IATA": null,
+    "ICAO": "DSK",
+    "website": "www.aeroalgarve.com",
+    "notes": "Established in 1976",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921187"
+  },
+  {
+    "name": "Aero Fenix",
+    "IATA": null,
+    "ICAO": "FNX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921204"
+  },
+  {
+    "name": "Aero V.I.P. Companhia de Transportes e Servicos Aereos, S.A.",
+    "IATA": null,
+    "ICAO": "RVP",
+    "website": "www.aerovip.pt",
+    "notes": "ICAO callsign changed to Sevair.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921222"
+  },
+  {
+    "name": "Aero Vilamoura",
+    "IATA": null,
+    "ICAO": "VMR",
+    "website": "www.aerovilamoura.pt",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921238"
+  },
+  {
+    "name": "Aero-Alentejo, Servicos Aereos, Lda.",
+    "IATA": null,
+    "ICAO": "ANJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921254"
+  },
+  {
+    "name": "Aerobeira, Sociedade de Transportes Aereos Lda",
+    "IATA": null,
+    "ICAO": "ARA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921271"
+  },
+  {
+    "name": "ATA Aerocondor Transportes A\u00e9reos Lda.",
+    "IATA": "2B",
+    "ICAO": "ARD",
+    "website": "www.aerocondor.com",
+    "notes": "Suspended operation in May 2008. Designator 2B reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921289"
+  },
+  {
+    "name": "Aerocondor Transportes Aereos Lda.",
+    "IATA": "2B",
+    "ICAO": "ATA",
+    "website": null,
+    "notes": "ICAO designator changed to ARD",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921306"
+  },
+  {
+    "name": "Aerocondor Transportes Aereos Lda.",
+    "IATA": null,
+    "ICAO": "ARD",
+    "website": null,
+    "notes": "IATA designator changed from 2B",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921324"
+  },
+  {
+    "name": "Aeronorte - Transportes Aereos, Lda",
+    "IATA": null,
+    "ICAO": "RTE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921341"
+  },
+  {
+    "name": "Aeropiloto - Sociedade Exploradora de Servicos Aereos, Lda.",
+    "IATA": null,
+    "ICAO": "AOP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921358"
+  },
+  {
+    "name": "Agroar - Trabalhos Aereos Lda.",
+    "IATA": null,
+    "ICAO": "GRR",
+    "website": null,
+    "notes": "Founded in 1992. Ceased operations during 2005.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921375"
+  },
+  {
+    "name": "Air Atlantic Sarl",
+    "IATA": "SL",
+    "ICAO": "AIA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921392"
+  },
+  {
+    "name": "Air Atlantis",
+    "IATA": "EJ",
+    "ICAO": "AIA",
+    "website": null,
+    "notes": "Commenced operations in May 1985. Ceased operations on 30 April 1993. Aircraft transferred to parent company TAP Air Portugal",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921409"
+  },
+  {
+    "name": "Air Columbus",
+    "IATA": null,
+    "ICAO": "CNB",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921426"
+  },
+  {
+    "name": "Air Luxor, S.A.",
+    "IATA": "LK",
+    "ICAO": "LXR",
+    "website": "www.airluxor.com",
+    "notes": "Ceased operations in October 2006. Some aircraft transferred to Hi fly. ICAO Callsign changed from Airluxor",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921444"
+  },
+  {
+    "name": "Air Luxor, S.A.",
+    "IATA": "LK",
+    "ICAO": "LXR",
+    "website": "www.airluxor.com",
+    "notes": "ICAO Callsign changed to Luxor",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921462"
+  },
+  {
+    "name": "Air Madeira, S.A.",
+    "IATA": null,
+    "ICAO": "MMZ",
+    "website": null,
+    "notes": "Name changed to Air Zarco",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921479"
+  },
+  {
+    "name": "Air Zarco t/a Air Maderia",
+    "IATA": null,
+    "ICAO": "MMZ",
+    "website": null,
+    "notes": "Formerly Air Madeira S.A. Name changed to EuroAtlantic Airways \u2013 Transportes A\u00e9reos S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921503"
+  },
+  {
+    "name": "Airlinair",
+    "IATA": null,
+    "ICAO": "RLP",
+    "website": "www.airlinairportugal.com",
+    "notes": "Name changed to Lease Fly during 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921521"
+  },
+  {
+    "name": "Airsul - Transporte A\u00e9reo N\u00e3o Regular",
+    "IATA": "FK",
+    "ICAO": "SUL",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921538"
+  },
+  {
+    "name": "Algarvilara, Transportes Aereos Algarvios, S.A.",
+    "IATA": null,
+    "ICAO": "ALR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921555"
+  },
+  {
+    "name": "Avialgarve, Taxis Aereos Do Algarve, Lda",
+    "IATA": null,
+    "ICAO": "AVG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921572"
+  },
+  {
+    "name": "Direccao-General da Aeronautica Civil Portugal (Aircraft)",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921587"
+  },
+  {
+    "name": "Erfoto",
+    "IATA": null,
+    "ICAO": "ERF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921604"
+  },
+  {
+    "name": "Erfoto",
+    "IATA": null,
+    "ICAO": "EFR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921619"
+  },
+  {
+    "name": "EuroAtlantic Airways, S.A.",
+    "IATA": null,
+    "ICAO": "MMZ",
+    "website": "www.euroatlantic.pt",
+    "notes": "IATA designator changed to YU. Formerly Air Zarco d/b/a Air Maderia",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921637"
+  },
+  {
+    "name": "EuroAtlantic Airways, S.A.",
+    "IATA": "YU",
+    "ICAO": "MMZ",
+    "website": "www.euroatlantic.pt",
+    "notes": "IATA designator changed from MM*. Name changed to EuroAtlantic Airways Transportes Aereos, S.A. Formerly Air Zarco d/b/a Air Maderia",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921655"
+  },
+  {
+    "name": "Heliservico - Sociedade Portuguesa De Exploracao De Meios Aerecs, Lda.",
+    "IATA": null,
+    "ICAO": "HSV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921671"
+  },
+  {
+    "name": "Helisul",
+    "IATA": null,
+    "ICAO": "HSU",
+    "website": "www.helisul.pt",
+    "notes": "Merged into INAER.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921688"
+  },
+  {
+    "name": "HiFly Transportes Aereos, S.A.",
+    "IATA": "5K",
+    "ICAO": "HFY",
+    "website": "www.hifly.aero",
+    "notes": "Name changed to Springjet, S.A. t/a HiFly w.e.f. 25 August 2021. Name changed from Air Luxor",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921705"
+  },
+  {
+    "name": "HiFly Transportes Aereos, S.A.",
+    "IATA": "5K",
+    "ICAO": "HFY",
+    "website": "www.hifly.aero",
+    "notes": "Name changed from Air Luxor",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921722"
+  },
+  {
+    "name": "Imaer",
+    "IATA": null,
+    "ICAO": "IMR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921738"
+  },
+  {
+    "name": "INAER Helicopter Portugal Lda",
+    "IATA": null,
+    "ICAO": "IHP",
+    "website": "www.inaerportugal.pt",
+    "notes": "Name changed to Babcock Mission Critical Services Portugal Lda.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921755"
+  },
+  {
+    "name": "LAR Transregional, Linhas Aerea Regionais, S.A.",
+    "IATA": null,
+    "ICAO": "PDF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921771"
+  },
+  {
+    "name": "LAR Transregional, Linhas Aerea Regionais, S.A.",
+    "IATA": "TH",
+    "ICAO": "PDF",
+    "website": null,
+    "notes": "Designator TH recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921787"
+  },
+  {
+    "name": "Lusitanair - Transportes A\u00e9reos Comerciais SA",
+    "IATA": null,
+    "ICAO": "LUS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921802"
+  },
+  {
+    "name": "Lusitania Airways",
+    "IATA": null,
+    "ICAO": "LUA",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921818"
+  },
+  {
+    "name": "Luzair Transportes Aereos, S.A.",
+    "IATA": null,
+    "ICAO": "LUZ",
+    "website": "www.luzair.com",
+    "notes": "Founded 1997. Suspended operations in January 2011.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921835"
+  },
+  {
+    "name": "Masterjet Aviacao Executiva",
+    "IATA": null,
+    "ICAO": "LMJ",
+    "website": "www.masterjet.net",
+    "notes": "Name changed to Luxaviation E.A, S.A. Part of the Luxaviation Group. Luxaviation Portugal.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921852"
+  },
+  {
+    "name": "Netjets, Transportes Aereos, S.A.",
+    "IATA": null,
+    "ICAO": "NJE",
+    "website": "www.netjets.com",
+    "notes": "ICAO callsign changed to Fraction",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921868"
+  },
+  {
+    "name": "Novair - Aviacao Geral, S.A.",
+    "IATA": null,
+    "ICAO": "NOP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921884"
+  },
+  {
+    "name": "Oceanair - Transportes Aereos Regionals, S.A.",
+    "IATA": null,
+    "ICAO": "OCN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921900"
+  },
+  {
+    "name": "Omni - Aviacao E Tecnologia, Lda",
+    "IATA": "OC",
+    "ICAO": "OAV",
+    "website": "www.omni.pt",
+    "notes": "Designator OC recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921916"
+  },
+  {
+    "name": "Orbest Airlines, S.L.",
+    "IATA": "4O",
+    "ICAO": "OBS",
+    "website": "www.orbest.pt",
+    "notes": "IATA desigantor changed to 6O. Subsidary of Iberworld, Spain.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921932"
+  },
+  {
+    "name": "Orbest Airlines, S.L.",
+    "IATA": "6O",
+    "ICAO": "OBS",
+    "website": "www.orbest.pt",
+    "notes": "Name changed to Orbest Airlines, S.L. d/b/a iberojet.  IATA desigantor changed from 4O. Subsidary of Iberworld, Spain.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921950"
+  },
+  {
+    "name": "SATA - Air Acores",
+    "IATA": "S4",
+    "ICAO": "RZO",
+    "website": "www.sata.pt",
+    "notes": "IATA designator changed from SP",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921966"
+  },
+  {
+    "name": "SATA International Servicos e Transportes Aereos, S.A.",
+    "IATA": "S4",
+    "ICAO": "RZO",
+    "website": "www.sata.pt",
+    "notes": "Name changed to SATA International Servicos e Transportes Aereos, S.A. t/a Azores Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.921984"
+  },
+  {
+    "name": "Sociedade Acoriana de Tranportes Aereos, Lda. (SATA)",
+    "IATA": "SP",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.922000"
+  },
+  {
+    "name": "Sociedade Portuguesa de Helicopteros, Lda. (SPH)",
+    "IATA": null,
+    "ICAO": "SPH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.922015"
+  },
+  {
+    "name": "TAP - Air Portugal",
+    "IATA": "TP",
+    "ICAO": "TAP",
+    "website": "www.tap-airportugal.pt",
+    "notes": "Name changed to TAP Portugal. Name changed from Transportes Aereos Portugueses, E.P.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.922032"
+  },
+  {
+    "name": "Transportes Aereos Portugueses, E.P.",
+    "IATA": "TP",
+    "ICAO": "TAP",
+    "website": "www.tap-airportugal.pt",
+    "notes": "Name changed to TAP - Air Portugal",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.922049"
+  },
+  {
+    "name": "Vinair - Helicopteros, Limitada",
+    "IATA": null,
+    "ICAO": "VIN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.922065"
+  },
+  {
+    "name": "White Airways S.A.",
+    "IATA": null,
+    "ICAO": "WHT",
+    "website": "www.flywhite.eu",
+    "notes": "Accounting Code reinstated by IATA. Name change from YES - Linhas Aereas Charter, S.A. - Yestours. ICAO designator changed from YSS",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.922083"
+  },
+  {
+    "name": "White Airways S.A.",
+    "IATA": null,
+    "ICAO": "WHT",
+    "website": null,
+    "notes": "Accounting Code recalled by IATA. Name change from YES - Linhas Aereas Charter, S.A. - Yestours. ICAO designator changed from YSS",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.922101"
+  },
+  {
+    "name": "White Airways S.A.",
+    "IATA": "WI",
+    "ICAO": "WHT",
+    "website": "www.flywhite.eu",
+    "notes": "Accounting Code reinstated by IATA. Name change from YES - Linhas Aereas Charter, S.A. - Yestours. ICAO designator changed from YSS",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.922118"
+  },
+  {
+    "name": "YES - Linhas Aereas Charter, S.A. - Yestours",
+    "IATA": null,
+    "ICAO": "YSS",
+    "website": "www.yes-charter.pt",
+    "notes": "Name change to White Airways S.A. ICAO designator changed to WHT.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.922136"
+  },
+  {
+    "name": "INAC - Instituto Nacional de Aviacao Civil",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.inac.pt",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:16.922153"
+  }
+]

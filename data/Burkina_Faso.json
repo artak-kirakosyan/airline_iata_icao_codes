@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Air Burkina",
+    "IATA": "2J",
+    "ICAO": "VBW",
+    "website": "www.air-burkina.com",
+    "notes": "IATA designator changed from VH",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:12.644681"
+  },
+  {
+    "name": "Ariella Airlines S.A.",
+    "IATA": "EL",
+    "ICAO": "RIE",
+    "website": "www.flyariella.com",
+    "notes": "IATA designator changed from RI.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:12.644709"
+  },
+  {
+    "name": "Colombe Airline",
+    "IATA": null,
+    "ICAO": null,
+    "website": "colombeairline.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:12.644726"
+  },
+  {
+    "name": "Compagnie Nationale Naganagani",
+    "IATA": null,
+    "ICAO": "BFN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:12.644743"
+  },
+  {
+    "name": "Eco Airways S.A.",
+    "IATA": null,
+    "ICAO": "ECW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:12.644758"
+  },
+  {
+    "name": "Global Aviation",
+    "IATA": null,
+    "ICAO": "GBF",
+    "website": "flyglobalaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:12.644774"
+  },
+  {
+    "name": "Kangala Air Express",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Planned start up with ATR72-500",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:12.644791"
+  },
+  {
+    "name": "Liz Aviation SA",
+    "IATA": "L0",
+    "ICAO": "LAZ",
+    "website": "www.lizaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:12.644806"
+  },
+  {
+    "name": "Presidence du Faso",
+    "IATA": null,
+    "ICAO": "BFA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:12.644821"
+  },
+  {
+    "name": "Air Burkina",
+    "IATA": "VH",
+    "ICAO": "VBW",
+    "website": null,
+    "notes": "IATA designator changed to 2J. Name changed from Air Volta",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:12.644838"
+  },
+  {
+    "name": "Air Volta",
+    "IATA": "VH",
+    "ICAO": "VBW",
+    "website": null,
+    "notes": "Name changed to Air Burkina",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:12.644853"
+  },
+  {
+    "name": "Ariella S.A.",
+    "IATA": null,
+    "ICAO": "RIE",
+    "website": "www.flyariella.com",
+    "notes": "IATA designator changed to EL.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:12.644870"
+  },
+  {
+    "name": "Burkina Airlines",
+    "IATA": "3B",
+    "ICAO": "BFR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:12.644886"
+  },
+  {
+    "name": "Faso Airways SARL",
+    "IATA": "F3",
+    "ICAO": "FSW",
+    "website": "www.fasoairways.com",
+    "notes": "Established in 2000. Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:12.644902"
+  },
+  {
+    "name": "Transafricaine S.A.",
+    "IATA": null,
+    "ICAO": "TNF",
+    "website": null,
+    "notes": "Accounting Code 917 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:12.644918"
+  },
+  {
+    "name": "Transafricaine Air Cargo",
+    "IATA": "T3",
+    "ICAO": "TCG",
+    "website": null,
+    "notes": "Designator T3 recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:12.644934"
+  }
+]

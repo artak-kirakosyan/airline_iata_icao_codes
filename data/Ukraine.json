@@ -1,0 +1,1793 @@
+[
+  {
+    "name": "Aerojet Airlines",
+    "IATA": null,
+    "ICAO": "BJU",
+    "website": "www.flyaerojet.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.029664"
+  },
+  {
+    "name": "Ukrainian Aviation Company \"Aerostar\"",
+    "IATA": null,
+    "ICAO": "UAR",
+    "website": "www.aerostar.com.ua",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.029700"
+  },
+  {
+    "name": "AeroVis Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "VIZ",
+    "website": "www.aerovis.aero",
+    "notes": "Founded in 2003.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.029720"
+  },
+  {
+    "name": "Air Columbus",
+    "IATA": null,
+    "ICAO": "CBS",
+    "website": null,
+    "notes": "Name changed from Columbus Avia",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.029738"
+  },
+  {
+    "name": "Air Ocean Airlines LLC",
+    "IATA": null,
+    "ICAO": "AOA",
+    "website": "airocean.com.ua",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.029758"
+  },
+  {
+    "name": "Air Taurus LLC",
+    "IATA": null,
+    "ICAO": "AIT",
+    "website": "www.airtaurus.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.029777"
+  },
+  {
+    "name": "Air Urga",
+    "IATA": null,
+    "ICAO": "URG",
+    "website": "www.urga..com.ua",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.029796"
+  },
+  {
+    "name": "Aircompany Rosavia Ltd.",
+    "IATA": null,
+    "ICAO": "URA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.029815"
+  },
+  {
+    "name": "Airport Handling",
+    "IATA": null,
+    "ICAO": "LLH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.029834"
+  },
+  {
+    "name": "Alanna Limited Trust Distribution",
+    "IATA": null,
+    "ICAO": "ALQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.029852"
+  },
+  {
+    "name": "Antonov Design Bureau / Antonov Airlines",
+    "IATA": null,
+    "ICAO": "ADB",
+    "website": "www.antonov.com",
+    "notes": "Changed from registered in Russian Federation",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.029872"
+  },
+  {
+    "name": "ATS, Private Company",
+    "IATA": null,
+    "ICAO": "TCS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.029891"
+  },
+  {
+    "name": "Bees Airline, LLC",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "New charter airline planned to startup with two former UIA B737-800.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.029910"
+  },
+  {
+    "name": "Limited Liability Company  Bees Airline",
+    "IATA": "7B",
+    "ICAO": "UBE",
+    "website": "bees.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.029928"
+  },
+  {
+    "name": "Bravo Airways",
+    "IATA": null,
+    "ICAO": "BAY",
+    "website": "www.bravoairways.com.ua",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.029946"
+  },
+  {
+    "name": "Breeze Ltd.",
+    "IATA": null,
+    "ICAO": "BRE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.029966"
+  },
+  {
+    "name": "Open Joint-stock company Bukovyna",
+    "IATA": null,
+    "ICAO": "BKV",
+    "website": null,
+    "notes": "Designator BQ recalled by IATA. Founded in 1999.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.029987"
+  },
+  {
+    "name": "Cavok Air",
+    "IATA": null,
+    "ICAO": "CVK",
+    "website": "www.cavok.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.030006"
+  },
+  {
+    "name": "PJSC Airline Constanta",
+    "IATA": null,
+    "ICAO": "UZA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.030023"
+  },
+  {
+    "name": "Dniproaviaservis Company",
+    "IATA": null,
+    "ICAO": "DNS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.030041"
+  },
+  {
+    "name": "East-West Express LLC",
+    "IATA": null,
+    "ICAO": "EWU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.030059"
+  },
+  {
+    "name": "LLC Aviation Company Eleron",
+    "IATA": null,
+    "ICAO": "VVA",
+    "website": "aileron.com.ua",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.030078"
+  },
+  {
+    "name": "Fly Sky Airlines",
+    "IATA": null,
+    "ICAO": "FSU",
+    "website": "www.flysky.co",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.030095"
+  },
+  {
+    "name": "Global Air Company LLP",
+    "IATA": null,
+    "ICAO": "GLB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.030112"
+  },
+  {
+    "name": "Aircompany Jonika LLC",
+    "IATA": null,
+    "ICAO": "JNK",
+    "website": "www.jonika.com.ua",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.030130"
+  },
+  {
+    "name": "Khoriv-Avia, State Enterprise",
+    "IATA": null,
+    "ICAO": "KRV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.030149"
+  },
+  {
+    "name": "Kremenchuk Flight College",
+    "IATA": null,
+    "ICAO": "KFC",
+    "website": "www.flightcollege.com.ua",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.030169"
+  },
+  {
+    "name": "Kroonk, Air Agency Ltd.",
+    "IATA": null,
+    "ICAO": "KRO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.030187"
+  },
+  {
+    "name": "LLC H3Operations",
+    "IATA": null,
+    "ICAO": "UHO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.030205"
+  },
+  {
+    "name": "Maximus Airlines",
+    "IATA": "6M",
+    "ICAO": "MXM",
+    "website": "www.maximus.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.030224"
+  },
+  {
+    "name": "LLC Aircompany MERIDIAN",
+    "IATA": null,
+    "ICAO": "MEM",
+    "website": "mem.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.030243"
+  },
+  {
+    "name": "Motor-Sich, JSC",
+    "IATA": "M9",
+    "ICAO": "MSI",
+    "website": "www.motorsich.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.030260"
+  },
+  {
+    "name": "Nikolaev-Air, Airline of Special Purpose",
+    "IATA": null,
+    "ICAO": "NKV",
+    "website": null,
+    "notes": "Name changed from Nikolaev Universal Avia",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.030280"
+  },
+  {
+    "name": "Odessa Aircraft Plant",
+    "IATA": null,
+    "ICAO": "OAZ",
+    "website": "www.avirs.ua",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.030300"
+  },
+  {
+    "name": "Sky Handling",
+    "IATA": null,
+    "ICAO": "SYH",
+    "website": "skyhandling.com.ua",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.030319"
+  },
+  {
+    "name": "Skyline Express Airline LLC",
+    "IATA": "QU",
+    "ICAO": "UTN",
+    "website": null,
+    "notes": "Name changed from Azur Air Ukraine Airlines LLC w.e.f. 27 March 2023. Name changed from Airline Utair - Ukraine w.e.f. October 2015.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.030342"
+  },
+  {
+    "name": "SkyUp Airlines",
+    "IATA": "PQ",
+    "ICAO": "SQP",
+    "website": "www.skyup.aero",
+    "notes": "ICAO code changed from KUP w.e.f. 17 August 2018.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.030361"
+  },
+  {
+    "name": "State Air Traffic Service Enterprise",
+    "IATA": null,
+    "ICAO": "UTS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.030379"
+  },
+  {
+    "name": "State Flight Academy Of Ukraine, The",
+    "IATA": null,
+    "ICAO": "UFA",
+    "website": "www.sfaou.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.030399"
+  },
+  {
+    "name": "Supernova Airlines LLC",
+    "IATA": "P7",
+    "ICAO": "NPG",
+    "website": "supernova.aero",
+    "notes": "Owned by Nova Poshta.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.030427"
+  },
+  {
+    "name": "Ukraine Air Enterprise",
+    "IATA": null,
+    "ICAO": "UKN",
+    "website": "www.saeukraine.org.ua",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.030448"
+  },
+  {
+    "name": "Private Stock Company \"Ukraine International Airlines\"",
+    "IATA": "PS",
+    "ICAO": "AUI",
+    "website": "www.flyuia.com",
+    "notes": "Name changed from Ukraine International Airlines",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.030469"
+  },
+  {
+    "name": "PJSC Ukraine-Airalliance",
+    "IATA": null,
+    "ICAO": "UKL",
+    "website": "www.uaa-avia.com",
+    "notes": "Founded in 1992.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.030488"
+  },
+  {
+    "name": "Ukrainian Handling Company LLC",
+    "IATA": null,
+    "ICAO": "UHC",
+    "website": "uhc.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.030508"
+  },
+  {
+    "name": "Aviation Company Ukrainian Helicopters",
+    "IATA": null,
+    "ICAO": "UHL",
+    "website": "ukrcopter.com",
+    "notes": "Name changed from Ukrainian Helicopters, CJS Company.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.030528"
+  },
+  {
+    "name": "Ukrainian Pilot School",
+    "IATA": null,
+    "ICAO": "UPL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.030546"
+  },
+  {
+    "name": "Ukrainian Wings",
+    "IATA": null,
+    "ICAO": "UWJ",
+    "website": "www.uawings.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.030567"
+  },
+  {
+    "name": "V-Avia Airline Ltd",
+    "IATA": null,
+    "ICAO": "WIW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.030586"
+  },
+  {
+    "name": "Vulkan Air, LLC",
+    "IATA": null,
+    "ICAO": "VKA",
+    "website": "www.vulkanair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.030605"
+  },
+  {
+    "name": "Wind Rose Aviation Company Ltd t/a WINDROSE Airlines",
+    "IATA": "7W",
+    "ICAO": "WRC",
+    "website": "www.windrose.aero",
+    "notes": "IATA designator changed from 7W*.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.030625"
+  },
+  {
+    "name": "LLC Xena",
+    "IATA": null,
+    "ICAO": "MRV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.030645"
+  },
+  {
+    "name": "Yan Air Ltd.",
+    "IATA": "YE",
+    "ICAO": "ANR",
+    "website": "www.yanair.com.ua",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.030663"
+  },
+  {
+    "name": "Z-Aero Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "KVZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.030681"
+  },
+  {
+    "name": "Zetavia Limited, Aircompany",
+    "IATA": null,
+    "ICAO": "ZAV",
+    "website": "zetavia.net",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:30.030699"
+  },
+  {
+    "name": "Joint Stock Company \"Air Company Aero-Charter\"",
+    "IATA": "DW",
+    "ICAO": "UCR",
+    "website": "www.acr-air.com",
+    "notes": "Founded in 1997. Ceased operations. Name changed from Aero-Charter Ukraine Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.030719"
+  },
+  {
+    "name": "Aero-Charter Ukraine Ltd.",
+    "IATA": null,
+    "ICAO": "UCR",
+    "website": null,
+    "notes": "Name changed to Joint Stock Company \"Air Company Aero-Charter\"",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.030738"
+  },
+  {
+    "name": "Aeroleasing Ukraine",
+    "IATA": null,
+    "ICAO": "AGK",
+    "website": null,
+    "notes": "Name changed to TAG Aviation Ukraine Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.030758"
+  },
+  {
+    "name": "Aerolux Air Company",
+    "IATA": null,
+    "ICAO": "KAD",
+    "website": null,
+    "notes": "Ceased operations in 2010. Name changed from Air Kirovograd Compania Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.030778"
+  },
+  {
+    "name": "Aerolux Air Company, Open Joint Stock Company",
+    "IATA": null,
+    "ICAO": "RLX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.030799"
+  },
+  {
+    "name": "Aeromist - Kharkiv Ltd.",
+    "IATA": "HT",
+    "ICAO": "AHW",
+    "website": "www.aeromost.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.030820"
+  },
+  {
+    "name": "Aeronavigaciya Ltd",
+    "IATA": null,
+    "ICAO": "KTN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.030839"
+  },
+  {
+    "name": "AeroSvit Airlines private stock company",
+    "IATA": "VV",
+    "ICAO": "AEW",
+    "website": "www.aerosvit.com",
+    "notes": "Founded on 25 March 1994. Commenced operations in April 1994. Ceased operations in January 2013.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.030860"
+  },
+  {
+    "name": "Aerotrans, Closed Joint-Stock Aircompany",
+    "IATA": null,
+    "ICAO": "UTR",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.030881"
+  },
+  {
+    "name": "Air Alanna Limited Trust distribution",
+    "IATA": null,
+    "ICAO": "ALX",
+    "website": "airalanna.com.ua",
+    "notes": "Ceased operations on 10 December 2018.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.030901"
+  },
+  {
+    "name": "Air Anastasia Ltd",
+    "IATA": null,
+    "ICAO": "RUD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.030921"
+  },
+  {
+    "name": "Air Busol",
+    "IATA": null,
+    "ICAO": "BUA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.030939"
+  },
+  {
+    "name": "Air Kirovograd Compania Airlines",
+    "IATA": null,
+    "ICAO": "KAD",
+    "website": null,
+    "notes": "Name changed to Aerolux Air Company",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.030959"
+  },
+  {
+    "name": "Closed Joint-Stock Company Air Onix Airlines",
+    "IATA": "OG",
+    "ICAO": "ONX",
+    "website": "www.aironix.ua/eng_index.php",
+    "notes": "Ceased operations on 12 December 2013. Incorporated on 27 June 2007",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.030981"
+  },
+  {
+    "name": "Air Ukraine",
+    "IATA": "6U",
+    "ICAO": "UKR",
+    "website": "www.airukraine.com",
+    "notes": "Founded in 1992. Suspended operations in 2002. AOC revoked in 2004.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031001"
+  },
+  {
+    "name": "Aircompany Airlines Kharkov",
+    "IATA": null,
+    "ICAO": "KHV",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031020"
+  },
+  {
+    "name": "Aircompany ATI",
+    "IATA": null,
+    "ICAO": "TII",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031039"
+  },
+  {
+    "name": "Aircompany Duncan Ltd.",
+    "IATA": null,
+    "ICAO": "DUC",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031058"
+  },
+  {
+    "name": "Aircompany Helios",
+    "IATA": null,
+    "ICAO": "HEO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031077"
+  },
+  {
+    "name": "Aircompany Tavria-Mac",
+    "IATA": "BE",
+    "ICAO": "TVM",
+    "website": null,
+    "notes": "Designator Be recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031097"
+  },
+  {
+    "name": "Airtechservice Ltd.",
+    "IATA": null,
+    "ICAO": "CPF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031116"
+  },
+  {
+    "name": "Alpha Air LLC",
+    "IATA": null,
+    "ICAO": "AAG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031134"
+  },
+  {
+    "name": "Anda Air LLC",
+    "IATA": "DM",
+    "ICAO": "SSV",
+    "website": "www.anda-air.aero",
+    "notes": "Commenced operations on 22 October 2016.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031153"
+  },
+  {
+    "name": "Antanik-Air",
+    "IATA": null,
+    "ICAO": "NAU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031172"
+  },
+  {
+    "name": "Antonov Airtracker",
+    "IATA": null,
+    "ICAO": "UAP",
+    "website": "www.antonovaircargo.com",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031192"
+  },
+  {
+    "name": "ARP 410 Airlines",
+    "IATA": null,
+    "ICAO": "URP",
+    "website": "www.arp410.com.ua/ru/actt/",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031212"
+  },
+  {
+    "name": "Artem-Avia",
+    "IATA": null,
+    "ICAO": "ABA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031230"
+  },
+  {
+    "name": "As, Opened Joint Stock Company",
+    "IATA": null,
+    "ICAO": "AOO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031250"
+  },
+  {
+    "name": "Asov.Avia, Aircompany",
+    "IATA": null,
+    "ICAO": "AZV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031268"
+  },
+  {
+    "name": "AtlasJet Ukraine",
+    "IATA": "UH",
+    "ICAO": "UJX",
+    "website": "www.atlasjet.com",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031287"
+  },
+  {
+    "name": "Avanty",
+    "IATA": null,
+    "ICAO": "VTU",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031305"
+  },
+  {
+    "name": "AviaExpress, Aircompany",
+    "IATA": null,
+    "ICAO": "VXX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031322"
+  },
+  {
+    "name": "Aviaton",
+    "IATA": null,
+    "ICAO": "UAN",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031341"
+  },
+  {
+    "name": "Aviatrans K Ltd, Air Company",
+    "IATA": null,
+    "ICAO": "KCA",
+    "website": null,
+    "notes": "Name changed from Trans-Kiev.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031360"
+  },
+  {
+    "name": "Avilond Airline",
+    "IATA": null,
+    "ICAO": "LON",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031379"
+  },
+  {
+    "name": "Avirciti Ltd, Joint Venture",
+    "IATA": null,
+    "ICAO": "VTI",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031397"
+  },
+  {
+    "name": "Avis",
+    "IATA": null,
+    "ICAO": "AIO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031416"
+  },
+  {
+    "name": "Azur Air Ukraine Airlines LLC",
+    "IATA": "QU",
+    "ICAO": "UTN",
+    "website": "azurair.ua",
+    "notes": "Name changed to Skyline Express Airline w.e.f. 27 March 2023. Name changed from Airline Utair - Ukraine w.e.f. October 2015.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031437"
+  },
+  {
+    "name": "Aircompany Black Sea Airlines LLC",
+    "IATA": null,
+    "ICAO": "ODA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031455"
+  },
+  {
+    "name": "BT-Slavuta",
+    "IATA": null,
+    "ICAO": "BTT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031476"
+  },
+  {
+    "name": "Open Joint-stock company Bukovyna",
+    "IATA": "BQ",
+    "ICAO": "BKV",
+    "website": null,
+    "notes": "Designator BQ recalled by IATA. Founded in 1999.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031496"
+  },
+  {
+    "name": "Business Aviation Center JSC",
+    "IATA": null,
+    "ICAO": "BCV",
+    "website": "bac.aero",
+    "notes": "Ceased operations during July 2013.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031516"
+  },
+  {
+    "name": "Business Jet Travel Airline Ltd",
+    "IATA": null,
+    "ICAO": "BTT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031535"
+  },
+  {
+    "name": "Cabi",
+    "IATA": null,
+    "ICAO": "CBI",
+    "website": "www.cabi.com.ua",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031553"
+  },
+  {
+    "name": "Centeravia LLC",
+    "IATA": null,
+    "ICAO": "CVI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031572"
+  },
+  {
+    "name": "Aircompany Chaika",
+    "IATA": null,
+    "ICAO": "CHJ",
+    "website": null,
+    "notes": "Name changed to Eurocharter Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031590"
+  },
+  {
+    "name": "AC Challenge Aero LLC",
+    "IATA": "5U",
+    "ICAO": "CHG",
+    "website": "www.challenge.aero",
+    "notes": "Designator 5U recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031612"
+  },
+  {
+    "name": "Challenge Aero Ukraine LLC",
+    "IATA": null,
+    "ICAO": "CLO",
+    "website": "challenge.aero",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031633"
+  },
+  {
+    "name": "Cherkasy Universal Avia",
+    "IATA": null,
+    "ICAO": "CRU",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031653"
+  },
+  {
+    "name": "CIS Express Ukraine, Ltd.",
+    "IATA": null,
+    "ICAO": "CIS",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031675"
+  },
+  {
+    "name": "Columbus Avia",
+    "IATA": null,
+    "ICAO": "CBS",
+    "website": null,
+    "notes": "Name changed to Air Columbus",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031694"
+  },
+  {
+    "name": "Comandor Avia",
+    "IATA": null,
+    "ICAO": "CMD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031712"
+  },
+  {
+    "name": "Concordavia Ltd.",
+    "IATA": null,
+    "ICAO": "COD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031731"
+  },
+  {
+    "name": "Crimea Air",
+    "IATA": null,
+    "ICAO": "CRF",
+    "website": null,
+    "notes": "Name changed to KRYM, Limited Partnership International Airline. Designator OR* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031752"
+  },
+  {
+    "name": "Crimea Air",
+    "IATA": null,
+    "ICAO": "CRF",
+    "website": null,
+    "notes": "Designator OR* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031771"
+  },
+  {
+    "name": "Crimea Universal Avia",
+    "IATA": null,
+    "ICAO": "KRM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031790"
+  },
+  {
+    "name": "Dart Limited Trust Distribution",
+    "IATA": "D4",
+    "ICAO": "DAT",
+    "website": "www.aerodart.com.ua",
+    "notes": "Suspended operations during February 2018. Assets requested to be transferred to new airline called LLC Alanna.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031811"
+  },
+  {
+    "name": "Delta Express International",
+    "IATA": null,
+    "ICAO": "DLI",
+    "website": "www.deltaexpressinternational.com",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031830"
+  },
+  {
+    "name": "Desna",
+    "IATA": null,
+    "ICAO": "DSN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031850"
+  },
+  {
+    "name": "DF Aviation",
+    "IATA": null,
+    "ICAO": "GDF",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031868"
+  },
+  {
+    "name": "Dialogaero",
+    "IATA": null,
+    "ICAO": "DIL",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031885"
+  },
+  {
+    "name": "Discovery Ltd",
+    "IATA": null,
+    "ICAO": "DCR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031901"
+  },
+  {
+    "name": "Dniproavia - Joint Stock Aviation Co.",
+    "IATA": null,
+    "ICAO": "UDN",
+    "website": "dniproavia.com",
+    "notes": "Name changed to Public JSC \"Aviation Company \" Dniproavia\"",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031919"
+  },
+  {
+    "name": "Public JSC \"Aviation Company \" Dniproavia\"",
+    "IATA": null,
+    "ICAO": "UDN",
+    "website": "dniproavia.com",
+    "notes": "Declared bankrupt in Novmber 2017.Desigantor Z6* recalled by IATA. Name changed from Dniproavia - Joint Stock Aviation Co.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031938"
+  },
+  {
+    "name": "Aircompany Donbass - Eastern Ukrainian Airlines",
+    "IATA": "7D",
+    "ICAO": "UDC",
+    "website": "www.donbass.aero",
+    "notes": "Name changed to Utility Enterprise DonbassAero Airline",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031957"
+  },
+  {
+    "name": "Air Company Donbass Airlines",
+    "IATA": "7D",
+    "ICAO": "UDD",
+    "website": null,
+    "notes": "IATA designator changed from 5D",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031974"
+  },
+  {
+    "name": "Air Company Donbass Airlines",
+    "IATA": "5D",
+    "ICAO": "UDD",
+    "website": null,
+    "notes": "IATA designator changed from 7D",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.031990"
+  },
+  {
+    "name": "Air Company Donbass Airlines",
+    "IATA": "5D",
+    "ICAO": "UDD",
+    "website": "www.donbass.aero",
+    "notes": "Designator 5D recalled by IATA. IATA designator changed from 7D",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032008"
+  },
+  {
+    "name": "Utility Enterprise DonbassAero Airline",
+    "IATA": "7D",
+    "ICAO": "UDC",
+    "website": "www.donbass.aero",
+    "notes": "Name changed from Aircompany Donbass - Eastern Ukrainian Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032026"
+  },
+  {
+    "name": "Dream Wind Airlines",
+    "IATA": null,
+    "ICAO": "DRW",
+    "website": null,
+    "notes": "AOC revoked by SAAU on 15 November 2019.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032044"
+  },
+  {
+    "name": "Eleron, Aviation Company",
+    "IATA": null,
+    "ICAO": "ELN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032063"
+  },
+  {
+    "name": "Eurocharter Airlines",
+    "IATA": null,
+    "ICAO": "CHJ",
+    "website": null,
+    "notes": "Name changed from Aircompany Chaika",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032081"
+  },
+  {
+    "name": "Europe Air LLC",
+    "IATA": null,
+    "ICAO": "EVP",
+    "website": "www.europeair.kiev.ua",
+    "notes": "AOC revoked by SAAU on 15 November 2019.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032099"
+  },
+  {
+    "name": "Fanair Limited Trust Distribution",
+    "IATA": null,
+    "ICAO": "FNR",
+    "website": "www.fanair.com.ua",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032116"
+  },
+  {
+    "name": "Galaircervis",
+    "IATA": null,
+    "ICAO": "GLS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032134"
+  },
+  {
+    "name": "Gorlitsa Airlines",
+    "IATA": null,
+    "ICAO": "GOR",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032152"
+  },
+  {
+    "name": "Heli-pet",
+    "IATA": null,
+    "ICAO": "HPT",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032169"
+  },
+  {
+    "name": "Independent Carrier (ICAR)",
+    "IATA": null,
+    "ICAO": "IPR",
+    "website": null,
+    "notes": "IATA designator changed to C3",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032187"
+  },
+  {
+    "name": "Independent Carrier (ICAR)",
+    "IATA": "C3",
+    "ICAO": "IPR",
+    "website": null,
+    "notes": "IATA designator reinstated",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032205"
+  },
+  {
+    "name": "Independent Carrier (ICAR)",
+    "IATA": "C3",
+    "ICAO": "IPR",
+    "website": null,
+    "notes": "IATA designator changed from C3*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032222"
+  },
+  {
+    "name": "Interaviatrans Ltd.",
+    "IATA": null,
+    "ICAO": "IVT",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032239"
+  },
+  {
+    "name": "ISD Avia Ltd.",
+    "IATA": null,
+    "ICAO": "ISD",
+    "website": "www.isdavia.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032256"
+  },
+  {
+    "name": "Public JSC Kharkiv Airlines",
+    "IATA": "KW",
+    "ICAO": "KHK",
+    "website": "www.flykharkiv.com",
+    "notes": "Ceased operation in March 2015. Designator KW recalled by IATA. IATA dsignator changed from KT",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032273"
+  },
+  {
+    "name": "Public JSC Kharkiv Airlines",
+    "IATA": "KT",
+    "ICAO": "KHK",
+    "website": "www.flykharkiv.com",
+    "notes": "IATA dsignator changed to KW",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032291"
+  },
+  {
+    "name": "Kharkov Aircraft Manufacturing Company",
+    "IATA": null,
+    "ICAO": "WKH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032309"
+  },
+  {
+    "name": "Aircompany \"KHORS\" Ltd.",
+    "IATA": "KO",
+    "ICAO": "KHO",
+    "website": "www.khors.com.ua",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032327"
+  },
+  {
+    "name": "Khors Aircompany Ltd.",
+    "IATA": "X9",
+    "ICAO": "KHO",
+    "website": "www.khors.com.ua",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032344"
+  },
+  {
+    "name": "Kiampex, Association",
+    "IATA": null,
+    "ICAO": "KMX",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032361"
+  },
+  {
+    "name": "Kiev Aar Airlines",
+    "IATA": null,
+    "ICAO": "AXA",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032377"
+  },
+  {
+    "name": "Kiev Aviation Plant",
+    "IATA": null,
+    "ICAO": "UAK",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032394"
+  },
+  {
+    "name": "Krimaviamontag",
+    "IATA": null,
+    "ICAO": "KRG",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032411"
+  },
+  {
+    "name": "Kryla",
+    "IATA": null,
+    "ICAO": "KRL",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032428"
+  },
+  {
+    "name": "KRYM, Limited Partnership International Airline",
+    "IATA": null,
+    "ICAO": "KYM",
+    "website": null,
+    "notes": "Ceased operations. Name changed from Crimea Air. ICAO designator changed from CRF",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032445"
+  },
+  {
+    "name": "Lotsiya, Branch Airline Company, Smilyanske Agricultural Company with Limited Liability",
+    "IATA": null,
+    "ICAO": "LCI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032462"
+  },
+  {
+    "name": "Luhansk, Aviation Enterprise",
+    "IATA": null,
+    "ICAO": "LHS",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032480"
+  },
+  {
+    "name": "Lviv Airlines",
+    "IATA": "5V",
+    "ICAO": "UKW",
+    "website": "www.avia.lviv.ua",
+    "notes": "Ceased operations. Founded in 1992.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032499"
+  },
+  {
+    "name": "Aviation Company \"Mars RK\" Ltd.",
+    "IATA": "6V",
+    "ICAO": "MRW",
+    "website": "mrk.com.ua",
+    "notes": "Founded in 2001. Designator 6V recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032516"
+  },
+  {
+    "name": "Meridian, Aviation Enterprise of Special Purpose",
+    "IATA": null,
+    "ICAO": "POV",
+    "website": null,
+    "notes": "Name changed from Poltava Universal Avia",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032534"
+  },
+  {
+    "name": "State Air Company Odessa Airlines",
+    "IATA": null,
+    "ICAO": "ODS",
+    "website": null,
+    "notes": "Founded in 1996.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032551"
+  },
+  {
+    "name": "Podilia-Avia",
+    "IATA": null,
+    "ICAO": "PDA",
+    "website": "www.podilliaavia.com.ua",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032568"
+  },
+  {
+    "name": "Poltava Universal Avia",
+    "IATA": null,
+    "ICAO": "POV",
+    "website": null,
+    "notes": "Name changed to Meridian, Aviation Enterprise of Special Purpose",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032585"
+  },
+  {
+    "name": "Prestigeavia",
+    "IATA": null,
+    "ICAO": "PGE",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032602"
+  },
+  {
+    "name": "Rep Trans Avia Ltd.",
+    "IATA": null,
+    "ICAO": "REP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032618"
+  },
+  {
+    "name": "Rivne Universal Avia",
+    "IATA": null,
+    "ICAO": "UNR",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032634"
+  },
+  {
+    "name": "Sanair",
+    "IATA": null,
+    "ICAO": "SAV",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032651"
+  },
+  {
+    "name": "Sevastopol-Avia",
+    "IATA": null,
+    "ICAO": "SVL",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032668"
+  },
+  {
+    "name": "Shovkoviy Shlyah Ltd. Airlines",
+    "IATA": "S8",
+    "ICAO": "SWW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032684"
+  },
+  {
+    "name": "Sincom-Avia, Aviation Company",
+    "IATA": null,
+    "ICAO": "INK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032701"
+  },
+  {
+    "name": "Sirius",
+    "IATA": null,
+    "ICAO": "IRS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032717"
+  },
+  {
+    "name": "Skif-Air, LLC",
+    "IATA": null,
+    "ICAO": "USK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032733"
+  },
+  {
+    "name": "LLC SkyAviaTrans",
+    "IATA": null,
+    "ICAO": "KTR",
+    "website": "satair.com.ua",
+    "notes": "AOC revoked by SAAU on 15 November 2019.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032750"
+  },
+  {
+    "name": "SkyUp Airlines",
+    "IATA": null,
+    "ICAO": "KUP",
+    "website": "www.skyup.aero",
+    "notes": "ICAO code changed to SQP w.e.f. 17 Augsut 2018.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032768"
+  },
+  {
+    "name": "Small Enterprise (Ecopatroil)",
+    "IATA": null,
+    "ICAO": "EKP",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032785"
+  },
+  {
+    "name": "SOKOL-ATSC",
+    "IATA": null,
+    "ICAO": "SOK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032801"
+  },
+  {
+    "name": "South Airlines",
+    "IATA": "YG",
+    "ICAO": "OTL",
+    "website": "www.otlavia.com",
+    "notes": "Founded on 19 April 1999. AOC revoked in February 2013. IATA designator changed from V4*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032820"
+  },
+  {
+    "name": "South Airlines",
+    "IATA": null,
+    "ICAO": "OTL",
+    "website": null,
+    "notes": "IATA designator changed to YG. Founded on 19 April 1999.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032837"
+  },
+  {
+    "name": "Southern Independent Air Company (UNA)",
+    "IATA": "F2",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator F2 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032854"
+  },
+  {
+    "name": "Spets Avia Indastria, MAC",
+    "IATA": null,
+    "ICAO": "SAD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032870"
+  },
+  {
+    "name": "State Air Enterprise Ukraine",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032886"
+  },
+  {
+    "name": "TAG Aviation Ukraine Ltd.",
+    "IATA": null,
+    "ICAO": "AGK",
+    "website": null,
+    "notes": "Name changed from Aeroleasing Ukraine",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032904"
+  },
+  {
+    "name": "Tavrey Aircompany",
+    "IATA": "T6",
+    "ICAO": "TVR",
+    "website": "www.tavrey.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032921"
+  },
+  {
+    "name": "Tbilisi State Aviation Corporation",
+    "IATA": null,
+    "ICAO": "MCB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032938"
+  },
+  {
+    "name": "Trans-Kiev",
+    "IATA": null,
+    "ICAO": "KCA",
+    "website": null,
+    "notes": "Name changed to Aviatrans K Ltd, Air Company.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032954"
+  },
+  {
+    "name": "Ues-Avia Aircompany Ltd.",
+    "IATA": null,
+    "ICAO": "UES",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032971"
+  },
+  {
+    "name": "Ukraine Airservice Airlines",
+    "IATA": null,
+    "ICAO": "ASG",
+    "website": null,
+    "notes": "IATA designator changed to 9G*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.032988"
+  },
+  {
+    "name": "Ukraine Airservice Airlines",
+    "IATA": null,
+    "ICAO": "ASG",
+    "website": null,
+    "notes": "IATA designator changed from C5*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.033005"
+  },
+  {
+    "name": "Ukraine International Airlines",
+    "IATA": "PS",
+    "ICAO": "AUI",
+    "website": "www.flyuia.com",
+    "notes": "Name changed to Private Stock Company \"Ukraine International Airlines\"",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.033023"
+  },
+  {
+    "name": "State Airline Ukraine National Airlines",
+    "IATA": "UJ",
+    "ICAO": null,
+    "website": null,
+    "notes": "IATA designator changed to UR",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.033040"
+  },
+  {
+    "name": "Ukraine Transavia",
+    "IATA": null,
+    "ICAO": "TRB",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.033057"
+  },
+  {
+    "name": "Ukraine Universal",
+    "IATA": null,
+    "ICAO": "UNV",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.033074"
+  },
+  {
+    "name": "Ukrainian Cargo Airways",
+    "IATA": null,
+    "ICAO": "UKS",
+    "website": "www.avia-uca.com.ua",
+    "notes": "Designator 6Z* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.033091"
+  },
+  {
+    "name": "Ukrainian Helicopters, CJS Company",
+    "IATA": null,
+    "ICAO": "UHL",
+    "website": "uacopter.com",
+    "notes": "Name changed to Aviation Company Ukrainian Helicopters.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.033108"
+  },
+  {
+    "name": "Ukrainian Mediterranean Airlines Ltd.",
+    "IATA": "UF",
+    "ICAO": "UKM",
+    "website": "www.umairlines.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.033126"
+  },
+  {
+    "name": "Ukrair, Aviacompany Ltd.",
+    "IATA": null,
+    "ICAO": "UIR",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.033142"
+  },
+  {
+    "name": "Ukraine Mediterranean Airlines Ltd t/a UM Air Airlines",
+    "IATA": "UF",
+    "ICAO": "UKM",
+    "website": "www.umair.com.ua",
+    "notes": "Ceased operation during 2018.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.033158"
+  },
+  {
+    "name": "Universal Avia",
+    "IATA": null,
+    "ICAO": "HBU",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.033176"
+  },
+  {
+    "name": "Airline Utair - Ukraine",
+    "IATA": "QU",
+    "ICAO": "UTN",
+    "website": "www.utair.ua",
+    "notes": "Name changed to Azur Air Ukraine Airlines LLC w.e.f. October 2015.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.033192"
+  },
+  {
+    "name": "Vega Air Company Ltd",
+    "IATA": null,
+    "ICAO": "WGA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.033208"
+  },
+  {
+    "name": "Veles, Ukrainian Aviation Company LLC",
+    "IATA": null,
+    "ICAO": "WEL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.033225"
+  },
+  {
+    "name": "Veteran Air",
+    "IATA": null,
+    "ICAO": "VPB",
+    "website": null,
+    "notes": "Ceased operation during 2009.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.033241"
+  },
+  {
+    "name": "Volare, Aviation Enterprise",
+    "IATA": null,
+    "ICAO": "VRE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.033258"
+  },
+  {
+    "name": "Wind Rose Aviation Company Ltd t/a WINDROSE Airlines",
+    "IATA": null,
+    "ICAO": "WRC",
+    "website": "www.windrose.aero",
+    "notes": "IATA designator changed to 7W.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.033276"
+  },
+  {
+    "name": "Wizz Air Ukraine, LLC",
+    "IATA": "WU",
+    "ICAO": "WAU",
+    "website": "www.wizzair.com",
+    "notes": "Founded in 2008. Ceased operations on 20 April 2015.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.033295"
+  },
+  {
+    "name": "Yuzhnoye State Office",
+    "IATA": null,
+    "ICAO": "UZH",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.033312"
+  },
+  {
+    "name": "Aviation Transport Company Yuzmashavia",
+    "IATA": "2N",
+    "ICAO": "UMK",
+    "website": "www.yuzmashair.com.ua",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:30.033329"
+  }
+]

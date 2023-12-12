@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Air Timor S.A.",
+    "IATA": "6C",
+    "ICAO": null,
+    "website": "www.air-timor.com",
+    "notes": "Name changed from Austasia Airlines S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:16.366369"
+  },
+  {
+    "name": "Austasia Airlines S.A.",
+    "IATA": "6C",
+    "ICAO": null,
+    "website": "www.austasiaairlines.com",
+    "notes": "Name changed to Air Timor S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:16.366397"
+  },
+  {
+    "name": "Sino-Lac Air",
+    "IATA": "HQ",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator HQ recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:16.366420"
+  }
+]

@@ -1,0 +1,524 @@
+[
+  {
+    "name": "Afriqiyah Airways",
+    "IATA": "8U",
+    "ICAO": "AAW",
+    "website": "www.afriqiyah.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:12.103083"
+  },
+  {
+    "name": "Air Arabia for Air Transport",
+    "IATA": null,
+    "ICAO": "ALL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:12.103111"
+  },
+  {
+    "name": "Air Force of Libya",
+    "IATA": null,
+    "ICAO": "LBF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:12.103129"
+  },
+  {
+    "name": "Air Jamahiriya Company",
+    "IATA": null,
+    "ICAO": "LJA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:12.103144"
+  },
+  {
+    "name": "Air Libya Airline Company d/b/a Air Libya",
+    "IATA": "7I",
+    "ICAO": "TLR",
+    "website": "www.airlibya.aero",
+    "notes": "Established in 1996 as Tibesti Aviation. Name changed from Tibesti Air Libya.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:12.103162"
+  },
+  {
+    "name": "Alajnihah Air Transport",
+    "IATA": null,
+    "ICAO": "ANH",
+    "website": "www.alajnihah.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:12.103178"
+  },
+  {
+    "name": "Alamia Air",
+    "IATA": null,
+    "ICAO": "LML",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:12.103194"
+  },
+  {
+    "name": "Alsaqer Aviation",
+    "IATA": null,
+    "ICAO": "SQR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:12.103210"
+  },
+  {
+    "name": "Awan Airlines",
+    "IATA": null,
+    "ICAO": "AWR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:12.103225"
+  },
+  {
+    "name": "Benina Air",
+    "IATA": null,
+    "ICAO": "BNE",
+    "website": "beninaair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:12.103241"
+  },
+  {
+    "name": "Berniq Airways",
+    "IATA": "NB",
+    "ICAO": "BNL",
+    "website": "berniq.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:12.103258"
+  },
+  {
+    "name": "Buraq Air Transport (BRQ)",
+    "IATA": "UZ",
+    "ICAO": "BRQ",
+    "website": "www.buraq.aero",
+    "notes": "Designator UZ reinstated by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:12.103274"
+  },
+  {
+    "name": "Crown Airlines",
+    "IATA": "FQ",
+    "ICAO": "CWN",
+    "website": "www.flycrown.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:12.103290"
+  },
+  {
+    "name": "Crown Airlines Co.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "flycrown.ly",
+    "notes": "Planned startup with A320",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:12.103306"
+  },
+  {
+    "name": "Fly Benghazi",
+    "IATA": null,
+    "ICAO": "FBL",
+    "website": "www.flybenghazi.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:12.103322"
+  },
+  {
+    "name": "Fly OYA International Airline d/b/a FLY OYA",
+    "IATA": "YI",
+    "ICAO": "OYA",
+    "website": "www.oya.ly",
+    "notes": "Planned startup in May 2022.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:12.103339"
+  },
+  {
+    "name": "Ghadames Air",
+    "IATA": null,
+    "ICAO": "GMS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:12.103354"
+  },
+  {
+    "name": "Global Aviation Services Group",
+    "IATA": "5S",
+    "ICAO": "GAK",
+    "website": "www.global-aviationgroup.com",
+    "notes": "Designator 5S reinstated by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:12.103372"
+  },
+  {
+    "name": "Golden Sky Airline",
+    "IATA": null,
+    "ICAO": "GOS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:12.103387"
+  },
+  {
+    "name": "Gulf Pearl Air Lines",
+    "IATA": null,
+    "ICAO": "GPC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:12.103402"
+  },
+  {
+    "name": "Hala Air",
+    "IATA": "HG",
+    "ICAO": "HTP",
+    "website": "halaair.com",
+    "notes": "IATA Designator changed from HY*.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:12.103418"
+  },
+  {
+    "name": "International Company for Transport, Trade and Public Works",
+    "IATA": null,
+    "ICAO": "IIG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:12.103434"
+  },
+  {
+    "name": "Kallat El Saker Air Company",
+    "IATA": null,
+    "ICAO": "KES",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:12.103449"
+  },
+  {
+    "name": "Libyan Air Ambulance",
+    "IATA": null,
+    "ICAO": "LYA",
+    "website": "www.laa.ly",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:12.103465"
+  },
+  {
+    "name": "Libyan Airlines",
+    "IATA": "LN",
+    "ICAO": "LAA",
+    "website": "www.ln.aero",
+    "notes": "Name changed from Jamahirya Libyan Arab Airlines",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:12.103481"
+  },
+  {
+    "name": "Libyan Airways",
+    "IATA": null,
+    "ICAO": "LYW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:12.103497"
+  },
+  {
+    "name": "Libyan Arab Company For Air Cargo",
+    "IATA": null,
+    "ICAO": "LCR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:12.103513"
+  },
+  {
+    "name": "Libyan Bluebird",
+    "IATA": null,
+    "ICAO": "LBB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:12.103528"
+  },
+  {
+    "name": "Libyan Express for Air Transport",
+    "IATA": null,
+    "ICAO": "LXX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:12.103547"
+  },
+  {
+    "name": "Libyan Wings",
+    "IATA": "YL",
+    "ICAO": "LWA",
+    "website": "www.libyanwings.ly",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:12.103563"
+  },
+  {
+    "name": "Medsky Airways",
+    "IATA": "BM",
+    "ICAO": "MNS",
+    "website": "www.medsky.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:12.103578"
+  },
+  {
+    "name": "Nawrs Air",
+    "IATA": null,
+    "ICAO": "NUR",
+    "website": "www.nawrasair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:12.103593"
+  },
+  {
+    "name": "Nayzak Air Transport Company",
+    "IATA": null,
+    "ICAO": "NZA",
+    "website": "www.nayzak.com.ly",
+    "notes": "Designator M4 recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:12.103609"
+  },
+  {
+    "name": "Northafrican Air Transport",
+    "IATA": null,
+    "ICAO": "NLL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:12.103626"
+  },
+  {
+    "name": "Petro Air",
+    "IATA": null,
+    "ICAO": "PEO",
+    "website": "petroair.ly",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:12.103642"
+  },
+  {
+    "name": "Qurinea Air Service",
+    "IATA": null,
+    "ICAO": "QAQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:12.103657"
+  },
+  {
+    "name": "Tayaran Alhilall Alnftti",
+    "IATA": null,
+    "ICAO": "HLN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:12.103672"
+  },
+  {
+    "name": "Tobruk Air",
+    "IATA": null,
+    "ICAO": "TOB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:12.103686"
+  },
+  {
+    "name": "Gulf Pearl Airlines",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.gulfpearl.net",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:12.103702"
+  },
+  {
+    "name": "Air Kurfa",
+    "IATA": null,
+    "ICAO": "KAV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:12.103718"
+  },
+  {
+    "name": "Tibesti Air Libya",
+    "IATA": null,
+    "ICAO": "TLR",
+    "website": "www.airlibya.aero",
+    "notes": "Established in 1996 as Tibesti Aviation. Name changed to Air Libya Airline Company.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:12.103736"
+  },
+  {
+    "name": "Air One Nine",
+    "IATA": "N6",
+    "ICAO": "ONR",
+    "website": "www.aironenine.com",
+    "notes": "Designator N6 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:12.103751"
+  },
+  {
+    "name": "Alajnihah Air Transport",
+    "IATA": null,
+    "ICAO": "ANH",
+    "website": "www.alajnihah.com",
+    "notes": "Accounting & Prefix codes recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:12.103768"
+  },
+  {
+    "name": "Awsaj Aviation Services",
+    "IATA": null,
+    "ICAO": "AYS",
+    "website": null,
+    "notes": "Designator L9 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:12.103783"
+  },
+  {
+    "name": "Ghadames Air Transport",
+    "IATA": "G6",
+    "ICAO": "GHT",
+    "website": "www.ghadamesair.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:12.103800"
+  },
+  {
+    "name": "Ghadames Air Transport",
+    "IATA": null,
+    "ICAO": "GHT",
+    "website": "www.ghadamesair.com",
+    "notes": "IATA Designator changed to G6",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:12.103816"
+  },
+  {
+    "name": "Global Aviation Services Group",
+    "IATA": null,
+    "ICAO": "GAK",
+    "website": "web.global-aviationgroup.com",
+    "notes": "Designator 5S recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:12.103832"
+  },
+  {
+    "name": "Gulf Pearl Airlines",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.gulfpearl.net",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:12.103848"
+  },
+  {
+    "name": "Hala Air",
+    "IATA": null,
+    "ICAO": "HTP",
+    "website": "halaair.com",
+    "notes": "IATA Designator chnaged to HG.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:12.103864"
+  },
+  {
+    "name": "Jamahiriya Airways",
+    "IATA": null,
+    "ICAO": "JAW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:12.103879"
+  },
+  {
+    "name": "Libo Air Cargo",
+    "IATA": "6W",
+    "ICAO": "LBO",
+    "website": "www.liboaircargo.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:12.103895"
+  },
+  {
+    "name": "Jamahirya Libyan Arab Airlines",
+    "IATA": "LN",
+    "ICAO": "LAA",
+    "website": "www.ln.aero",
+    "notes": "Name changed to Libyan Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:12.103912"
+  },
+  {
+    "name": "Madina Air",
+    "IATA": null,
+    "ICAO": "MDH",
+    "website": "madinaholding.com/company/madina-air-services/",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:12.103928"
+  },
+  {
+    "name": "Nayzak Air Transport Company",
+    "IATA": "M4",
+    "ICAO": "NZA",
+    "website": "www.nayzak.com.ly",
+    "notes": "Designator M4 reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:12.103943"
+  },
+  {
+    "name": "Rahila Air",
+    "IATA": "RI",
+    "ICAO": "RIH",
+    "website": "www.rahilaair.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:12.103958"
+  },
+  {
+    "name": "Sama Air Transport",
+    "IATA": null,
+    "ICAO": "SMN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:12.103973"
+  },
+  {
+    "name": "Tobruk Air Transport and Cargo",
+    "IATA": null,
+    "ICAO": "TQB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:12.103989"
+  },
+  {
+    "name": "United African Airlines",
+    "IATA": "UQ",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:12.104004"
+  }
+]

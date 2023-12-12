@@ -1,0 +1,434 @@
+[
+  {
+    "name": "Aero Express Del Ecuador Trans AM",
+    "IATA": "7T",
+    "ICAO": "RTM",
+    "website": "www.dhl.com",
+    "notes": "DHL Ecuador",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:54.907816"
+  },
+  {
+    "name": "Aerofaq",
+    "IATA": null,
+    "ICAO": "FAQ",
+    "website": "www.aerofaq.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:54.907853"
+  },
+  {
+    "name": "Aeronem, Air Cargo, S.A.",
+    "IATA": null,
+    "ICAO": "RNM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:54.907870"
+  },
+  {
+    "name": "Aerolineas del Pacifico - Aeropacsa",
+    "IATA": null,
+    "ICAO": "RPC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:54.907887"
+  },
+  {
+    "name": "Servicio  Aereo Regional Cia, Ltda.",
+    "IATA": null,
+    "ICAO": "RER",
+    "website": "aeroregional.net",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:54.907904"
+  },
+  {
+    "name": "Atesa Aerotaxis Ecuatorianos, S.A.",
+    "IATA": null,
+    "ICAO": "TXU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:54.907920"
+  },
+  {
+    "name": "Austro Aereo, S.A.",
+    "IATA": null,
+    "ICAO": "UST",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:54.907936"
+  },
+  {
+    "name": "Avianca Ecuador d/b/a Avianca",
+    "IATA": "2K",
+    "ICAO": "GLG",
+    "website": "www.avianca.com/en-ac",
+    "notes": "Name changed from Aerolineas Galapagos S.A. AeroGal w.e.f. 18 June 2014. IATA Designator changed from 2K*",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:54.907953"
+  },
+  {
+    "name": "Avioandes S.A.",
+    "IATA": null,
+    "ICAO": "AYH",
+    "website": "avioandes.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:54.907969"
+  },
+  {
+    "name": "Colaereos",
+    "IATA": null,
+    "ICAO": "OLR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:54.907984"
+  },
+  {
+    "name": "Ecuavia Compania Limitada",
+    "IATA": null,
+    "ICAO": "ECU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:54.907999"
+  },
+  {
+    "name": "Endecots, S.A.",
+    "IATA": null,
+    "ICAO": "ENC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:54.908015"
+  },
+  {
+    "name": "Equinoccialair, S.A.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.equinoccialaircargo.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:54.908030"
+  },
+  {
+    "name": "Fumicar",
+    "IATA": null,
+    "ICAO": "FUC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:54.908045"
+  },
+  {
+    "name": "Fumisol",
+    "IATA": null,
+    "ICAO": "FUS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:54.908060"
+  },
+  {
+    "name": "Huzima",
+    "IATA": null,
+    "ICAO": "HZM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:54.908076"
+  },
+  {
+    "name": "Aerolane - Lineas Aereas Nacionales del Ecuador S.A. d/b/a LATAM Airlines Ecuador",
+    "IATA": "XL",
+    "ICAO": "LNE",
+    "website": "www.latamairlines.com",
+    "notes": "Name changed from Lan Ecuador -  Aerolane - Lineas Aereas Nacionales del Ecuador S.A.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:54.908092"
+  },
+  {
+    "name": "Lineas Aereas Nacionales (LANSA)",
+    "IATA": null,
+    "ICAO": "LNS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:54.908108"
+  },
+  {
+    "name": "Vuelos Internos Privados (V.I.P.)",
+    "IATA": null,
+    "ICAO": "VUR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:54.908123"
+  },
+  {
+    "name": "AECA - Aeroservicios Ecuatorianos, C.A.",
+    "IATA": null,
+    "ICAO": "EAE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:54.908139"
+  },
+  {
+    "name": "AECA - Aeroservicios Ecuatorianos, C.A.",
+    "IATA": "2A",
+    "ICAO": "EAE",
+    "website": null,
+    "notes": "Designator 2A recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:54.908155"
+  },
+  {
+    "name": "Aerolineas Galapagos S.A. AeroGal",
+    "IATA": "2K",
+    "ICAO": "GLG",
+    "website": "www.aerogal.com.ec",
+    "notes": "Name changed to Avianca Ecuador w.e.f. 18 June 2014. IATA Designator changed from 2K*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:54.908172"
+  },
+  {
+    "name": "Aerolineas Galapagos S.A. AeroGal",
+    "IATA": null,
+    "ICAO": "GLG",
+    "website": "www.aerogal.com.ec",
+    "notes": "IATA Designator changed to 2K",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:54.908188"
+  },
+  {
+    "name": "Aerolane - Lineas Aereas Nacionales del Ecuador S.A.",
+    "IATA": null,
+    "ICAO": "LNE",
+    "website": null,
+    "notes": "ICAO callsign changed to LAN Ecuador",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:54.908204"
+  },
+  {
+    "name": "Aerolineas Nacicnales Del Ecuador, S.A. (Andes)",
+    "IATA": "ED",
+    "ICAO": "EDA",
+    "website": null,
+    "notes": "Founded in 1961. Commenced operations in October 1966. Ceased operations during 2001.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:54.908221"
+  },
+  {
+    "name": "Aeroturismo Savac Compania Ltda.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:54.908237"
+  },
+  {
+    "name": "Aerovic C.A.",
+    "IATA": null,
+    "ICAO": "OVC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:54.908252"
+  },
+  {
+    "name": "Aircuenca S.A.",
+    "IATA": "E9",
+    "ICAO": null,
+    "website": "www.cuenca.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:54.908267"
+  },
+  {
+    "name": "Americana de Aviacion, C.A.",
+    "IATA": "RE",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:54.908282"
+  },
+  {
+    "name": "Atur",
+    "IATA": null,
+    "ICAO": "TUR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:54.908298"
+  },
+  {
+    "name": "Avico Tours",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:54.908313"
+  },
+  {
+    "name": "Compania Ecuatoriana de Transportes Aereos (CEDTA)",
+    "IATA": null,
+    "ICAO": "CED",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:54.908329"
+  },
+  {
+    "name": "Ecuatoriana de Aviacion, S.A.",
+    "IATA": "EU",
+    "ICAO": "EEA",
+    "website": "www.ecuatoriana.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:54.908345"
+  },
+  {
+    "name": "Emetebe.com.ec Air Taxi Charter Service",
+    "IATA": null,
+    "ICAO": "EMT",
+    "website": "www.emetebe.com.ec",
+    "notes": "The airline of Gal\u00e1pagos. Designator ET* recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:54.908362"
+  },
+  {
+    "name": "Equinoxair S.A.S.",
+    "IATA": "HN",
+    "ICAO": "EQX",
+    "website": "equinoxair.com.ec",
+    "notes": "Suspended operations on 30 September 2023.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:54.908379"
+  },
+  {
+    "name": "Icaro S.A.",
+    "IATA": "X8",
+    "ICAO": "ICD",
+    "website": "www.icaro.aero",
+    "notes": "Founded in 1971. Ceased operations during 2011.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:54.908394"
+  },
+  {
+    "name": "Aerolane - Lineas Aereas Nacionales del Ecuador S.A. (Lan Ecuador)",
+    "IATA": "XL",
+    "ICAO": "LNE",
+    "website": "www.lan.com",
+    "notes": "Name changed to Aerolane - Lineas Aereas Nacionales del Ecuador S.A. d/b/a LATAM Airlines Ecuador. Subsidiary of LanChile",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:54.908412"
+  },
+  {
+    "name": "Servicios Aereos Ejecutivos Saereo, S.A.",
+    "IATA": "L6",
+    "ICAO": "SRO",
+    "website": "www.saereo.com",
+    "notes": "IATA designator changed to MZ",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:54.908428"
+  },
+  {
+    "name": "Servicios Aereos Ejecutivos Saereo, S.A.",
+    "IATA": "MZ",
+    "ICAO": "SRO",
+    "website": "www.saereo.com",
+    "notes": "IATA designator changed from L6. Founded in 1994.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:54.908445"
+  },
+  {
+    "name": "Servicios Aereos Nacionales (SAN), S.A.",
+    "IATA": "WB",
+    "ICAO": "SAN",
+    "website": null,
+    "notes": "Founded in 1964. Ceased operations in 1999.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:54.908461"
+  },
+  {
+    "name": "Sociedad Ecuatoriana de Transportes Aereos",
+    "IATA": "LU",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:54.908477"
+  },
+  {
+    "name": "TACA Ecuador, S.A.",
+    "IATA": "YZ",
+    "ICAO": null,
+    "website": "www.taca.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:54.908492"
+  },
+  {
+    "name": "TAME Linea Aerea del Ecuador",
+    "IATA": "EQ",
+    "ICAO": "TAE",
+    "website": "www.tame.com.ec",
+    "notes": "Ceased operations on 19 May 2020.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:54.908508"
+  },
+  {
+    "name": "Transportes A\u00e9reos Orientales",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:54.908524"
+  },
+  {
+    "name": "Vias Aereas Manabitas CIA Ltda.",
+    "IATA": null,
+    "ICAO": "MBT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:54.908539"
+  },
+  {
+    "name": "Vuelos Internos Privados VIP S.A.",
+    "IATA": "V6",
+    "ICAO": "VUR",
+    "website": "www.vipec.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:54.908555"
+  },
+  {
+    "name": "Aeroquir",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:54.908569"
+  },
+  {
+    "name": "Aerorient",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:54.908585"
+  }
+]

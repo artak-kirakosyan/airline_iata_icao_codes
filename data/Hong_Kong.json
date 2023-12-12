@@ -1,0 +1,299 @@
+[
+  {
+    "name": "AHK Air Hong Kong Limited",
+    "IATA": null,
+    "ICAO": "AHK",
+    "website": "www.airhongkong.com.hk",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:37.410957"
+  },
+  {
+    "name": "Business Aviation Asia Limited",
+    "IATA": null,
+    "ICAO": "UNA",
+    "website": "www.baasia.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:37.410985"
+  },
+  {
+    "name": "Cathay Pacific Airways Ltd.",
+    "IATA": "CX",
+    "ICAO": "CPA",
+    "website": "www.cathaypacific.com",
+    "notes": "ICAO designator changed from CPX",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:37.411004"
+  },
+  {
+    "name": "Chu Kong Passanger Transport Co. Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.cksp.com.hk",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:37.411021"
+  },
+  {
+    "name": "DAS Nordisk Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.dasnordisk.com",
+    "notes": "Non-Airline Unit Load Devices (ULD) company",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:37.411038"
+  },
+  {
+    "name": "Government Flying Service of Hong Kong Special Administrative Region",
+    "IATA": null,
+    "ICAO": "HKG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:37.411056"
+  },
+  {
+    "name": "Heliservices (HK) Ltd.",
+    "IATA": null,
+    "ICAO": "HSV",
+    "website": "heliservices.com.hk",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:37.411072"
+  },
+  {
+    "name": "Hong Kong Airlines Limited",
+    "IATA": "HX",
+    "ICAO": "CRK",
+    "website": "www.hkairlines.com",
+    "notes": "IATA designator changed from N8* w.e.f. 27 May 2007. Name changed from CR Airways Limited. Designator N8* reinstated by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:37.411088"
+  },
+  {
+    "name": "Hong Kong Express Airways Ltd",
+    "IATA": "UO",
+    "ICAO": "HKE",
+    "website": "www.hkexpress.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:37.411104"
+  },
+  {
+    "name": "innoAviation Limited",
+    "IATA": "I3",
+    "ICAO": null,
+    "website": "http://www.inno-aviation.com",
+    "notes": "Non-airline Unit Load Devices (ULD) companies",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:37.411120"
+  },
+  {
+    "name": "Metrojet Limited",
+    "IATA": null,
+    "ICAO": "MTJ",
+    "website": "www.metrojet.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:37.411135"
+  },
+  {
+    "name": "Sky Shuttle Helicopters Limited",
+    "IATA": "A7",
+    "ICAO": "HHK",
+    "website": "www.skyshuttlehk.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:37.411150"
+  },
+  {
+    "name": "South Pacific Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "SOU",
+    "website": "flysouthpacific.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:37.411165"
+  },
+  {
+    "name": "TAG Aviation Asia Limited",
+    "IATA": null,
+    "ICAO": "TBJ",
+    "website": "www.tagaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:37.411180"
+  },
+  {
+    "name": "Shun Tak-China Travel Ship Management Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.turbojet.com.hk",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:37.411196"
+  },
+  {
+    "name": "Vivo Air Links Holdings Ltd",
+    "IATA": "VD",
+    "ICAO": null,
+    "website": null,
+    "notes": "Non-Airline Unit Load Devices (ULD) company.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:37.411212"
+  },
+  {
+    "name": "BAS (H.K.) Limited",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.bas-hk.com",
+    "notes": "Designator X4* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:37.411229"
+  },
+  {
+    "name": "Business Aviation Asia Limited",
+    "IATA": "UN",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:37.411245"
+  },
+  {
+    "name": "Hong Kong Dragon Airlines Limited t/a Cathay Dragon",
+    "IATA": "KA",
+    "ICAO": "HDA",
+    "website": "www.cathaypacific.com",
+    "notes": "Founded on 24 May 1985. Commenced operations in July 1985. Ceased operations on 21 October 2020. ICAO callsign changed from Dragonair . Name changed from Hong Kong Dragon Airlines Limited t/a Dragonair.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:37.411263"
+  },
+  {
+    "name": "Cathay Pacific Airways Ltd.",
+    "IATA": "CX",
+    "ICAO": "CPX",
+    "website": null,
+    "notes": "ICAO designator changed to CPA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:37.411278"
+  },
+  {
+    "name": "CR Airways Limited",
+    "IATA": null,
+    "ICAO": "CRK",
+    "website": "www.crairways.com/eng/index.html",
+    "notes": "Name changed to Hong Kong Airlines Limited. Designator N8* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:37.411295"
+  },
+  {
+    "name": "Hong Kong Dragon Airlines - Dragonair",
+    "IATA": null,
+    "ICAO": "HDA",
+    "website": null,
+    "notes": "Name changed to Hong Kong Dragon Airlines Limited. Name changed from Dragonair (DAL)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:37.411312"
+  },
+  {
+    "name": "Hong Kong Dragon Airlines Limited t/a Dragonair",
+    "IATA": "KA",
+    "ICAO": "HDA",
+    "website": "www.dragonair.com",
+    "notes": "ICAO callsign changed to Dragon",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:37.411329"
+  },
+  {
+    "name": "Dragonair (DAL)",
+    "IATA": null,
+    "ICAO": "HDA",
+    "website": null,
+    "notes": "Name chanaged to Hong Kong Dragon Airlines - Dragonair",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:37.411344"
+  },
+  {
+    "name": "Hong Kong Dragon Airlines Limited t/a Dragonair",
+    "IATA": "KA",
+    "ICAO": "HDA",
+    "website": "www.dragonair.com",
+    "notes": "ICAO callsign changed from Dragonair. Name changed to Hong Kong Dragon Airlines Limited t/a Cathay Dragon.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:37.411361"
+  },
+  {
+    "name": "Helicopters Hong Kong Limited",
+    "IATA": null,
+    "ICAO": "HHK",
+    "website": "www.hongkongexpress.com",
+    "notes": "IATA designator changed to UO. Name changed from Helicopters Hong Kong Limited",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:37.411378"
+  },
+  {
+    "name": "Helicopters Hong Kong Limited",
+    "IATA": null,
+    "ICAO": "HHK",
+    "website": "www.helihongkong.com",
+    "notes": "Name changed to Hong Kong Express Airways Limited",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:37.411394"
+  },
+  {
+    "name": "Helicopters Hong Kong Limited",
+    "IATA": null,
+    "ICAO": "HHK",
+    "website": "www.hongkongexpress.com",
+    "notes": "IATA designator changed from UO*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:37.411410"
+  },
+  {
+    "name": "Hong Kong Air International Ltd.",
+    "IATA": "HI",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:37.411426"
+  },
+  {
+    "name": "Hong Kong Airlines Limited",
+    "IATA": null,
+    "ICAO": "CRK",
+    "website": "www.crairways.com/eng/index.html",
+    "notes": "IATA designator changed to HX w.e.f. 27 May 2007. Name changed from CR Airways Limited. Designator N8* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:37.411443"
+  },
+  {
+    "name": "Jetstar Hong Kong Airways Limited",
+    "IATA": null,
+    "ICAO": "JKT",
+    "website": "www.jetstar.com/hk/en/home",
+    "notes": "Planned JV between China Eastern Airlines and Qantas. Founded on 04 September 2012. AOC refused by Hong Kong authorities in June 2015.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:37.411460"
+  },
+  {
+    "name": "Oasis Hong Kong Airlines Limited",
+    "IATA": "O8",
+    "ICAO": "OHK",
+    "website": "www.oasishongkong.com",
+    "notes": "Ceased Operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:37.411476"
+  },
+  {
+    "name": "Shun Tak-China Travel Ship Mgmt. Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.turbojet.com.hk/companybg.htm",
+    "notes": "Ferry Service",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:37.411492"
+  }
+]

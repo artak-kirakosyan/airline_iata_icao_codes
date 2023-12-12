@@ -1,0 +1,4727 @@
+[
+  {
+    "name": "213 Flight Unit",
+    "IATA": null,
+    "ICAO": "TFU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898175"
+  },
+  {
+    "name": "223rd Flight Unit, State Airline",
+    "IATA": null,
+    "ICAO": "CHD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898206"
+  },
+  {
+    "name": "224th Flight Unit",
+    "IATA": null,
+    "ICAO": "TTF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898227"
+  },
+  {
+    "name": "Abakan Air LLC",
+    "IATA": null,
+    "ICAO": "NKP",
+    "website": "abakanair.ru",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898246"
+  },
+  {
+    "name": "Aerocredo, Closed Corporation",
+    "IATA": null,
+    "ICAO": "RRO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898265"
+  },
+  {
+    "name": "PJSC \"Aeroflot\"",
+    "IATA": "SU",
+    "ICAO": "AFL",
+    "website": "www.aeroflot.com",
+    "notes": "Name changed from JSC Aeroflot - Russian Airlines w.e.f. 14 August 2015. Name changed from Aeroflot Russian Airlines. Name changed from Aeroflot - Russian International Airlines",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898285"
+  },
+  {
+    "name": "Aerokuzbass Ltd.",
+    "IATA": null,
+    "ICAO": "NKZ",
+    "website": null,
+    "notes": "Name changed from Aerokuzbass, CJSC",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898304"
+  },
+  {
+    "name": "Aerologic",
+    "IATA": null,
+    "ICAO": "LDL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898323"
+  },
+  {
+    "name": "Aerospecservice, Aircompany",
+    "IATA": null,
+    "ICAO": "AOP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898341"
+  },
+  {
+    "name": "Joint-Stock Company Aerotrans",
+    "IATA": null,
+    "ICAO": "CDU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898358"
+  },
+  {
+    "name": "Air Management Group, JSC",
+    "IATA": null,
+    "ICAO": "DXT",
+    "website": "airmg.ru/en/",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898376"
+  },
+  {
+    "name": "AirBridge Cargo Airlines Limited",
+    "IATA": "RU",
+    "ICAO": "ABW",
+    "website": "www.airbridgecargo.com",
+    "notes": "IATA designator changed from BO. Founded in 2004.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898394"
+  },
+  {
+    "name": "Airclub Aviator, LLC",
+    "IATA": null,
+    "ICAO": "RCV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898415"
+  },
+  {
+    "name": "Aircompany Barcol",
+    "IATA": null,
+    "ICAO": "BKL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898433"
+  },
+  {
+    "name": "Airline Skol, LLC",
+    "IATA": null,
+    "ICAO": "CDV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898452"
+  },
+  {
+    "name": "Airport Bratsk, JSC",
+    "IATA": null,
+    "ICAO": "BRP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898471"
+  },
+  {
+    "name": "Open Joint Stock Company \"ALROSA\" (Mirny Air Enterprise)",
+    "IATA": "6R",
+    "ICAO": "DRU",
+    "website": "www.alrosaair.com",
+    "notes": "Designator 6R reinstated by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898490"
+  },
+  {
+    "name": "Open Joint Stock Company \"Angara Airlines\"",
+    "IATA": "2G",
+    "ICAO": "AGU",
+    "website": "www.angara.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898507"
+  },
+  {
+    "name": "Art Avia LLC",
+    "IATA": null,
+    "ICAO": "ATI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898523"
+  },
+  {
+    "name": "ATC Alliance Avia Group, Aircompany",
+    "IATA": null,
+    "ICAO": "NZP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898540"
+  },
+  {
+    "name": "Atlas Jet, Joint-Stock Company",
+    "IATA": null,
+    "ICAO": "CGI",
+    "website": null,
+    "notes": "Name changed from Rusair, Joint-Stock Air Company.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898557"
+  },
+  {
+    "name": "OOO ATRAN",
+    "IATA": "V8",
+    "ICAO": "VAS",
+    "website": "www.atran.ru",
+    "notes": "Name changed from ATRAN-Aviatrans Cargo Airlines",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898576"
+  },
+  {
+    "name": "AUO Aeroclub Aist-M",
+    "IATA": null,
+    "ICAO": "ISM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898592"
+  },
+  {
+    "name": "Joint- Stock Company \"Aurora Airlines\"",
+    "IATA": "HZ",
+    "ICAO": "SHU",
+    "website": "flyaurora.ru",
+    "notes": "ICAO callsign changed from Satair.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898609"
+  },
+  {
+    "name": "Avia Business Group",
+    "IATA": null,
+    "ICAO": "AUP",
+    "website": "www.aviagroup.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898627"
+  },
+  {
+    "name": "Avia Group Limited Company",
+    "IATA": null,
+    "ICAO": "VGR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898645"
+  },
+  {
+    "name": "Avia Group Handling, LLC",
+    "IATA": null,
+    "ICAO": "ALG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898662"
+  },
+  {
+    "name": "Avia Group Handling, LLC",
+    "IATA": null,
+    "ICAO": "AHN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898678"
+  },
+  {
+    "name": "Avia Group Nord LLC",
+    "IATA": null,
+    "ICAO": "NRD",
+    "website": "ag-nord.ru/en",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898695"
+  },
+  {
+    "name": "Aviacharter Assistance LLC",
+    "IATA": null,
+    "ICAO": "VCA",
+    "website": "aviacharter.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898712"
+  },
+  {
+    "name": "Aviacon Zitotrans Air Company JSC",
+    "IATA": null,
+    "ICAO": "AZS",
+    "website": "www.aviacon.ru",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898730"
+  },
+  {
+    "name": "Avialift Valdivostok, CJSC",
+    "IATA": null,
+    "ICAO": "VLV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898749"
+  },
+  {
+    "name": "Aviapartner Limited Company",
+    "IATA": null,
+    "ICAO": "OSO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898765"
+  },
+  {
+    "name": "Aviaprom Enterprises",
+    "IATA": null,
+    "ICAO": "XAV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898782"
+  },
+  {
+    "name": "Aviaservice LLC",
+    "IATA": null,
+    "ICAO": "KZN",
+    "website": "www.aviaservis.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898798"
+  },
+  {
+    "name": "Aviashelf",
+    "IATA": null,
+    "ICAO": "TGA",
+    "website": "www.aviashelf.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898815"
+  },
+  {
+    "name": "Aviastar-Tu Co. Ltd",
+    "IATA": null,
+    "ICAO": "TUP",
+    "website": "www.aviastartu.ru",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898833"
+  },
+  {
+    "name": "Aviatis",
+    "IATA": null,
+    "ICAO": "TIS",
+    "website": "www.aviatis.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898851"
+  },
+  {
+    "name": "Azimut Ltd.",
+    "IATA": null,
+    "ICAO": "MOM",
+    "website": "en.azimut.ru",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898869"
+  },
+  {
+    "name": "JSC Azimuth Airlines",
+    "IATA": "A4",
+    "ICAO": "AZO",
+    "website": "azimuth.aero",
+    "notes": "ICAO designator changed from MUT.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898885"
+  },
+  {
+    "name": "AZUR air Limited Liability Company",
+    "IATA": "ZF",
+    "ICAO": "AZV",
+    "website": "www.azurair.com",
+    "notes": "Founded in May 1995 as Katekavia. ICAO designator changed from KTK w.e.f. 29 March 2020. Name changed from Katekavia-limited company",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898904"
+  },
+  {
+    "name": "Baltic Airlines",
+    "IATA": null,
+    "ICAO": "BLL",
+    "website": "balticairlines.narod.ru",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898922"
+  },
+  {
+    "name": "Bel Ltd",
+    "IATA": null,
+    "ICAO": "FOS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898940"
+  },
+  {
+    "name": "Belgorod Aviation Enterprise, Joint-Stock Company",
+    "IATA": null,
+    "ICAO": "BED",
+    "website": null,
+    "notes": "Name changed from Belgorod State Aviation Enterprise",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898957"
+  },
+  {
+    "name": "Best Aero Handling Ltd",
+    "IATA": null,
+    "ICAO": "BAX",
+    "website": "www.bestaero.ru",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898972"
+  },
+  {
+    "name": "Business Aero, LLC",
+    "IATA": null,
+    "ICAO": "KBS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.898989"
+  },
+  {
+    "name": "Bylina, Joint-Stock Company",
+    "IATA": null,
+    "ICAO": "BYL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899007"
+  },
+  {
+    "name": "Centre of Applied Geodynamica, Industrial Enterprise",
+    "IATA": null,
+    "ICAO": "CGS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899023"
+  },
+  {
+    "name": "CNG-Transavia, Joint-Stock Company",
+    "IATA": null,
+    "ICAO": "CGT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899039"
+  },
+  {
+    "name": "Convers Avia Airline",
+    "IATA": null,
+    "ICAO": "CVS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899055"
+  },
+  {
+    "name": "Air Company Course-S",
+    "IATA": null,
+    "ICAO": "KRS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899073"
+  },
+  {
+    "name": "Domodedovo Airport Handling, CJSC",
+    "IATA": null,
+    "ICAO": "DPH",
+    "website": "www.domodedovo.ru",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899090"
+  },
+  {
+    "name": "East Aero Service, LLC",
+    "IATA": null,
+    "ICAO": "BAC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899107"
+  },
+  {
+    "name": "Eastunion, LLC",
+    "IATA": null,
+    "ICAO": "ETU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899125"
+  },
+  {
+    "name": "Erofey LLC t/a E-Cargo Airlines",
+    "IATA": null,
+    "ICAO": "ERF",
+    "website": "erofeyairline.ru/en",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899143"
+  },
+  {
+    "name": "Eltsovka Airlines",
+    "IATA": null,
+    "ICAO": "ETS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899159"
+  },
+  {
+    "name": "ESN Jet Service, LLC",
+    "IATA": null,
+    "ICAO": "ECH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899175"
+  },
+  {
+    "name": "Eurojet Service",
+    "IATA": null,
+    "ICAO": "UJS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899190"
+  },
+  {
+    "name": "Federal Service of the National Guard Troops of The Russian Federation",
+    "IATA": null,
+    "ICAO": "RIF",
+    "website": null,
+    "notes": "Name changed from Aviation Ministry of the Interior of the Russian Federation.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899210"
+  },
+  {
+    "name": "Federal State Budgetary Organization Gagarin Research & Test Cosmonaut Training Center",
+    "IATA": null,
+    "ICAO": "CPK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899227"
+  },
+  {
+    "name": "Finlight Airline L.L.C.",
+    "IATA": null,
+    "ICAO": "FNT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899243"
+  },
+  {
+    "name": "Finlight Airline LLC",
+    "IATA": null,
+    "ICAO": "PNT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899259"
+  },
+  {
+    "name": "Flight, Joint-Stock Company",
+    "IATA": null,
+    "ICAO": "FLV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899275"
+  },
+  {
+    "name": "Flying Technology Airline Limited",
+    "IATA": null,
+    "ICAO": "FTG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899292"
+  },
+  {
+    "name": "Flying-Research Aerogeophysical Center Ltd.",
+    "IATA": null,
+    "ICAO": "FGP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899309"
+  },
+  {
+    "name": "Gazpromavia Aviation Company Limited",
+    "IATA": null,
+    "ICAO": "GZP",
+    "website": "www.gazpromavia.ru",
+    "notes": "Founded in 1995",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899327"
+  },
+  {
+    "name": "Gelix Aero",
+    "IATA": null,
+    "ICAO": "GAI",
+    "website": "gelix.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899343"
+  },
+  {
+    "name": "Gelix Airlines",
+    "IATA": null,
+    "ICAO": "GLX",
+    "website": "gelix.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899361"
+  },
+  {
+    "name": "Global Avia Handling Limited Company",
+    "IATA": null,
+    "ICAO": "GBH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899378"
+  },
+  {
+    "name": "Limited Liability Company GloBus",
+    "IATA": "XT",
+    "ICAO": "CTU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899396"
+  },
+  {
+    "name": "Ground Handling Control Center LLC",
+    "IATA": null,
+    "ICAO": "VGH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899412"
+  },
+  {
+    "name": "The Airline iFly",
+    "IATA": "F7",
+    "ICAO": "RSY",
+    "website": "iflyltd.ru",
+    "notes": "IATA designator changed from I4*. Designator H5 recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899430"
+  },
+  {
+    "name": "IL-Avia",
+    "IATA": null,
+    "ICAO": "ILV",
+    "website": "www.ilavia.ru",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899447"
+  },
+  {
+    "name": "International Airnavigation Service East",
+    "IATA": null,
+    "ICAO": "VST",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899464"
+  },
+  {
+    "name": "Closed Joint Stock Company IrAero",
+    "IATA": "IO",
+    "ICAO": "IAE",
+    "website": "www.iraero.su",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899481"
+  },
+  {
+    "name": "IVV Femida, Ltd",
+    "IATA": null,
+    "ICAO": "FDF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899499"
+  },
+  {
+    "name": "Izhavia Public Stock Company",
+    "IATA": "I8",
+    "ICAO": "IZA",
+    "website": "izhavia.su",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899516"
+  },
+  {
+    "name": "JSC Jet Air Group",
+    "IATA": null,
+    "ICAO": "JSI",
+    "website": "www.premieravia.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899533"
+  },
+  {
+    "name": "Jet Port Region LLC",
+    "IATA": null,
+    "ICAO": "JPK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899552"
+  },
+  {
+    "name": "Jet Port South, LLC",
+    "IATA": null,
+    "ICAO": "ILE",
+    "website": "jetport.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899570"
+  },
+  {
+    "name": "Jet-2000",
+    "IATA": null,
+    "ICAO": "JTT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899587"
+  },
+  {
+    "name": "Jetaerofuels, LLC",
+    "IATA": null,
+    "ICAO": "JRO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899606"
+  },
+  {
+    "name": "Jetica",
+    "IATA": null,
+    "ICAO": "JTC",
+    "website": "jetica.ru",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899625"
+  },
+  {
+    "name": "Jetport SPB, LLC",
+    "IATA": null,
+    "ICAO": "JPH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899643"
+  },
+  {
+    "name": "Kaliningrad Air Enterprise",
+    "IATA": null,
+    "ICAO": "KLN",
+    "website": "www.byteciyt.ru/~avia/",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899661"
+  },
+  {
+    "name": "Kazan Plant Of Helicopters",
+    "IATA": null,
+    "ICAO": "KPH",
+    "website": "www.kazanhelicopters.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899681"
+  },
+  {
+    "name": "Regional State Unitary Enterprise Khabarovsk Airlines",
+    "IATA": null,
+    "ICAO": "KHF",
+    "website": "khabavia.ru",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899699"
+  },
+  {
+    "name": "Komiaviatrans Open Joint Stock Company",
+    "IATA": "KO",
+    "ICAO": "KMA",
+    "website": "www.komiaviatrans.ru",
+    "notes": "Name changed from Komiaviatrans State Air Enterprise",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899719"
+  },
+  {
+    "name": "Kosmos",
+    "IATA": null,
+    "ICAO": "KSM",
+    "website": "www.ntsi.mtu-net.ru/~kosmos/",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899739"
+  },
+  {
+    "name": "Kostroma Air Enterprise",
+    "IATA": null,
+    "ICAO": "KMW",
+    "website": "www.kostroma-avia.ru",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899757"
+  },
+  {
+    "name": "Krasavia, Joint-Stock Company",
+    "IATA": "KV",
+    "ICAO": "SSJ",
+    "website": "www.ak-krasavia.ru",
+    "notes": "Name changed from Krasavia, State Enterprise of Krasnoyarsk Territory. Designator KI recalled by IATA. Founded in 1956 as part of Aeroflot. Became independent in 1992.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899779"
+  },
+  {
+    "name": "Kurzemes Avio Ltd",
+    "IATA": null,
+    "ICAO": "KZA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899798"
+  },
+  {
+    "name": "Lukoil-Avia",
+    "IATA": null,
+    "ICAO": "LUK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899816"
+  },
+  {
+    "name": "Malaya Aviatsia Dona",
+    "IATA": null,
+    "ICAO": "MKK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899835"
+  },
+  {
+    "name": "MBK-S, Open Joint Stock Company",
+    "IATA": null,
+    "ICAO": "PLG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899855"
+  },
+  {
+    "name": "Meridian Air Company",
+    "IATA": null,
+    "ICAO": "MMM",
+    "website": "meridian-avia.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899873"
+  },
+  {
+    "name": "MIR Scientific Industrial Enterprise, Joint-Stock Company",
+    "IATA": null,
+    "ICAO": "NPP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899892"
+  },
+  {
+    "name": "MixVel",
+    "IATA": "1K",
+    "ICAO": null,
+    "website": "mixvel.com",
+    "notes": "Computer Reservation System",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899911"
+  },
+  {
+    "name": "Murmansk Aviation Enterprise, LLC",
+    "IATA": null,
+    "ICAO": "MRM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899931"
+  },
+  {
+    "name": "Nass LLC",
+    "IATA": null,
+    "ICAO": "NAW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899950"
+  },
+  {
+    "name": "Nizhnevartovsk Enterprise, Federal State Unitary Enterprise",
+    "IATA": null,
+    "ICAO": "NVK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899969"
+  },
+  {
+    "name": "Joint-stock company NordStar Airlines d/b/a NordStar",
+    "IATA": "Y7",
+    "ICAO": "TYA",
+    "website": "www.nordstar.ru",
+    "notes": "Name changed from Open Joint Stock Company Airline Taimyr d/b/a NordStar.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.899990"
+  },
+  {
+    "name": "LLC \"Nord Wind\"",
+    "IATA": "N4",
+    "ICAO": "NWS",
+    "website": "www.nordwindairlines.ru",
+    "notes": "IATA Designator changed from N4*.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900009"
+  },
+  {
+    "name": "Aircompany North-West LLC",
+    "IATA": null,
+    "ICAO": "NWC",
+    "website": "www.northwest.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900027"
+  },
+  {
+    "name": "North-West Air Forest Fire Center",
+    "IATA": null,
+    "ICAO": "PTZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900046"
+  },
+  {
+    "name": "Novgorod Air Enterprise",
+    "IATA": null,
+    "ICAO": "NVG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900065"
+  },
+  {
+    "name": "Novosibirsk Aviation Production Association",
+    "IATA": null,
+    "ICAO": "NPO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900083"
+  },
+  {
+    "name": "Ok-Trans LLC",
+    "IATA": null,
+    "ICAO": "OKW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900101"
+  },
+  {
+    "name": "Orel State Air Enterprise",
+    "IATA": null,
+    "ICAO": "ORM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900121"
+  },
+  {
+    "name": "Orion-X",
+    "IATA": null,
+    "ICAO": "OIX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900140"
+  },
+  {
+    "name": "Panh, Joint-Stock Company",
+    "IATA": null,
+    "ICAO": "PNH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900158"
+  },
+  {
+    "name": "Ikar, LLC t/a Pegas Fly",
+    "IATA": "EO",
+    "ICAO": "KAR",
+    "website": "www.pegasfly.ru",
+    "notes": "Founded on 15 June 1993. IATA designator changed from IK*. Name changed from Ikar, LLC.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900179"
+  },
+  {
+    "name": "Petropavlovsk, CJSC",
+    "IATA": null,
+    "ICAO": "PPV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900199"
+  },
+  {
+    "name": "Petropavlovsk-Kachatsk Air Enterprise",
+    "IATA": null,
+    "ICAO": "PTK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900218"
+  },
+  {
+    "name": "Pobeda Airlines LLC",
+    "IATA": "DP",
+    "ICAO": "PBD",
+    "website": "www.pobeda.aero",
+    "notes": "Founded on 16 September 2014. Commenced operations on 01 December 2014. Low cost subsidary of Aeroflot",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900238"
+  },
+  {
+    "name": "Polar Airlines OJSC",
+    "IATA": "PI",
+    "ICAO": "RKA",
+    "website": "polarair.aero",
+    "notes": "Name changed from Polar Airlines, , State Unitary Enterprise Air Company. Purchased by JSC Airline Yakutia (R3/SYL)",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900258"
+  },
+  {
+    "name": "Pskov State Aviation Enterprise",
+    "IATA": null,
+    "ICAO": "PSW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900277"
+  },
+  {
+    "name": "Pulkovo Aircraft Services, CJSC",
+    "IATA": null,
+    "ICAO": "PGH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900295"
+  },
+  {
+    "name": "CJSC Airline 400",
+    "IATA": "WZ",
+    "ICAO": "RWZ",
+    "website": "www.a400.ru",
+    "notes": "IATA Accounting and Prefix codes recalled. ICAO designator changed from VAZ. Founded in 1999.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900314"
+  },
+  {
+    "name": "Air Company Reem Air",
+    "IATA": null,
+    "ICAO": "REK",
+    "website": "www.reemtravel.com/aircargo.html",
+    "notes": "Designator V4* recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900333"
+  },
+  {
+    "name": "Region Aero, LLC",
+    "IATA": null,
+    "ICAO": "RAH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900351"
+  },
+  {
+    "name": "RKC Progress, Air Company",
+    "IATA": null,
+    "ICAO": "PSS",
+    "website": null,
+    "notes": "Name changed from TSSKB-Progress, Air Company",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900370"
+  },
+  {
+    "name": "Rosneft-Baltika, Joint-Stock Company",
+    "IATA": null,
+    "ICAO": "RNB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900387"
+  },
+  {
+    "name": "Rossiya Airlines JSC",
+    "IATA": "FV",
+    "ICAO": "SDM",
+    "website": "www.rossiya-airlines.com/en/",
+    "notes": "ICAO Callsign changed from Russia. Formed by the merger of Pulkovo Aviation Enterprise and State Transport Company of Russia.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900407"
+  },
+  {
+    "name": "Airline Rostvertol-Avia CJSC",
+    "IATA": null,
+    "ICAO": "RVT",
+    "website": "www.rostvertol-avia.ru/en/",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900425"
+  },
+  {
+    "name": "Rosuertol",
+    "IATA": null,
+    "ICAO": "RUZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900442"
+  },
+  {
+    "name": "CJSC Royal Flight Airlines",
+    "IATA": "RL",
+    "ICAO": "ABG",
+    "website": "www.royalflight.ru",
+    "notes": "IATA Designator changed from 4R. Name changed from Joint Stock Company \"Abakan-Avia\" w.e.f. 11 July 2014.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900460"
+  },
+  {
+    "name": "RPA-Aviataxi Ltd.",
+    "IATA": null,
+    "ICAO": "ARP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900476"
+  },
+  {
+    "name": "Rusaero, Center For Civil Aviation Services",
+    "IATA": null,
+    "ICAO": "KLE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900495"
+  },
+  {
+    "name": "Rusich-T, Aircompany CJSC",
+    "IATA": null,
+    "ICAO": "RUH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900515"
+  },
+  {
+    "name": "Rusjet, Joint-Stock Company",
+    "IATA": null,
+    "ICAO": "RSJ",
+    "website": "www.rus-jet.ru",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900533"
+  },
+  {
+    "name": "Joint Stock Aviation Company \"RusLine\"",
+    "IATA": "7R",
+    "ICAO": "RLU",
+    "website": "www.rusline.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900552"
+  },
+  {
+    "name": "Russair Aircompany, Closed Joint Stock Company",
+    "IATA": null,
+    "ICAO": "RUR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900569"
+  },
+  {
+    "name": "Russian aircraft Corporation - MIG, Federal Unitary Enterprise",
+    "IATA": null,
+    "ICAO": "MIG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900587"
+  },
+  {
+    "name": "Russian Federation Air Force",
+    "IATA": null,
+    "ICAO": "RFF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900605"
+  },
+  {
+    "name": "JSC Siberia Airlines d/b/a S7 Airlines",
+    "IATA": "S7",
+    "ICAO": "SBI",
+    "website": "www.s7.ru",
+    "notes": "Name changed from Siberia Airlines PJSC and previously from S7 Airlines. Siberia Airlines JSC. Name changed from Siberia Airlines - Sibir Airlines. ICAO callsign hanged from Siberia Airlines",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900625"
+  },
+  {
+    "name": "S-Air, Private Joint-Stock Aviation Company",
+    "IATA": null,
+    "ICAO": "RLS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900643"
+  },
+  {
+    "name": "National Aircompany Sakha Avia",
+    "IATA": null,
+    "ICAO": "IKT",
+    "website": null,
+    "notes": "Designator K7 recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900661"
+  },
+  {
+    "name": "Sakhaviatrans",
+    "IATA": null,
+    "ICAO": "SVT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900678"
+  },
+  {
+    "name": "Saratov Aviation Plant, Joint-Stock Company",
+    "IATA": null,
+    "ICAO": "SVP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900696"
+  },
+  {
+    "name": "Severstal Aircompany Ltd.",
+    "IATA": null,
+    "ICAO": "SSF",
+    "website": "www.severstal-avia.ru",
+    "notes": "Name changed from Severstal Joint Stock Company",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900715"
+  },
+  {
+    "name": "Shar Ink Ltd.",
+    "IATA": null,
+    "ICAO": "UGP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900734"
+  },
+  {
+    "name": "Sheremetyevo-Cargo JSC",
+    "IATA": null,
+    "ICAO": "SHO",
+    "website": "www.shercargo.ru/eng",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900753"
+  },
+  {
+    "name": "Sibia Ltd.",
+    "IATA": null,
+    "ICAO": "SBD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900771"
+  },
+  {
+    "name": "Simargl Ltd, Aircompany",
+    "IATA": null,
+    "ICAO": "SMN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900790"
+  },
+  {
+    "name": "Siren-Travel Closed Joint Stock Company",
+    "IATA": "1H",
+    "ICAO": null,
+    "website": "www.sirena-travel.com",
+    "notes": "Name changed from Comtech-N, JSC. Computer Reservation System",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900810"
+  },
+  {
+    "name": "Air Company Sirius-Aero Ltd",
+    "IATA": null,
+    "ICAO": "CIG",
+    "website": "sirius-aero.ru",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900829"
+  },
+  {
+    "name": "Sky Atlas",
+    "IATA": null,
+    "ICAO": "RUS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900847"
+  },
+  {
+    "name": "Air Company \"Sky Gates Airlines\" LLC",
+    "IATA": "U3",
+    "ICAO": "SAY",
+    "website": "www.skygates.aero",
+    "notes": "AOC issued on 14 September 2016",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900866"
+  },
+  {
+    "name": "Sky Handling LLC",
+    "IATA": null,
+    "ICAO": "TSZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900886"
+  },
+  {
+    "name": "SkyLight JSC",
+    "IATA": null,
+    "ICAO": "LSK",
+    "website": "www.skylight.aero",
+    "notes": "Name changed to Skylight, LLC.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900906"
+  },
+  {
+    "name": "Skyways, CJSC",
+    "IATA": null,
+    "ICAO": "SWY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900924"
+  },
+  {
+    "name": "Joint Stock Company Smartavia Airlines",
+    "IATA": "5N",
+    "ICAO": "AUL",
+    "website": "flysmartavia.com",
+    "notes": "Name changed from Joint Stock Company Nordavia Region Airlines. Name changed from Arkhangelsk Airlines. ICAO codes changed from OAO. IATA Designator changed from 5N*",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900946"
+  },
+  {
+    "name": "Sokol, Joint-Stock Aviation Company",
+    "IATA": null,
+    "ICAO": "PIV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900965"
+  },
+  {
+    "name": "S.park+, Joint-Stock Company",
+    "IATA": null,
+    "ICAO": "BVV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.900984"
+  },
+  {
+    "name": "Specavia Air Company",
+    "IATA": null,
+    "ICAO": "BHV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901001"
+  },
+  {
+    "name": "Special Detachment - Russia, Federal State Budget Institution",
+    "IATA": null,
+    "ICAO": "RSD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901020"
+  },
+  {
+    "name": "State ATM Corporation",
+    "IATA": null,
+    "ICAO": "OVD",
+    "website": "www.gkovd.ru",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901038"
+  },
+  {
+    "name": "State Unitary Air Enterprise",
+    "IATA": null,
+    "ICAO": "SUM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901058"
+  },
+  {
+    "name": "Stream Air",
+    "IATA": null,
+    "ICAO": "VPT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901076"
+  },
+  {
+    "name": "Streamline Ops, CJSC",
+    "IATA": null,
+    "ICAO": "STO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901095"
+  },
+  {
+    "name": "Sukhoi Design Bureau Company",
+    "IATA": null,
+    "ICAO": "SDB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901114"
+  },
+  {
+    "name": "Tarp Aviation",
+    "IATA": null,
+    "ICAO": "RLA",
+    "website": null,
+    "notes": "Name changed from LLC Rolema.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901132"
+  },
+  {
+    "name": "Titan Aero Airlines, Closed Joint-Stock Company",
+    "IATA": null,
+    "ICAO": "RTT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901150"
+  },
+  {
+    "name": "JSC Transport Automated Information Systems - TAIS",
+    "IATA": "1M",
+    "ICAO": null,
+    "website": "tais.aero",
+    "notes": "Designator 1M reinstated by IATA. Computer Reservation System",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901171"
+  },
+  {
+    "name": "Traverse-Avia Service Ltd",
+    "IATA": null,
+    "ICAO": "VTR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901191"
+  },
+  {
+    "name": "Tretyakovo Air Transport Company",
+    "IATA": null,
+    "ICAO": "TKO",
+    "website": "www.tretyakovo.ru",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901210"
+  },
+  {
+    "name": "Tulpar Aircompany Limited Trade Development",
+    "IATA": null,
+    "ICAO": "RFE",
+    "website": "en.tulpar.aero",
+    "notes": "Name changed from Jet Express Ltd. And previously Jet Express LLC.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901229"
+  },
+  {
+    "name": "Turukhan Airlines",
+    "IATA": null,
+    "ICAO": "TRH",
+    "website": "www.turuhanavia.ru",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901247"
+  },
+  {
+    "name": "UKTUS, Aircompany",
+    "IATA": null,
+    "ICAO": "UKT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901266"
+  },
+  {
+    "name": "Ural Airlines",
+    "IATA": "U6",
+    "ICAO": "SVR",
+    "website": "www.uralairlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901284"
+  },
+  {
+    "name": "Utair Limited",
+    "IATA": null,
+    "ICAO": "UTR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901302"
+  },
+  {
+    "name": "Utair Aviation Joint-Stock Company",
+    "IATA": "UT",
+    "ICAO": "UTA",
+    "website": "www.utair.ru",
+    "notes": "IATA desigantor changed from P2. ICAO desigantor changed from TMN. Name changed from Tyumenavyatrans Aviation Joint-Stock Company. Name changed from Joint Stock Air Carrier Company Tjumenaviatrans",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901322"
+  },
+  {
+    "name": "UTair-Helicopter Services",
+    "IATA": null,
+    "ICAO": "UTH",
+    "website": "heli.utair.ru",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901342"
+  },
+  {
+    "name": "JSC UVT aero",
+    "IATA": "RT",
+    "ICAO": "UVT",
+    "website": "uvtaero.ru",
+    "notes": "Air Operators licence issued on 8th of July 2015.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901363"
+  },
+  {
+    "name": "VC Belogorie",
+    "IATA": null,
+    "ICAO": "BLO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901381"
+  },
+  {
+    "name": "Aviation Industrial Company Vector, LLC",
+    "IATA": null,
+    "ICAO": "VEK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901401"
+  },
+  {
+    "name": "Vertical-T, Air Company",
+    "IATA": null,
+    "ICAO": "VLT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901420"
+  },
+  {
+    "name": "Airline Vertical-Team, LLC",
+    "IATA": null,
+    "ICAO": "VCL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901439"
+  },
+  {
+    "name": "Vim-Aviaservice Ltd",
+    "IATA": null,
+    "ICAO": "MVY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901458"
+  },
+  {
+    "name": "Vipport, JSC",
+    "IATA": null,
+    "ICAO": "VNK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901476"
+  },
+  {
+    "name": "Virtrans Ltd",
+    "IATA": null,
+    "ICAO": "VAB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901494"
+  },
+  {
+    "name": "Vladikavkaz State Air Enterprise",
+    "IATA": null,
+    "ICAO": "OSV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901512"
+  },
+  {
+    "name": "Volga-Dnepr Airline Joint Stock",
+    "IATA": null,
+    "ICAO": "VDA",
+    "website": "www.volga-dnepr.com/en",
+    "notes": "ICAO callsign changed from Volga-Dnepr. Name changed from Joint Stock Airline Volga-Dnepr",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901532"
+  },
+  {
+    "name": "Vologda State Air Enterprise",
+    "IATA": null,
+    "ICAO": "VGV",
+    "website": "www.vologda.ru/~avia",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901552"
+  },
+  {
+    "name": "Voronezh Aircraft Manufacture Society",
+    "IATA": null,
+    "ICAO": "VSO",
+    "website": null,
+    "notes": "Designator DN recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901571"
+  },
+  {
+    "name": "Vostok Airlines",
+    "IATA": null,
+    "ICAO": "VTK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901590"
+  },
+  {
+    "name": "Vostokaviaservis, LLC",
+    "IATA": null,
+    "ICAO": "VAV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901607"
+  },
+  {
+    "name": "Vzlyet",
+    "IATA": null,
+    "ICAO": "VZL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901625"
+  },
+  {
+    "name": "Weltall-Avia Airlines",
+    "IATA": null,
+    "ICAO": "WLL",
+    "website": "weltall.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901644"
+  },
+  {
+    "name": "Yak Design Bureau",
+    "IATA": null,
+    "ICAO": "YAK",
+    "website": "www.yak.ru/ENG/",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901662"
+  },
+  {
+    "name": "JSC Airline Yakutia",
+    "IATA": "R3",
+    "ICAO": "SYL",
+    "website": "www.yakutia.aero",
+    "notes": "Designator Y8* recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901680"
+  },
+  {
+    "name": "Yakutsk Airlines Saue",
+    "IATA": null,
+    "ICAO": "KUT",
+    "website": "www.yal.ru",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901698"
+  },
+  {
+    "name": "Yamal Airlines",
+    "IATA": "YC",
+    "ICAO": "LLM",
+    "website": "www.yamal.aero",
+    "notes": "Designator YL recalled by IATA. Designator YL reinstated by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:24.901716"
+  },
+  {
+    "name": "Antonov Airlines",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.antonovaircargo.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.901733"
+  },
+  {
+    "name": "Premieravia",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.premieravia.ru",
+    "notes": "Name changed from JetAirGroup Russia.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.901753"
+  },
+  {
+    "name": "Royal Flight",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.royalflight.ru",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.901773"
+  },
+  {
+    "name": "Joint Stock Company \"Abakan-Avia\"",
+    "IATA": "4R",
+    "ICAO": "ABG",
+    "website": "www.abakanavia.ru",
+    "notes": "Name changed to CJSC Royal Flight Airlines w.e.f. 11 July 2014.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.901792"
+  },
+  {
+    "name": "ABB, Aircompany",
+    "IATA": null,
+    "ICAO": "MSN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.901810"
+  },
+  {
+    "name": "AC Insat-Aero Ltd",
+    "IATA": null,
+    "ICAO": "IAE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.901828"
+  },
+  {
+    "name": "Adygeya Airlines",
+    "IATA": null,
+    "ICAO": "RDD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.901846"
+  },
+  {
+    "name": "Adygeya-Avia, Joint-Stock Company",
+    "IATA": null,
+    "ICAO": "MKP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.901865"
+  },
+  {
+    "name": "Aero Rent, Joint-Stock Company",
+    "IATA": null,
+    "ICAO": "NRO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.901883"
+  },
+  {
+    "name": "Aerobusinessservice",
+    "IATA": null,
+    "ICAO": "LSM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.901900"
+  },
+  {
+    "name": "Aeroflot - Soviet Airlines",
+    "IATA": "SU",
+    "ICAO": "AFL",
+    "website": null,
+    "notes": "ICAO callsign changed to Aeroflot",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.901919"
+  },
+  {
+    "name": "Aeroflot - Soviet Airlines",
+    "IATA": "SU",
+    "ICAO": "AFL",
+    "website": null,
+    "notes": "ICAO callsign changed from Sierra Uniform",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.901938"
+  },
+  {
+    "name": "Aeroflot - Russian International Airlines",
+    "IATA": "SU",
+    "ICAO": "AFL",
+    "website": null,
+    "notes": "Name changed to Aeroflot Russian Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.901956"
+  },
+  {
+    "name": "Aeroflot - Nord",
+    "IATA": "5N",
+    "ICAO": "AUL",
+    "website": "www.avl.aero",
+    "notes": "Name changed to Joint Stock Company Nordavia Region Airlines w.e.f. 01 December 2009. Name changed from Arkhangelsk Airlines. ICAO codes changed from OAO. IATA Designator changed from 5N*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.901976"
+  },
+  {
+    "name": "Aeroflot - Plus J.S.C.",
+    "IATA": "P3",
+    "ICAO": null,
+    "website": null,
+    "notes": "Founded in 1996. Ceased operations in 2010.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.901994"
+  },
+  {
+    "name": "JSC Aeroflot - Russian Airlines",
+    "IATA": "SU",
+    "ICAO": "AFL",
+    "website": "www.aeroflot.com",
+    "notes": "Name changed from Aeroflot Russian Airlines. Name changed from Aeroflot - Russian International Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902014"
+  },
+  {
+    "name": "Aeroflot Cargo",
+    "IATA": null,
+    "ICAO": "RCF",
+    "website": "www.aeroflotcargo.com",
+    "notes": "Founded on 26 October 2005. Commenced operations on 19 April 2006. Ceased operations on 01 December 2009.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902035"
+  },
+  {
+    "name": "Aeroflot Russian Airlines",
+    "IATA": "SU",
+    "ICAO": "AFL",
+    "website": "www.aeroflot.com",
+    "notes": "Name changed to JSC Aeroflot - Russian Airlines. Name changed from Aeroflot - Russian International Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902055"
+  },
+  {
+    "name": "Joint stock Aviation Company Donavia",
+    "IATA": "D9",
+    "ICAO": "DNV",
+    "website": "www.glomanet.com/aeroflot-don/",
+    "notes": "Operates as Aeroflot-Don. Name changed to Joint stock Company Donavia",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902074"
+  },
+  {
+    "name": "Aerofreight Airlines, JSC",
+    "IATA": "RS",
+    "ICAO": "FRT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902093"
+  },
+  {
+    "name": "Aero-Kamov, Affiliated Company",
+    "IATA": null,
+    "ICAO": "MSV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902112"
+  },
+  {
+    "name": "Aerokoncept Ltd.",
+    "IATA": null,
+    "ICAO": "PIP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902131"
+  },
+  {
+    "name": "Aerokuzbass, CJSC",
+    "IATA": null,
+    "ICAO": "NKZ",
+    "website": null,
+    "notes": "Name changed to Aerokuzbass Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902148"
+  },
+  {
+    "name": "Aerotrans Airlines, Closed Joint-Stock Company",
+    "IATA": null,
+    "ICAO": "AED",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902167"
+  },
+  {
+    "name": "Air and Sea Transport",
+    "IATA": null,
+    "ICAO": "ASN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902186"
+  },
+  {
+    "name": "Air Bashkortostan Ltd",
+    "IATA": null,
+    "ICAO": "BBT",
+    "website": null,
+    "notes": "IATA designator changed to ZU",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902205"
+  },
+  {
+    "name": "Air Bashkortostan Ltd",
+    "IATA": "ZU",
+    "ICAO": "BBT",
+    "website": "www.air-bashkortostan.ru",
+    "notes": "Commenced operations on 10 April 2006. Closed down on 09 October 2013 by parent company VIM Avia. IATA designator changed from BQ*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902224"
+  },
+  {
+    "name": "Air Enterprise Pulkovo",
+    "IATA": "Z8",
+    "ICAO": "PLK",
+    "website": "www.pulkovo.ru",
+    "notes": "Name changed to Pulkovo Aviation Enterprise",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902244"
+  },
+  {
+    "name": "Air Troika",
+    "IATA": null,
+    "ICAO": "TKA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902263"
+  },
+  {
+    "name": "Air Volga",
+    "IATA": null,
+    "ICAO": "VLA",
+    "website": null,
+    "notes": "Merged into Airlines RusLine w.e.f. 01 April 2010. Name changed from Volga Aviaexpress Company Ltd. w.e.f. 24 November 2008.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902284"
+  },
+  {
+    "name": "AirBridge Cargo Airlines Limited",
+    "IATA": "BO",
+    "ICAO": "ABW",
+    "website": "www.airbridgecargo.com",
+    "notes": "IATA designator changed to RU",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902304"
+  },
+  {
+    "name": "Aircompany Mals Ltd.",
+    "IATA": null,
+    "ICAO": "MSL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902323"
+  },
+  {
+    "name": "Aircompany Skytest",
+    "IATA": null,
+    "ICAO": "TES",
+    "website": "www.skytest.ru",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902342"
+  },
+  {
+    "name": "Airlat Ltd.",
+    "IATA": null,
+    "ICAO": "LAY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902360"
+  },
+  {
+    "name": "Airline Alania, Public Joint Stock Company",
+    "IATA": null,
+    "ICAO": "OST",
+    "website": null,
+    "notes": "Name changed from Alania, Leasing Airline",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902379"
+  },
+  {
+    "name": "Airline Chelyabinsk Air Enterprise Joint Stock Company",
+    "IATA": "H6",
+    "ICAO": "CHB",
+    "website": "www.chelavia.ru/contents_eng.htm",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902399"
+  },
+  {
+    "name": "Airlines 400, JSC",
+    "IATA": "WZ",
+    "ICAO": "VAZ",
+    "website": null,
+    "notes": "ICAO designator changed to RWZ",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902421"
+  },
+  {
+    "name": "Airstan, Joint-Stock Aviation Company",
+    "IATA": null,
+    "ICAO": "JSC",
+    "website": "airstan.knet.ru",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902441"
+  },
+  {
+    "name": "Airstars, Airways Company",
+    "IATA": null,
+    "ICAO": "ASE",
+    "website": "www.airstars.ru",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902460"
+  },
+  {
+    "name": "Airtransservice",
+    "IATA": null,
+    "ICAO": "AAS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902480"
+  },
+  {
+    "name": "Airvita",
+    "IATA": null,
+    "ICAO": "SEV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902497"
+  },
+  {
+    "name": "AJT Air International",
+    "IATA": "E9",
+    "ICAO": "TRJ",
+    "website": null,
+    "notes": "IATA designator Re-Assigned",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902516"
+  },
+  {
+    "name": "OJSC Ak Bars Aero",
+    "IATA": "2B",
+    "ICAO": "BGM",
+    "website": "www.akbarsaero.ru",
+    "notes": "Ceased operations on 12 January 2015. Name changed from OJSC Bugulma Air Enterprise during 2010.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902535"
+  },
+  {
+    "name": "Alak",
+    "IATA": null,
+    "ICAO": "LSV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902552"
+  },
+  {
+    "name": "Joint Stock Company Airline Alania",
+    "IATA": "2D",
+    "ICAO": "ALH",
+    "website": "www.airalania.ru",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902570"
+  },
+  {
+    "name": "Alania, Leasing Airline",
+    "IATA": null,
+    "ICAO": "OST",
+    "website": null,
+    "notes": "Name changed to Airline Alania, Public Joint Stock Company",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902589"
+  },
+  {
+    "name": "Alrosa Avia, Joint-Stock Company",
+    "IATA": null,
+    "ICAO": "LRO",
+    "website": "www.alrosa-avia.ru",
+    "notes": "Established in 1992.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902607"
+  },
+  {
+    "name": "Alrosa Company Limited Mirny Air",
+    "IATA": "6R",
+    "ICAO": "DRU",
+    "website": null,
+    "notes": "Designator 6R reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902626"
+  },
+  {
+    "name": "AMS Group, Joint-Stock Company",
+    "IATA": null,
+    "ICAO": "XMG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902644"
+  },
+  {
+    "name": "Antares Air, Joint-Stock Company",
+    "IATA": null,
+    "ICAO": "ANH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902661"
+  },
+  {
+    "name": "Aircompany Antex-Polus, CJSC",
+    "IATA": null,
+    "ICAO": "AKP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902679"
+  },
+  {
+    "name": "Antey, Joint-Stock Company",
+    "IATA": null,
+    "ICAO": "TEY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902697"
+  },
+  {
+    "name": "Antonov Design Bureau / Antonov Airlines",
+    "IATA": null,
+    "ICAO": "ADB",
+    "website": "www.antonovaircargo.com",
+    "notes": "Changed to registered in Ukraine",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902716"
+  },
+  {
+    "name": "Archangelsk Airlines",
+    "IATA": null,
+    "ICAO": "AUL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902736"
+  },
+  {
+    "name": "Arkhangelsk Airlines",
+    "IATA": null,
+    "ICAO": "OAO",
+    "website": null,
+    "notes": "IATA Designator changed to 5N",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902755"
+  },
+  {
+    "name": "Arkhangelsk Airlines",
+    "IATA": "5N",
+    "ICAO": "OAO",
+    "website": "www.avl.aero",
+    "notes": "Name changed to Aeroflot - Nord. ICAO codes changed to AUL. IATA Designator changed from 5N*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902775"
+  },
+  {
+    "name": "Ashab, Joint-Stock Air Company",
+    "IATA": null,
+    "ICAO": "HAB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902793"
+  },
+  {
+    "name": "Astair Limited Company",
+    "IATA": "ZA",
+    "ICAO": null,
+    "website": null,
+    "notes": "Name changed to Interavia Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902810"
+  },
+  {
+    "name": "Astair",
+    "IATA": null,
+    "ICAO": "SUW",
+    "website": "www.astair.ru",
+    "notes": "Name changed to Interavia Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902830"
+  },
+  {
+    "name": "Astrakhan Airlines",
+    "IATA": "OB",
+    "ICAO": "ASZ",
+    "website": null,
+    "notes": "Designator OB recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902848"
+  },
+  {
+    "name": "Atlant-Soyuz Airlines",
+    "IATA": "3G",
+    "ICAO": "AYZ",
+    "website": "www.atlant-soyuz.ru",
+    "notes": "IATA designator changed to 7B w.e.f. 01 November 2008",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902867"
+  },
+  {
+    "name": "Atlant-Soyuz Airlines",
+    "IATA": "7B",
+    "ICAO": "AYZ",
+    "website": "www.atlant-soyuz.ru",
+    "notes": "Name changed to Moscow Airlines JSC w.e.f. 17 September 2010. ICAO designator changed to MOA. ICAO callsign changed to Moscow Airlines. IATA designator changed from 3G w.e.f. 01 November 2008 after merger with Krasair.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902889"
+  },
+  {
+    "name": "ATP NIIS, State Aircompany",
+    "IATA": null,
+    "ICAO": "NII",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902907"
+  },
+  {
+    "name": "ATRAN-Aviatrans Cargo Airlines",
+    "IATA": "V8",
+    "ICAO": "VAS",
+    "website": "www.atran.ru",
+    "notes": "Name changed to ATRAN",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902925"
+  },
+  {
+    "name": "Atruvera",
+    "IATA": null,
+    "ICAO": "AUV",
+    "website": "www.atruvera.ru",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902944"
+  },
+  {
+    "name": "Joint- Stock Company \"Aurora Airlines\"",
+    "IATA": "HZ",
+    "ICAO": "SHU",
+    "website": "flyaurora.ru",
+    "notes": "ICAO callsign changed to Aurora.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902962"
+  },
+  {
+    "name": "Joint-Stock Holding Co. Aviation Commercial - AVCOM",
+    "IATA": "J6",
+    "ICAO": "AOC",
+    "website": "www.aha.ru/~avcom/index.htm",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902980"
+  },
+  {
+    "name": "Aviaenergo",
+    "IATA": "7U",
+    "ICAO": "ERG",
+    "website": "www.aviaenergo.ru",
+    "notes": "Founded in 1992. Ceased operations in 2011. Designator 7U reinstated by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.902999"
+  },
+  {
+    "name": "Aviaexpress Cruise, Joint-Stock Company",
+    "IATA": null,
+    "ICAO": "BKS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903017"
+  },
+  {
+    "name": "AviaExpressCruise Airlines",
+    "IATA": "E6",
+    "ICAO": "AEQ",
+    "website": null,
+    "notes": "Designator E6 reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903035"
+  },
+  {
+    "name": "Aviainvest, Joint Stock Company",
+    "IATA": null,
+    "ICAO": "IWS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903052"
+  },
+  {
+    "name": "Avial (Russian Company Limited)",
+    "IATA": null,
+    "ICAO": "RLC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903070"
+  },
+  {
+    "name": "Avial NV Ltd. Aviation Company",
+    "IATA": null,
+    "ICAO": "NVI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903089"
+  },
+  {
+    "name": "Aviamost",
+    "IATA": null,
+    "ICAO": "MSG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903107"
+  },
+  {
+    "name": "Avianova LCC",
+    "IATA": "AO",
+    "ICAO": "VNV",
+    "website": "www.avianova.ru",
+    "notes": "Commenced operations on 27 August 2009. Ceased Operations on 09 October 2011.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903127"
+  },
+  {
+    "name": "Aviaobshemash",
+    "IATA": null,
+    "ICAO": "OBM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903147"
+  },
+  {
+    "name": "Aviaprad, Joint-Stock Company",
+    "IATA": "WR",
+    "ICAO": "VID",
+    "website": "www.aviaprad.ru",
+    "notes": "Founded in 1996. Ceased operations on 05 February 2008.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903167"
+  },
+  {
+    "name": "Aviast Ltd, Joint-Stock Company",
+    "IATA": null,
+    "ICAO": "VVA",
+    "website": "www.aviast.ru",
+    "notes": "Designator 6I* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903188"
+  },
+  {
+    "name": "Aviastar",
+    "IATA": null,
+    "ICAO": "FUE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903205"
+  },
+  {
+    "name": "Aviation Company MDA",
+    "IATA": "KR",
+    "ICAO": null,
+    "website": null,
+    "notes": "IATA designator changed from EV*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903222"
+  },
+  {
+    "name": "Aviation Company MDA",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "IATA designator changed to KR",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903239"
+  },
+  {
+    "name": "Aviation Ministry of the Interior of the Russian Federation",
+    "IATA": null,
+    "ICAO": "RIF",
+    "website": null,
+    "notes": "Name changed to Federal Service of the National Guard Troops of The Russian Federation.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903259"
+  },
+  {
+    "name": "JSC Azimuth Airlines",
+    "IATA": "A4",
+    "ICAO": "MUT",
+    "website": "azimuth.aero",
+    "notes": "ICAO designator changed to AZO.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903277"
+  },
+  {
+    "name": "AZUR air Limited Liability Company",
+    "IATA": "ZF",
+    "ICAO": "KTK",
+    "website": "www.azurair.com",
+    "notes": "Founded in May 1995 as Katekavia. ICAO designator changed to AZV w.e.f. 29 March 2020. Name changed from Katekavia-limited company",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903297"
+  },
+  {
+    "name": "Baikal Airlines",
+    "IATA": "X3",
+    "ICAO": "BKL",
+    "website": "cavs.irk.ru/company/baikal/baikal.htm",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903316"
+  },
+  {
+    "name": "Bargouzin Airline",
+    "IATA": null,
+    "ICAO": "BAZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903333"
+  },
+  {
+    "name": "Bashkir Airlines (BAL)",
+    "IATA": null,
+    "ICAO": "BTC",
+    "website": null,
+    "notes": "Designator V9 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903352"
+  },
+  {
+    "name": "Belgorod State Aviation Enterprise",
+    "IATA": null,
+    "ICAO": "BED",
+    "website": null,
+    "notes": "Name changed to Belgorod Aviation Enterprise, Joint-Stock Company",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903372"
+  },
+  {
+    "name": "Beriev Aviation Scientific Technical Complex, Joint Stock Company",
+    "IATA": null,
+    "ICAO": "GMB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903391"
+  },
+  {
+    "name": "Bratsk Air Enterprise",
+    "IATA": null,
+    "ICAO": "BTK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903409"
+  },
+  {
+    "name": "Briansk State Air Enterprise",
+    "IATA": null,
+    "ICAO": "BRK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903426"
+  },
+  {
+    "name": "Bugulma Air Enterprise",
+    "IATA": null,
+    "ICAO": "BGM",
+    "website": null,
+    "notes": "Founded in 1993. Name changed to OJSC Ak Bars Aero during 2010.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903444"
+  },
+  {
+    "name": "Burjat Airlines",
+    "IATA": "U4",
+    "ICAO": "BUT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903462"
+  },
+  {
+    "name": "Buryat Airlines Aircompany",
+    "IATA": null,
+    "ICAO": "BUN",
+    "website": null,
+    "notes": "AOC suspended by russian Authorities w.e.f. 07 Febraury 2017. Founded in 1993.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903481"
+  },
+  {
+    "name": "Bykovo-Avia",
+    "IATA": null,
+    "ICAO": "BKU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903498"
+  },
+  {
+    "name": "C-Air",
+    "IATA": null,
+    "ICAO": "CEE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903515"
+  },
+  {
+    "name": "Center-South Ltd.",
+    "IATA": null,
+    "ICAO": "CTS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903533"
+  },
+  {
+    "name": "Central Districts Airlines",
+    "IATA": null,
+    "ICAO": "CDS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903551"
+  },
+  {
+    "name": "Centre-Avia Airlines, JSC",
+    "IATA": "J7",
+    "ICAO": "CVC",
+    "website": "www.centreavia.ru",
+    "notes": "Founded in 2000. Ceased operations in 2010.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903569"
+  },
+  {
+    "name": "Cheboksary Air Enterprise",
+    "IATA": null,
+    "ICAO": "CBK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903587"
+  },
+  {
+    "name": "Cheboksary Airenterprise, Joint Stock Company",
+    "IATA": null,
+    "ICAO": "CBB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903605"
+  },
+  {
+    "name": "Cherlines",
+    "IATA": null,
+    "ICAO": "CHZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903622"
+  },
+  {
+    "name": "Chernivtsi Aviation Enterprise",
+    "IATA": null,
+    "ICAO": "CHV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903641"
+  },
+  {
+    "name": "Chernomor-Avia",
+    "IATA": null,
+    "ICAO": "CMK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903660"
+  },
+  {
+    "name": "Joint Stock Company Chitaavia",
+    "IATA": "X7",
+    "ICAO": "CHF",
+    "website": null,
+    "notes": "Designator X7 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903681"
+  },
+  {
+    "name": "Comtech-N, JSC",
+    "IATA": "1H",
+    "ICAO": null,
+    "website": null,
+    "notes": "Name changed to Siren-Travel Closed Joint Stock Company. Computer Reservation System",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903700"
+  },
+  {
+    "name": "Joint Stock Company Continental Airways",
+    "IATA": null,
+    "ICAO": "PVV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903718"
+  },
+  {
+    "name": "Continental Airways",
+    "IATA": null,
+    "ICAO": "AKL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903736"
+  },
+  {
+    "name": "Federal State Unitary Enterprise Daghestan Airlines",
+    "IATA": "N2",
+    "ICAO": "DAG",
+    "website": "www.dagair.ru",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903755"
+  },
+  {
+    "name": "Dalavia - Far East Airways - Khabarovsk",
+    "IATA": "H8",
+    "ICAO": "KHB",
+    "website": "www.dalaviadmd.ru",
+    "notes": "Name changed from Khabarovsk Aviation Group",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903773"
+  },
+  {
+    "name": "Diamond Sakha Airlines",
+    "IATA": null,
+    "ICAO": "DSL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903790"
+  },
+  {
+    "name": "Diamonds Of Russia-Sakha",
+    "IATA": null,
+    "ICAO": "DRU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903808"
+  },
+  {
+    "name": "LLC \"Dobrolet\"",
+    "IATA": "QD",
+    "ICAO": "DBR",
+    "website": "www.dobrolet.com",
+    "notes": "Ceased opeations on 04 August 2014. Founded in October 2013. Low cost subsidiary of Aeroflot.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903827"
+  },
+  {
+    "name": "Dobrolet Airlines",
+    "IATA": "G2",
+    "ICAO": "DOB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903843"
+  },
+  {
+    "name": "Joint Stock Aircompany Domodedovo Airlines",
+    "IATA": "E3",
+    "ICAO": "DMO",
+    "website": null,
+    "notes": "Name changed to Domodedovo Airlines Joint Stock Aircompany",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903862"
+  },
+  {
+    "name": "Domodedovo Airlines Joint Stock Aircompany",
+    "IATA": "E3",
+    "ICAO": "DMO",
+    "website": "www.dmo.tch.ru",
+    "notes": "Name changed from Joint Stock Aircompany Domodedovo Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903882"
+  },
+  {
+    "name": "Joint stock Company Donavia",
+    "IATA": "D9",
+    "ICAO": "DNV",
+    "website": "www.aeroflot-don.ru",
+    "notes": "Merged into Rossiya Airlines JSC (FV/SDM) w.e.f. 26 May 2016. Name changed from Joint stock Aviation Company Donavia operation as Aeroflot-Don",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903902"
+  },
+  {
+    "name": "Joint-Stock Company East Line Air",
+    "IATA": "P7",
+    "ICAO": "ESL",
+    "website": null,
+    "notes": "Name changed to  Joint-Stock Company East Line Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903920"
+  },
+  {
+    "name": "Joint-Stock Company East Line Airlines",
+    "IATA": "P7",
+    "ICAO": "ESL",
+    "website": "www.eastline.ru",
+    "notes": "Name changed to Russian Sky Airlines JSC. Name changed from Joint-Stock Company East Line Air",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903937"
+  },
+  {
+    "name": "Elbrus-Avia Air Enterprise",
+    "IATA": null,
+    "ICAO": "NLK",
+    "website": "www.elbrus-avia.ru",
+    "notes": "Ceased opertions.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903955"
+  },
+  {
+    "name": "Elf Air Ltd.",
+    "IATA": null,
+    "ICAO": "EFR",
+    "website": null,
+    "notes": "Name changed to Grizoldubova Air",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903973"
+  },
+  {
+    "name": "Joint Stock Company Enkor",
+    "IATA": "G5",
+    "ICAO": "ENK",
+    "website": "www.chelavia.ru/contents_eng.htm",
+    "notes": "IATA designator changed to G8. IATA designator changed from 5Z. Designator G5 reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.903992"
+  },
+  {
+    "name": "Joint Stock Company Enkor",
+    "IATA": "5Z",
+    "ICAO": "ENK",
+    "website": null,
+    "notes": "IATA designator changed to GZ",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904010"
+  },
+  {
+    "name": "Joint Stock Company Enkor",
+    "IATA": "G8",
+    "ICAO": "ENK",
+    "website": "www.chelavia.ru/contents_eng.htm",
+    "notes": "Founded in 1997. Ceased operations in 2004. IATA designator changed from G5. IATA designator changed from 5Z. Designator G5 reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904030"
+  },
+  {
+    "name": "Ermolino Flying Test Research Enterprise",
+    "IATA": null,
+    "ICAO": "EFE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904049"
+  },
+  {
+    "name": "Eteleair, Air Company Ltd.",
+    "IATA": null,
+    "ICAO": "ETO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904066"
+  },
+  {
+    "name": "Eurasia Aircompany, JSC",
+    "IATA": "UH",
+    "ICAO": "EUS",
+    "website": "www.eus.ru",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904083"
+  },
+  {
+    "name": "Express, Joint-Stock Aircompany",
+    "IATA": null,
+    "ICAO": "PSR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904098"
+  },
+  {
+    "name": "Far Eastern Cargo Airlines",
+    "IATA": null,
+    "ICAO": "FEW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904115"
+  },
+  {
+    "name": "Flight Research Institute, M. Gromov",
+    "IATA": null,
+    "ICAO": "LII",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904132"
+  },
+  {
+    "name": "Globus LLC",
+    "IATA": "GH",
+    "ICAO": "GLP",
+    "website": null,
+    "notes": "Merged into S7 Airlines during December 2019. IATA designator changed from GB*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904148"
+  },
+  {
+    "name": "Globus LLC",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "IATA designator changed to GH",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904165"
+  },
+  {
+    "name": "Golden Airlines",
+    "IATA": null,
+    "ICAO": "GDS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904183"
+  },
+  {
+    "name": "V. Grizodubova Air Company Ltd.",
+    "IATA": null,
+    "ICAO": "GZD",
+    "website": null,
+    "notes": "Name changed from Air Company Elf-Air",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904200"
+  },
+  {
+    "name": "Gromov Flight Research Institute Airline",
+    "IATA": "3R",
+    "ICAO": "GAI",
+    "website": "www.gromovair.ru",
+    "notes": "Name changed to Joint Stock Company \"Moskovia Airlines\". Designator 3R reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904218"
+  },
+  {
+    "name": "Gromov Air, JSC",
+    "IATA": null,
+    "ICAO": "GAI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904234"
+  },
+  {
+    "name": "Joint Stock Company Airline \"Groznyy Avia\"",
+    "IATA": "ZG",
+    "ICAO": "GOZ",
+    "website": "grozny-avia.ru",
+    "notes": "AOC restricted by Authorities January 2017.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904252"
+  },
+  {
+    "name": "The Airline iFly",
+    "IATA": null,
+    "ICAO": "RSY",
+    "website": "iflyltd.ru",
+    "notes": "IATA designator changed to F7. Designator H5 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904270"
+  },
+  {
+    "name": "The Airline iFly",
+    "IATA": "H5",
+    "ICAO": "RSY",
+    "website": "iflyltd.ru",
+    "notes": "Designator H5 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904287"
+  },
+  {
+    "name": "Igap",
+    "IATA": null,
+    "ICAO": "IGP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904304"
+  },
+  {
+    "name": "Ikar, LLC",
+    "IATA": null,
+    "ICAO": "KAR",
+    "website": null,
+    "notes": "Founded on 15 June 1993. Name changed to Ikar, LLC t/a Pegas Fly.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904322"
+  },
+  {
+    "name": "Ilyushin, S.U., Aviation Complex, Joint-Stock Company",
+    "IATA": null,
+    "ICAO": "ILF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904340"
+  },
+  {
+    "name": "Ingush Aviation Lines",
+    "IATA": null,
+    "ICAO": "ING",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904356"
+  },
+  {
+    "name": "Interavia Airlines",
+    "IATA": "ZA",
+    "ICAO": "SUW",
+    "website": "www.inter-avia.ru",
+    "notes": "Name changed from Astair",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904372"
+  },
+  {
+    "name": "State Unitary Enterprise Orenburg Region, International Airport Orenburg",
+    "IATA": "07",
+    "ICAO": "ORG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904388"
+  },
+  {
+    "name": "International Aviatransport Corporation Rusavia",
+    "IATA": "2Q",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904405"
+  },
+  {
+    "name": "Joint-Stock Company International Technological Corp. Sirena",
+    "IATA": "1Q",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator 1Q reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904421"
+  },
+  {
+    "name": "JSC, Irkutsk Aviation Industrail Association",
+    "IATA": null,
+    "ICAO": "UTK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904437"
+  },
+  {
+    "name": "Iron Dragon-Fly Ltd.",
+    "IATA": null,
+    "ICAO": "IDF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904455"
+  },
+  {
+    "name": "IRS Aero, Joint-Stock Air Company",
+    "IATA": "5R",
+    "ICAO": "LDF",
+    "website": null,
+    "notes": "Designator 5R recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904472"
+  },
+  {
+    "name": "Jet Express LLC",
+    "IATA": null,
+    "ICAO": "RFE",
+    "website": "www.rfe.aero",
+    "notes": "Name changed to Jet Express Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904488"
+  },
+  {
+    "name": "Jet Express Ltd.",
+    "IATA": null,
+    "ICAO": "RFE",
+    "website": "www.rfe.aero",
+    "notes": "Name changed from Jet Express LLC.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904505"
+  },
+  {
+    "name": "Joint Stock Air Carrier Company Tjumenaviatrans",
+    "IATA": "P2",
+    "ICAO": "TMN",
+    "website": null,
+    "notes": "Name changed to Tyumenavyatrans Aviation Joint-Stock Company. IATA designator changed from 7M",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904523"
+  },
+  {
+    "name": "JSC Aircompany KAPA",
+    "IATA": null,
+    "ICAO": "KAO",
+    "website": "www.kapa-air.ru",
+    "notes": "Name changed to JSC \"KAPO Avia\". Name changed from Kazan Aviation Production Association",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904540"
+  },
+  {
+    "name": "Kaliningradavia Open Joint Sotck Company",
+    "IATA": null,
+    "ICAO": "KNI",
+    "website": "www.kdavia.ru",
+    "notes": "Name changed to KD Avia Open Joint Stock Company",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904558"
+  },
+  {
+    "name": "JSC KAPO Avia",
+    "IATA": null,
+    "ICAO": "KAO",
+    "website": "www.kapoavia.ru",
+    "notes": "Ceased operations. Name changed from JSC Aircompany KAPA. Name changed from Kazan Aviation Production Association",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904575"
+  },
+  {
+    "name": "Karat Joint Stock Company",
+    "IATA": "V2",
+    "ICAO": "AKT",
+    "website": "www.karat.aero",
+    "notes": "IATA designator changed from 2U",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904592"
+  },
+  {
+    "name": "Karat Joint Stock Company",
+    "IATA": "2U",
+    "ICAO": "AKT",
+    "website": null,
+    "notes": "IATA designator changed to V2",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904608"
+  },
+  {
+    "name": "Katekavia-limited company",
+    "IATA": "ZF",
+    "ICAO": "KTK",
+    "website": "www.katekavia.ru",
+    "notes": "Founded in May 1995. Name changed to Azur Air",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904625"
+  },
+  {
+    "name": "State United Venture Kavminvodyavia",
+    "IATA": "KV",
+    "ICAO": "MVD",
+    "website": "www.kmvavia.ru",
+    "notes": "Ceased operations. Designator KV reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904645"
+  },
+  {
+    "name": "Kazan Aviation Production Association",
+    "IATA": null,
+    "ICAO": "KAO",
+    "website": null,
+    "notes": "Name changed to JSC Aircompany KAPA named after S.P. Gorbunov, Aircompany",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904664"
+  },
+  {
+    "name": "KD Avia Open Joint Stock Company",
+    "IATA": null,
+    "ICAO": "KNI",
+    "website": "www.kdavia.ru",
+    "notes": "Ceased Operations. Name changed from Kaliningradavia Open Joint Sotck Company",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904681"
+  },
+  {
+    "name": "Khabarovsk Aviation Group",
+    "IATA": "H8",
+    "ICAO": "KHB",
+    "website": null,
+    "notes": "Name changed to Dalavia - Far East Airways - Khabarovsk",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904699"
+  },
+  {
+    "name": "Khakasia Airline",
+    "IATA": null,
+    "ICAO": "BKN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904715"
+  },
+  {
+    "name": "Kirov State Avia Enterprise",
+    "IATA": null,
+    "ICAO": "KTA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904731"
+  },
+  {
+    "name": "Joint Stock Company Kogalymavia Airlines",
+    "IATA": "7K",
+    "ICAO": "KGL",
+    "website": null,
+    "notes": "Name changed to Kogalymavia Airlines JSC",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904748"
+  },
+  {
+    "name": "Kogalymavia Airlines JSC",
+    "IATA": "7K",
+    "ICAO": "KGL",
+    "website": "www.kolavia.ru",
+    "notes": "Name changed from Joint Stock Company Kogalymavia Airlines. Founded in 1993.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904768"
+  },
+  {
+    "name": "Kolyma-Avia",
+    "IATA": null,
+    "ICAO": "KLI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904784"
+  },
+  {
+    "name": "Komiaviatrans State Air Enterprise",
+    "IATA": null,
+    "ICAO": "KMA",
+    "website": "www.komiaviatrans.ru",
+    "notes": "Name changed to Komiaviatrans Open Joint sotck Company",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904801"
+  },
+  {
+    "name": "Komiinteravia Joint-Stock Company",
+    "IATA": null,
+    "ICAO": "KMV",
+    "website": "www.komi.com/ki_avia/KOMIINteravia.htm",
+    "notes": "Name changed from Joint-Stock Company Komiinteravia. Founded in March 1996",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904819"
+  },
+  {
+    "name": "Joint-Stock Company Komiinteravia",
+    "IATA": null,
+    "ICAO": "KMV",
+    "website": null,
+    "notes": "Name changed to Komiinteravia Joint-Stock Company",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904836"
+  },
+  {
+    "name": "Komsomolsk-On-Amur Air Enterprise",
+    "IATA": null,
+    "ICAO": "KNM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904853"
+  },
+  {
+    "name": "Korsar",
+    "IATA": null,
+    "ICAO": "KRS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904869"
+  },
+  {
+    "name": "Kotlas Air Enterprises, Federal State Unitary Enterprise",
+    "IATA": null,
+    "ICAO": "KTS",
+    "website": null,
+    "notes": "Name changed to Transair-Gyrantiee, Aircompany, Ojs Company",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904885"
+  },
+  {
+    "name": "Kotlas Joint Civil Aviation Enterprise",
+    "IATA": null,
+    "ICAO": "KTS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904901"
+  },
+  {
+    "name": "Kraiaero",
+    "IATA": null,
+    "ICAO": "KIO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904919"
+  },
+  {
+    "name": "Krasnoyarsk Airlines d/b/a KrasAir Airlines",
+    "IATA": "7B",
+    "ICAO": "KJC",
+    "website": "www.krasair.ru",
+    "notes": "Founded in 1993. Ceased operations on 01 November 2008.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904937"
+  },
+  {
+    "name": "Krasavia, State Enterprise of Krasnoyarsk Territory",
+    "IATA": "K9",
+    "ICAO": "SSJ",
+    "website": "www.ak-krasavia.ru",
+    "notes": "Designator K9 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904954"
+  },
+  {
+    "name": "Krasavia, State Enterprise of Krasnoyarsk Territory",
+    "IATA": "KI",
+    "ICAO": "SSJ",
+    "website": "www.ak-krasavia.ru",
+    "notes": "Designator KI recalled by IATA. Founded in 1956 as part of Aeroflot. Became independent in 1992.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904973"
+  },
+  {
+    "name": "Krasavia, State Enterprise of Krasnoyarsk Territory",
+    "IATA": null,
+    "ICAO": "SSJ",
+    "website": "www.ak-krasavia.ru",
+    "notes": "Name changed to Krasavia, Joint-Stock Company. Designator KI recalled by IATA. Founded in 1956 as part of Aeroflot. Became independent in 1992.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.904991"
+  },
+  {
+    "name": "Krial-Air, Joint-Stock Air Company",
+    "IATA": null,
+    "ICAO": "KRA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905007"
+  },
+  {
+    "name": "Krylo Airlines",
+    "IATA": null,
+    "ICAO": "KRI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905023"
+  },
+  {
+    "name": "Air Lines of Kuban",
+    "IATA": null,
+    "ICAO": "KIL",
+    "website": "www.kuban-airlines.de",
+    "notes": "Founded in 1992. Ceased operations in 11 December 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905042"
+  },
+  {
+    "name": "Kursk State Air Enterprise",
+    "IATA": null,
+    "ICAO": "KUS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905058"
+  },
+  {
+    "name": "Lensibavia",
+    "IATA": null,
+    "ICAO": "LSB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905073"
+  },
+  {
+    "name": "Lukiaviatrans",
+    "IATA": null,
+    "ICAO": "LKV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905088"
+  },
+  {
+    "name": "Madina",
+    "IATA": null,
+    "ICAO": "MND",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905104"
+  },
+  {
+    "name": "Magadan Airlines",
+    "IATA": "H5",
+    "ICAO": "MVL",
+    "website": "www.mavial.magtrk.ru",
+    "notes": "Designator H5 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905120"
+  },
+  {
+    "name": "Magadanaerogruz",
+    "IATA": null,
+    "ICAO": "MGG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905136"
+  },
+  {
+    "name": "Magadanaeroruz",
+    "IATA": null,
+    "ICAO": "MGG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905152"
+  },
+  {
+    "name": "Magadanavialising, Joint-Stock Company",
+    "IATA": null,
+    "ICAO": "MLZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905168"
+  },
+  {
+    "name": "Magnitogorsk Air Enterprise",
+    "IATA": null,
+    "ICAO": "MNG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905184"
+  },
+  {
+    "name": "MDA Airlines, Joint-Stock Company",
+    "IATA": null,
+    "ICAO": "MDD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905200"
+  },
+  {
+    "name": "Meridian+, NP AGP, LLC",
+    "IATA": null,
+    "ICAO": "MDN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905216"
+  },
+  {
+    "name": "Kogalymavia Airlines JSC",
+    "IATA": "7K",
+    "ICAO": "KGL",
+    "website": "www.metrojet.ru",
+    "notes": "Name changed from Joint Stock Company Kogalymavia Airlines. Founded in 1993.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905233"
+  },
+  {
+    "name": "Mi-avia",
+    "IATA": null,
+    "ICAO": "MIV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905249"
+  },
+  {
+    "name": "Michkov Air Services",
+    "IATA": null,
+    "ICAO": "MKV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905266"
+  },
+  {
+    "name": "Mimino",
+    "IATA": null,
+    "ICAO": "MIM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905282"
+  },
+  {
+    "name": "Moscow Airlines, JSC",
+    "IATA": "7B",
+    "ICAO": "MOA",
+    "website": null,
+    "notes": "Ceased operations on 17 January 2011. Name changed from Atlant-Soyuz Airlines w.e.f. 17 September 2010.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905300"
+  },
+  {
+    "name": "Moscow Airways",
+    "IATA": "M8",
+    "ICAO": "MSC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905315"
+  },
+  {
+    "name": "Joint Stock Company \"Moskovia Airlines\"",
+    "IATA": null,
+    "ICAO": "GAI",
+    "website": "www.moskovia.aero",
+    "notes": "AOC Suspended by Rosaviatsia on 29 August 2014 due financial issues. Designator 3R recalled by IATA. Name changed from Gromov Flight Research Institute Airline",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905333"
+  },
+  {
+    "name": "Joint Stock Company \"Moskovia Airlines\"",
+    "IATA": "3R",
+    "ICAO": "GAI",
+    "website": "www.moskovia.aero",
+    "notes": "Name changed from Gromov Flight Research Institute Airline. Designator 3R reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905349"
+  },
+  {
+    "name": "Murmansk Aircompany Co. Ltd.",
+    "IATA": null,
+    "ICAO": "MNZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905366"
+  },
+  {
+    "name": "Murmansk Airlines",
+    "IATA": null,
+    "ICAO": "MNK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905382"
+  },
+  {
+    "name": "Nadym Airlines",
+    "IATA": null,
+    "ICAO": "NDM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905398"
+  },
+  {
+    "name": "National Aircompany Sakha Avia",
+    "IATA": "K7",
+    "ICAO": "IKT",
+    "website": null,
+    "notes": "Designator K7 reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905414"
+  },
+  {
+    "name": "Nefteyugansk Aviation Division",
+    "IATA": null,
+    "ICAO": "NFT",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905431"
+  },
+  {
+    "name": "Nizhegorodsky Airlines",
+    "IATA": null,
+    "ICAO": "NGL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905448"
+  },
+  {
+    "name": "Nord Air",
+    "IATA": null,
+    "ICAO": "NRD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905465"
+  },
+  {
+    "name": "Joint Stock Company Nordavia Region Airlines",
+    "IATA": "5N",
+    "ICAO": "AUL",
+    "website": "nordavia.ru",
+    "notes": "To be rebranded as SmartAvia w.e.f. October 2017. Name changed from Aeroflot - Nord w.e.f. 01 December 2009. Name changed from Arkhangelsk Airlines. ICAO codes changed from OAO. IATA Designator changed from 5N*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905484"
+  },
+  {
+    "name": "Open Joint Stock Company Airline Taimyr d/b/a NordStar",
+    "IATA": "Y7",
+    "ICAO": "TYA",
+    "website": "www.taimyravia.ru",
+    "notes": "Name changed to Joint-stock company NordStar Airlines d/b/a NordStar. Founded on 17 December 2008.  Commenced operations on 17 June 2009.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905502"
+  },
+  {
+    "name": "LLC \"Nord Wind\"",
+    "IATA": null,
+    "ICAO": "NWS",
+    "website": "www.nordwindairlines.ru",
+    "notes": "IATA Designator changed to N4.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905520"
+  },
+  {
+    "name": "North-West Air Tranport Company - Vyborg, JSC",
+    "IATA": null,
+    "ICAO": "VBG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905537"
+  },
+  {
+    "name": "Novosibirsk Aircraft Repair Plant, Joint-Stock Company",
+    "IATA": null,
+    "ICAO": "NSP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905553"
+  },
+  {
+    "name": "Novosibirsk Airlines",
+    "IATA": "L8",
+    "ICAO": "NLB",
+    "website": null,
+    "notes": "Voluntary Surrender of IATA prefix",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905571"
+  },
+  {
+    "name": "Novosibirsk Aviaenterprise",
+    "IATA": null,
+    "ICAO": "NBE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905588"
+  },
+  {
+    "name": "Omega-Express Service Ltd.",
+    "IATA": null,
+    "ICAO": "OES",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905603"
+  },
+  {
+    "name": "Omskavia Airline, Public Joint-Stock Society",
+    "IATA": "N3",
+    "ICAO": "OMS",
+    "website": "www.omskavia.ru",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905621"
+  },
+  {
+    "name": "JSC \"Orenburg Airlines\"",
+    "IATA": "R2",
+    "ICAO": "ORB",
+    "website": "www.orenair.ru",
+    "notes": "Merged into Rossiya Airlines JSC (FV/SDM) w.e.f. 26 May 2016. Name changed to JSC \"Orenburg Airlines\". Name changed from State Unitary Avia Enterprise d/b/a Orenburg Airlines. Designator R2 reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905640"
+  },
+  {
+    "name": "Orenburg Airlines Federal State Unitary Enterprise",
+    "IATA": "R2",
+    "ICAO": "ORB",
+    "website": "www.orenair.ru",
+    "notes": "Name changed to JSC \"Orenburg Airlines\". Name changed from State Unitary Avia Enterprise d/b/a Orenburg Airlines. Designator R2 reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905658"
+  },
+  {
+    "name": "State Unitary Avia Enterprise d/b/a Orenburg Airlines",
+    "IATA": "R2",
+    "ICAO": "ORB",
+    "website": "www.oal.ru",
+    "notes": "Name changed to Orenburg Airlines Federal State Unitary Enterprise",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905674"
+  },
+  {
+    "name": "Oriol Avia",
+    "IATA": null,
+    "ICAO": "OAU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905690"
+  },
+  {
+    "name": "Ikar, LLC t/a Pegas Fly",
+    "IATA": null,
+    "ICAO": "KAR",
+    "website": "www.pegasfly.ru",
+    "notes": "Founded on 15 June 1993. IATA designator changed to EO. Name changed from Ikar, LLC.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905707"
+  },
+  {
+    "name": "Perm State Air Enterprise",
+    "IATA": null,
+    "ICAO": "PGP",
+    "website": "savino.perm.ru",
+    "notes": "Designator P9* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905723"
+  },
+  {
+    "name": "Perm Airlines",
+    "IATA": "9D",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator 9D recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905739"
+  },
+  {
+    "name": "Perm Motors, Joint-Stock Air Company",
+    "IATA": null,
+    "ICAO": "PMT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905755"
+  },
+  {
+    "name": "Petroff Air, LLC",
+    "IATA": null,
+    "ICAO": "PTF",
+    "website": "www.petroff-air.ru",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905771"
+  },
+  {
+    "name": "Petronord-Avia, Air Company",
+    "IATA": null,
+    "ICAO": "PRN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905787"
+  },
+  {
+    "name": "Phoenix, Joint-Stock Company",
+    "IATA": null,
+    "ICAO": "FNH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905803"
+  },
+  {
+    "name": "Polar Airlines, State Unitary Enterprise Air Company",
+    "IATA": null,
+    "ICAO": "RKA",
+    "website": "www.polarair.ru",
+    "notes": "Name changed to Polar Airlines OJSC",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905820"
+  },
+  {
+    "name": "Air Company Polet",
+    "IATA": "YQ",
+    "ICAO": "POT",
+    "website": "www.polet.ru",
+    "notes": "Suspended operations on 24 November 2014. AOC withdrawn April 2015. Established and commenced operations in 1988.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905837"
+  },
+  {
+    "name": "Polls, Center For Parachute And Expeditionary Works",
+    "IATA": null,
+    "ICAO": "PLB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905854"
+  },
+  {
+    "name": "POLUS Centre for Parachute and Expeditional Works",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator PM* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905871"
+  },
+  {
+    "name": "Polyot Sirena",
+    "IATA": "1U",
+    "ICAO": null,
+    "website": "www.polets.ru",
+    "notes": "Designator 1U reinstated by IATA. Computer Reservation System",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905888"
+  },
+  {
+    "name": "Primair",
+    "IATA": null,
+    "ICAO": "PMM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905903"
+  },
+  {
+    "name": "Pulkovo Aviation Enterprise",
+    "IATA": "Z8",
+    "ICAO": "PLK",
+    "website": "www.pulkovo.ru",
+    "notes": "IATA Desigantor changed to FV. Name changed from Air Enterprise Pulkovo",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905920"
+  },
+  {
+    "name": "Pulkovo Aviation Enterprise",
+    "IATA": "FV",
+    "ICAO": "PLK",
+    "website": "www.pulkovo.ru",
+    "notes": "Merged with State Transport Company of Russia to form Rossiya Airlines OJSC. Name changed from Air Enterprise Pulkovo. IATA Desigantor changed from Z8",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905938"
+  },
+  {
+    "name": "CJSC Airline 400",
+    "IATA": "WZ",
+    "ICAO": "RWZ",
+    "website": "www.a400.ru",
+    "notes": "ICAO designator changed from VAZ. Founded in 1999.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905955"
+  },
+  {
+    "name": "Air Company Reem Air",
+    "IATA": null,
+    "ICAO": "REK",
+    "website": "www.reemtravel.com/aircargo.html",
+    "notes": "Designator V4* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905972"
+  },
+  {
+    "name": "Region-Airline",
+    "IATA": "RK",
+    "ICAO": null,
+    "website": "www.regionavia.ru",
+    "notes": "Founded in 2005. Commenced operations in 2006, Ceased operations in 2011.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.905988"
+  },
+  {
+    "name": "Remex Ltd, Air Company",
+    "IATA": null,
+    "ICAO": "RXM",
+    "website": "www.aha.ru/~sky",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906005"
+  },
+  {
+    "name": "LLC Rolema",
+    "IATA": null,
+    "ICAO": "RLA",
+    "website": null,
+    "notes": "Name changed to Tarp Aviation.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906022"
+  },
+  {
+    "name": "Rossiya Airlines Open JSC",
+    "IATA": "FV",
+    "ICAO": "SDM",
+    "website": "www.rossiya-airlines.com/en/",
+    "notes": "Formed by the merger of Pulkovo Aviation Enterprise and State Transport Company of Russia.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906038"
+  },
+  {
+    "name": "CJSC Royal Flight Airlines",
+    "IATA": "4R",
+    "ICAO": "ABG",
+    "website": "www.royalflight.ru",
+    "notes": "IATA Designator changed to RL. Name changed from Joint Stock Company \"Abakan-Avia\" w.e.f. 11 July 2014.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906055"
+  },
+  {
+    "name": "RusAero FSC",
+    "IATA": null,
+    "ICAO": "RUR",
+    "website": "www.rusaero.aero",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906071"
+  },
+  {
+    "name": "Rusaerolizing Airline",
+    "IATA": null,
+    "ICAO": "KVM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906088"
+  },
+  {
+    "name": "Rusair, Joint-Stock Air Company",
+    "IATA": null,
+    "ICAO": "CGI",
+    "website": "www.rusair.com",
+    "notes": "Name changed to Atlas Jet, Joint-Stock Company.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906106"
+  },
+  {
+    "name": "Rusavia, International Aviatransport Corporation, Joint-Stock Company",
+    "IATA": null,
+    "ICAO": "RMK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906122"
+  },
+  {
+    "name": "RUSS JSC Air Transport Co.",
+    "IATA": "NR",
+    "ICAO": "RUR",
+    "website": "www.russair.net/ru",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906139"
+  },
+  {
+    "name": "Russian Sky Airlines JSC",
+    "IATA": "P7",
+    "ICAO": "ESL",
+    "website": "en.rusky.ru",
+    "notes": "Name changed from Joint-Stock Company East Line Airlines. Name changed from Joint-Stock Company East Line Air",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906156"
+  },
+  {
+    "name": "Ryazan State Air Enterprise",
+    "IATA": null,
+    "ICAO": "RYZ",
+    "website": "www.aviatrans.ryazan.ru:8101/index.htm",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906173"
+  },
+  {
+    "name": "Rybinsk Motors, Joint-Stock Company",
+    "IATA": null,
+    "ICAO": "RMO",
+    "website": "www.rybinskmotors.ru",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906191"
+  },
+  {
+    "name": "Rzhevka",
+    "IATA": null,
+    "ICAO": "RZV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906207"
+  },
+  {
+    "name": "S7 Airlines. Siberia Airlines JSC",
+    "IATA": "S7",
+    "ICAO": "SBI",
+    "website": "www.s7.ru",
+    "notes": "Name changed from Siberia Airlines - Sibir Airlines. ICAO callsign hanged from Siberia Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906224"
+  },
+  {
+    "name": "Siberia Airlines PJSC",
+    "IATA": "S7",
+    "ICAO": "SBI",
+    "website": "www.s7.ru",
+    "notes": "Name changed from S7 Airlines. Siberia Airlines JSC. Name changed from Siberia Airlines - Sibir Airlines. ICAO callsign hanged from Siberia Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906242"
+  },
+  {
+    "name": "Saak",
+    "IATA": null,
+    "ICAO": "SVL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906257"
+  },
+  {
+    "name": "Sakha Airlines",
+    "IATA": null,
+    "ICAO": "SKH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906273"
+  },
+  {
+    "name": "National Aircompany Sakha Avia",
+    "IATA": "K7",
+    "ICAO": "IKT",
+    "website": null,
+    "notes": "Designator K7 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906289"
+  },
+  {
+    "name": "Sakhalinskie Aviatrassy SAT",
+    "IATA": null,
+    "ICAO": "SHU",
+    "website": null,
+    "notes": "IATA designator changed to HZ. Designator GZ* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906306"
+  },
+  {
+    "name": "Samara Airlines",
+    "IATA": "E5",
+    "ICAO": "BRZ",
+    "website": "www.samara-airlines.ru/english/index.asp",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906321"
+  },
+  {
+    "name": "Saratov Airlines Joint Stock Company",
+    "IATA": null,
+    "ICAO": "SOV",
+    "website": "www.saravia.ru",
+    "notes": "Ceased operations on 30 May 2018 after AOC revoked.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906338"
+  },
+  {
+    "name": "Sakhalinskie Aviatrassy, SAT",
+    "IATA": "HZ",
+    "ICAO": "SHU",
+    "website": "www.satairlines.ru",
+    "notes": "Merged with Vladivostok Air to form Aurora. IATA designator changed from GZ*. Designator HZ reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906356"
+  },
+  {
+    "name": "Sayany Airlines",
+    "IATA": null,
+    "ICAO": "SYL",
+    "website": "yakutia-air.ru",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906371"
+  },
+  {
+    "name": "Second Sveridlovsk Air Enterprise",
+    "IATA": null,
+    "ICAO": "UKU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906388"
+  },
+  {
+    "name": "Severstal Joint Stock Company",
+    "IATA": "D2",
+    "ICAO": "SSF",
+    "website": null,
+    "notes": "Name changed to Severstal Aircompany Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906404"
+  },
+  {
+    "name": "Shans Air, Joint-Stock Company",
+    "IATA": null,
+    "ICAO": "SNF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906424"
+  },
+  {
+    "name": "Shonkar",
+    "IATA": null,
+    "ICAO": "SKR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906440"
+  },
+  {
+    "name": "Joint Stock Company SIAT (Sibaviatrans)",
+    "IATA": "5M",
+    "ICAO": "SIB",
+    "website": "www.siat.ru",
+    "notes": "Suspended operations at the end of September 2008 due to the Air Union collapse.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906461"
+  },
+  {
+    "name": "Siberia Airlines - Sibir Airlines",
+    "IATA": "S7",
+    "ICAO": "SBI",
+    "website": "www.sibair.ru",
+    "notes": "Name changed to S7 Airlines. Siberia Airlines JSC. ICAO callsign hanged from Siberia Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906485"
+  },
+  {
+    "name": "Siberia Airlines - Sibir Airlines",
+    "IATA": "S7",
+    "ICAO": "SBI",
+    "website": "www.sibair.ru",
+    "notes": "ICAO callsign hanged to Siberian Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906502"
+  },
+  {
+    "name": "Siberia-Interavia, Joint-Stock Company",
+    "IATA": null,
+    "ICAO": "STQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906518"
+  },
+  {
+    "name": "Sirair",
+    "IATA": null,
+    "ICAO": "SRN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906534"
+  },
+  {
+    "name": "Sirin",
+    "IATA": "R1",
+    "ICAO": null,
+    "website": "www.tais.com",
+    "notes": "Computer Reservation System",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906550"
+  },
+  {
+    "name": "Sky Express",
+    "IATA": "XW",
+    "ICAO": "SXR",
+    "website": "www.skyexpress.ru",
+    "notes": "Founded in 2006. Commenced operations on 29 January 2007. Ceased operations on 29 October 2011. Designator XW reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906568"
+  },
+  {
+    "name": "Sky Light Ltd.",
+    "IATA": null,
+    "ICAO": "CLJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906584"
+  },
+  {
+    "name": "SkyLight, LLC",
+    "IATA": null,
+    "ICAO": "LSK",
+    "website": "www.skylight.aero",
+    "notes": "Name changed to Skylight JSC",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906601"
+  },
+  {
+    "name": "Joint-Stock Company Sochi Airlines - AVIAPRIMA",
+    "IATA": "J5",
+    "ICAO": "PRL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906618"
+  },
+  {
+    "name": "Spair Air Transport Corporation",
+    "IATA": null,
+    "ICAO": "PAR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906633"
+  },
+  {
+    "name": "Special Cargo Airlines Joint Stock Aircompany",
+    "IATA": "C7",
+    "ICAO": "SCI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906650"
+  },
+  {
+    "name": "SSA+, Joint-Stock Company",
+    "IATA": null,
+    "ICAO": "SOC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906664"
+  },
+  {
+    "name": "Staero Ltd.",
+    "IATA": null,
+    "ICAO": "STB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906681"
+  },
+  {
+    "name": "Start, Joint-Stock Company",
+    "IATA": null,
+    "ICAO": "STW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906697"
+  },
+  {
+    "name": "State Lipetsk Air Enterprise",
+    "IATA": null,
+    "ICAO": "LIP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906711"
+  },
+  {
+    "name": "State Transport Company of Russia",
+    "IATA": "R4",
+    "ICAO": "SDM",
+    "website": "www.transport.ru/russia/index.htm",
+    "notes": "Merged with Pulkovo Aviation Enterprise FV/PLK. Designator R4 reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906729"
+  },
+  {
+    "name": "Sukhoi Civil Aviation (SCA)",
+    "IATA": null,
+    "ICAO": "SUH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906745"
+  },
+  {
+    "name": "OJSC Aircompany Tatarstan",
+    "IATA": "U9",
+    "ICAO": "TAK",
+    "website": "www.tatarstan.aero",
+    "notes": "AOC revoked by Russian Authorities. Name changed from Tatarstan State Enterprise Aircompany",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906763"
+  },
+  {
+    "name": "Kazan Airenterprise (Tatarstan Airlines)",
+    "IATA": "4U",
+    "ICAO": "KAZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906779"
+  },
+  {
+    "name": "Tatarstan State Enterprise Aircompany",
+    "IATA": "U9",
+    "ICAO": "KAZ",
+    "website": null,
+    "notes": "Name changed to Tatarstan JSC Aircompany",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906796"
+  },
+  {
+    "name": "Tatneftaero",
+    "IATA": null,
+    "ICAO": "TNF",
+    "website": "www.taif.ru/tatneftaero",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906813"
+  },
+  {
+    "name": "Tavia, Joint-Stock Company",
+    "IATA": null,
+    "ICAO": "TGR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906828"
+  },
+  {
+    "name": "TCH of Russian Airlines",
+    "IATA": "4T",
+    "ICAO": "TCH",
+    "website": null,
+    "notes": "Designator 4T recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906845"
+  },
+  {
+    "name": "Aviation Enterprise TESIS Limited",
+    "IATA": null,
+    "ICAO": "TIS",
+    "website": "www.tesis-cargo.ru",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906861"
+  },
+  {
+    "name": "Tomsk State Aviation Enterprise",
+    "IATA": null,
+    "ICAO": "TSK",
+    "website": null,
+    "notes": "Name changed to Tomsk Production Aviation Amalgamation",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906878"
+  },
+  {
+    "name": "Tomsk Production Aviation Amalgamation",
+    "IATA": null,
+    "ICAO": "TSK",
+    "website": "www.tomskavia.ru",
+    "notes": "Air Operator\u2019s certificate (AOC) suspended by Russian Authorities April 2015. Name changed from Tomsk State Aviation Enterprise",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906902"
+  },
+  {
+    "name": "Transaero Airlines",
+    "IATA": "UN",
+    "ICAO": "TSO",
+    "website": "www.transaero.com",
+    "notes": "Founded on 28 December 1990. Commenced operations on 05 November 1991. Ceased operations on 25 October 2015.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906919"
+  },
+  {
+    "name": "Transaero Airlines",
+    "IATA": "4J",
+    "ICAO": "TSO",
+    "website": null,
+    "notes": "IATA designator changed to UN",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906935"
+  },
+  {
+    "name": "Transaero Express",
+    "IATA": null,
+    "ICAO": "TXE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906950"
+  },
+  {
+    "name": "Transair-Gyrantiee, Aircompany, OJS Company",
+    "IATA": null,
+    "ICAO": "KTS",
+    "website": null,
+    "notes": "Name changed from Kotlas Air Enterprises, Federal State Unitary Enterprise",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906967"
+  },
+  {
+    "name": "Transeuropean Airlines",
+    "IATA": null,
+    "ICAO": "TEP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906983"
+  },
+  {
+    "name": "TSSKB-Progress, Air Company",
+    "IATA": null,
+    "ICAO": "PSS",
+    "website": null,
+    "notes": "Name changed to RKC Progress, Air Company",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.906999"
+  },
+  {
+    "name": "Tulpar",
+    "IATA": null,
+    "ICAO": "TUL",
+    "website": "www.tulpar.ru",
+    "notes": "AOC revoked by Russian Authorities",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.907018"
+  },
+  {
+    "name": "Tyumen Airlines",
+    "IATA": null,
+    "ICAO": "TYM",
+    "website": "www.airlines-tuymen.ru",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.907035"
+  },
+  {
+    "name": "Tyumen Airlines",
+    "IATA": "7M",
+    "ICAO": "TMN",
+    "website": null,
+    "notes": "IATA designator changed to P2",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.907052"
+  },
+  {
+    "name": "Tyumenaviatrans Joint Stock Air Carrier Company",
+    "IATA": "P2",
+    "ICAO": "TMN",
+    "website": null,
+    "notes": "Name changed to Tyumenavyatrans Aviation Joint-Stock Company",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.907069"
+  },
+  {
+    "name": "Tyumenavyatrans Aviation Joint-Stock Company",
+    "IATA": "P2",
+    "ICAO": "TMN",
+    "website": "www.utair.ru",
+    "notes": "Name changed from Joint Stock Air Carrier Company Tjumenaviatrans. IATA designator changed from 7M",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.907086"
+  },
+  {
+    "name": "Tyumenspecavia",
+    "IATA": null,
+    "ICAO": "TUM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.907103"
+  },
+  {
+    "name": "Ulyanovsk Higher Civil Aviation School",
+    "IATA": null,
+    "ICAO": "UHS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.907119"
+  },
+  {
+    "name": "Unitemp-M, Limited Liability Industrial Company",
+    "IATA": null,
+    "ICAO": "UMS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.907134"
+  },
+  {
+    "name": "Uraiavia",
+    "IATA": null,
+    "ICAO": "URV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.907149"
+  },
+  {
+    "name": "Utair Closed JSC",
+    "IATA": null,
+    "ICAO": "TUM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.907166"
+  },
+  {
+    "name": "Utair Aviation Joint-Stock Company",
+    "IATA": "P2",
+    "ICAO": "TMN",
+    "website": "www.utair.ru",
+    "notes": "IATA desigantor changed to UT. Name changed from Tyumenavyatrans Aviation Joint-Stock Company. Name changed from Joint Stock Air Carrier Company Tjumenaviatrans",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.907186"
+  },
+  {
+    "name": "Utair Aviation Joint-Stock Company",
+    "IATA": "UT",
+    "ICAO": "TMN",
+    "website": "www.utair.ru",
+    "notes": "IATA desigantor changed from P2. ICAO desigantor changed to UTA. Name changed from Tyumenavyatrans Aviation Joint-Stock Company. Name changed from Joint Stock Air Carrier Company Tjumenaviatrans",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.907208"
+  },
+  {
+    "name": "UTAir Express",
+    "IATA": "UR",
+    "ICAO": "UTX",
+    "website": "www.utair-express.com",
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.907226"
+  },
+  {
+    "name": "Vector-M Airlines",
+    "IATA": null,
+    "ICAO": "VTM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.907242"
+  },
+  {
+    "name": "VIM Airlines",
+    "IATA": "NN",
+    "ICAO": "MOV",
+    "website": "www.vim-avia.com",
+    "notes": "Ceased operations on 16 October 2017.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.907260"
+  },
+  {
+    "name": "Vladivostock Air",
+    "IATA": "XF",
+    "ICAO": "HSL",
+    "website": null,
+    "notes": "ICAO designator changed to VLK",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.907277"
+  },
+  {
+    "name": "Vladivostok Air JSC",
+    "IATA": "XF",
+    "ICAO": "VLK",
+    "website": "www.vladavia.ru",
+    "notes": "Merged with SAT Airlines to form Aurora on 14 December 2013. ICAO callsign changed from Vladivostok Air",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.907295"
+  },
+  {
+    "name": "Vnukovo Airlines",
+    "IATA": "V5",
+    "ICAO": "VKO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.907312"
+  },
+  {
+    "name": "Volare Closed Joint-Stock Aircompany",
+    "IATA": null,
+    "ICAO": "VRE",
+    "website": null,
+    "notes": "Designator F7* recalled by IATA. IATA changed from 1I",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.907330"
+  },
+  {
+    "name": "Volare Airtransport Joint-Stock Company",
+    "IATA": "1I",
+    "ICAO": "VRE",
+    "website": null,
+    "notes": "IATA designator changed to F7*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.907349"
+  },
+  {
+    "name": "Volga Aviaexpress Company Ltd.",
+    "IATA": null,
+    "ICAO": "WLG",
+    "website": "www.vae.ru",
+    "notes": "Name changed to Air Volga w.e.f. 24 November 2008.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.907366"
+  },
+  {
+    "name": "Volga-Dnepr Airline Joint Stock",
+    "IATA": null,
+    "ICAO": "VDA",
+    "website": "www.vda.com.ru",
+    "notes": "ICAO callsign changed to Volga. Name changed from Joint Stock Airline Volga-Dnepr",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.907384"
+  },
+  {
+    "name": "Joint Stock Airline Volga-Dnepr",
+    "IATA": null,
+    "ICAO": "VDA",
+    "website": "www.vda.com.ru",
+    "notes": "Name changed to Volga-Dnepr Airline Joint Stock",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.907400"
+  },
+  {
+    "name": "Voronezh Aircraft Manufacture Society",
+    "IATA": "DN",
+    "ICAO": "VSO",
+    "website": null,
+    "notes": "Designator DN recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.907417"
+  },
+  {
+    "name": "Voronezhavia",
+    "IATA": null,
+    "ICAO": "VRN",
+    "website": "web.vrn.ru/cavs/aeroplan.htm",
+    "notes": "Designator ZT recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.907434"
+  },
+  {
+    "name": "Joint Stock Company Voronszh Aircraft",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.907450"
+  },
+  {
+    "name": "Wind Airline, Joint-Stock Company",
+    "IATA": null,
+    "ICAO": "WID",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.907467"
+  },
+  {
+    "name": "Yak-Service",
+    "IATA": null,
+    "ICAO": "AKY",
+    "website": null,
+    "notes": "On 21 September 2011, the airline had its licence revoked by Rosaviatsiya in the wake of the crash in Yaroslavl. Established on 12 February 1993",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.907487"
+  },
+  {
+    "name": "JSC Airline Yakutia",
+    "IATA": null,
+    "ICAO": "SVL",
+    "website": null,
+    "notes": "Designator Y8* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.907503"
+  },
+  {
+    "name": "Yamal Airlines",
+    "IATA": "YL",
+    "ICAO": "LLM",
+    "website": "www.yamal.ru/bi_i9r_e.htm",
+    "notes": "Designator YL recalled by IATA. Designator YL reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.907521"
+  },
+  {
+    "name": "Zapolyarye, Airline Company",
+    "IATA": null,
+    "ICAO": "PZY",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:24.907539"
+  }
+]

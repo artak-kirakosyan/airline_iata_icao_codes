@@ -1,0 +1,533 @@
+[
+  {
+    "name": "Aeroclub Esztergom",
+    "IATA": null,
+    "ICAO": "EGM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:38.560716"
+  },
+  {
+    "name": "Air Budapest Club Ltd.",
+    "IATA": null,
+    "ICAO": "BUD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:38.560750"
+  },
+  {
+    "name": "Air Service State Company",
+    "IATA": null,
+    "ICAO": "RSZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:38.560771"
+  },
+  {
+    "name": "Air-Invest Ltd",
+    "IATA": null,
+    "ICAO": "HKH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:38.560789"
+  },
+  {
+    "name": "ASL Airlines (Hungary) Kft",
+    "IATA": null,
+    "ICAO": "FAH",
+    "website": "www.farnair.com",
+    "notes": "Name changed from Farnair Hungary kft. Name changed previously from Farner Air Transport Hungary",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:38.560810"
+  },
+  {
+    "name": "B.J. Aviation Kft",
+    "IATA": null,
+    "ICAO": "JSG",
+    "website": "bjcharter.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:38.560829"
+  },
+  {
+    "name": "Budapest Aircraft Service Ltd.",
+    "IATA": "RP",
+    "ICAO": "BPS",
+    "website": "www.baseairlines.hu",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:38.560848"
+  },
+  {
+    "name": "Business Air Ltd.",
+    "IATA": null,
+    "ICAO": "BHU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:38.560865"
+  },
+  {
+    "name": "Danube-Air Ltd.",
+    "IATA": null,
+    "ICAO": "DBE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:38.560882"
+  },
+  {
+    "name": "Fleet Air International Ltd.",
+    "IATA": null,
+    "ICAO": "FRF",
+    "website": "www.fleetair.eu",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:38.560899"
+  },
+  {
+    "name": "Fly-Coop L\u00e9gi Szolg\u00e1ltat\u00f3 Kft.",
+    "IATA": null,
+    "ICAO": "FCA",
+    "website": "flycoop.hu",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:38.560916"
+  },
+  {
+    "name": "G-1 RT",
+    "IATA": null,
+    "ICAO": "GCV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:38.560933"
+  },
+  {
+    "name": "Heavy Airlift Wing",
+    "IATA": null,
+    "ICAO": "BRK",
+    "website": "www.heavyairliftwing.org",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:38.560950"
+  },
+  {
+    "name": "Heli Hungary Ltd.",
+    "IATA": null,
+    "ICAO": "HYH",
+    "website": "www.helihungary.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:38.560968"
+  },
+  {
+    "name": "Hunair Hungarian Airlines Ltd Co.",
+    "IATA": null,
+    "ICAO": "HUV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:38.560986"
+  },
+  {
+    "name": "Hungarian Air Force",
+    "IATA": null,
+    "ICAO": "HUF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:38.561003"
+  },
+  {
+    "name": "Hungarian-Ukranian Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "HUK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:38.561020"
+  },
+  {
+    "name": "Jet Stream Charter Kft.",
+    "IATA": null,
+    "ICAO": "VTB",
+    "website": "jetstream.hu",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:38.561037"
+  },
+  {
+    "name": "Jet-Stream Ltd.",
+    "IATA": null,
+    "ICAO": "JSH",
+    "website": "www.jetstream.hu",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:38.561053"
+  },
+  {
+    "name": "Kobo-Coop - 96 KFT",
+    "IATA": null,
+    "ICAO": "KOB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:38.561068"
+  },
+  {
+    "name": "Linair - Hungarian Regional Airlines",
+    "IATA": null,
+    "ICAO": "LIN",
+    "website": "www.linair.hu/files/fronteng.htm",
+    "notes": "Designator LF recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:38.561085"
+  },
+  {
+    "name": "Malev Express Ltd.",
+    "IATA": null,
+    "ICAO": "MEH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:38.561102"
+  },
+  {
+    "name": "Napkelet Airlines",
+    "IATA": null,
+    "ICAO": "NKE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:38.561118"
+  },
+  {
+    "name": "Pannon Air Service Kft.",
+    "IATA": null,
+    "ICAO": "PHU",
+    "website": "www.pannonair.hu",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:38.561135"
+  },
+  {
+    "name": "Quick Air-Trans Ltd.",
+    "IATA": null,
+    "ICAO": "HQA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:38.561152"
+  },
+  {
+    "name": "Sky Europe Airlines Hungary",
+    "IATA": null,
+    "ICAO": "HSK",
+    "website": "www.skyeurope.com",
+    "notes": "Designator 5P recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:38.561169"
+  },
+  {
+    "name": "Smartwings Hungary Kft.",
+    "IATA": "7O",
+    "ICAO": "TVL",
+    "website": "www.smartwings.com",
+    "notes": "Name changed from Travel Service Legiforgalmi es",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:38.561186"
+  },
+  {
+    "name": "Solyom Hungarian Airways Air Service And Trading Ltd",
+    "IATA": null,
+    "ICAO": "HUN",
+    "website": "solyomairways.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:38.561203"
+  },
+  {
+    "name": "Szer-Bon RT",
+    "IATA": null,
+    "ICAO": "HSB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:38.561218"
+  },
+  {
+    "name": "Tamas Darida Enterprise",
+    "IATA": null,
+    "ICAO": "DTE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:38.561234"
+  },
+  {
+    "name": "Trener Ltd.",
+    "IATA": null,
+    "ICAO": "TNX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:38.561249"
+  },
+  {
+    "name": "West-Caravan Ltd.",
+    "IATA": null,
+    "ICAO": "WHU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:38.561265"
+  },
+  {
+    "name": "Wizz Air Hungary Airlines Limited",
+    "IATA": null,
+    "ICAO": "WZZ",
+    "website": "www.wizzair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:38.561281"
+  },
+  {
+    "name": "Nun Air",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:38.561297"
+  },
+  {
+    "name": "ABC Air Hungary Kft.",
+    "IATA": null,
+    "ICAO": "AHU",
+    "website": null,
+    "notes": "Ceased operations on 20 November 2015",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:38.561313"
+  },
+  {
+    "name": "Aerotraders",
+    "IATA": null,
+    "ICAO": "TDS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:38.561329"
+  },
+  {
+    "name": "Air Hungaria Ltd.",
+    "IATA": null,
+    "ICAO": "AHN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:38.561344"
+  },
+  {
+    "name": "Atlant Aerobatics Ltd.",
+    "IATA": null,
+    "ICAO": "ATU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:38.561359"
+  },
+  {
+    "name": "Aviaexpress Plc.",
+    "IATA": "RX",
+    "ICAO": "AEH",
+    "website": null,
+    "notes": "Designator RX recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:38.561375"
+  },
+  {
+    "name": "Budapest Air Service Ltd.",
+    "IATA": null,
+    "ICAO": "BPS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:38.561391"
+  },
+  {
+    "name": "Carpathian Air Transport Ltd.",
+    "IATA": "KC",
+    "ICAO": "CPP",
+    "website": null,
+    "notes": "Designator KC recalled by IATA. Designator changed from KC*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:38.561408"
+  },
+  {
+    "name": "Carpathian Air Transport Ltd.",
+    "IATA": null,
+    "ICAO": "CPP",
+    "website": null,
+    "notes": "Designator changed to KC",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:38.561425"
+  },
+  {
+    "name": "Carpathian Air Transport Ltd.",
+    "IATA": null,
+    "ICAO": "CPP",
+    "website": "www.carpathian.hu",
+    "notes": "Ceased operations 2002. Designator KC recalled by IATA. Designator changed from KC*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:38.561442"
+  },
+  {
+    "name": "Cityline Hungary Kft.",
+    "IATA": null,
+    "ICAO": "CNB",
+    "website": "www.cityhun.hu",
+    "notes": "Ceased operation during 2015. Designator ZM* recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:38.561459"
+  },
+  {
+    "name": "Farnair Hungary kft.",
+    "IATA": null,
+    "ICAO": "FAH",
+    "website": "www.farnair.com",
+    "notes": "Name changed to ASL Airlines (Hungary) Kft. Name changed previously from Farner Air Transport Hungary",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:38.561477"
+  },
+  {
+    "name": "Indicator Company",
+    "IATA": null,
+    "ICAO": "IDR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:38.561493"
+  },
+  {
+    "name": "Jetstream Air Ltd.",
+    "IATA": null,
+    "ICAO": "JSH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:38.561508"
+  },
+  {
+    "name": "Linair - Hungarian Regional Airlines",
+    "IATA": "LF",
+    "ICAO": "LIN",
+    "website": "www.linair.hu/files/fronteng.htm",
+    "notes": "Designator LF recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:38.561525"
+  },
+  {
+    "name": "Long-Star Ltd.",
+    "IATA": null,
+    "ICAO": "LST",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:38.561540"
+  },
+  {
+    "name": "MALEV Hungarian Airlines Limited",
+    "IATA": "MA",
+    "ICAO": "MAH",
+    "website": "www.malev.hu",
+    "notes": "Ceased operations on 03 February 2012 and declared bankrupt on 14 February 2012. Name changed from MALEV Hungarian Airlines Public Limited Company (MALEV p.l.c.)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:38.561558"
+  },
+  {
+    "name": "MALEV Hungarian Airlines Public Limited Company (MALEV p.l.c.)",
+    "IATA": "MA",
+    "ICAO": "MAH",
+    "website": "www.malev.hu",
+    "notes": "Name changed to MALEV Hungarian Airlines Limited",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:38.561575"
+  },
+  {
+    "name": "Megamicro RT.",
+    "IATA": null,
+    "ICAO": "MEG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:38.561590"
+  },
+  {
+    "name": "Mikromatika Air Cargo Ltd.",
+    "IATA": null,
+    "ICAO": "MMH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:38.561606"
+  },
+  {
+    "name": "Pannon Airlines Air-transporting Ltd.",
+    "IATA": null,
+    "ICAO": "PHP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:38.561621"
+  },
+  {
+    "name": "Phoenix 2000 Airtaxi Ltd.",
+    "IATA": null,
+    "ICAO": "PHX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:38.561637"
+  },
+  {
+    "name": "Pro Patria Air Ltd.",
+    "IATA": null,
+    "ICAO": "PPT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:38.561653"
+  },
+  {
+    "name": "Sky Europe Airlines Hungary",
+    "IATA": "5P",
+    "ICAO": "HSK",
+    "website": "www.skyeurope.com",
+    "notes": "Designator 5P recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:38.561670"
+  },
+  {
+    "name": "Travel Service Legiforgalmi es",
+    "IATA": "7O",
+    "ICAO": "TVL",
+    "website": null,
+    "notes": "ICAO Callsign changed to Travelair",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:38.561686"
+  },
+  {
+    "name": "Travel Service Legiforgalmi es",
+    "IATA": "7O",
+    "ICAO": "TVL",
+    "website": null,
+    "notes": "Name changed to Smartwings Hungary Kft. w.e.f. 10 December 2018. ICAO Callsign changed from Travel Service",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:38.561703"
+  }
+]

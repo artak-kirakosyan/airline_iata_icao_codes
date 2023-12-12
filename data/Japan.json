@@ -1,0 +1,839 @@
+[
+  {
+    "name": "Advanced Air Co. Ltd.",
+    "IATA": null,
+    "ICAO": "ADD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488139"
+  },
+  {
+    "name": "Aero Asahi Corporation",
+    "IATA": null,
+    "ICAO": "AKF",
+    "website": "www.aeroasahi.co.jp",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488167"
+  },
+  {
+    "name": "Air Do Co., Ltd.",
+    "IATA": "HD",
+    "ICAO": "ADO",
+    "website": "www.airdo.jp",
+    "notes": "Name changed from Hokkaido International Airlines Co., Ltd.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488186"
+  },
+  {
+    "name": "Air Japan Company Ltd.",
+    "IATA": "NQ",
+    "ICAO": "AJX",
+    "website": "www.air-japan.co.jp",
+    "notes": "Name changed from World Air Network Co., Ltd. ICAO designator changed from WAC. ICAO callsign changed from Wing Ace",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488204"
+  },
+  {
+    "name": "Air Transse Co., Ltd",
+    "IATA": null,
+    "ICAO": "TSQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488221"
+  },
+  {
+    "name": "All Nippon Airways Co. Ltd.",
+    "IATA": "NH",
+    "ICAO": "ANA",
+    "website": "www.ana.co.jp/eng/",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488237"
+  },
+  {
+    "name": "Amakusa Airlines Co., Ltd.",
+    "IATA": "MZ",
+    "ICAO": "AHX",
+    "website": "www.amx.co.jp",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488253"
+  },
+  {
+    "name": "ANA Wings Co., Ltd.",
+    "IATA": "EH",
+    "ICAO": "AKX",
+    "website": "www.anawings.co.jp",
+    "notes": "Name changed from Air Nippon Network Co. Ltd.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488269"
+  },
+  {
+    "name": "Central Helicopter Service, Ltd",
+    "IATA": null,
+    "ICAO": "CEH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488285"
+  },
+  {
+    "name": "Fuji Dream Airlines Co. Ltd.",
+    "IATA": "JH",
+    "ICAO": "FDA",
+    "website": "www.fujidreamairlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488300"
+  },
+  {
+    "name": "Heli Service Inc.",
+    "IATA": null,
+    "ICAO": "HSC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488315"
+  },
+  {
+    "name": "Helisys Japan Inc.",
+    "IATA": null,
+    "ICAO": "NHS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488331"
+  },
+  {
+    "name": "Hokkaido Air System Co. Ltd.",
+    "IATA": null,
+    "ICAO": "NTH",
+    "website": "www.hac-air.co.jp",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488348"
+  },
+  {
+    "name": "Hokuriku-Koukuu Co., Ltd",
+    "IATA": null,
+    "ICAO": "ABH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488364"
+  },
+  {
+    "name": "Ibex Airlines Co., Ltd",
+    "IATA": "FW",
+    "ICAO": "IBX",
+    "website": "www.ibexair.co.jp",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488378"
+  },
+  {
+    "name": "IKI International Airlines",
+    "IATA": null,
+    "ICAO": "IKK",
+    "website": "www.iki-air.co.jp",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488394"
+  },
+  {
+    "name": "Ilas Co., Ltd",
+    "IATA": null,
+    "ICAO": "ILC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488409"
+  },
+  {
+    "name": "INFINI Travel Information, Inc.",
+    "IATA": "1F",
+    "ICAO": null,
+    "website": "www.infini-trvl.co.jp",
+    "notes": "Computer Reservation System",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488426"
+  },
+  {
+    "name": "Japan Air Commuter Co. Ltd.",
+    "IATA": "JC",
+    "ICAO": "JAC",
+    "website": "www.jac.co.jp",
+    "notes": "IATA designator changed from 3X.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488442"
+  },
+  {
+    "name": "Japan Airlines International Co. Ltd.",
+    "IATA": "JL",
+    "ICAO": "JAL",
+    "website": "www.jal.co.jp",
+    "notes": "Name changed from Japan Airlines Company Ltd w.e.f. 31 March 2004.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488459"
+  },
+  {
+    "name": "Japan General Aviation Service Co., Ltd.",
+    "IATA": null,
+    "ICAO": "JGA",
+    "website": "www.jgas-aircraft.co.jp",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488475"
+  },
+  {
+    "name": "Japan Transocean Air Co. Ltd.",
+    "IATA": "NU",
+    "ICAO": "JTA",
+    "website": "www.jal.co.jp/jta/",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488490"
+  },
+  {
+    "name": "Jetstar Japan",
+    "IATA": "GK",
+    "ICAO": "JJP",
+    "website": "www.jetstar.com/jp/ja",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488507"
+  },
+  {
+    "name": "Jomo Air Service Co., Ltd",
+    "IATA": null,
+    "ICAO": "JSV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488522"
+  },
+  {
+    "name": "Lequios Airlines Co. Ltd.",
+    "IATA": null,
+    "ICAO": "LQS",
+    "website": "www.lequios.co.jp",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488538"
+  },
+  {
+    "name": "Mitsubishi Aircraft Corporation",
+    "IATA": null,
+    "ICAO": "MAJ",
+    "website": "www.mrj-japan.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488554"
+  },
+  {
+    "name": "New Japan Aviation Co., Ltd.",
+    "IATA": null,
+    "ICAO": "NJA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488569"
+  },
+  {
+    "name": "Nippon Cargo Airlines",
+    "IATA": "KZ",
+    "ICAO": "NCA",
+    "website": "www.nca.aero",
+    "notes": "IATA designator changed from MC",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488586"
+  },
+  {
+    "name": "Oriental Air Bridge Co. Ltd.",
+    "IATA": "OC",
+    "ICAO": "ORC",
+    "website": "www.orc-air.co.jp",
+    "notes": "IATA designator changed from O3. ICAO Designator changed to NGK.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488603"
+  },
+  {
+    "name": "Peach Aviation Limited",
+    "IATA": "MM",
+    "ICAO": "APJ",
+    "website": "www.flypeach.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488619"
+  },
+  {
+    "name": "Ryukyu Air Commuter Co., Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "rac.churashima.net",
+    "notes": "Commenced operations on 17 February 1985.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488636"
+  },
+  {
+    "name": "Seco International, Inc.",
+    "IATA": null,
+    "ICAO": "SIJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488652"
+  },
+  {
+    "name": "Skymark Airlines Co. Ltd.",
+    "IATA": "BC",
+    "ICAO": "SKY",
+    "website": "www.skymark.co.jp",
+    "notes": "Designator BC reinstated by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488668"
+  },
+  {
+    "name": "Solaseed Air Inc.",
+    "IATA": "6J",
+    "ICAO": "SNJ",
+    "website": "www.solaseedair.jp",
+    "notes": "Name changed from Skynet Asia Airways. IATA designator changed from LQ*. Designator 0E recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488686"
+  },
+  {
+    "name": "Spring Japan Co. Ltd.",
+    "IATA": "IJ",
+    "ICAO": "SJO",
+    "website": "jp.ch.com",
+    "notes": "Name changed from Spring Airlines Japan Co. Ltd.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488702"
+  },
+  {
+    "name": "Star Flyer Inc",
+    "IATA": null,
+    "ICAO": "SFJ",
+    "website": "www.starflyer.jp",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488719"
+  },
+  {
+    "name": "TOKi Air Co., Ltd.",
+    "IATA": "BV",
+    "ICAO": null,
+    "website": "tokiair.com",
+    "notes": "Planed start-up 2 x ATR72-600 Q4 2022.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488735"
+  },
+  {
+    "name": "Topre Corporation",
+    "IATA": "T4",
+    "ICAO": null,
+    "website": "www.topre.co.jp",
+    "notes": "Computer Reservation System",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488751"
+  },
+  {
+    "name": "Weathernews, Inc.",
+    "IATA": null,
+    "ICAO": "WNI",
+    "website": "weathernews.jp",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488767"
+  },
+  {
+    "name": "Yuhi Air Lines Co., Ltd",
+    "IATA": null,
+    "ICAO": "AYU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488783"
+  },
+  {
+    "name": "Zipair Tokyo, Inc.",
+    "IATA": "ZG",
+    "ICAO": "TZP",
+    "website": "www.zipairtokyo.com",
+    "notes": "LCC subsidary of Japan Airlines. Established on 08 March 2019. Due to commence operations in Summer 2020 with 787-8 aircraft.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:52.488800"
+  },
+  {
+    "name": "Air Central Co., Ltd.",
+    "IATA": "NV",
+    "ICAO": "CRF",
+    "website": null,
+    "notes": "Founded on 12 May 1988. Ceased operations on 01 October 2010.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.488817"
+  },
+  {
+    "name": "Air Central Co., Ltd.",
+    "IATA": "NV",
+    "ICAO": null,
+    "website": "www.air-central.co.jp",
+    "notes": "Designator NV reinstated by IATA. Name changed from Nakanihon Airlines Co. Ltd",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.488834"
+  },
+  {
+    "name": "Air Next Co. Ltd.",
+    "IATA": "7A",
+    "ICAO": "NXA",
+    "website": "www.airnext.ana-g.com",
+    "notes": "Merged with Air Central and Air Nippon Network to form ANA Wings w.e.f. 01 October 2010.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.488850"
+  },
+  {
+    "name": "Air Nippon Co. Ltd.",
+    "IATA": "EL",
+    "ICAO": "ANK",
+    "website": "www.air-nippon.co.jp",
+    "notes": "Merged into All Nippon Airways on 01 April 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.488866"
+  },
+  {
+    "name": "Air Nippon Co. Ltd.",
+    "IATA": "WJ",
+    "ICAO": "NKK",
+    "website": null,
+    "notes": "ICAO designator changed to ANK. Name changed from Nihon Kinkyori Airways.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.488883"
+  },
+  {
+    "name": "Air Nippon Network Co. Ltd.",
+    "IATA": "EH",
+    "ICAO": "AKX",
+    "website": "www.ank-net.co.jp",
+    "notes": "Merged with Air Central and Air Next to form ANA Wings w.e.f. 01 October 2010.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.488899"
+  },
+  {
+    "name": "AirAsia Japan Co., Ltd.",
+    "IATA": "DJ",
+    "ICAO": "WAJ",
+    "website": "www.airasia.com/jp/en",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.488915"
+  },
+  {
+    "name": "AirAsia Japan Co., Ltd.",
+    "IATA": null,
+    "ICAO": "WAJ",
+    "website": "www.airasia.com/jp/en",
+    "notes": "Name changed to Vanilla Air w.e.f. 01 November 2013. Joint venture between Malaysia's AirAsia and Japan's All Nippon Airways.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.488933"
+  },
+  {
+    "name": "ANA & JP Express Co. Ltd.",
+    "IATA": "9N",
+    "ICAO": "AJV",
+    "website": "www.ajv.ana-g.com",
+    "notes": "Merged into Air Japan Co. Ltd. w.e.f. 01 July 2010.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.488949"
+  },
+  {
+    "name": "Axess International Network, Inc.",
+    "IATA": "1J",
+    "ICAO": null,
+    "website": "www.axess.co.jp",
+    "notes": "Computer Reservation System. Designator 1J recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.488965"
+  },
+  {
+    "name": "DHC Corporation",
+    "IATA": null,
+    "ICAO": "HIJ",
+    "website": null,
+    "notes": "Name changed from Helitech Aeroservices, Inc.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.488981"
+  },
+  {
+    "name": "Fair, Inc.",
+    "IATA": "FW",
+    "ICAO": "FRI",
+    "website": "www.fairinc.co.jp",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.488997"
+  },
+  {
+    "name": "First Air Transport Co. Ltd.",
+    "IATA": null,
+    "ICAO": "JRF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489013"
+  },
+  {
+    "name": "Galaxy Airlines",
+    "IATA": null,
+    "ICAO": "GXY",
+    "website": "www.galaxy-airlines.com",
+    "notes": "Ceased Operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489029"
+  },
+  {
+    "name": "Harlequin Air Corporation",
+    "IATA": null,
+    "ICAO": "HLQ",
+    "website": "www.harlequin-air.co.jp/index_e.html",
+    "notes": "Designator JH* recalled by IATA. IATA designator changed from BQ*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489045"
+  },
+  {
+    "name": "Harlequin Air Corporation",
+    "IATA": null,
+    "ICAO": "HLQ",
+    "website": null,
+    "notes": "IATA designator changed to JH",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489062"
+  },
+  {
+    "name": "Helitech Aeroservices, Inc.",
+    "IATA": null,
+    "ICAO": "HIJ",
+    "website": null,
+    "notes": "Name changed to DHC Corporation",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489077"
+  },
+  {
+    "name": "Hokkaido International Airlines Co., Ltd.",
+    "IATA": "HD",
+    "ICAO": "ADO",
+    "website": "www.airdo21.com",
+    "notes": "Name changed to Air Do Co., Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489094"
+  },
+  {
+    "name": "JAL Express",
+    "IATA": "JC",
+    "ICAO": "JEX",
+    "website": "www.jal.co.jp/jex/",
+    "notes": "Merged to Japan Airlines w.e.f. 30 September 2014.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489109"
+  },
+  {
+    "name": "JALWays Co. Ltd.",
+    "IATA": "JO",
+    "ICAO": "JAZ",
+    "website": null,
+    "notes": "Change of name from Japan Air Charter Co., Ltd. ICAO callsign changed to Jalways",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489125"
+  },
+  {
+    "name": "JALWays Co. Ltd.",
+    "IATA": "JO",
+    "ICAO": "JAZ",
+    "website": "www.jalways.co.jp",
+    "notes": "JALways Co., Ltd. has been integrated into Japan Airlines International Co., Ltd. on 01 December 2010. Change of name from Japan Air Charter Co., Ltd. ICAO callsign changed from J-ways",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489143"
+  },
+  {
+    "name": "JALWays Co. Ltd.",
+    "IATA": "JZ",
+    "ICAO": "JAZ",
+    "website": null,
+    "notes": "IATA designator changed to JO",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489158"
+  },
+  {
+    "name": "Japan Air Charter Co. Ltd.",
+    "IATA": "JO",
+    "ICAO": "JAZ",
+    "website": null,
+    "notes": "IATA designator changed from JZ*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489174"
+  },
+  {
+    "name": "Japan Air Charter Co. Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "IATA designator changed to JO",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489190"
+  },
+  {
+    "name": "Japan Air Charter Co. Ltd.",
+    "IATA": "JO",
+    "ICAO": "JAZ",
+    "website": null,
+    "notes": "Change of name to JALWays",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489206"
+  },
+  {
+    "name": "Japan Air Charter Co. Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "IATA designator changed to JO",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489222"
+  },
+  {
+    "name": "Japan Air Commuter Co. Ltd.",
+    "IATA": "3X",
+    "ICAO": "JAC",
+    "website": "www.jac.co.jp",
+    "notes": "IATA designator changed to JC.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489238"
+  },
+  {
+    "name": "Japan Air Lines Company Ltd. (JAL)",
+    "IATA": "JL",
+    "ICAO": "JAL",
+    "website": null,
+    "notes": "Name changed to Japan Airlines Company Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489255"
+  },
+  {
+    "name": "Japan Air System Co., Ltd.",
+    "IATA": "JD",
+    "ICAO": "JAS",
+    "website": "www.jas.co.jp",
+    "notes": "Merged into Japan Airlines International, Inc w.e.f. 31 March 2004. Name changed from TOA Domestic Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489271"
+  },
+  {
+    "name": "Japan Airlines Company Ltd.",
+    "IATA": "JL",
+    "ICAO": "JAL",
+    "website": "www.jal.co.jp",
+    "notes": "Name changed from Japan Air Lines Company Ltd. Then changed to Japan Airlines International Co. Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489287"
+  },
+  {
+    "name": "Japan Airlines Domestic Co. Ltd.",
+    "IATA": null,
+    "ICAO": "JLJ",
+    "website": "www.jal.co.jp",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489302"
+  },
+  {
+    "name": "Japan Asia Airways Co. Ltd.",
+    "IATA": "EG",
+    "ICAO": "JAA",
+    "website": "www.japanasia.co.jp",
+    "notes": "Ceased operations on 31 March 2008.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489318"
+  },
+  {
+    "name": "Japan Universal System Transport Co., Ltd.",
+    "IATA": null,
+    "ICAO": "JST",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489334"
+  },
+  {
+    "name": "Nakanihon Airlines Co. Ltd.",
+    "IATA": "NV",
+    "ICAO": null,
+    "website": "www.nals.co.jp",
+    "notes": "Name changed to Air Central Co., Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489350"
+  },
+  {
+    "name": "Nihon Kinkyori Airways",
+    "IATA": "WJ",
+    "ICAO": "NKK",
+    "website": null,
+    "notes": "Name changed to Air Nippon Co. Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489365"
+  },
+  {
+    "name": "Nippon Airship Corporation",
+    "IATA": null,
+    "ICAO": "NIH",
+    "website": "www.nac-airship.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489380"
+  },
+  {
+    "name": "Nippon Cargo Airlines",
+    "IATA": "NC",
+    "ICAO": "NCA",
+    "website": null,
+    "notes": "IATA designator changed to KZ",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489396"
+  },
+  {
+    "name": "Orangecargo, Inc.",
+    "IATA": null,
+    "ICAO": "ORJ",
+    "website": null,
+    "notes": "Founded on 27 september 2002. Ceased operations on 22 March 2004.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489412"
+  },
+  {
+    "name": "Oriental Air Bridge Co. Ltd.",
+    "IATA": "O3",
+    "ICAO": "NGK",
+    "website": "www.orc-air.co.jp",
+    "notes": "IATA designator changed to OC. ICAO Designator changed to ORC.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489428"
+  },
+  {
+    "name": "Rosen Aviation Inc",
+    "IATA": null,
+    "ICAO": "KRS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489445"
+  },
+  {
+    "name": "Setouchi Seaplanes Inc.",
+    "IATA": null,
+    "ICAO": "SSN",
+    "website": "setouchi-seaplanes.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489460"
+  },
+  {
+    "name": "Skynet Asia Airways",
+    "IATA": null,
+    "ICAO": "SNJ",
+    "website": "www.skynetasia.co.jp",
+    "notes": "Name changed to Solaseed Air. Designator 0E recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489476"
+  },
+  {
+    "name": "Skynet Asia Airways",
+    "IATA": "0E",
+    "ICAO": "SNJ",
+    "website": "www.skynetasia.co.jp",
+    "notes": "Designator 0E recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489493"
+  },
+  {
+    "name": "Skynet Asia Airways",
+    "IATA": "6J",
+    "ICAO": "SNJ",
+    "website": "www.skynetasia.co.jp",
+    "notes": "Designator 6J recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489508"
+  },
+  {
+    "name": "Solaseed Air",
+    "IATA": null,
+    "ICAO": "SNJ",
+    "website": "www.skynetasia.co.jp",
+    "notes": "Name changed from Skynet Asia Airways. IATA designator changed to 6J. Designator 0E recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489525"
+  },
+  {
+    "name": "Skynet Asia Airways t/a Solaseed Air",
+    "IATA": "6J",
+    "ICAO": "SNJ",
+    "website": "www.skynetasia.co.jp",
+    "notes": "Name changed from Skynet Asia Airways. IATA designator changed from LQ*. Designator 0E recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489541"
+  },
+  {
+    "name": "Spring Airlines Japan Co. Ltd.",
+    "IATA": "IJ",
+    "ICAO": "SJO",
+    "website": "www.springairlines.com",
+    "notes": "Name changed to Spring Japan Co., Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489557"
+  },
+  {
+    "name": "Star Flyer Inc",
+    "IATA": "7G",
+    "ICAO": "SFJ",
+    "website": "www.starflyer.jp",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489573"
+  },
+  {
+    "name": "TOA Domestic Airlines",
+    "IATA": "JD",
+    "ICAO": "TDA",
+    "website": null,
+    "notes": "Name changed to Japan Air System Co., Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489589"
+  },
+  {
+    "name": "Vanilla Air, Inc.",
+    "IATA": null,
+    "ICAO": "VNL",
+    "website": "www.vanilla-air.com",
+    "notes": "IATA Designator changed to JW. Commenced operations on 20 December 2013. Founded August 2011 as AirAsia Japan.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489606"
+  },
+  {
+    "name": "Vanilla Air, Inc.",
+    "IATA": "JW",
+    "ICAO": "VNL",
+    "website": "www.vanilla-air.com",
+    "notes": "Merged into Peach Aviation on 26 October 2019. IATA Designator changed from JW*. Commenced operations on 20 December 2013. Founded August 2011 as AirAsia Japan.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489623"
+  },
+  {
+    "name": "World Air Network Co., Ltd.",
+    "IATA": null,
+    "ICAO": "WAC",
+    "website": null,
+    "notes": "Name changed to Air Japan Co. Ltd. ICAO designator changed to AJX. ICAO callsign changed to Air Japan",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:52.489640"
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "name": "Afrijet Business Services d/b/a Afrijet",
+    "IATA": "J7",
+    "ICAO": "ABS",
+    "website": "www.afrijet.com",
+    "notes": "Name changed from Afrijet Business Services (ABS).",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:14.347387"
+  },
+  {
+    "name": "Air Inter Gabon",
+    "IATA": null,
+    "ICAO": "AIG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:14.347420"
+  },
+  {
+    "name": "Air Service S.A.",
+    "IATA": null,
+    "ICAO": "RVS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:14.347438"
+  },
+  {
+    "name": "Atlantic Airlines",
+    "IATA": null,
+    "ICAO": "GBN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:14.347454"
+  },
+  {
+    "name": "Avantis Aviation and Services",
+    "IATA": null,
+    "ICAO": "VGT",
+    "website": "www.avantisaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:14.347470"
+  },
+  {
+    "name": "Express Tours",
+    "IATA": null,
+    "ICAO": "XTO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:14.347496"
+  },
+  {
+    "name": "Gabon Express",
+    "IATA": null,
+    "ICAO": "GBE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:14.347512"
+  },
+  {
+    "name": "Gabon-Air-Transport",
+    "IATA": null,
+    "ICAO": "GRT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:14.347527"
+  },
+  {
+    "name": "Nationale Regionale Transport",
+    "IATA": null,
+    "ICAO": "NRG",
+    "website": null,
+    "notes": "Founded in 2000.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:14.347543"
+  },
+  {
+    "name": "Nouvelle Air Affaires Gabon",
+    "IATA": null,
+    "ICAO": "NVS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:14.347558"
+  },
+  {
+    "name": "Ogooue Air Cargo",
+    "IATA": null,
+    "ICAO": "GBO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:14.347581"
+  },
+  {
+    "name": "Solenta Aviation Gabon",
+    "IATA": null,
+    "ICAO": "SVG",
+    "website": "www.solenta.com",
+    "notes": "Founded in 2006.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:14.347604"
+  },
+  {
+    "name": "Transair Gabon",
+    "IATA": null,
+    "ICAO": "TGX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:14.347627"
+  },
+  {
+    "name": "Afric Aviation",
+    "IATA": "L8",
+    "ICAO": "EKG",
+    "website": "www.africaviation.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:14.347642"
+  },
+  {
+    "name": "Afrijet Business Services (ABS)",
+    "IATA": "J7",
+    "ICAO": "ABS",
+    "website": "www.afrijet.com",
+    "notes": "Name changed to Afrijet Business Services d/b/a Afrijet",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:14.347667"
+  },
+  {
+    "name": "Air Continental Africa",
+    "IATA": null,
+    "ICAO": "ACB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:14.347682"
+  },
+  {
+    "name": "Air Gabon",
+    "IATA": "GN",
+    "ICAO": "AGN",
+    "website": "195.40.182.131/ANA_WEB.nsf.pages/gabon",
+    "notes": "Ceased operations 2006. Designator GN recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:14.347706"
+  },
+  {
+    "name": "Air Gabon Cargo",
+    "IATA": "PG",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:14.347729"
+  },
+  {
+    "name": "Air Gabon Cargo",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:14.347745"
+  },
+  {
+    "name": "Air Service",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator X7 reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:14.347768"
+  },
+  {
+    "name": "Air Service Gabon",
+    "IATA": null,
+    "ICAO": "AGB",
+    "website": null,
+    "notes": "Ceased operations on 03 August 2010.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:14.347784"
+  },
+  {
+    "name": "Atlantic Airlines",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator 9P recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:14.347807"
+  },
+  {
+    "name": "Avirex - Gabon",
+    "IATA": null,
+    "ICAO": "VXG",
+    "website": null,
+    "notes": "ICAO designator changed to AVX",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:14.347831"
+  },
+  {
+    "name": "Avirex - Gabon",
+    "IATA": null,
+    "ICAO": "AVX",
+    "website": null,
+    "notes": "ICAO designator changed from VXG",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:14.347847"
+  },
+  {
+    "name": "Gabon Airlines",
+    "IATA": "GY",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:14.347869"
+  },
+  {
+    "name": "Gabon Airlines Cargo",
+    "IATA": "6G",
+    "ICAO": "GBK",
+    "website": "www.gabonairlines.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:14.347886"
+  },
+  {
+    "name": "Sky Gabon S.A.",
+    "IATA": "GV",
+    "ICAO": "SKG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:14.347908"
+  },
+  {
+    "name": "Soci\u00e9t\u00e9 de Transports A\u00e9riens du Gabon",
+    "IATA": "GB",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:14.347931"
+  }
+]

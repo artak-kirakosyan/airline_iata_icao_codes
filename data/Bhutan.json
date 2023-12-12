@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Tashi Air Private Ltd. t/a Bhutan Airlines",
+    "IATA": "B3",
+    "ICAO": "BTN",
+    "website": "www.bhutanairlines.bt",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:00.042873"
+  },
+  {
+    "name": "Druk Air Corporation Ltd.",
+    "IATA": "KB",
+    "ICAO": "DRK",
+    "website": "www.drukair.com.bt",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:00.042902"
+  },
+  {
+    "name": "Druk Air",
+    "IATA": "GQ",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:00.042920"
+  }
+]

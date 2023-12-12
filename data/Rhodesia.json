@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Air Rhodesia",
+    "IATA": "RH",
+    "ICAO": null,
+    "website": null,
+    "notes": "Name changed to Air Zimbabwe",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:21.674329"
+  },
+  {
+    "name": "Air Trans Africa",
+    "IATA": "AG",
+    "ICAO": null,
+    "website": null,
+    "notes": "Name change to Affretair",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:21.674357"
+  },
+  {
+    "name": "Fairey Air Surveys of Rhodesia (Pvt.) Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:21.674374"
+  },
+  {
+    "name": "Rhodesian Air Services (Pvt.) Ltd.",
+    "IATA": "RF",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:21.674389"
+  },
+  {
+    "name": "Rhodesian United Air Carriers",
+    "IATA": "CR",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:21.674405"
+  }
+]

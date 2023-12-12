@@ -1,0 +1,398 @@
+[
+  {
+    "name": "Al-Atheer Aviation",
+    "IATA": null,
+    "ICAO": "ATE",
+    "website": "www.alatheer.sa/aviation/",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:32.003214"
+  },
+  {
+    "name": "Arabasco Air Services",
+    "IATA": null,
+    "ICAO": "AAP",
+    "website": "www.arabasco.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:32.003244"
+  },
+  {
+    "name": "Aviation Horizons Ltd.",
+    "IATA": null,
+    "ICAO": "HZS",
+    "website": "www.aviation-horizons.com",
+    "notes": "IATA Prefix Code 266 recalled.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:32.003264"
+  },
+  {
+    "name": "Haya Aviation Services Company Limited",
+    "IATA": null,
+    "ICAO": "HAY",
+    "website": "www.flyhaya.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:32.003280"
+  },
+  {
+    "name": "flyadeal Airline Company",
+    "IATA": "F3",
+    "ICAO": "FAD",
+    "website": "www.flyadeal.com",
+    "notes": "ICAO callsign changed from Purple.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:32.003297"
+  },
+  {
+    "name": "Flynas Company Closed Joint Stock owned by (NAS Holding) JSC",
+    "IATA": "XY",
+    "ICAO": "KNE",
+    "website": "www.flynas.com",
+    "notes": "Name changed from National Air Services d/b/a flynas. IATA designator changed from 2N*",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:32.003316"
+  },
+  {
+    "name": "Manasik Aviation Company",
+    "IATA": null,
+    "ICAO": "MNM",
+    "website": "www.manasikaviation.com",
+    "notes": "IATA Desigantor changed from MM*.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:32.003333"
+  },
+  {
+    "name": "Mid East Air Charters",
+    "IATA": null,
+    "ICAO": "DRJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:32.003349"
+  },
+  {
+    "name": "Mukamalah Aviation Company Limited",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.mukamalah.com",
+    "notes": "Wholly owned subsidiary of Saudi ARAMCO.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:32.003366"
+  },
+  {
+    "name": "Nasjet Private Aviation Co., Ltd.",
+    "IATA": null,
+    "ICAO": "NJJ",
+    "website": "www.nasjet.com.sa",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:32.003382"
+  },
+  {
+    "name": "Nesma Airlines",
+    "IATA": "NE",
+    "ICAO": "NSS",
+    "website": "www.nesmaairlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:32.003397"
+  },
+  {
+    "name": "Netjets Middle East",
+    "IATA": null,
+    "ICAO": "NJF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:32.003413"
+  },
+  {
+    "name": "Nexus Flight Operations Services",
+    "IATA": null,
+    "ICAO": "NXU",
+    "website": "www.nexus.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:32.003428"
+  },
+  {
+    "name": "Privatair Saudi Arabia Co. Ltd.",
+    "IATA": null,
+    "ICAO": "PVS",
+    "website": "privatairsaudiarabia.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:32.003444"
+  },
+  {
+    "name": "Riyadh Air",
+    "IATA": null,
+    "ICAO": "RXI",
+    "website": "www.riyadhair.com",
+    "notes": "Planned start up with 787-9. 72 on order.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:32.003460"
+  },
+  {
+    "name": "Royal Saudi Air Force",
+    "IATA": null,
+    "ICAO": "RSF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:32.003475"
+  },
+  {
+    "name": "Saudi Arabian Airlines",
+    "IATA": "SV",
+    "ICAO": "SVA",
+    "website": "www.saudiairlines.com",
+    "notes": "Name changed from Saudi Arabian Airlines Corporation",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:32.003491"
+  },
+  {
+    "name": "Saudi Royal Aviation",
+    "IATA": null,
+    "ICAO": "SRA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:32.003507"
+  },
+  {
+    "name": "SaudiGulf Airlines",
+    "IATA": null,
+    "ICAO": "SGQ",
+    "website": "www.saudigulfairlines.com",
+    "notes": "Designator 6S recalled by IATA.Commence domestic operations on 29 October 2016. Wholly owned by Abdul Hadi Al Qahtani Group of Companies.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:32.003524"
+  },
+  {
+    "name": "Sky Prime Aviation Services",
+    "IATA": null,
+    "ICAO": "SPD",
+    "website": "www.skyprimeav.com",
+    "notes": "IATA designator UY recalled.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:32.003539"
+  },
+  {
+    "name": "The Red Sea Air Services Company",
+    "IATA": null,
+    "ICAO": "RSG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:32.003554"
+  },
+  {
+    "name": "United Company for Aviation Administration",
+    "IATA": null,
+    "ICAO": "UCV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:32.003570"
+  },
+  {
+    "name": "Westair Helicopter Saudi Company",
+    "IATA": null,
+    "ICAO": "WSH",
+    "website": "www.weststar-aviation.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:32.003585"
+  },
+  {
+    "name": "Al Maha Airways",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.almahaairways.com",
+    "notes": "Subsidary of Qatar Airways.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:32.003601"
+  },
+  {
+    "name": "Nasair",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.flynas.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:32.003616"
+  },
+  {
+    "name": "Al Khayala",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.al-khayala.com",
+    "notes": "Name changed to NAS - Alkhayala",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:32.003632"
+  },
+  {
+    "name": "Al Wafeer Air",
+    "IATA": "AW",
+    "ICAO": "WFR",
+    "website": "www.alwafeerair.com",
+    "notes": "Founded in 2009. Ceased Operations during 2011.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:32.003648"
+  },
+  {
+    "name": "Al-Khayala",
+    "IATA": null,
+    "ICAO": "KNE",
+    "website": "www.kayala.com",
+    "notes": "Name changed to Kayala Airline on 06 May 2008. Started operations on 16 July 2005 and was wholly owned by Saudi aviation company National Air Services.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:32.003664"
+  },
+  {
+    "name": "Alpha Star Aviation Services",
+    "IATA": null,
+    "ICAO": "STT",
+    "website": "www.alphastarav.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:32.003679"
+  },
+  {
+    "name": "Aviation Horizons Ltd.",
+    "IATA": null,
+    "ICAO": "HZS",
+    "website": "www.aviation-horizons.com",
+    "notes": "IATA Prefix Code 266 recalled.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:32.003696"
+  },
+  {
+    "name": "flyadeal Airline Company",
+    "IATA": "F3",
+    "ICAO": "FAD",
+    "website": "www.flyadeal.com",
+    "notes": "ICAO callsign changed to Adeal.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:32.003712"
+  },
+  {
+    "name": "National Air Services d/b/a flynas",
+    "IATA": null,
+    "ICAO": "KNE",
+    "website": "www.flynas.com",
+    "notes": "Name changed from National Air Services d/b/a nasair. Name changed to Flynas Company Closed Joint Stock owned by (NAS Holding) JSC. IATA designator changed from 2N*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:32.003729"
+  },
+  {
+    "name": "Kayala Airline",
+    "IATA": null,
+    "ICAO": "KNE",
+    "website": "www.nasaviation.com",
+    "notes": "Name changed from Al-Khayala 06 May 2008. Bankruptcy was declared and all operations were ceased on 1 April 2009.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:32.003746"
+  },
+  {
+    "name": "Mahfooz Aviation (Gambia) Ltd.",
+    "IATA": "M2",
+    "ICAO": "MZS",
+    "website": null,
+    "notes": "Name changed from Mahfooz Aviation G Limited",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:32.003762"
+  },
+  {
+    "name": "Mahfooz Aviation G. Limited",
+    "IATA": "M2",
+    "ICAO": "MZS",
+    "website": null,
+    "notes": "Name changed to Mahfooz Aviation (Gambia) Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:32.003778"
+  },
+  {
+    "name": "Manasik Aviation Company",
+    "IATA": null,
+    "ICAO": "MNM",
+    "website": "www.manasikaviation.com",
+    "notes": "IATA Desigantor changed to XN*.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:32.003794"
+  },
+  {
+    "name": "National Air Services d/b/a nasair",
+    "IATA": null,
+    "ICAO": "KNE",
+    "website": "www.flynas.com",
+    "notes": "Name changed to National Air Services d/b/a flynas. IATA designator changed from 2N*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:32.003810"
+  },
+  {
+    "name": "National Air Services",
+    "IATA": null,
+    "ICAO": "KNE",
+    "website": "www.nasaviation.com",
+    "notes": "Name changed to Al-Khayala. IATA designator changed from 2N*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:32.003827"
+  },
+  {
+    "name": "National Air Services",
+    "IATA": null,
+    "ICAO": "KNE",
+    "website": "www.nasaviation.com",
+    "notes": "IATA designator changed to XY*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:32.003843"
+  },
+  {
+    "name": "Sama Airways Ltd.",
+    "IATA": "ZS",
+    "ICAO": "SMY",
+    "website": "www.flysama.com",
+    "notes": "Suspended operations on 24 August 2010.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:32.003858"
+  },
+  {
+    "name": "Saudi Arabian Airlines Corporation",
+    "IATA": "SV",
+    "ICAO": "SVA",
+    "website": "www.saudiairlines.com",
+    "notes": "Name changed to Saudi Arabian Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:32.003874"
+  },
+  {
+    "name": "SaudiGulf Airlines",
+    "IATA": "6S",
+    "ICAO": "SGQ",
+    "website": "www.saudigulfairlines.com",
+    "notes": "Designator 6S recalled by IATA.Commence domestic operations on 29 October 2016. Wholly owned by Abdul Hadi Al Qahtani Group of Companies.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:32.003891"
+  },
+  {
+    "name": "Sky Prime Aviation Services",
+    "IATA": "UY",
+    "ICAO": "SPD",
+    "website": "www.skyprimeav.com",
+    "notes": "IATA designator UY recalled.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:32.003907"
+  },
+  {
+    "name": "SNAS Aviation",
+    "IATA": null,
+    "ICAO": "RSE",
+    "website": null,
+    "notes": "Accounting & Prefix Codes recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:32.003922"
+  }
+]

@@ -1,0 +1,623 @@
+[
+  {
+    "name": "Acass Ireland Ltd.",
+    "IATA": null,
+    "ICAO": "SON",
+    "website": "acass.com",
+    "notes": "Name changed from Sonas Aviation.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:46.171200"
+  },
+  {
+    "name": "Aer Lingus Limited",
+    "IATA": "EI",
+    "ICAO": "EIN",
+    "website": "www.flyaerlingus.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:46.171230"
+  },
+  {
+    "name": "Aer Southeast",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.aersoutheast.com",
+    "notes": "Planned to launch operations in late July 2017 out of Waterford with SF340s.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:46.171250"
+  },
+  {
+    "name": "Airplanes Holdings Ltd.",
+    "IATA": null,
+    "ICAO": "AHH",
+    "website": "www.airplanes-group.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:46.171268"
+  },
+  {
+    "name": "ASL Airlines (Ireland) Limited",
+    "IATA": null,
+    "ICAO": "ABR",
+    "website": "www.aircontractors.com",
+    "notes": "Name changed from Air Contractors (Ireland) Limited w.e.f. 04 June 2015. Designator AG recalled by IATA. Company transfered from United Kingdom",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:46.171286"
+  },
+  {
+    "name": "Atlantic Flight Training Limited d/b/a Atlantic Flight Training Academy",
+    "IATA": null,
+    "ICAO": "AFZ",
+    "website": "afta.ie",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:46.171304"
+  },
+  {
+    "name": "Avolon Aerospace Leasing Limited",
+    "IATA": null,
+    "ICAO": "VOL",
+    "website": "www.avolon.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:46.171320"
+  },
+  {
+    "name": "CHC Ireland Designated Activity Company",
+    "IATA": null,
+    "ICAO": "ICS",
+    "website": null,
+    "notes": "Name changed from Bond Helicopters (Ireland) Limited.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:46.171337"
+  },
+  {
+    "name": "Cityjet",
+    "IATA": "WX",
+    "ICAO": "BCY",
+    "website": "www.cityjet.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:46.171355"
+  },
+  {
+    "name": "EI Air Exports Limited",
+    "IATA": null,
+    "ICAO": "EIX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:46.171372"
+  },
+  {
+    "name": "Emerald Airlines (Ireland) Limited",
+    "IATA": "EA",
+    "ICAO": "EAI",
+    "website": "www.emeraldairlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:46.171388"
+  },
+  {
+    "name": "Executive Aircraft Charter And Charter Services Ltd.",
+    "IATA": null,
+    "ICAO": "ECS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:46.171405"
+  },
+  {
+    "name": "Executive Helicopters Limited",
+    "IATA": null,
+    "ICAO": "EXH",
+    "website": "www.executive-helicopters.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:46.171421"
+  },
+  {
+    "name": "FLY4 Airlines Green Limited",
+    "IATA": null,
+    "ICAO": null,
+    "website": "fly4airlines.com",
+    "notes": "Collaboration between Enter Air, Poland\u2019s leading charter airline, and TUI, a global leader in leisure travel and experiences. Set to take off in 2024.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:46.171444"
+  },
+  {
+    "name": "GainJet Ireland Limited",
+    "IATA": null,
+    "ICAO": "GJI",
+    "website": "www.gainjetireland.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:46.171462"
+  },
+  {
+    "name": "General Electric Capital Aviation Services",
+    "IATA": null,
+    "ICAO": "GCC",
+    "website": "www.gecas.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:46.171479"
+  },
+  {
+    "name": "Hibernian Airlines Limited",
+    "IATA": null,
+    "ICAO": "HBN",
+    "website": null,
+    "notes": "Wholly-owned by ILAI (Inversiones L\u00edneas A\u00e9reas Internacionales), the parent of Air Nostrum. ACMI operator with CRJ-1000.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:46.171498"
+  },
+  {
+    "name": "Irish Air Corps",
+    "IATA": null,
+    "ICAO": "IRL",
+    "website": "www.military.ie/air-corps/",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:46.171515"
+  },
+  {
+    "name": "Irish Aviation Authority, Flight Check Department",
+    "IATA": null,
+    "ICAO": "XMR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:46.171531"
+  },
+  {
+    "name": "JR Technologies Ireland",
+    "IATA": "1R",
+    "ICAO": null,
+    "website": "www.jrtechnologies.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:46.171548"
+  },
+  {
+    "name": "National Flight Centre Ltd.",
+    "IATA": null,
+    "ICAO": "TYT",
+    "website": "www.nfc.ie",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:46.171564"
+  },
+  {
+    "name": "Norwegian Air International Ltd.",
+    "IATA": "D8",
+    "ICAO": "IBK",
+    "website": "www.norwegian.com",
+    "notes": "IATA designator changed from D8*",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:46.171580"
+  },
+  {
+    "name": "Pilot Training College",
+    "IATA": null,
+    "ICAO": "PTC",
+    "website": "www.pilottrainingcollege.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:46.171597"
+  },
+  {
+    "name": "Premier Executive Jet",
+    "IATA": null,
+    "ICAO": "PEJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:46.171613"
+  },
+  {
+    "name": "Airlink Airways Ltd. t/a Private Sky",
+    "IATA": null,
+    "ICAO": "HYR",
+    "website": "www.privatesky.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:46.171630"
+  },
+  {
+    "name": "Ryanair Ltd.",
+    "IATA": "FR",
+    "ICAO": "RYR",
+    "website": "www.ryanair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:46.171647"
+  },
+  {
+    "name": "Scandinavian Airlines Ireland Limited d/b/a SAS Connect",
+    "IATA": null,
+    "ICAO": "SZS",
+    "website": null,
+    "notes": "Name changed from Scandinavian Airlines Ireland Limited w.e.f. 28 September 2021.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:46.171665"
+  },
+  {
+    "name": "Westair Aviation Limited",
+    "IATA": null,
+    "ICAO": "EFF",
+    "website": "www.westair.ie",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:46.171682"
+  },
+  {
+    "name": "Irish Helicopters",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.iol.ie/irishhelicopter/",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.171699"
+  },
+  {
+    "name": "Aer Arann Teoranta",
+    "IATA": "EH",
+    "ICAO": "REA",
+    "website": null,
+    "notes": "Name changed to Aer Arann Express (Comharbairt Gaillimh Teo)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.171717"
+  },
+  {
+    "name": "Aer Arann Express (Comharbairt Gaillimh Teo)",
+    "IATA": "RE",
+    "ICAO": "REA",
+    "website": "www.aerarann.ie",
+    "notes": "Name changed to Stobart Air. ICAO designator changed to STK. Operates as Aer Arann Express. Designator RE reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.171735"
+  },
+  {
+    "name": "Aer Lingus Teoranta",
+    "IATA": "EI",
+    "ICAO": null,
+    "website": null,
+    "notes": "Name change to Aer Lingus Limited / ICAO callsign changed to Shamrock",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.171753"
+  },
+  {
+    "name": "Aer Turas Teoranta",
+    "IATA": "QT",
+    "ICAO": "ATT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.171770"
+  },
+  {
+    "name": "Aer Turas Teoranta",
+    "IATA": null,
+    "ICAO": "ATT",
+    "website": null,
+    "notes": "Ceased operations on 02 July 2003.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.171786"
+  },
+  {
+    "name": "AERFI Group plc",
+    "IATA": null,
+    "ICAO": "AGP",
+    "website": null,
+    "notes": "Name changed from GPA Group Plc.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.171802"
+  },
+  {
+    "name": "Aerlinte Eireann",
+    "IATA": "IN",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.171818"
+  },
+  {
+    "name": "Air Contractors (Ireland) Limited",
+    "IATA": null,
+    "ICAO": "ABR",
+    "website": "www.aircontractors.com",
+    "notes": "Name changed to ASL Airlines Ireland Ltd w.e.f. 04 June 2015. Designator AG recalled by IATA. Company transfered from United Kingdom",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.171836"
+  },
+  {
+    "name": "Air Contractors (Ireland) Limited",
+    "IATA": "AG",
+    "ICAO": "ABR",
+    "website": "www.aircontractors.com",
+    "notes": "Designator AG recalled by IATA. Company transfered from United Kingdom",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.171854"
+  },
+  {
+    "name": "Air Tara Limited",
+    "IATA": "TB",
+    "ICAO": "AGP",
+    "website": null,
+    "notes": "Name changed to GPA Group Plc. Founded on 28 February 1977.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.171870"
+  },
+  {
+    "name": "Airline Airways Limited",
+    "IATA": "FA",
+    "ICAO": null,
+    "website": null,
+    "notes": "Name changed to FreshAer Airlines Limited",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.171886"
+  },
+  {
+    "name": "Avair",
+    "IATA": "KZ",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.171901"
+  },
+  {
+    "name": "Avair Ltd.",
+    "IATA": "WV",
+    "ICAO": "AVV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.171917"
+  },
+  {
+    "name": "Business City Express Limited",
+    "IATA": null,
+    "ICAO": "BCY",
+    "website": null,
+    "notes": "Name changed to Business City Express Limited t/a CityJet w.e.f. 25 May 1993.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.171935"
+  },
+  {
+    "name": "Cityjet Limited",
+    "IATA": "WX",
+    "ICAO": "BCY",
+    "website": "www.cityjet.com",
+    "notes": "Name changed from Business City Express Limited t/a CityJet w.e.f. 20 May 1997 and previously from Business City Express Limited w.e.f. 25 May 1993. Name changed to CityJet Designated Activity Company w.e.f. 14 March 2016.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.171954"
+  },
+  {
+    "name": "Business City Express Limited t/a Cityjet",
+    "IATA": null,
+    "ICAO": "BCY",
+    "website": null,
+    "notes": "Name changed from Business City Express Limited w.e.f. 25 May 1993. Name changed to CityJet Limited w.e.f. 20 May 1997.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.171971"
+  },
+  {
+    "name": "Club Air",
+    "IATA": "JA",
+    "ICAO": "CLS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.171987"
+  },
+  {
+    "name": "Eirjet",
+    "IATA": null,
+    "ICAO": "EIR",
+    "website": "www.eirjet.com",
+    "notes": "Ceased operations on 18 October 2006",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.172005"
+  },
+  {
+    "name": "EU-JETOPS Limited t/a EU Airways",
+    "IATA": "VE",
+    "ICAO": "EUY",
+    "website": "www.eujet.com",
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.172021"
+  },
+  {
+    "name": "EU Jet",
+    "IATA": null,
+    "ICAO": "EUJ",
+    "website": "www.eujet.com",
+    "notes": "Founded in 2004. Ceased operations on 27 July 2005.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.172038"
+  },
+  {
+    "name": "Futura Gael",
+    "IATA": "F0",
+    "ICAO": "FGL",
+    "website": null,
+    "notes": "Ceased operations on 07 September 2008",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.172055"
+  },
+  {
+    "name": "GPA Group Plc.",
+    "IATA": null,
+    "ICAO": "AGP",
+    "website": null,
+    "notes": "Name changed to AERFI Group plc",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.172071"
+  },
+  {
+    "name": "Iona National Airways Limited",
+    "IATA": null,
+    "ICAO": "IND",
+    "website": null,
+    "notes": "Ceased operations on 14 December 1994.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.172088"
+  },
+  {
+    "name": "Ireland Airways",
+    "IATA": "2E",
+    "ICAO": "EIX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.172103"
+  },
+  {
+    "name": "Irish Air Transport Ltd.",
+    "IATA": null,
+    "ICAO": "RDK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.172119"
+  },
+  {
+    "name": "Jetbird Limited",
+    "IATA": null,
+    "ICAO": "JBD",
+    "website": "www.flyjetbird.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.172135"
+  },
+  {
+    "name": "JetMagic",
+    "IATA": "GX",
+    "ICAO": "JMG",
+    "website": "www.jetmagic.com",
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.172151"
+  },
+  {
+    "name": "Norwegian Air International Ltd.",
+    "IATA": "D8",
+    "ICAO": "IBK",
+    "website": "www.norwegian.com",
+    "notes": "IATA designator changed from D8*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.172167"
+  },
+  {
+    "name": "Norwegian Air International Ltd.",
+    "IATA": null,
+    "ICAO": "IBK",
+    "website": "www.norwegian.com",
+    "notes": "IATA designator changed to D8",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.172184"
+  },
+  {
+    "name": "Ryanair Ltd.",
+    "IATA": "IW",
+    "ICAO": "RYR",
+    "website": "www.ryanair.com",
+    "notes": "IATA designator changed to FR",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.172200"
+  },
+  {
+    "name": "Scandinavian Airlines Ireland Limited",
+    "IATA": null,
+    "ICAO": "SZS",
+    "website": null,
+    "notes": "Name changed to Scandinavian Airlines Ireland Limited d/b/a SAS Connect w.e.f. 28 September 2021.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.172217"
+  },
+  {
+    "name": "Shannon Executive Aviation - SEA",
+    "IATA": null,
+    "ICAO": "SXA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.172233"
+  },
+  {
+    "name": "Skynet Airlines Limited",
+    "IATA": "SI",
+    "ICAO": "SIH",
+    "website": "www.skynet.aero",
+    "notes": "founded in 2001. Ceased operations in 2004. IATA designator changed from SI*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.172251"
+  },
+  {
+    "name": "Skynet Airlines Limited",
+    "IATA": null,
+    "ICAO": "SIH",
+    "website": "www.skynet.aero",
+    "notes": "IATA designator changed to SI",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.172267"
+  },
+  {
+    "name": "Sonas Aviation",
+    "IATA": null,
+    "ICAO": "SON",
+    "website": "www.sonasaviation.com",
+    "notes": "Name changed to Acass Ireland Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.172284"
+  },
+  {
+    "name": "Starair (Ireland) Ltd.",
+    "IATA": null,
+    "ICAO": "BLY",
+    "website": "www.starair.ie",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.172300"
+  },
+  {
+    "name": "Stobart Air (Comhforbairt Gaillimh)",
+    "IATA": "RE",
+    "ICAO": "STK",
+    "website": "www.aerarann.com",
+    "notes": "Ceased operations on 12 June 2021. Name changed from Cornharbairl Gaillimh Teo d/b/a Aer Arann. ICAO designator changed from REA w.e.f. 04 August 2014. Operates as Aer Arann Express. Designator RE reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.172319"
+  },
+  {
+    "name": "TransAer International Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "TLA",
+    "website": "www.transaer.com",
+    "notes": "Ceased operations on 20 October 2000. Name changed from Translift Airways Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.172336"
+  },
+  {
+    "name": "Translift Airways Ltd.",
+    "IATA": "T7",
+    "ICAO": "TLA",
+    "website": null,
+    "notes": "Name changed to TransAer",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.172352"
+  },
+  {
+    "name": "Virgin Express (Ireland) Ltd.",
+    "IATA": "VK",
+    "ICAO": "VEI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:46.172368"
+  }
+]

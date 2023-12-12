@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Afrique Chart'Air",
+    "IATA": null,
+    "ICAO": "FRQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:18.757785"
+  },
+  {
+    "name": "Air Inter Cameroon",
+    "IATA": null,
+    "ICAO": "ICM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:18.757813"
+  },
+  {
+    "name": "Cameroon Airlines Corp - Camair-Co",
+    "IATA": null,
+    "ICAO": "CRC",
+    "website": "www.camair-co.cm/en/",
+    "notes": "Operations started on 28 March 2011.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:18.757831"
+  },
+  {
+    "name": "Midwest Wings",
+    "IATA": null,
+    "ICAO": "MWW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:18.757847"
+  },
+  {
+    "name": "Planet Airlines",
+    "IATA": null,
+    "ICAO": "PLQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:18.757863"
+  },
+  {
+    "name": "Air Affaires Afrique",
+    "IATA": "6R",
+    "ICAO": null,
+    "website": null,
+    "notes": "Founded in 1978. Ceased operations during 2003.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:18.757880"
+  },
+  {
+    "name": "Avient Cameroon S.A.",
+    "IATA": "HC",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:18.757895"
+  },
+  {
+    "name": "Axis International Lines S.A.",
+    "IATA": "O8",
+    "ICAO": null,
+    "website": "www.axis-lines.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:18.757912"
+  },
+  {
+    "name": "Axis Linternational Lines S.A.",
+    "IATA": "9Y",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator 9Y recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:18.757928"
+  },
+  {
+    "name": "Cameroon Airlines",
+    "IATA": "UY",
+    "ICAO": "UYC",
+    "website": "www.camnet.cm/investir/transpor/camair/",
+    "notes": "Ceased Operations in March 2008",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:18.757945"
+  },
+  {
+    "name": "Cameroons Air Transport LTd.",
+    "IATA": "KC",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:18.757960"
+  },
+  {
+    "name": "Equa2C t/a Fly Caminter",
+    "IATA": "EF",
+    "ICAO": null,
+    "website": "www.flycaminter.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:18.757977"
+  },
+  {
+    "name": "National Airways Cameroon",
+    "IATA": "9O",
+    "ICAO": null,
+    "website": "www.flynacam.com",
+    "notes": "Founded in November 1999. Ceased operations in 2009.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:18.757993"
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "name": "Aircraft VIP Services",
+    "IATA": null,
+    "ICAO": "VPX",
+    "website": "www.aircraftvip.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:15.510643"
+  },
+  {
+    "name": "CAE Aviation",
+    "IATA": null,
+    "ICAO": "LXC",
+    "website": "www.cae-aviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:15.510672"
+  },
+  {
+    "name": "Cargolux Airlines International, S.A.",
+    "IATA": "CV",
+    "ICAO": "CLX",
+    "website": "www.cargolux.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:15.510690"
+  },
+  {
+    "name": "Flight Deck Support",
+    "IATA": null,
+    "ICAO": "FDZ",
+    "website": "flightdecksupport.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:15.510707"
+  },
+  {
+    "name": "Flying Group Luxembourg S.A.",
+    "IATA": null,
+    "ICAO": "FYL",
+    "website": "www.flyinggroup.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:15.510724"
+  },
+  {
+    "name": "FlyLux Airlines",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.flyluxairlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:15.510741"
+  },
+  {
+    "name": "Global Jet Luxembourg S.A.",
+    "IATA": null,
+    "ICAO": "SVW",
+    "website": "www.globaljetconcept.com",
+    "notes": "Name changed from Silver Arrows, S.A.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:15.510758"
+  },
+  {
+    "name": "Jetfly Aviation S.A.",
+    "IATA": null,
+    "ICAO": "JFA",
+    "website": "www.jetfly.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:15.510774"
+  },
+  {
+    "name": "Luxair",
+    "IATA": "LG",
+    "ICAO": "LGL",
+    "website": "www.luxair.lu",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:15.510790"
+  },
+  {
+    "name": "Luxaviation, S.A.",
+    "IATA": null,
+    "ICAO": "LXA",
+    "website": "www.luxaviation.lu",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:15.510806"
+  },
+  {
+    "name": "Luxembourg Air Ambulance S.A.",
+    "IATA": null,
+    "ICAO": "LRQ",
+    "website": "www.air-ambulance.lu",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:15.510822"
+  },
+  {
+    "name": "Noafly Aviation",
+    "IATA": null,
+    "ICAO": "NFY",
+    "website": "noafly.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:15.510838"
+  },
+  {
+    "name": "Smart Cargo S.A.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:15.510855"
+  },
+  {
+    "name": "West Air Luxembourg S.A.",
+    "IATA": null,
+    "ICAO": "WLX",
+    "website": "www.westair.lu",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:15.510871"
+  },
+  {
+    "name": "Jetfly Aviation SA",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.jetfly.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:15.510887"
+  },
+  {
+    "name": "Air Print, S.A.",
+    "IATA": null,
+    "ICAO": "APJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:15.510903"
+  },
+  {
+    "name": "Translux International Airlines S.A. Operating as Cargo Lion",
+    "IATA": null,
+    "ICAO": "TLX",
+    "website": "www.cargolion.com",
+    "notes": "Ceased operations end March 2001",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:15.510920"
+  },
+  {
+    "name": "Ducair, S.A.",
+    "IATA": null,
+    "ICAO": "DUK",
+    "website": "www.air-ambulance.lu",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:15.510937"
+  },
+  {
+    "name": "Europe Air Charter",
+    "IATA": null,
+    "ICAO": "PTU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:15.510953"
+  },
+  {
+    "name": "JDP LUX",
+    "IATA": null,
+    "ICAO": "JDP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:15.510969"
+  },
+  {
+    "name": "Lionair, S.A.",
+    "IATA": null,
+    "ICAO": "LIR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:15.510985"
+  },
+  {
+    "name": "Luxembourg Air Rescue A.S.B.L.",
+    "IATA": null,
+    "ICAO": "LUV",
+    "website": "www.lar.lu",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:15.511002"
+  },
+  {
+    "name": "Luxflight Executive",
+    "IATA": null,
+    "ICAO": "LFE",
+    "website": null,
+    "notes": "Ceased operstaions",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:15.511018"
+  },
+  {
+    "name": "Premiair, S.A.",
+    "IATA": null,
+    "ICAO": "BAT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:15.511034"
+  },
+  {
+    "name": "Silver Arrows, S.A.",
+    "IATA": null,
+    "ICAO": "SVW",
+    "website": "www.silver-arrows.lu",
+    "notes": "Name changed to Global Jet Luxembourg S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:15.511051"
+  },
+  {
+    "name": "Strategic Airlines SA",
+    "IATA": null,
+    "ICAO": "STU",
+    "website": "www.strategicairlines.eu",
+    "notes": "Ceased Operations on 03 October 2012",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:15.511068"
+  },
+  {
+    "name": "Police Grand-Ducale",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:15.511085"
+  }
+]

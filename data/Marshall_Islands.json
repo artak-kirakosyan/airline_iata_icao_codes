@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Air Marshall Islands",
+    "IATA": null,
+    "ICAO": "CWM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:26.414226"
+  },
+  {
+    "name": "Air Marshall Islands, Inc.",
+    "IATA": "CW",
+    "ICAO": "MRS",
+    "website": "www.airmarshallislands.com",
+    "notes": "Name changed from Airline of the Marshall Islands",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:26.414255"
+  },
+  {
+    "name": "Airline of the Marshall Islands",
+    "IATA": "CW",
+    "ICAO": "MRS",
+    "website": "www.airmarshallislands.com",
+    "notes": "Name changed to Air Marshall Islands, Inc.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:26.414274"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Addis Air Cargo Services P.L.C.",
+    "IATA": null,
+    "ICAO": "DSC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:03.310044"
+  },
+  {
+    "name": "Addis Airlines Plc",
+    "IATA": null,
+    "ICAO": "DDS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:03.310072"
+  },
+  {
+    "name": "Ethiopian Airlines Group d/b/a Ethiopian Airlines",
+    "IATA": "ET",
+    "ICAO": "ETH",
+    "website": "www.flyethiopian.com",
+    "notes": "Name changed from Ethiopian Airlines Enterprise and previously Ethiopian Airlines Share Co.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:03.310091"
+  },
+  {
+    "name": "National Airways plc",
+    "IATA": null,
+    "ICAO": "NAE",
+    "website": "nationalairways.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:03.310107"
+  },
+  {
+    "name": "Rotation International Air Services",
+    "IATA": null,
+    "ICAO": "RAR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:03.310124"
+  },
+  {
+    "name": "Trans Nation Airways Ltd",
+    "IATA": null,
+    "ICAO": "TNW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:03.310140"
+  },
+  {
+    "name": "Walya Airways",
+    "IATA": null,
+    "ICAO": "EAW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:03.310155"
+  },
+  {
+    "name": "Blue Nile Ethiopia Trading P.L.C.",
+    "IATA": null,
+    "ICAO": "BNL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:03.310170"
+  },
+  {
+    "name": "Ethiopian Airlines Corporation",
+    "IATA": "ET",
+    "ICAO": "ETH",
+    "website": null,
+    "notes": "Name changed to Ethiopian Airlines Share Co.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:03.310187"
+  },
+  {
+    "name": "Ethiopian Airlines Share Co.",
+    "IATA": "ET",
+    "ICAO": "ETH",
+    "website": null,
+    "notes": "Name changed to Ethiopian Airlines Enterprise. Name changed from Ethiopian Airlines Corporation.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:03.310204"
+  },
+  {
+    "name": "Ethiopian Airlines Enterprise",
+    "IATA": "ET",
+    "ICAO": "ETH",
+    "website": "www.flyethiopian.com",
+    "notes": "Name changed to Ethiopian Airlines Group d/b/a Ethiopian Airlines. Name changed from Ethiopian Airlines Share Co.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:03.310221"
+  },
+  {
+    "name": "National Airways plc",
+    "IATA": "9Y",
+    "ICAO": "NAE",
+    "website": "nationalairways.com",
+    "notes": "Designator 9Y recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:03.310238"
+  }
+]

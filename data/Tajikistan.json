@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Asia Airways",
+    "IATA": null,
+    "ICAO": "ASW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:11.515880"
+  },
+  {
+    "name": "Asia Sky Lines",
+    "IATA": null,
+    "ICAO": "LIC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:11.515907"
+  },
+  {
+    "name": "Dushanbe Air",
+    "IATA": null,
+    "ICAO": "DUA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:11.515923"
+  },
+  {
+    "name": "Fly Dushanbe Airlines",
+    "IATA": null,
+    "ICAO": "FDU",
+    "website": "flydushanbeairlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:11.515940"
+  },
+  {
+    "name": "FlyUnion Airlines",
+    "IATA": null,
+    "ICAO": "FCH",
+    "website": "www.flyunion.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:11.515956"
+  },
+  {
+    "name": "Inter Build LLC",
+    "IATA": null,
+    "ICAO": "INB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:11.515971"
+  },
+  {
+    "name": "Khatlon Air",
+    "IATA": null,
+    "ICAO": "KHT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:11.515987"
+  },
+  {
+    "name": "Parair",
+    "IATA": null,
+    "ICAO": "PAB",
+    "website": null,
+    "notes": "Name changed from Silkline Air",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:11.516003"
+  },
+  {
+    "name": "Samar Air",
+    "IATA": null,
+    "ICAO": "SMQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:11.516018"
+  },
+  {
+    "name": "Sky Golden Lachin",
+    "IATA": null,
+    "ICAO": "LSG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:11.516033"
+  },
+  {
+    "name": "Aircompany Somon Air LLC",
+    "IATA": "SZ",
+    "ICAO": "SMR",
+    "website": "www.somonair.com",
+    "notes": "IATA designator changed from 4J.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:11.516050"
+  },
+  {
+    "name": "OJSC \"Tajik Air\"",
+    "IATA": "7J",
+    "ICAO": "TJK",
+    "website": "www.tajikairlines.com",
+    "notes": "Name changed from State Air Company Tajikistan d/b/a Tajik Air",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:11.516066"
+  },
+  {
+    "name": "Tajikistan Airlines",
+    "IATA": null,
+    "ICAO": "TZK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:11.516082"
+  },
+  {
+    "name": "Tajikistan International Airlines",
+    "IATA": null,
+    "ICAO": "TIL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:11.516098"
+  },
+  {
+    "name": "TOJ Airlines",
+    "IATA": null,
+    "ICAO": "TOJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:11.516113"
+  },
+  {
+    "name": "Aircompany Asian Express Airline LLC",
+    "IATA": "KV",
+    "ICAO": "TXP",
+    "website": "www.asian-express-airlines.com",
+    "notes": "Designator KV recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:11.516131"
+  },
+  {
+    "name": "CJSC East Air",
+    "IATA": "EG",
+    "ICAO": "ETJ",
+    "website": "www.eastair.tj",
+    "notes": "AOC revoked by authorities in October 2014.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:11.516147"
+  },
+  {
+    "name": "Silkline Air",
+    "IATA": null,
+    "ICAO": "PAB",
+    "website": null,
+    "notes": "Name changed to Parair",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:11.516163"
+  },
+  {
+    "name": "Sogdiana",
+    "IATA": null,
+    "ICAO": "SDA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:11.516179"
+  },
+  {
+    "name": "Aircompany Somon Air LLC",
+    "IATA": "4J",
+    "ICAO": "SMR",
+    "website": "www.somonair.com",
+    "notes": "IATA designator changed to SZ.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:11.516195"
+  },
+  {
+    "name": "State Air Company Tajikistan d/b/a Tajik Air",
+    "IATA": "7J",
+    "ICAO": "TJK",
+    "website": "www.tajikair.tj",
+    "notes": "Name changed to OJSC \"Tajik Air\"",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:11.516211"
+  }
+]

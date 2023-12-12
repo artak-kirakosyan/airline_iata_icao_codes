@@ -1,0 +1,326 @@
+[
+  {
+    "name": "Cambodia Airways Co., Ltd.",
+    "IATA": "KR",
+    "ICAO": "KME",
+    "website": "www.cambodia-airways.com",
+    "notes": "Commence operations on 10 July 2018.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:17.516937"
+  },
+  {
+    "name": "Cambodia Angkor Air Ltd.",
+    "IATA": "K6",
+    "ICAO": "KHV",
+    "website": "www.cambodiaangkorair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:17.516968"
+  },
+  {
+    "name": "Flight Inspection Center of the General Administration of Civil Aviation of China",
+    "IATA": null,
+    "ICAO": "CFI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:17.516987"
+  },
+  {
+    "name": "Lanmei Airlines (Cambodia) Co., Ltd.",
+    "IATA": "LQ",
+    "ICAO": "MKR",
+    "website": "www.lanmeiairlines.com",
+    "notes": "AOC granted and due to commence operations on 09 October 2017.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:17.517004"
+  },
+  {
+    "name": "Sky Angkor Airlines Co., Ltd. d/b/a Sky Angkor Airlines",
+    "IATA": "ZA",
+    "ICAO": "SWM",
+    "website": "skyangkorair.com",
+    "notes": "Name changed from Skywings Asia Airlines w.e.f. 01 December 2014.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:17.517021"
+  },
+  {
+    "name": "Tonle Sap Airlines Corp",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.tonlesapairlines.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:17.517037"
+  },
+  {
+    "name": "Angkor Air Co. Ltd.",
+    "IATA": null,
+    "ICAO": "VAV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:17.517054"
+  },
+  {
+    "name": "Angkor Airlines",
+    "IATA": null,
+    "ICAO": "AOL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:17.517069"
+  },
+  {
+    "name": "Angkor Airways Corporation",
+    "IATA": null,
+    "ICAO": "AKW",
+    "website": "www.angkorairways.com",
+    "notes": "Ceased operations during 2008. Founded in 2004.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:17.517086"
+  },
+  {
+    "name": "Apsara International Air Co. Ltd.",
+    "IATA": "IP",
+    "ICAO": "AQQ",
+    "website": "apsara-airline.com",
+    "notes": "Founded in 2013. Commenced operations on 08 October 2014. Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:17.517103"
+  },
+  {
+    "name": "Bassaka Air Limited d/b/a Bassaka Air",
+    "IATA": null,
+    "ICAO": "BSX",
+    "website": "www.bassakaair.com",
+    "notes": "Founded in 2013. Commenced operations on 01 December 2014. Ceased operations during February 2020.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:17.517120"
+  },
+  {
+    "name": "Bayon Airlines",
+    "IATA": null,
+    "ICAO": "BAY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:17.517135"
+  },
+  {
+    "name": "Cambodia Airlines Co. Ltd.",
+    "IATA": "DI",
+    "ICAO": "KHM",
+    "website": null,
+    "notes": "IATA designator changed from Y6*. Designator Y6* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:17.517151"
+  },
+  {
+    "name": "Cambodia Airlines Co. Ltd.",
+    "IATA": null,
+    "ICAO": "KHM",
+    "website": null,
+    "notes": "IATA designator changed to DI. Designator Y6* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:17.517169"
+  },
+  {
+    "name": "Cambodia Bayon Airlines Limited",
+    "IATA": "BD",
+    "ICAO": "BYC",
+    "website": "www.bayonairlines.com",
+    "notes": "Commenced operations during December 2014. Ceased operations in 2019.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:17.517186"
+  },
+  {
+    "name": "First Cambodia Airlines Co. Ltd.",
+    "IATA": null,
+    "ICAO": "FCC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:17.517202"
+  },
+  {
+    "name": "Imtrec Aviation",
+    "IATA": null,
+    "ICAO": "IMT",
+    "website": null,
+    "notes": "AOC revoked during 2008.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:17.517218"
+  },
+  {
+    "name": "Indochina Airlines",
+    "IATA": "IO",
+    "ICAO": "IDO",
+    "website": null,
+    "notes": "Ceased opertions",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:17.517234"
+  },
+  {
+    "name": "JC (Cambodia) International Airlines",
+    "IATA": "QD",
+    "ICAO": "JCC",
+    "website": "www.jcairline.com",
+    "notes": "Founded in 2014. Commenced operations on 17 March 2017. suspended operations during February 2023.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:17.517252"
+  },
+  {
+    "name": "Kampuchea Airlines",
+    "IATA": "KT",
+    "ICAO": "KMP",
+    "website": null,
+    "notes": "Designator KT recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:17.517268"
+  },
+  {
+    "name": "Kampuchea Airlines",
+    "IATA": "E2",
+    "ICAO": "KMP",
+    "website": null,
+    "notes": "Ceased operations 2004. Designator KT recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:17.517284"
+  },
+  {
+    "name": "KC International Airlines Co., Ltd. d/b/a KC International Airlines",
+    "IATA": "3Q",
+    "ICAO": "KCH",
+    "website": null,
+    "notes": "Due to commence in 2018",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:17.517300"
+  },
+  {
+    "name": "Mekong Airlines Co. Ltd.",
+    "IATA": "M8",
+    "ICAO": "MKN",
+    "website": null,
+    "notes": "Ceased Operations in October 2003. Name changed from Yana Airlines Co. Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:17.517316"
+  },
+  {
+    "name": "Progress Multitrade Co. Ltd.",
+    "IATA": null,
+    "ICAO": "PMT",
+    "website": "www.pmtair.com",
+    "notes": "Founded on 14 January 2003. AOC granted 14 October 2003. Ceased operations during 2008.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:17.517333"
+  },
+  {
+    "name": "President Airlines",
+    "IATA": "TO",
+    "ICAO": "PSD",
+    "website": "www.presidentairlines.com",
+    "notes": "Desginator TO reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:17.517348"
+  },
+  {
+    "name": "Royal Air Cambodge",
+    "IATA": "RC",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator RU recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:17.517363"
+  },
+  {
+    "name": "Royal Air Cambodge",
+    "IATA": "VJ",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator VJ recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:17.517379"
+  },
+  {
+    "name": "Royal Khmer Airlines",
+    "IATA": null,
+    "ICAO": "RKH",
+    "website": "www.royalkhmerairlines.com",
+    "notes": "Designator RK reinstated by IATA. Designator FE recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:17.517396"
+  },
+  {
+    "name": "Royal Khymer Airlines",
+    "IATA": "FE",
+    "ICAO": "RKH",
+    "website": null,
+    "notes": "Designator FE recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:17.517411"
+  },
+  {
+    "name": "Royal Phnom Penh Airways",
+    "IATA": null,
+    "ICAO": "PPW",
+    "website": "www.rlppairways.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:17.517427"
+  },
+  {
+    "name": "Siem Reap Airways International",
+    "IATA": "FT",
+    "ICAO": "SRH",
+    "website": "www.siemreapairways.com",
+    "notes": "Ceased operations on 01 December 2008.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:17.517443"
+  },
+  {
+    "name": "Skywings Asia Airlines",
+    "IATA": "ZA",
+    "ICAO": "SWM",
+    "website": "www.skywingsair.com",
+    "notes": "Name changed to Sky Angkor Airlines w.e.f. 01 December 2014.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:17.517459"
+  },
+  {
+    "name": "Small Planet Airlines Co., Ltd.",
+    "IATA": "RD",
+    "ICAO": "LKH",
+    "website": "www.smallplanet.aero",
+    "notes": "Founded in October 2017. Ceased operations on 09 November 2018.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:17.517475"
+  },
+  {
+    "name": "Tonlesap Airlines",
+    "IATA": "K9",
+    "ICAO": "TSP",
+    "website": "www.tonlesapairlines.com",
+    "notes": "Founded in 2011. Ceased operations in 2013.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:17.517491"
+  },
+  {
+    "name": "Wat Phnom Airlines",
+    "IATA": "WD",
+    "ICAO": "WPH",
+    "website": "www.watphnomairlines.com",
+    "notes": "Ceased operations during 2014.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:17.517506"
+  },
+  {
+    "name": "Yana Airlines Co. Ltd.",
+    "IATA": null,
+    "ICAO": "CYG",
+    "website": null,
+    "notes": "Name changed to Mekong Airlines Co. Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:17.517523"
+  }
+]

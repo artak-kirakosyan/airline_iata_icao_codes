@@ -1,0 +1,254 @@
+[
+  {
+    "name": "Adam Aircraft Services GmbH",
+    "IATA": null,
+    "ICAO": "WDA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:29.642357"
+  },
+  {
+    "name": "Air Eclipse International S.r.l.",
+    "IATA": null,
+    "ICAO": "AOC",
+    "website": "www.air-eclipse.aero",
+    "notes": "Name changed from TitanFly International S.r.l.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:29.642387"
+  },
+  {
+    "name": "Alexjets San Marino S.r.l.",
+    "IATA": null,
+    "ICAO": "AXJ",
+    "website": "alexjets.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:29.642404"
+  },
+  {
+    "name": "Amber Aviation San Marino S.r.l.",
+    "IATA": null,
+    "ICAO": "TCQ",
+    "website": "www.amber-aviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:29.642428"
+  },
+  {
+    "name": "Avcon Jet S.r.l.",
+    "IATA": null,
+    "ICAO": "VAJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:29.642443"
+  },
+  {
+    "name": "Comlux San Marino S.r.l.",
+    "IATA": null,
+    "ICAO": "SMC",
+    "website": "comlux.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:29.642459"
+  },
+  {
+    "name": "Elit'Avia San Marino S.r.l.",
+    "IATA": null,
+    "ICAO": "EAO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:29.642475"
+  },
+  {
+    "name": "Flexflight S.r.l.",
+    "IATA": null,
+    "ICAO": "TIX",
+    "website": "flexflight.dk",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:29.642491"
+  },
+  {
+    "name": "FTC Aviation",
+    "IATA": null,
+    "ICAO": "FTC",
+    "website": "www.ftc.aero/en/",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:29.642507"
+  },
+  {
+    "name": "GSS Airline S.r.l.",
+    "IATA": null,
+    "ICAO": "GSS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:29.642523"
+  },
+  {
+    "name": "ICS-Aero SM S.r.l.",
+    "IATA": null,
+    "ICAO": "ICF",
+    "website": "www.ics-aero.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:29.642538"
+  },
+  {
+    "name": "Jet Management San Marino S.r.l.",
+    "IATA": null,
+    "ICAO": "JMG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:29.642553"
+  },
+  {
+    "name": "Luxaviation San Marino S.r.l.",
+    "IATA": null,
+    "ICAO": "LSM",
+    "website": "www.luxaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:29.642569"
+  },
+  {
+    "name": "Mcdan Aviation San Marino S.r.l.",
+    "IATA": null,
+    "ICAO": "MDN",
+    "website": "mcdanaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:29.642584"
+  },
+  {
+    "name": "OverStar S.r.l. d/b/a Over Star Jets",
+    "IATA": null,
+    "ICAO": "OCJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:29.642599"
+  },
+  {
+    "name": "Prima Aviation S.r.l.",
+    "IATA": null,
+    "ICAO": "SMP",
+    "website": "www.prima-aviation.sm",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:29.642614"
+  },
+  {
+    "name": "San Marino Executive Aviation S.r.l.",
+    "IATA": null,
+    "ICAO": "SMF",
+    "website": "www.smexec.com",
+    "notes": "ICAO Callsign changed from Smea.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:29.642630"
+  },
+  {
+    "name": "Skyline Aviation S.r.l.",
+    "IATA": null,
+    "ICAO": "SML",
+    "website": "www.skylineaviation.eu",
+    "notes": "AOC granted on 23 August 2016.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:29.642646"
+  },
+  {
+    "name": "Skymark Executive S.r.l.",
+    "IATA": null,
+    "ICAO": "SMB",
+    "website": "www.skymarkexecutive.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:29.642663"
+  },
+  {
+    "name": "SLL Resources Limited",
+    "IATA": null,
+    "ICAO": "ROB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:29.642678"
+  },
+  {
+    "name": "SMJet S.r.l.",
+    "IATA": null,
+    "ICAO": "SMD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:29.642693"
+  },
+  {
+    "name": "Sorens Aero SM S.r.l.",
+    "IATA": null,
+    "ICAO": "SSE",
+    "website": "www.sorens.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:29.642708"
+  },
+  {
+    "name": "Spec Energy",
+    "IATA": null,
+    "ICAO": "SGC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:29.642723"
+  },
+  {
+    "name": "Super Legacy XP Ltd.",
+    "IATA": null,
+    "ICAO": "SLS",
+    "website": "superlegacy.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:29.642738"
+  },
+  {
+    "name": "TAG Aviation San Marino S.r.l.",
+    "IATA": null,
+    "ICAO": "TAG",
+    "website": "www.tagaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:29.642753"
+  },
+  {
+    "name": "TJS San Marino",
+    "IATA": null,
+    "ICAO": "TSR",
+    "website": null,
+    "notes": "Subsidary of Tyrolean Jet Services.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:29.642769"
+  },
+  {
+    "name": "San Marino Executive Aviation S.r.l.",
+    "IATA": null,
+    "ICAO": "SMF",
+    "website": "www.smexec.com",
+    "notes": "ICAO Callsign changed to Seres.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:29.642785"
+  },
+  {
+    "name": "TitanFly International S.r.l.",
+    "IATA": null,
+    "ICAO": "AOC",
+    "website": "www.titanfly.aero",
+    "notes": "Name changed to Air Eclipse International S.r.l.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:29.642802"
+  }
+]

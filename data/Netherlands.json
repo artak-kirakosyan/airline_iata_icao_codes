@@ -1,0 +1,1037 @@
+[
+  {
+    "name": "Airshop B.V.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.airshop.com",
+    "notes": "Designator FF* reinstated by IATA. Non-Airline Unit Load Devices (ULD) Companies",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:48.858035"
+  },
+  {
+    "name": "ASL B.V.",
+    "IATA": null,
+    "ICAO": "AGR",
+    "website": "www.aircharterseurope.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:48.858067"
+  },
+  {
+    "name": "Bright Air",
+    "IATA": null,
+    "ICAO": "BHT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:48.858090"
+  },
+  {
+    "name": "CHC Helicopters Netherlands",
+    "IATA": null,
+    "ICAO": "HNL",
+    "website": "www.chc.ca",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:48.858112"
+  },
+  {
+    "name": "Corendon Dutch Airlines",
+    "IATA": "CD",
+    "ICAO": "CND",
+    "website": "www.corendon.nl/airlines",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:48.858131"
+  },
+  {
+    "name": "European Cargo Services BV",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.ecsams.nl",
+    "notes": "Non-airline Unit Load Device (ULD) Company",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:48.858153"
+  },
+  {
+    "name": "Exxaero BV",
+    "IATA": null,
+    "ICAO": "XRO",
+    "website": ".exxaero.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:48.858172"
+  },
+  {
+    "name": "Farnair Europe B.V.",
+    "IATA": null,
+    "ICAO": "FNE",
+    "website": "www.farnair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:48.858192"
+  },
+  {
+    "name": "Fokker Flight Operations",
+    "IATA": null,
+    "ICAO": "FOP",
+    "website": "www.fokker.com/Netherlands-Flight-Operations-Woensdrecht",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:48.858212"
+  },
+  {
+    "name": "Heli Holland Offshore B.V.",
+    "IATA": null,
+    "ICAO": "FNI",
+    "website": "www.heliholland.nl",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:48.858232"
+  },
+  {
+    "name": "Heli-holland B.V.",
+    "IATA": null,
+    "ICAO": "HHE",
+    "website": "www.heliholland.nl",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:48.858251"
+  },
+  {
+    "name": "JetNetherlands B.V.",
+    "IATA": null,
+    "ICAO": "JNL",
+    "website": "www.jetnetherlands.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:48.858269"
+  },
+  {
+    "name": "KLM Cityhopper",
+    "IATA": "WA",
+    "ICAO": "KLC",
+    "website": "www.klmcityhopper.com",
+    "notes": "Name changed from KLM Cityhopper B.V. (KLM Commuter). IATA designator changed from HN / ICAO desigantor changed from NLM",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:48.858290"
+  },
+  {
+    "name": "KLM Royal Dutch Airlines (Koninklijke Luchtvaart Maatschappij N.V.)",
+    "IATA": "KL",
+    "ICAO": "KLM",
+    "website": "www.klm.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:48.858311"
+  },
+  {
+    "name": "Martinair Holland N.V.",
+    "IATA": "MP",
+    "ICAO": "MPH",
+    "website": "www.martinair.com",
+    "notes": "Name changed from Martin's Luchtvervoermaatschappij (Martin's Aircharter Company M.A.C.) N.V",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:48.858331"
+  },
+  {
+    "name": "NATO Support and Procurement Agency",
+    "IATA": null,
+    "ICAO": "MMF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:48.858350"
+  },
+  {
+    "name": "Nederlandse Kustwacht",
+    "IATA": null,
+    "ICAO": "NCG",
+    "website": "www.kustwacht.nl",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:48.858372"
+  },
+  {
+    "name": "Quick Airways Holland B.V.",
+    "IATA": null,
+    "ICAO": "QAH",
+    "website": "www.quickairways.nl",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:48.858390"
+  },
+  {
+    "name": "Royal Netherlands Air Force (Koninklijke Luchtmacht)",
+    "IATA": null,
+    "ICAO": "NAF",
+    "website": "www.defensie.nl/organisatie/luchtmacht",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:48.858414"
+  },
+  {
+    "name": "Royal Netherlands Navy (Koninklijke Marine)",
+    "IATA": null,
+    "ICAO": "NRN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:48.858437"
+  },
+  {
+    "name": "Sky Aircraft Service",
+    "IATA": null,
+    "ICAO": "SGM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:48.858458"
+  },
+  {
+    "name": "Sky Unlimited",
+    "IATA": null,
+    "ICAO": "SYU",
+    "website": "www.skyunltd.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:48.858478"
+  },
+  {
+    "name": "Southern Cross International",
+    "IATA": null,
+    "ICAO": "SXI",
+    "website": "www.sxi.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:48.858498"
+  },
+  {
+    "name": "Stichting Vliegschool 16Hoven",
+    "IATA": null,
+    "ICAO": "VGS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:48.858519"
+  },
+  {
+    "name": "Transavia",
+    "IATA": "HV",
+    "ICAO": "TRA",
+    "website": "www.transavia.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:48.858537"
+  },
+  {
+    "name": "TUI Airlines Nederlands B.V. t/a TUI fly Netherlands",
+    "IATA": "OR",
+    "ICAO": "TFL",
+    "website": "www.arkefly.nl",
+    "notes": "Name changed from TUI Airlines Nederlands B.V. t/a Arke w.e.f. 01 October 2015. ICAO callsign changed from Arkefly.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:48.858559"
+  },
+  {
+    "name": "Twente Airlines",
+    "IATA": null,
+    "ICAO": "TWO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:48.858579"
+  },
+  {
+    "name": "Unilode Aviation Solutions Netherlands BV",
+    "IATA": "U9",
+    "ICAO": null,
+    "website": "www.unilode.com",
+    "notes": "Non-airline Unit Load Devices (ULD) companies",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:48.858600"
+  },
+  {
+    "name": "Vipper",
+    "IATA": "VG",
+    "ICAO": null,
+    "website": "vipper.com",
+    "notes": "Computer Reservations Systems (CRS)",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:48.858618"
+  },
+  {
+    "name": "Budgetair",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.budgetair.nl",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.858637"
+  },
+  {
+    "name": "Vipair",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Charter carrier due to start ops 03/2001",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.858657"
+  },
+  {
+    "name": "Vision Airlines N.V.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.858675"
+  },
+  {
+    "name": "Air Charters Eelde",
+    "IATA": null,
+    "ICAO": "RCC",
+    "website": null,
+    "notes": "Name changed to Air Charters Europe B.V.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.858694"
+  },
+  {
+    "name": "Air Charters Europe B.V.",
+    "IATA": null,
+    "ICAO": "RCC",
+    "website": "www.flyace.eu",
+    "notes": "Name changed from Air Charters Eelde",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.858714"
+  },
+  {
+    "name": "Air Exel Netherlands B.V.",
+    "IATA": "XT",
+    "ICAO": "AXL",
+    "website": "www.klm-exel.nl",
+    "notes": "Name changed from Air Exel Netherlands B.V. d/b/a KLM Exel w.e.f. 06 November 2004. Ceased operations on 31 January 2005.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.858734"
+  },
+  {
+    "name": "Air Holland",
+    "IATA": "HD",
+    "ICAO": "AHD",
+    "website": null,
+    "notes": "Founded in 1984. Commenced operations in 1985. Suspended all operations in December 1991. ICAO callsign changed to Orange",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.858754"
+  },
+  {
+    "name": "Air Holland Leasing II B.V.",
+    "IATA": null,
+    "ICAO": "HLN",
+    "website": "www.airholland.nl",
+    "notes": "Ceased operations. ICAO callsign changed from Air Holland",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.858774"
+  },
+  {
+    "name": "Air Holland",
+    "IATA": "HD",
+    "ICAO": "AHD",
+    "website": null,
+    "notes": "Founded in 1984. Commenced operations in 1985. Suspended all operations in December 1991. ICAO callsign changed from Air Holland",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.858793"
+  },
+  {
+    "name": "Air Holland Charter BV",
+    "IATA": "GG",
+    "ICAO": "AHR",
+    "website": null,
+    "notes": "Commenced operations on 20 December 1991. Ceased operations on 25 March 2004.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.858813"
+  },
+  {
+    "name": "Air Holland Leasing II B.V.",
+    "IATA": null,
+    "ICAO": "HLN",
+    "website": null,
+    "notes": "ICAO callsign changed to Orange",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.858831"
+  },
+  {
+    "name": "Air Hollandia B.V.",
+    "IATA": null,
+    "ICAO": "HLA",
+    "website": "www.airhollandia.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.858850"
+  },
+  {
+    "name": "Air Transport Schiphol",
+    "IATA": null,
+    "ICAO": "ATQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.858868"
+  },
+  {
+    "name": "AIS Airlines B.V.",
+    "IATA": "IS",
+    "ICAO": "PNX",
+    "website": "www.aisairlines.nl",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.858888"
+  },
+  {
+    "name": "Amsterdam Airlines",
+    "IATA": null,
+    "ICAO": "AAN",
+    "website": "www.amsterdam-airlines.com",
+    "notes": "Designator FH* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.858909"
+  },
+  {
+    "name": "Amsterdam Airlines BV",
+    "IATA": null,
+    "ICAO": "AAN",
+    "website": "www.amsterdam-airlines.com",
+    "notes": "Founded in 2007. Ceased operations on 31 October 2011.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.858928"
+  },
+  {
+    "name": "TUI Airlines Nederlands B.V. t/a Arke",
+    "IATA": "OR",
+    "ICAO": "TFL",
+    "website": "www.arkefly.nl",
+    "notes": "Name changed from TUI Airlines Nederlands B.V. t/a Arkefly w.e.f. 01 October 2013. ICAO callsign changed from Arkefly.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.858947"
+  },
+  {
+    "name": "TUI Airlines Nederlands B.V. t/a Arkefly",
+    "IATA": "OR",
+    "ICAO": "TFL",
+    "website": "www.arkefly.nl",
+    "notes": "Name changed to TUI Airlines Nederlands B.V. t/a Arke w.e.f. 01 October 2013. ICAO callsign changed to Orange.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.858964"
+  },
+  {
+    "name": "Business Aviation Services Eindhoven BV d/b/a Base Airlines",
+    "IATA": "5E",
+    "ICAO": "BRO",
+    "website": null,
+    "notes": "Ceased operations on 06 April 2001.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.858982"
+  },
+  {
+    "name": "Basiq Air",
+    "IATA": "HV",
+    "ICAO": "TRA",
+    "website": "www.basiqair.com",
+    "notes": "Merged back into Transavia. Low cost subsidary of Transavia",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859000"
+  },
+  {
+    "name": "Bikkair B.V.",
+    "IATA": null,
+    "ICAO": "BIK",
+    "website": "www.bikkair.com",
+    "notes": "Founded on 20 November 2006. Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859019"
+  },
+  {
+    "name": "Demin Air",
+    "IATA": "2D",
+    "ICAO": "DNM",
+    "website": null,
+    "notes": "IATA designator changed to 3D",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859036"
+  },
+  {
+    "name": "Denim Air ACMI B.V.",
+    "IATA": "G6",
+    "ICAO": "DNM",
+    "website": "www.denim.aero",
+    "notes": "IATA designator changed from J7*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859053"
+  },
+  {
+    "name": "Denim Air",
+    "IATA": null,
+    "ICAO": "DNM",
+    "website": "www.denimair.nl",
+    "notes": "IATA designator changed to 3D",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859071"
+  },
+  {
+    "name": "Denim Air ACMI B.V.",
+    "IATA": null,
+    "ICAO": "DNM",
+    "website": "www.denim.aero",
+    "notes": "IATA designator changed to G6",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859088"
+  },
+  {
+    "name": "Denim Air",
+    "IATA": "3D",
+    "ICAO": "DNM",
+    "website": "www.denimair.nl",
+    "notes": "Ceased operations. IATA designator changed from 3D*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859105"
+  },
+  {
+    "name": "Dutchbird",
+    "IATA": null,
+    "ICAO": "DBR",
+    "website": "www.dutchbird.nl",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859122"
+  },
+  {
+    "name": "Dynamic Air",
+    "IATA": null,
+    "ICAO": "DYE",
+    "website": null,
+    "notes": "Founded in 1980. Ceased operations. ICAO callsign changed from Dynamite",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859140"
+  },
+  {
+    "name": "Dynamic Air",
+    "IATA": null,
+    "ICAO": "DYE",
+    "website": null,
+    "notes": "ICAO callsign changed to Dynamic",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859158"
+  },
+  {
+    "name": "F'Airlines B.V.",
+    "IATA": "4X",
+    "ICAO": "FLS",
+    "website": null,
+    "notes": "Designator 4X recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859175"
+  },
+  {
+    "name": "Rotterdamse Luchtvaart Expoeditie Maatschappik",
+    "IATA": "RM",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859193"
+  },
+  {
+    "name": "Farnair Netherlands",
+    "IATA": null,
+    "ICAO": "FRN",
+    "website": "www.farnair.com",
+    "notes": "Name changed to Magicblue Airlines B.V. ICAO designator changed to MJB, callsign changed to Magicblue. Name changed from Tulip Air Charter B.V. ICAO Callsign changed from Farnair Europe",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859212"
+  },
+  {
+    "name": "Farnair Netherlands",
+    "IATA": null,
+    "ICAO": "FRN",
+    "website": "www.farnair.com",
+    "notes": "ICAO Callsign changed to Farned. Name changed from Tulip Air Charter B.V.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859230"
+  },
+  {
+    "name": "Flexair B.V.",
+    "IATA": null,
+    "ICAO": "FXY",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859248"
+  },
+  {
+    "name": "Flying Syndicate Twente",
+    "IATA": "FM",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859264"
+  },
+  {
+    "name": "Freeway Air B.V.",
+    "IATA": null,
+    "ICAO": "FWC",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859282"
+  },
+  {
+    "name": "Holland Aero Leasing B.V.",
+    "IATA": "SE",
+    "ICAO": "HAO",
+    "website": null,
+    "notes": "ICAO callsign changed from Aerolines.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859300"
+  },
+  {
+    "name": "Holland Aero Leasing B.V.",
+    "IATA": null,
+    "ICAO": "HAO",
+    "website": null,
+    "notes": "ICAO callsign changed to Tulip.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859316"
+  },
+  {
+    "name": "ATR Leasing VI B.V. (Holland Exel)",
+    "IATA": "YZ",
+    "ICAO": "HXL",
+    "website": "www.hollandexel.com",
+    "notes": "Designator YZ reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859334"
+  },
+  {
+    "name": "Interstate Airlines B.V.",
+    "IATA": null,
+    "ICAO": "FWA",
+    "website": "www.interstateairlines.com",
+    "notes": "Founded in 2005. Bankrupt in 2010.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859352"
+  },
+  {
+    "name": "Jet Link Cargo Airline",
+    "IATA": null,
+    "ICAO": "JLH",
+    "website": "www.jetlink.nl",
+    "notes": "Ceased operations in 2015.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859371"
+  },
+  {
+    "name": "Jetlink Holland",
+    "IATA": null,
+    "ICAO": "JLH",
+    "website": null,
+    "notes": "Founded in 1991. Declared bankrupt in June 2000.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859389"
+  },
+  {
+    "name": "JetSky",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.jetsky.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859406"
+  },
+  {
+    "name": "KLM (DCS)",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator 2K* recalled by IATA. Departure Control System",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859424"
+  },
+  {
+    "name": "KLM Cityhopper B.V.",
+    "IATA": "HN",
+    "ICAO": "NLM",
+    "website": null,
+    "notes": "IATA designator changed to WA / ICAO desigantor changed to KLC. Name changed from NLM Cityhopper B.V.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859441"
+  },
+  {
+    "name": "KLM Cityhopper B.V. (KLM Commuter)",
+    "IATA": "WA",
+    "ICAO": "KLC",
+    "website": "www.klmcityhopper.NL",
+    "notes": "IATA designator changed from HN / ICAO desigantor changed from NLM",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859459"
+  },
+  {
+    "name": "Air Exel Netherlands B.V. d/b/a KLM Exel",
+    "IATA": "XT",
+    "ICAO": "AXL",
+    "website": "www.klm-exel.nl",
+    "notes": "Established on 26 April 1991. Commenced operations on 01 May 1991.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859477"
+  },
+  {
+    "name": "KLM Helicopter N.V.",
+    "IATA": null,
+    "ICAO": "KLH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859493"
+  },
+  {
+    "name": "Kom Activity",
+    "IATA": null,
+    "ICAO": "KOM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859509"
+  },
+  {
+    "name": "Liberty Air",
+    "IATA": null,
+    "ICAO": "LTY",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859525"
+  },
+  {
+    "name": "Luchtvaartmaatschappii Twente, N.V.",
+    "IATA": null,
+    "ICAO": "LTW",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859541"
+  },
+  {
+    "name": "Magic Blue Airlines B.V",
+    "IATA": null,
+    "ICAO": "MJB",
+    "website": null,
+    "notes": "Filed for bankruptcy in December 2005. Name changed from Farnair Netherlands.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859558"
+  },
+  {
+    "name": "Martin's Luchtvervoermaatschappij (Martin's Aircharter Company M.A.C.) N.V",
+    "IATA": "MP",
+    "ICAO": null,
+    "website": null,
+    "notes": "Name changed to Martinair Holland N.V.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859575"
+  },
+  {
+    "name": "Metropolis Noord I.B.V.",
+    "IATA": null,
+    "ICAO": "MPS",
+    "website": "www.flymetropolis.nl",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859591"
+  },
+  {
+    "name": "N.L.M. Dutch Airlines Ltd. (Nederlandse Luchtvaart Maatschappij N.L.M. N.V.)",
+    "IATA": "HN",
+    "ICAO": "NLM",
+    "website": null,
+    "notes": "Name changed to NLM Cityhopper B.V.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859608"
+  },
+  {
+    "name": "N.V. National Vliegtuigbeheer",
+    "IATA": "VZ",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator VZ recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859625"
+  },
+  {
+    "name": "N.V. National Vliegtuigbeheer",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator VZ recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859642"
+  },
+  {
+    "name": "Nationale Luchtvaartschool B.V.",
+    "IATA": null,
+    "ICAO": "NLS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859658"
+  },
+  {
+    "name": "Netherlands Airlines for European Commuter Services (Netherlands)",
+    "IATA": "KJ",
+    "ICAO": "NET",
+    "website": null,
+    "notes": "IATA Desigantor changed to WU",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859674"
+  },
+  {
+    "name": "Netherlands Airlines for European Commuter Services (Netherlands)",
+    "IATA": "WU",
+    "ICAO": "NET",
+    "website": null,
+    "notes": "IATA Desigantor changed from KJ",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859690"
+  },
+  {
+    "name": "NLM Cityhopper B.V.",
+    "IATA": "HN",
+    "ICAO": "NLM",
+    "website": null,
+    "notes": "Name changed to KLM Cityhopper B.V.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859707"
+  },
+  {
+    "name": "North Sea Airways",
+    "IATA": null,
+    "ICAO": "NRC",
+    "website": "www.northsea-airways.nl",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859723"
+  },
+  {
+    "name": "Orange Aircraft Leasing",
+    "IATA": null,
+    "ICAO": "RNG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859738"
+  },
+  {
+    "name": "Philips Aviation Services",
+    "IATA": null,
+    "ICAO": "PHI",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859754"
+  },
+  {
+    "name": "Philip's N.V. Gloeilampenfabrieken, Flight Division",
+    "IATA": "PE",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859770"
+  },
+  {
+    "name": "Rijnmond Air Services B.V.",
+    "IATA": null,
+    "ICAO": "RAZ",
+    "website": "www.rasnl.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859786"
+  },
+  {
+    "name": "Rossair Europe B.V.",
+    "IATA": null,
+    "ICAO": "ROS",
+    "website": "www.rossair.co.za",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859802"
+  },
+  {
+    "name": "Rotterdam Airlines B.V.",
+    "IATA": "RY",
+    "ICAO": "REL",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859817"
+  },
+  {
+    "name": "Rotterdam Jet Center",
+    "IATA": null,
+    "ICAO": "JCR",
+    "website": "www.rotterdamjetcenter.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859833"
+  },
+  {
+    "name": "Schreiner Airways B.V.",
+    "IATA": null,
+    "ICAO": "SCH",
+    "website": "www.schreiner.nl",
+    "notes": "The Schreiner Aviation Group was purchased by the CHC Helicopter Corporation in 2005. Designator AW recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859850"
+  },
+  {
+    "name": "Schreiner Airways B.V.",
+    "IATA": "AW",
+    "ICAO": "SCH",
+    "website": "www.schreiner.nl",
+    "notes": "Designator AW recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859866"
+  },
+  {
+    "name": "Schreiner Airways B.V.",
+    "IATA": "WS",
+    "ICAO": "SCH",
+    "website": "www.schreiner.nl",
+    "notes": "Designator WS recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859882"
+  },
+  {
+    "name": "Skygate",
+    "IATA": null,
+    "ICAO": "SGT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859897"
+  },
+  {
+    "name": "Solid Air",
+    "IATA": null,
+    "ICAO": "SOX",
+    "website": null,
+    "notes": "AOC suspended on 28 September 2011. Declared bankrupt on 07 October 2011.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859913"
+  },
+  {
+    "name": "Southern Cross International",
+    "IATA": null,
+    "ICAO": "SXI",
+    "website": "www.southernx.nl",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859929"
+  },
+  {
+    "name": "Stella Aviation",
+    "IATA": null,
+    "ICAO": "STJ",
+    "website": "www.stella-aviation.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859945"
+  },
+  {
+    "name": "Trans Travel Airlines (TTA)",
+    "IATA": null,
+    "ICAO": "TRQ",
+    "website": "tta.nl",
+    "notes": "Ceased operations on 07 January 2003. Desginator 6N* reinstated by IATA. Formerly known as Turdus Airways B.V.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859964"
+  },
+  {
+    "name": "Transavia Holland B.V.",
+    "IATA": "HV",
+    "ICAO": "TRA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859980"
+  },
+  {
+    "name": "Transavia Holland B.V.",
+    "IATA": "HV",
+    "ICAO": "TRH",
+    "website": null,
+    "notes": "ICAO callsign changed to Transavia",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.859996"
+  },
+  {
+    "name": "Transavia Holland B.V.",
+    "IATA": "HV",
+    "ICAO": "TRH",
+    "website": null,
+    "notes": "ICA designator changed to TRA. ICAO callsign changed from Hotel Victor",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.860012"
+  },
+  {
+    "name": "Tulip Air B.V.",
+    "IATA": null,
+    "ICAO": "TLP",
+    "website": "www.tulipair.nl",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.860029"
+  },
+  {
+    "name": "ULD Rental",
+    "IATA": null,
+    "ICAO": null,
+    "website": "uldrentals.com",
+    "notes": "Non-Airline Unit Load Devices (ULD) company",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.860046"
+  },
+  {
+    "name": "OSA Team Ltd. d/b/a Uniways",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.uniways.org",
+    "notes": "Designator 3Y* recalled by IATA. Railway, Bus or Ferry Service",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.860063"
+  },
+  {
+    "name": "V BIRD Airlines Netherlands B.V.",
+    "IATA": null,
+    "ICAO": "VBA",
+    "website": "www.vbird.com",
+    "notes": "IATA designator changed to VX",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.860080"
+  },
+  {
+    "name": "V BIRD Airlines Netherlands B.V.",
+    "IATA": "VX",
+    "ICAO": "VBA",
+    "website": "www.vbird.com",
+    "notes": "Ceased operations in 08 October 2004. IATA designator changed from 5D*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.860097"
+  },
+  {
+    "name": "XP International BV",
+    "IATA": "OH",
+    "ICAO": "XPS",
+    "website": null,
+    "notes": "Ceased operations. Designator OH recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:48.860114"
+  }
+]

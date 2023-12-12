@@ -1,0 +1,236 @@
+[
+  {
+    "name": "Aerobell Airlines",
+    "IATA": null,
+    "ICAO": "GAB",
+    "website": "www.aerobell.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:37.815996"
+  },
+  {
+    "name": "Aerojet de Costa Rica, S.A.",
+    "IATA": null,
+    "ICAO": "ARJ",
+    "website": "www.aerojet.co.cr",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:37.816026"
+  },
+  {
+    "name": "Avianca Costa Rica S.A.",
+    "IATA": "LR",
+    "ICAO": "LRC",
+    "website": "www.avianca.com",
+    "notes": "Name changed from Lineas Aereas Costarricenses S.A. (LACSA)",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:37.816045"
+  },
+  {
+    "name": "Costa Rica GREEN AIRWAYS S.r.l.",
+    "IATA": "GW",
+    "ICAO": null,
+    "website": "costaricagreenair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:37.816063"
+  },
+  {
+    "name": "Costa Rica Green Airways",
+    "IATA": null,
+    "ICAO": "CRG",
+    "website": "costaricagreenair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:37.816079"
+  },
+  {
+    "name": "Grupo Corporativo Skyway. S.A.",
+    "IATA": "LC",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:37.816096"
+  },
+  {
+    "name": "Laneas Aereas Trans Costa Rica, S.A.",
+    "IATA": null,
+    "ICAO": "TCR",
+    "website": "www.latranscostarica.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:37.816113"
+  },
+  {
+    "name": "Servicio de Vigilancia Aerea Del Ministerio de Seguridad Publica",
+    "IATA": null,
+    "ICAO": "MSP",
+    "website": "www.seguridadpublica.go.cr/direccion/vigilancia_aerea/",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:37.816129"
+  },
+  {
+    "name": "Servicios Aereos Nacionales S.A. SANSA",
+    "IATA": null,
+    "ICAO": "LRS",
+    "website": "www.flysansa.com",
+    "notes": "Designator RZ* recalled by IATA. IATA Accounting code 684 recalled. Designator RZ* reinstated by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:37.816147"
+  },
+  {
+    "name": "Skyway Airline",
+    "IATA": null,
+    "ICAO": "GCS",
+    "website": "skywaycr.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:37.816163"
+  },
+  {
+    "name": "Vuela Aviacion S.A. (Volaris Costa Rica)",
+    "IATA": "Q6",
+    "ICAO": "VOC",
+    "website": "www.volaris.com",
+    "notes": "Air Operator Certificate granted on 10 Nevmber 2016.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:37.816179"
+  },
+  {
+    "name": "Aero Costa Rica ACORI, S.A.",
+    "IATA": null,
+    "ICAO": "AEK",
+    "website": "www.centralamerica.com/cr/tran/aero.htm",
+    "notes": "Commenced operations on 11 May 1992. Ceased operations on 30 September 1997.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:37.816196"
+  },
+  {
+    "name": "Aero Costa Sol, S.A.",
+    "IATA": null,
+    "ICAO": "CSG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:37.816212"
+  },
+  {
+    "name": "Tica Air International (Air Costa Rica)",
+    "IATA": "RI",
+    "ICAO": "RII",
+    "website": "www.aircostarica.com",
+    "notes": "Subsidiary of Air Panama. Designator RI recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:37.816229"
+  },
+  {
+    "name": "Craft Airlines Ltd.",
+    "IATA": "CN",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:37.816244"
+  },
+  {
+    "name": "J H M Cargo Expreso, S.A.",
+    "IATA": null,
+    "ICAO": "JHM",
+    "website": null,
+    "notes": "Founded in 1996. Ceased operations during 2000.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:37.816259"
+  },
+  {
+    "name": "Lineas Aereas Costarricenses S.A. (LACSA)",
+    "IATA": "LR",
+    "ICAO": "LRC",
+    "website": "www.taca.com",
+    "notes": "Name changed to Avianca Costa Rica",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:37.816276"
+  },
+  {
+    "name": "Travelair d/b/a Nature Air",
+    "IATA": null,
+    "ICAO": "NRR",
+    "website": "www.natureair.com",
+    "notes": "Operations were suspended by Costa Rica CAA on 12 January 2018.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:37.816293"
+  },
+  {
+    "name": "Servicio Carga Aerea",
+    "IATA": null,
+    "ICAO": "SSE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:37.816308"
+  },
+  {
+    "name": "Servicios Aereos Nacionales S.A. SANSA",
+    "IATA": null,
+    "ICAO": "LRS",
+    "website": "www.flysansa.com",
+    "notes": "Designator RZ* recalled by IATA. Designator RZ* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:37.816325"
+  },
+  {
+    "name": "Transportes Aereos Costarricenses",
+    "IATA": "5L",
+    "ICAO": "TIC",
+    "website": "www.tac.cr",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:37.816341"
+  },
+  {
+    "name": "Transportes Aereos del Continente Americano - TACA Costa Rica",
+    "IATA": null,
+    "ICAO": "TAT",
+    "website": null,
+    "notes": "Name changed to TACA Costa Rica S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:37.816357"
+  },
+  {
+    "name": "TACA Costa Rica Anonima",
+    "IATA": "TI",
+    "ICAO": "TAT",
+    "website": "www.tacac.com",
+    "notes": "Name changed from Transportes Aereos del Continente Americano - TACA Costa Rica",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:37.816373"
+  },
+  {
+    "name": "Transcarga, S.A.",
+    "IATA": null,
+    "ICAO": "TDA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:37.816388"
+  },
+  {
+    "name": "Transportes A\u00e9reos de Integraci\u00f3n, S.A. (TAISA)",
+    "IATA": "TC",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:37.816404"
+  },
+  {
+    "name": "West Caribbean Costa Rica, S.A.",
+    "IATA": "0W",
+    "ICAO": "WCR",
+    "website": null,
+    "notes": "Designator 0W recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:37.816419"
+  }
+]

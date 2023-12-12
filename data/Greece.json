@@ -1,0 +1,875 @@
+[
+  {
+    "name": "Aegean Airlines, S.A.",
+    "IATA": "A3",
+    "ICAO": "AEE",
+    "website": "www.aegeanairlines.gr",
+    "notes": "Name changed from Aegean Aviation S.A. Merger with Cronus Airlines X5/CUS",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:21.387965"
+  },
+  {
+    "name": "Aegean Executive S.A.",
+    "IATA": null,
+    "ICAO": "AEW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:21.387997"
+  },
+  {
+    "name": "Air Intersalonika",
+    "IATA": null,
+    "ICAO": "NSK",
+    "website": "www.airintersalonica.gr",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:21.388018"
+  },
+  {
+    "name": "Air Lift A.A.E.",
+    "IATA": null,
+    "ICAO": "IFI",
+    "website": "www.airlift.gr",
+    "notes": "Name changed from Hyperion S.A. ICAO callsign changed",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:21.388039"
+  },
+  {
+    "name": "Air Mediterranean S.A.",
+    "IATA": "MV",
+    "ICAO": "MAR",
+    "website": "air-mediterranean.com",
+    "notes": "Commenced operations on 01 November 2017. Suspended all operations on 18 January 2018. Re-started operations in February 2018 operating charter flights only.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:21.388058"
+  },
+  {
+    "name": "Amjet Executive S.A.",
+    "IATA": null,
+    "ICAO": "AMJ",
+    "website": "www.amjetexecutive.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:21.388076"
+  },
+  {
+    "name": "BellAvia Ltd.",
+    "IATA": null,
+    "ICAO": "BEV",
+    "website": "bellavia.gr",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:21.388094"
+  },
+  {
+    "name": "Blue Bird Airways",
+    "IATA": null,
+    "ICAO": "BBG",
+    "website": "www.bluebirdair.gr",
+    "notes": "Designator BZ recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:21.388112"
+  },
+  {
+    "name": "Blue Bird Airways",
+    "IATA": "BZ",
+    "ICAO": "BBG",
+    "website": "www.bluebirdair.com",
+    "notes": "Designator BZ reinstated by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:21.388131"
+  },
+  {
+    "name": "Cretan Wings",
+    "IATA": null,
+    "ICAO": "CWS",
+    "website": "cretanwings.com",
+    "notes": "Established in January 2018.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:21.388149"
+  },
+  {
+    "name": "Epsilon Aviation, S.A.",
+    "IATA": null,
+    "ICAO": "GRV",
+    "website": "www.epsilonaviation.com",
+    "notes": "Name changed from Vernicos Aviation, S.A.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:21.388167"
+  },
+  {
+    "name": "flyGR8",
+    "IATA": null,
+    "ICAO": "ELF",
+    "website": "flygr8.com",
+    "notes": "Name changed from Fly Ellas.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:21.388184"
+  },
+  {
+    "name": "GainJet Aviation S.A.",
+    "IATA": null,
+    "ICAO": "GNJ",
+    "website": "www.gainjet.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:21.388201"
+  },
+  {
+    "name": "Greek Navy (Hellenic Navy)",
+    "IATA": null,
+    "ICAO": "HNA",
+    "website": "www.hellenicnavy.gr/en/",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:21.388218"
+  },
+  {
+    "name": "Helistar SA",
+    "IATA": null,
+    "ICAO": "HSR",
+    "website": "helistar.eu",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:21.388235"
+  },
+  {
+    "name": "Hellenic Air Force",
+    "IATA": null,
+    "ICAO": "HAF",
+    "website": "www.haf.gr/en",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:21.388251"
+  },
+  {
+    "name": "Hellenic Army",
+    "IATA": null,
+    "ICAO": "HLA",
+    "website": "www.army.gr",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:21.388268"
+  },
+  {
+    "name": "Hermes Airlines",
+    "IATA": null,
+    "ICAO": "HRM",
+    "website": "www.hermesairlines.gr",
+    "notes": "Founded in 2011. Subisdiary of Air Mediterranee",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:21.388285"
+  },
+  {
+    "name": "iFly S.A.",
+    "IATA": null,
+    "ICAO": "IFM",
+    "website": "www.ifly.gr",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:21.388303"
+  },
+  {
+    "name": "Interjet",
+    "IATA": null,
+    "ICAO": "INJ",
+    "website": "www.interjet.gr",
+    "notes": "Founded in 1992",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:21.388320"
+  },
+  {
+    "name": "Interjet Helicopters",
+    "IATA": null,
+    "ICAO": "IHE",
+    "website": "www.interjet.gr",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:21.388336"
+  },
+  {
+    "name": "Kapajet S.A.",
+    "IATA": null,
+    "ICAO": "KJE",
+    "website": "www.kapajet.gr",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:21.388353"
+  },
+  {
+    "name": "Life Line Aviation A.E.",
+    "IATA": null,
+    "ICAO": "LLK",
+    "website": "lifelineaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:21.388370"
+  },
+  {
+    "name": "Lumiwings S.A.",
+    "IATA": "L9",
+    "ICAO": "LWI",
+    "website": "www.lumiwings.com",
+    "notes": "Founded in 2015. Commenced operations during May 2018.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:21.388389"
+  },
+  {
+    "name": "Marathon Airlines",
+    "IATA": "O8",
+    "ICAO": "MTO",
+    "website": "flymarathon.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:21.388406"
+  },
+  {
+    "name": "Northern Wings SA",
+    "IATA": null,
+    "ICAO": "NWH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:21.388425"
+  },
+  {
+    "name": "Olympic Air",
+    "IATA": "OA",
+    "ICAO": "OAL",
+    "website": "www.olympicair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:21.388442"
+  },
+  {
+    "name": "Olympus Airways",
+    "IATA": null,
+    "ICAO": "OLY",
+    "website": "www.olympusairways.gr",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:21.388458"
+  },
+  {
+    "name": "Panellenic Airlines S.A.",
+    "IATA": null,
+    "ICAO": "RJB",
+    "website": "www.panellenic.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:21.388474"
+  },
+  {
+    "name": "Sky Express S.A.",
+    "IATA": "GQ",
+    "ICAO": "SEH",
+    "website": "www.skyexpress.gr",
+    "notes": "IATA Designator changed from G3*",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:21.388490"
+  },
+  {
+    "name": "Superior Air S.A.",
+    "IATA": null,
+    "ICAO": "SUQ",
+    "website": "www.superior-air.gr",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:21.388506"
+  },
+  {
+    "name": "Swiftair Hellas S.A.",
+    "IATA": null,
+    "ICAO": "MDF",
+    "website": "swiftairhellas.com",
+    "notes": "Name changed from Mediterranean Air Freight A.E. Established in 2002. Commenced operations in June 2003. Wholly owned by Swiftair, S.A. (SWT)",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:21.388524"
+  },
+  {
+    "name": "Elite Airlines",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.eliteairlines.gr",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.388540"
+  },
+  {
+    "name": "GreenJet Airlines",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.greenjet.gr",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.388556"
+  },
+  {
+    "name": "Aegean Aviation, S.A.",
+    "IATA": "A3",
+    "ICAO": "AEE",
+    "website": null,
+    "notes": "Name changed to Aegean Airlines S.A. Founded in 1987.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.388573"
+  },
+  {
+    "name": "Aeolian Airlines S.A.",
+    "IATA": null,
+    "ICAO": "AOL",
+    "website": "www.aeolianairlines.com",
+    "notes": "Founded in 2011.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.388589"
+  },
+  {
+    "name": "Aeroland Airways S.A.",
+    "IATA": null,
+    "ICAO": "AEN",
+    "website": "www.aeroland.gr",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.388605"
+  },
+  {
+    "name": "Aerospace One S.A.",
+    "IATA": null,
+    "ICAO": "OAN",
+    "website": "www.aerosc1.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.388623"
+  },
+  {
+    "name": "Agro Airways",
+    "IATA": null,
+    "ICAO": "AGW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.388639"
+  },
+  {
+    "name": "Air Go Airlines S.A.",
+    "IATA": null,
+    "ICAO": "AGS",
+    "website": "www.airgoairlines.gr",
+    "notes": "Commenced operations in September 2008. Ceased operations in October 2011.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.388657"
+  },
+  {
+    "name": "Air Greece - Aerodromisis, S.A.",
+    "IATA": "JG",
+    "ICAO": "AGJ",
+    "website": "www.airgreece.com",
+    "notes": "Merged into Aegean Aviation S.A. during December 1999.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.388673"
+  },
+  {
+    "name": "Air Mediterranean S.A.",
+    "IATA": "MV",
+    "ICAO": "MAR",
+    "website": "air-mediterranean.com",
+    "notes": "Commenced operations on 01 November 2017. Suspended all operations on 18 January 2018. Re-started operations in February 2018 operating charter flights only.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.388690"
+  },
+  {
+    "name": "Alexandair S.A.",
+    "IATA": null,
+    "ICAO": "AXN",
+    "website": "www.alexandair.gr",
+    "notes": "Founded in 2004. Ceased operations in September 2007.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.388707"
+  },
+  {
+    "name": "Apollo Airlines, S.A.",
+    "IATA": "PJ",
+    "ICAO": "AOA",
+    "website": null,
+    "notes": "Ceased operations during 1997.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.388723"
+  },
+  {
+    "name": "Apollo Airlines, S.A.",
+    "IATA": "K6",
+    "ICAO": "AOA",
+    "website": null,
+    "notes": "IATA designator changed from PJ",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.388739"
+  },
+  {
+    "name": "Armadora, S.A.",
+    "IATA": null,
+    "ICAO": "SIK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.388755"
+  },
+  {
+    "name": "Astra Airlines",
+    "IATA": null,
+    "ICAO": "AZI",
+    "website": "www.astra-airlines.gr",
+    "notes": "Ceased operations on 14 November 2019.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.388771"
+  },
+  {
+    "name": "Athens Airways S.A.",
+    "IATA": "ZF",
+    "ICAO": "ATW",
+    "website": "www.athensairways.com",
+    "notes": "Founded in 2008. Commenced operations on 31 January 2009. Ceased operations in September 2010.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.388788"
+  },
+  {
+    "name": "Aviator, S.A.",
+    "IATA": null,
+    "ICAO": "AVW",
+    "website": "www.aviator.gr",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.388805"
+  },
+  {
+    "name": "Avionic Ltd.",
+    "IATA": null,
+    "ICAO": "VIO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.388821"
+  },
+  {
+    "name": "Avionic SA",
+    "IATA": null,
+    "ICAO": "VIO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.388837"
+  },
+  {
+    "name": "Axon Airlines",
+    "IATA": "XN",
+    "ICAO": "AXO",
+    "website": "www.axon-air.gr",
+    "notes": "Suspended operations on 30 November 2001.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.388854"
+  },
+  {
+    "name": "BellAvia Ltd.",
+    "IATA": null,
+    "ICAO": "BEV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.388869"
+  },
+  {
+    "name": "CAL Aviation, S.A.",
+    "IATA": null,
+    "ICAO": "CLV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.388885"
+  },
+  {
+    "name": "Cretan Airlines",
+    "IATA": "C5",
+    "ICAO": "KRT",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.388902"
+  },
+  {
+    "name": "Cronus Airlines",
+    "IATA": "X5",
+    "ICAO": "CUS",
+    "website": "www.cronus.gr",
+    "notes": "IATA designator X5 recalled due merger with Aegean Airlines S.A. A3/AEE",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.388918"
+  },
+  {
+    "name": "Electra Ailrines",
+    "IATA": null,
+    "ICAO": "ELD",
+    "website": null,
+    "notes": "AOC revoked by Greek CAA on 20 June 2003.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.388934"
+  },
+  {
+    "name": "Ellinair S.A.",
+    "IATA": "EL",
+    "ICAO": "ELB",
+    "website": "www.ellinair.com",
+    "notes": "Ceased operations during 2021.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.388951"
+  },
+  {
+    "name": "Euroair Ltd.",
+    "IATA": null,
+    "ICAO": "EUP",
+    "website": "www.euroair.gr",
+    "notes": "Designator 6M* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.388968"
+  },
+  {
+    "name": "F.A.S. Rhodos Pilots Academy",
+    "IATA": null,
+    "ICAO": "ROS",
+    "website": "www.fas.gr",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.388984"
+  },
+  {
+    "name": "First European Airways",
+    "IATA": "5Y",
+    "ICAO": "YB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.389000"
+  },
+  {
+    "name": "Fly Ellas",
+    "IATA": null,
+    "ICAO": "ELF",
+    "website": null,
+    "notes": "Name changed to flyGR8.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.389016"
+  },
+  {
+    "name": "FORTHcrs SA",
+    "IATA": "X1",
+    "ICAO": null,
+    "website": "www.forthcrs.gr",
+    "notes": "Designator X1 recalled by IATA. Computer Reservations Systems (CRS)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.389032"
+  },
+  {
+    "name": "Galaxy Airways",
+    "IATA": "9G",
+    "ICAO": "GLX",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.389049"
+  },
+  {
+    "name": "Gee Bee Air",
+    "IATA": null,
+    "ICAO": "GEB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.389064"
+  },
+  {
+    "name": "Greece Airways",
+    "IATA": null,
+    "ICAO": "GRE",
+    "website": "www.greece-airways.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.389080"
+  },
+  {
+    "name": "Green Jet Airlines S.A.",
+    "IATA": null,
+    "ICAO": "GEJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.389096"
+  },
+  {
+    "name": "Hellas Air Service, S.A.",
+    "IATA": null,
+    "ICAO": "HRS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.389111"
+  },
+  {
+    "name": "Hellas Jet S.A.",
+    "IATA": "T4",
+    "ICAO": "HEJ",
+    "website": "www.hellas-jet.com",
+    "notes": "IATA Designator changed to HJ. Subsidary of Cyprus Airways",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.389128"
+  },
+  {
+    "name": "Hellas Jet S.A.",
+    "IATA": "HJ",
+    "ICAO": "HEJ",
+    "website": "www.hellas-jet.com",
+    "notes": "IATA Designator changed from T4. Founded in 2002. Ceased operations in 2010. Subsidary of Cyprus Airways",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.389145"
+  },
+  {
+    "name": "Hellas Wings Ltd.",
+    "IATA": null,
+    "ICAO": "LJR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.389162"
+  },
+  {
+    "name": "Hellenic Imperial Airways",
+    "IATA": null,
+    "ICAO": "IMP",
+    "website": "www.hellenicairways.com",
+    "notes": "Founded in May 2006. Ceased operations in 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.389180"
+  },
+  {
+    "name": "Hellenic Star Airways",
+    "IATA": "HJ",
+    "ICAO": "HST",
+    "website": "www.hellenicstarairways.gr",
+    "notes": "Ceased opertions in February 2002.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.389197"
+  },
+  {
+    "name": "Hyperion, S.A.",
+    "IATA": null,
+    "ICAO": "IFI",
+    "website": null,
+    "notes": "Name changed to Air Lift A.A.E.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.389213"
+  },
+  {
+    "name": "K2 Smart Jets",
+    "IATA": null,
+    "ICAO": "KSJ",
+    "website": "www.k2smartjets.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.389228"
+  },
+  {
+    "name": "Kapa Air Ltd.",
+    "IATA": null,
+    "ICAO": "KPR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.389244"
+  },
+  {
+    "name": "Macedonian Airlines",
+    "IATA": null,
+    "ICAO": "MCS",
+    "website": null,
+    "notes": "Founded in 1998. Ceased operations in 2003.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.389260"
+  },
+  {
+    "name": "Mediterranean Air Freight A.E.",
+    "IATA": null,
+    "ICAO": "MDF",
+    "website": null,
+    "notes": "Name changed to Swiftair Hellas S.A. Established in 2002. Commenced operations in June 2003.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.389277"
+  },
+  {
+    "name": "Minoan Air",
+    "IATA": null,
+    "ICAO": "MAV",
+    "website": "www.minoanair.com",
+    "notes": "Founded on 07 September 2011. Ceased operations during November 2015.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.389293"
+  },
+  {
+    "name": "Pantheon Airways S.A. d/b/a Olympic Air",
+    "IATA": "OA",
+    "ICAO": "NOA",
+    "website": "www.olympicair.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.389310"
+  },
+  {
+    "name": "Olympic Airlines",
+    "IATA": "OA",
+    "ICAO": "OAL",
+    "website": "www.olympicairlines.com",
+    "notes": "IATA designator changed to OP. Name changed from Olympic Airways",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.389327"
+  },
+  {
+    "name": "Olympic Airlines",
+    "IATA": "OP",
+    "ICAO": "OAL",
+    "website": "www.olympicairlines.com",
+    "notes": "IATA designator changed from OA. Name changed from Olympic Airways",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.389343"
+  },
+  {
+    "name": "Olympic Airways",
+    "IATA": "OA",
+    "ICAO": "OAL",
+    "website": "www.olympic-airways.gr",
+    "notes": "Name changed to Olympic Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.389359"
+  },
+  {
+    "name": "Olympic Aviation, S.A.",
+    "IATA": null,
+    "ICAO": "OLY",
+    "website": null,
+    "notes": "Designator ML* recalled by IATA. Founded in 1971. Ceased operation in 2003.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.389376"
+  },
+  {
+    "name": "orange2fly Airlines S.A.",
+    "IATA": "O4",
+    "ICAO": "OTF",
+    "website": "orange2fly.com",
+    "notes": "Filed for bankruptcy protection on 20 October 2020. Founded in September 2015. Commenced operations on 20 July 2016. Ceased operations on 01 July 2020.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.389394"
+  },
+  {
+    "name": "Premier Aviation Services S.A.",
+    "IATA": null,
+    "ICAO": "PRV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.389409"
+  },
+  {
+    "name": "Princess Airlines SA",
+    "IATA": null,
+    "ICAO": "PER",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.389425"
+  },
+  {
+    "name": "Santair",
+    "IATA": null,
+    "ICAO": "SIN",
+    "website": "www.santair-cca.gr",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.389442"
+  },
+  {
+    "name": "Sky Express S.A.",
+    "IATA": null,
+    "ICAO": "SEH",
+    "website": "www.skyexpress.gr",
+    "notes": "IATA Designator changed to GQ",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.389458"
+  },
+  {
+    "name": "Sky Wings Airlines S.A.",
+    "IATA": "ND",
+    "ICAO": "GSW",
+    "website": "www.skywings.gr",
+    "notes": "Founded in 2004. Merged with the Ukrainian airline Khors Aircompany on 1 December 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.389475"
+  },
+  {
+    "name": "KAL Aviation S.A. d/b/a Skybus",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator JX* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.389492"
+  },
+  {
+    "name": "SkyGreece Airlines S.A.",
+    "IATA": "GW",
+    "ICAO": "SGR",
+    "website": "www.skygreece.com",
+    "notes": "Commenced operations on 22 June 2014. Ceased operations on 03 September 2015. Founded in Athens, Greece in October 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.389509"
+  },
+  {
+    "name": "Southeast European Airlines",
+    "IATA": "6J",
+    "ICAO": "GRE",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.389525"
+  },
+  {
+    "name": "TEA - Trans European Airlines, S.A.",
+    "IATA": null,
+    "ICAO": "TEG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.389541"
+  },
+  {
+    "name": "Venus Airlines",
+    "IATA": "V4",
+    "ICAO": "VER",
+    "website": null,
+    "notes": "Founded in 1992. Commenced operations in April 1993. Ceased operations in November 1996.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.389557"
+  },
+  {
+    "name": "Vernicos Aviation, S.A.",
+    "IATA": null,
+    "ICAO": "GRV",
+    "website": "www.veravia.gr",
+    "notes": "Name changed to Epsilon Aviation",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.389573"
+  },
+  {
+    "name": "Viking Hellas Airlines S.A.",
+    "IATA": "VQ",
+    "ICAO": "VKH",
+    "website": "www.vikinghellas.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:21.389589"
+  }
+]

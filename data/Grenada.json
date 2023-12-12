@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Airlines of Carriacou Limited",
+    "IATA": null,
+    "ICAO": "COU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:23.760345"
+  },
+  {
+    "name": "Airlines of Carriacou Limited",
+    "IATA": "C4",
+    "ICAO": "COU",
+    "website": null,
+    "notes": "Designator C4 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:23.760388"
+  },
+  {
+    "name": "Inter-Island Air Services Ltd.",
+    "IATA": "QW",
+    "ICAO": "IES",
+    "website": null,
+    "notes": "Desigantor QW recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:23.760408"
+  }
+]

@@ -1,0 +1,1316 @@
+[
+  {
+    "name": "Aero Charter Krifka Ges mbH",
+    "IATA": null,
+    "ICAO": "KFK",
+    "website": "www.aerocharter.at",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.972637"
+  },
+  {
+    "name": "Airlink Luftverkehrsgesellschaft mbH",
+    "IATA": null,
+    "ICAO": "JAR",
+    "website": "www.airlink.at",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.972667"
+  },
+  {
+    "name": "Alpi Jets GmbH",
+    "IATA": null,
+    "ICAO": "ALX",
+    "website": "alpijets.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.972685"
+  },
+  {
+    "name": "AFS Alpine Flightservice GmbH",
+    "IATA": null,
+    "ICAO": "FSE",
+    "website": "www.afs.ag",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.972702"
+  },
+  {
+    "name": "Art Aviation Flugbetriebs GmbH",
+    "IATA": null,
+    "ICAO": "OES",
+    "website": "www.artaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.972718"
+  },
+  {
+    "name": "Austrian Airlines AG d/b/a/ Austrian",
+    "IATA": "OS",
+    "ICAO": "AUA",
+    "website": "www.aua.com",
+    "notes": "Name changed from Austrian Airlines, Osterreichische Luftverkehrs AG d/b/a/ Austrian",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.972736"
+  },
+  {
+    "name": "Austrian Air Force",
+    "IATA": null,
+    "ICAO": "ASF",
+    "website": "www.bmlv.gv.at",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.972753"
+  },
+  {
+    "name": "Avag Air Fur Luftfahrt",
+    "IATA": null,
+    "ICAO": "MBA",
+    "website": "www.avagair.at",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.972770"
+  },
+  {
+    "name": "Avcon Jet AG",
+    "IATA": null,
+    "ICAO": "AOJ",
+    "website": "www.avconjet.at",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.972786"
+  },
+  {
+    "name": "Aviawings",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.aviawings.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.972804"
+  },
+  {
+    "name": "AXIS Aviation GmbH",
+    "IATA": null,
+    "ICAO": "BQB",
+    "website": "axis-aviation.com",
+    "notes": "Name changed from Boutique Aviation GmbH",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.972821"
+  },
+  {
+    "name": "B.A.C.H. Flugbetriebs GmbH",
+    "IATA": null,
+    "ICAO": "BCF",
+    "website": "www.bachflug.at",
+    "notes": "Designator B4 recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.972839"
+  },
+  {
+    "name": "Bairline Fluggesellschaft mbH & Co, KG",
+    "IATA": null,
+    "ICAO": "BRJ",
+    "website": "www.bairline.at",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.972856"
+  },
+  {
+    "name": "Christian Konig - Century Airbirds",
+    "IATA": null,
+    "ICAO": "AID",
+    "website": "www.century-airbirds.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.972872"
+  },
+  {
+    "name": "DHL Air (Austria) GmbH",
+    "IATA": null,
+    "ICAO": "DHA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.972888"
+  },
+  {
+    "name": "easyJet Europe Airline GmbH",
+    "IATA": null,
+    "ICAO": "EJU",
+    "website": "www.easyjet.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.972905"
+  },
+  {
+    "name": "Elangeni GmbH",
+    "IATA": null,
+    "ICAO": "ELG",
+    "website": "www.elangeni.at",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.972921"
+  },
+  {
+    "name": "Europ Star Aircraft GmbH",
+    "IATA": null,
+    "ICAO": "ESQ",
+    "website": "www.europ-star.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.972937"
+  },
+  {
+    "name": "Eurowings Europe GmbH",
+    "IATA": "E2",
+    "ICAO": "EWE",
+    "website": "www.eurowings.com/at.html",
+    "notes": "Subsidary of Eurowings Germany.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.972954"
+  },
+  {
+    "name": "ABC Bedarfsflug GmbH t/a Fly Tyrol",
+    "IATA": null,
+    "ICAO": "FTY",
+    "website": "www.flytyrol.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.972970"
+  },
+  {
+    "name": "Global Jet Austria GmbH",
+    "IATA": null,
+    "ICAO": "GLJ",
+    "website": "www.globaljetaustria.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.972986"
+  },
+  {
+    "name": "GlobeAir AG",
+    "IATA": null,
+    "ICAO": "GAC",
+    "website": "www.globeair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.973001"
+  },
+  {
+    "name": "Glock Aviation GmbH",
+    "IATA": null,
+    "ICAO": "GCK",
+    "website": "www.glock-aviation.at",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.973018"
+  },
+  {
+    "name": "Goldeck-Flug Ges.m.b.H.",
+    "IATA": null,
+    "ICAO": "GDK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.973035"
+  },
+  {
+    "name": "International Jet Management GmbH",
+    "IATA": null,
+    "ICAO": "IJM",
+    "website": "www.ijm.at",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.973055"
+  },
+  {
+    "name": "Jet Pool Network Luftverkehrs GmbH",
+    "IATA": null,
+    "ICAO": "JPV",
+    "website": "www.jetpool.net",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.973072"
+  },
+  {
+    "name": "Jetfly Airlines GmbH",
+    "IATA": null,
+    "ICAO": "JFL",
+    "website": "www.jetfly.at",
+    "notes": "ICAO Callsign changed from Lineflyer.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.973089"
+  },
+  {
+    "name": "Jetology",
+    "IATA": null,
+    "ICAO": "JTY",
+    "website": "www.jetology.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.973105"
+  },
+  {
+    "name": "Lilihill 2018 Eins GmbH",
+    "IATA": null,
+    "ICAO": null,
+    "website": "liliair.com",
+    "notes": "Planned start up with 2 x CRJ900",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.973122"
+  },
+  {
+    "name": "Magna Air GES.m.b.H.",
+    "IATA": null,
+    "ICAO": "MGR",
+    "website": "www.magna.com/magna-air",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.973139"
+  },
+  {
+    "name": "Mali Air Luftverkehr Gesellschaft mbH",
+    "IATA": null,
+    "ICAO": "MAE",
+    "website": "www.maliair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.973155"
+  },
+  {
+    "name": "MAP Management and Planning GmbH",
+    "IATA": null,
+    "ICAO": "MPJ",
+    "website": "www.mapjet.eu",
+    "notes": "Designator AQ recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.973172"
+  },
+  {
+    "name": "Mjet GmbH",
+    "IATA": null,
+    "ICAO": "MJF",
+    "website": "www.mjet.at",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.973188"
+  },
+  {
+    "name": "Altenrhein Luftfahrt GmbH t/a People\u2019s",
+    "IATA": "PE",
+    "ICAO": "PEV",
+    "website": "www.peoples.ch",
+    "notes": "Name changed from Altenrhein Luftfahrt GmbH t/a People\u2019s Viennaline.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.973211"
+  },
+  {
+    "name": "Pink Sparrow GmbH",
+    "IATA": null,
+    "ICAO": "SOW",
+    "website": "www.pink-sparrow.at",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.973228"
+  },
+  {
+    "name": "Porsche Air Service GmbH",
+    "IATA": null,
+    "ICAO": "POS",
+    "website": "www.porsche-airservice.at",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.973244"
+  },
+  {
+    "name": "Premium Jet GmbH",
+    "IATA": null,
+    "ICAO": "PJV",
+    "website": "premiumjet.eu",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.973260"
+  },
+  {
+    "name": "Punitz Flugbetrieb GmbH",
+    "IATA": null,
+    "ICAO": "PUN",
+    "website": "www.punitzflug.at",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.973276"
+  },
+  {
+    "name": "RP Aircraft Management GmbH",
+    "IATA": null,
+    "ICAO": "AXA",
+    "website": null,
+    "notes": "Name changed from Amira Air GmbH.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.973293"
+  },
+  {
+    "name": "SalzburgJetAviation GmbH",
+    "IATA": null,
+    "ICAO": "MOZ",
+    "website": "www.salzburgjetaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.973310"
+  },
+  {
+    "name": "SkyEmotion GmbH",
+    "IATA": null,
+    "ICAO": "EMO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.973327"
+  },
+  {
+    "name": "Skyside GmbH",
+    "IATA": null,
+    "ICAO": "SKV",
+    "website": "skyside.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.973342"
+  },
+  {
+    "name": "Smartline Luftfahrt GmbH",
+    "IATA": null,
+    "ICAO": "SMG",
+    "website": "www.smartline.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.973358"
+  },
+  {
+    "name": "SPARFELL Luftfahrt GmbH",
+    "IATA": null,
+    "ICAO": "LDX",
+    "website": "www.sparfell.aero",
+    "notes": "Name changed from LaudaMotion Executive GmbH w.e.f. 14 December 2020. Name changed from LaudaMotion GmbH. ICAO designator changed from LDM.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.973376"
+  },
+  {
+    "name": "Tyrol Air Ambulance",
+    "IATA": null,
+    "ICAO": "TYW",
+    "website": "www.taa.at",
+    "notes": "Name changed from Tyrolean Air Ambulance GmbH",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.973394"
+  },
+  {
+    "name": "Tyrolean Jet Service",
+    "IATA": null,
+    "ICAO": "TJS",
+    "website": "www.tjs.at",
+    "notes": "ICAO designator changed from TYJ",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.973411"
+  },
+  {
+    "name": "Wucher Helicopters GmbH",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.wucher-helicopter.at",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.973430"
+  },
+  {
+    "name": "Zimex Aviation Austria AG",
+    "IATA": null,
+    "ICAO": "AZD",
+    "website": "www.zimex.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:45.973447"
+  },
+  {
+    "name": "AAA - Air Alps Aviation",
+    "IATA": "A6",
+    "ICAO": "LPV",
+    "website": "www.airalps.at",
+    "notes": "Ceased operations on 28 February 2014. Founded in 1998. Commenced operations in 1999.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.973465"
+  },
+  {
+    "name": "Aero Lloyd Austria Luftfahrt GmbH",
+    "IATA": "HG",
+    "ICAO": "AYP",
+    "website": null,
+    "notes": "Name changed to flyniki / NL Luftfahrt GmbH",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.973484"
+  },
+  {
+    "name": "Air Med Jetoperations",
+    "IATA": null,
+    "ICAO": "JDE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.973501"
+  },
+  {
+    "name": "Air Sylhet AG",
+    "IATA": "SL",
+    "ICAO": "SHR",
+    "website": "www.airsylhetonline.com",
+    "notes": "Founded in 2007. Commenced operations on 04 April 2009. Ceased operations operations in May 2009.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.973520"
+  },
+  {
+    "name": "Airdirect Bedarfsflug GmbH",
+    "IATA": null,
+    "ICAO": "DRR",
+    "website": null,
+    "notes": "Designator X5* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.973537"
+  },
+  {
+    "name": "A-Jet Aviation Aircraft Management GmbH",
+    "IATA": null,
+    "ICAO": "GBT",
+    "website": "www.a-jet.at",
+    "notes": "Ceased operations. ICAO designator changed from XXA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.973554"
+  },
+  {
+    "name": "A-Jet Aviation Aircraft Management GmbH",
+    "IATA": null,
+    "ICAO": "XXA",
+    "website": "www.a-jet.at",
+    "notes": "ICAO designator changed to GBT",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.973572"
+  },
+  {
+    "name": "Almeta Air",
+    "IATA": null,
+    "ICAO": "AAW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.973589"
+  },
+  {
+    "name": "Amadeus Air Luftfahrtgesellschaft mbH",
+    "IATA": null,
+    "ICAO": "MOZ",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.973605"
+  },
+  {
+    "name": "Amerer Air GesmbH",
+    "IATA": null,
+    "ICAO": "AMK",
+    "website": "www.amererair.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.973623"
+  },
+  {
+    "name": "Amira Air GmbH",
+    "IATA": null,
+    "ICAO": "AXA",
+    "website": null,
+    "notes": "Name changed to RP Aircraft Management GmbH.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.973638"
+  },
+  {
+    "name": "Amira Air GmbH",
+    "IATA": null,
+    "ICAO": "XPE",
+    "website": "www.amiraair.at",
+    "notes": "Name changed to LaudaMotion GmbH. ICAO Desginator changed to LDM.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.973656"
+  },
+  {
+    "name": "ARA Flugrettungs GmbH",
+    "IATA": null,
+    "ICAO": "IAM",
+    "website": "www.ara-flugrettung.at",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.973673"
+  },
+  {
+    "name": "Austrian Airlines, Osterreichische Luftverkehrs AG d/b/a/ Austrian",
+    "IATA": "OS",
+    "ICAO": "AUA",
+    "website": "www.aua.com",
+    "notes": "Name changed to Austrian Airlines AG d/b/a/ Austrian. Name changed from Austrian Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.973690"
+  },
+  {
+    "name": "Austrian Air Ambulance",
+    "IATA": null,
+    "ICAO": "OAF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.973706"
+  },
+  {
+    "name": "Austrian Air Services",
+    "IATA": "HO",
+    "ICAO": null,
+    "website": null,
+    "notes": "Subsidary of Austrian Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.973722"
+  },
+  {
+    "name": "Austrian Air Services",
+    "IATA": null,
+    "ICAO": "AAS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.973738"
+  },
+  {
+    "name": "Austrian Airlines",
+    "IATA": "OS",
+    "ICAO": "AUA",
+    "website": "www.aua.com",
+    "notes": "Name changed to Austrian Airlines, Osterreichische Luftverkehrs AG d/b/a/ Austrian",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.973754"
+  },
+  {
+    "name": "Austrian Airtransport (Osterreichische Flugbetriebsgesellschaft MbH.)",
+    "IATA": "OB",
+    "ICAO": "AAT",
+    "website": null,
+    "notes": "ICAO designator changed from AUC",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.973771"
+  },
+  {
+    "name": "Austrian Airtransport (Osterreichische Flugbetriebsgesellschaft MbH.)",
+    "IATA": "OG",
+    "ICAO": "AAT",
+    "website": null,
+    "notes": "Designator OG surrendered by Airline",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.973788"
+  },
+  {
+    "name": "Austrian Airtransport (Osterreiechische Flugbetriebsgesellschaft mbH.)",
+    "IATA": "OB",
+    "ICAO": "AUC",
+    "website": null,
+    "notes": "ICAO callsign changed from Aircharter. Charter subsidary of Austrian Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.973805"
+  },
+  {
+    "name": "Austrian Airtransport (Osterreichische Flugbetriebsgesellschaft MbH.)",
+    "IATA": "U8",
+    "ICAO": "AAT",
+    "website": null,
+    "notes": "Designator U8 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.973820"
+  },
+  {
+    "name": "Austrian Airtransport (Osterreiechische Flugbetriebsgesellschaft mbH.)",
+    "IATA": "OB",
+    "ICAO": "AUC",
+    "website": null,
+    "notes": "ICAO callsign changed to Austrain Aircharter. Charter subsidary of Austrian Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.973837"
+  },
+  {
+    "name": "Tyrolean Airways Tiroler Luftfahrt GmbH t/a Austrian Arrows",
+    "IATA": "VO",
+    "ICAO": "TYR",
+    "website": "www.tyrolean.at",
+    "notes": "Merged into Austrian Airlines on 31 March 2015. Changed from Tyrolean Airways Tiroler Luftfahrt GmbH. Name changed from Tyrolean Airways",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.973855"
+  },
+  {
+    "name": "BFS Business Flight Salzburg Bedarfsflug GesmbH t/a Austrojet",
+    "IATA": null,
+    "ICAO": "AUJ",
+    "website": "www.austrojetprivate.com",
+    "notes": "Founded in 2008. Ceased opertaions in 2009",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.973874"
+  },
+  {
+    "name": "Automobilvertriebs Aktiengesellschaft",
+    "IATA": null,
+    "ICAO": "MBA",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.973892"
+  },
+  {
+    "name": "Avanti Air",
+    "IATA": null,
+    "ICAO": "ATV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.973907"
+  },
+  {
+    "name": "Avia Consult Flugbetriebs GmbH",
+    "IATA": null,
+    "ICAO": "AJF",
+    "website": "www.avia-consult.at",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.973923"
+  },
+  {
+    "name": "B.A.C.H. Flugbetriebs GmbH",
+    "IATA": "B4",
+    "ICAO": "BCF",
+    "website": "www.foxair.at/bachflug/index.htm",
+    "notes": "Designator B4 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.973939"
+  },
+  {
+    "name": "Bannert Air",
+    "IATA": null,
+    "ICAO": "BBA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.973956"
+  },
+  {
+    "name": "Bedarfsflugunternehmen Dr. L. Polsterer",
+    "IATA": "OE",
+    "ICAO": "OPV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.973971"
+  },
+  {
+    "name": "Boutique Aviation GmbH",
+    "IATA": null,
+    "ICAO": "BQB",
+    "website": "boutique-aviation.com",
+    "notes": "Name changed to AXIS Aviation GmbH.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.973988"
+  },
+  {
+    "name": "Business-Express - Magna Air Luftahrtgesellschaft m.b.h.",
+    "IATA": null,
+    "ICAO": "BEX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974004"
+  },
+  {
+    "name": "Charter Air GES.m.b.H. & Co. Kg",
+    "IATA": null,
+    "ICAO": "CHW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974019"
+  },
+  {
+    "name": "City-Jet Luftfahrtgesellschaft m.b.H.",
+    "IATA": null,
+    "ICAO": "CIT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974035"
+  },
+  {
+    "name": "Comitel, Bedarfsfluge KG",
+    "IATA": null,
+    "ICAO": "COE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974052"
+  },
+  {
+    "name": "Daedalos Flugbetriebs GmbH",
+    "IATA": null,
+    "ICAO": "IAY",
+    "website": "www.daedalos.at",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974069"
+  },
+  {
+    "name": "DJT Aviation GmbH & Co KG",
+    "IATA": null,
+    "ICAO": "DJC",
+    "website": "www.djtaviation.com",
+    "notes": "ICAO callsign changed from Dynamic Jet Travel",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974086"
+  },
+  {
+    "name": "DJT Aviation GmbH & Co KG",
+    "IATA": null,
+    "ICAO": "DJC",
+    "website": "www.djtaviation.com",
+    "notes": "ICAO callsign changed to Dynamicjet Charter",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974103"
+  },
+  {
+    "name": "Eagle Airlines Luftverkehrsges mbH",
+    "IATA": "ZN",
+    "ICAO": "EAV",
+    "website": "www.eagleairlines.at",
+    "notes": "Designator ZN recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974119"
+  },
+  {
+    "name": "Flight Track Training GmbH",
+    "IATA": null,
+    "ICAO": "FTT",
+    "website": "www.flightrack.at",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974135"
+  },
+  {
+    "name": "Flugwerkzeuge Aviation Software GmbH",
+    "IATA": null,
+    "ICAO": "FWZ",
+    "website": "www.fwz.aero",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974150"
+  },
+  {
+    "name": "Niki Luftfahrt GmbH",
+    "IATA": "HG",
+    "ICAO": "NLY",
+    "website": "www.flyniki.com",
+    "notes": "ICAO designator changed from AYP. Ceased operations on 14 December 2017. Name changed from Aero Lloyd Austria Luftfahrtb GmbH",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974167"
+  },
+  {
+    "name": "flyniki / NL Luftfahrt GmbH",
+    "IATA": "HG",
+    "ICAO": "AYP",
+    "website": "www.flyniki.com",
+    "notes": "ICAO designator changed to NLY. Name changed from Aero Lloyd Austria Luftfahrtb GmbH",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974185"
+  },
+  {
+    "name": "Grossman Air Serivce",
+    "IATA": null,
+    "ICAO": "HTG",
+    "website": "www.grossmanair.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974201"
+  },
+  {
+    "name": "Hawei Air GmbH",
+    "IATA": null,
+    "ICAO": "HWG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974217"
+  },
+  {
+    "name": "Heli Ambulance Team GmbH",
+    "IATA": null,
+    "ICAO": "ALJ",
+    "website": "www.alpinflugrettung.at",
+    "notes": "Heli Air Transport GmbH (a subsidiary of \u00d6AMTC) and Wucher Helicopter merged to become Heli Ambulance Team GmbH & Co KG in 2001",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974234"
+  },
+  {
+    "name": "Intersky Luftfahrt GmbH",
+    "IATA": null,
+    "ICAO": "ISK",
+    "website": "www.intersky.biz",
+    "notes": "Filed for bankruptcy and ceased operations on 09 November 2015. Designator 3L reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974251"
+  },
+  {
+    "name": "Intersky Luftfahrt GmbH",
+    "IATA": null,
+    "ICAO": "ISK",
+    "website": "www.intersky.biz",
+    "notes": "Designator 3L recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974268"
+  },
+  {
+    "name": "Jetalliance Flugbetriebs AG",
+    "IATA": null,
+    "ICAO": "JAF",
+    "website": "www.jetalliance.at",
+    "notes": "ICAO designator changed to JAG",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974284"
+  },
+  {
+    "name": "Jetalliance Flugbetriebs AG",
+    "IATA": null,
+    "ICAO": "JAG",
+    "website": "www.jetalliance.at",
+    "notes": "Founded in 1996. Ceased operations in 2013. ICAO designator changed from JAF",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974300"
+  },
+  {
+    "name": "Jetalliance South GmbH",
+    "IATA": null,
+    "ICAO": "JSO",
+    "website": "jetalliance.at",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974319"
+  },
+  {
+    "name": "Jetcontact Luftfahrtbetriebs und Vermittlungs GmbH",
+    "IATA": null,
+    "ICAO": "JCA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974335"
+  },
+  {
+    "name": "Jetfly Airlines GmbH",
+    "IATA": null,
+    "ICAO": "JFL",
+    "website": "www.jetfly.at",
+    "notes": "ICAO Callsign changed to Blue Danube.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974351"
+  },
+  {
+    "name": "Lauda Air Luftfahrt AG",
+    "IATA": "NG",
+    "ICAO": "LDA",
+    "website": "www.laudaair.com",
+    "notes": "Merged into Austrian Airlines. IATA Designator changed from LW",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974368"
+  },
+  {
+    "name": "Lauda Air Luftfahrt AG",
+    "IATA": "OE",
+    "ICAO": null,
+    "website": null,
+    "notes": "IATA Designator changed to OE",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974384"
+  },
+  {
+    "name": "Lauda Air Luftfahrt AG",
+    "IATA": "LW",
+    "ICAO": "LDA",
+    "website": "www.laudaair.com",
+    "notes": "IATA Designator changed to NG. IATA Designator changed from OE",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974401"
+  },
+  {
+    "name": "LaudaMotion GmbH",
+    "IATA": "OE",
+    "ICAO": "LDM",
+    "website": "www.laudamotion.com",
+    "notes": "Ceased operations on 31 October 2020 as operations transferred to Lauda Europe. Prevoiusly Niki. Sold to LaudaMotion on 23 January 2018.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974422"
+  },
+  {
+    "name": "LaudaMotion GmbH",
+    "IATA": null,
+    "ICAO": "LDM",
+    "website": "www.laudamotion.com",
+    "notes": "Name changed to LaudaMotion Executive GmbH. ICAO designator changed to LDX. Name changed from Amira Air GmbH during December 2015 after change of ownership.  ICAO Desginator changed from XPE.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974440"
+  },
+  {
+    "name": "LaudaMotion Executive GmbH",
+    "IATA": null,
+    "ICAO": "LDX",
+    "website": "www.laudamotionexecutive.com",
+    "notes": "Name changed to SPARFELL Luftfahrt GmbH w.e.f. 14 December 2020. Name changed from LaudaMotion GmbH. ICAO designator changed from LDM.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974460"
+  },
+  {
+    "name": "Anisec Luftfahrt GmbH t/a LEVEL Europe",
+    "IATA": "VK",
+    "ICAO": "FOO",
+    "website": "www.flyleveleurope.com",
+    "notes": "Ceased operation on 18 June 2020. Name changed from Anisec Luftfahrt GmbH t/a Vueling Austria.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974477"
+  },
+  {
+    "name": "Litag KG",
+    "IATA": null,
+    "ICAO": "LNZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974494"
+  },
+  {
+    "name": "LTU Billa Lufttransport Unternehmen GmbH",
+    "IATA": "L3",
+    "ICAO": "LTO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974510"
+  },
+  {
+    "name": "Luxe Aviation GmbH",
+    "IATA": null,
+    "ICAO": "LAV",
+    "website": "www.luxe-avation.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974527"
+  },
+  {
+    "name": "LVD Luftfahrzeug-Vermietungs-Dienst Gesellscgraft mbH",
+    "IATA": null,
+    "ICAO": "LVD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974545"
+  },
+  {
+    "name": "M.A.S.H. Service GmbH",
+    "IATA": null,
+    "ICAO": "MAD",
+    "website": "www.medairshuttle.com",
+    "notes": "Founded in 2009. Ceased operations during January 2012. Declared bankrupt 10 July 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974562"
+  },
+  {
+    "name": "Majestic Executive Aviation AG",
+    "IATA": null,
+    "ICAO": "MAY",
+    "website": "www.majestic.aero",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974580"
+  },
+  {
+    "name": "MAP - Excutive Flightservice",
+    "IATA": null,
+    "ICAO": "MPJ",
+    "website": "www.mapnet.at",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974597"
+  },
+  {
+    "name": "MAP Executive Flight Service GmbH",
+    "IATA": null,
+    "ICAO": "MPF",
+    "website": "www.mapnet.at",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974613"
+  },
+  {
+    "name": "MAP Management and Planning GmbH",
+    "IATA": "AQ",
+    "ICAO": "MPJ",
+    "website": "www.mapjet.eu",
+    "notes": "Designator AQ recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974631"
+  },
+  {
+    "name": "My Fair Jet GmbH",
+    "IATA": null,
+    "ICAO": "HTL",
+    "website": "www.myfairjet.net",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974647"
+  },
+  {
+    "name": "Altenrhein Luftfahrt GmbH t/a People\u2019s Viennaline",
+    "IATA": "PE",
+    "ICAO": "PEV",
+    "website": "www.peoples.ch",
+    "notes": "Name changed to Altenrhein Luftfahrt GmbH t/a People\u2019s.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974666"
+  },
+  {
+    "name": "Redair Luftfahrt GmbH",
+    "IATA": null,
+    "ICAO": "AUV",
+    "website": "www.redair.eu",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974683"
+  },
+  {
+    "name": "Rheintalflug Vorarlberger Luftfahrtgi",
+    "IATA": null,
+    "ICAO": "RTL",
+    "website": "www.rheintalflug.at",
+    "notes": "Ceased operations on 31 December 2002. Desginator WE* reinstated by IATA. Name changed from Rheintalflug Seewald Gesellschaft mbH",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974701"
+  },
+  {
+    "name": "Rheintalflug Seewald Gesellschaft mbH",
+    "IATA": null,
+    "ICAO": "RTL",
+    "website": "www.rheintalflug.at",
+    "notes": "Name changed to Rheintalflug Vorarlberger Luftfahrtgi",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974719"
+  },
+  {
+    "name": "Robin Hood Aviation GmbH",
+    "IATA": null,
+    "ICAO": "RHA",
+    "website": "www.robinhood.aero",
+    "notes": "Founded in 2007. Ceased operations on 23 August 2011. Designator RH* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974737"
+  },
+  {
+    "name": "Select Air Luftverkehrsges mbH",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974755"
+  },
+  {
+    "name": "Skytaxi Luftfahrt GmbH",
+    "IATA": null,
+    "ICAO": "STC",
+    "website": "www.skytaxi.at",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974773"
+  },
+  {
+    "name": "Speedwings Executive Jet GmbH",
+    "IATA": null,
+    "ICAO": "SPG",
+    "website": "www.flyspeedwings.com",
+    "notes": "Merged into SPARFELL Luftfahrt GmbH after purchase.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974790"
+  },
+  {
+    "name": "Styrian Airways GmbH",
+    "IATA": "Z2",
+    "ICAO": "STY",
+    "website": "www.styrianairways.com",
+    "notes": "Designator Z2 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974805"
+  },
+  {
+    "name": "Teamline Air Luftfahrt GmbH",
+    "IATA": "L9",
+    "ICAO": "TLW",
+    "website": "www.fly-fair.com/en/",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974821"
+  },
+  {
+    "name": "Top Speed Verband der Allgemeinen Lugtahrt Osterreich",
+    "IATA": null,
+    "ICAO": "TPD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974836"
+  },
+  {
+    "name": "Air Taxi Klagenfurt t/a Transalp Air",
+    "IATA": "YD",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974852"
+  },
+  {
+    "name": "Transped Aviation GmbH",
+    "IATA": null,
+    "ICAO": "TNP",
+    "website": "www.transped-aviation.com",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974868"
+  },
+  {
+    "name": "Tyrolean Air Ambulance GmbH",
+    "IATA": null,
+    "ICAO": "TYW",
+    "website": null,
+    "notes": "Name changed to Tyrol Air Ambulance",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974883"
+  },
+  {
+    "name": "Tyrolean Airways",
+    "IATA": "VO",
+    "ICAO": "TYR",
+    "website": null,
+    "notes": "Name changed to Tyrolean Airways Tiroler Luftfahrt GmbH",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974899"
+  },
+  {
+    "name": "Tyrolean Airways Tiroler Luftfahrt GmbH",
+    "IATA": "VO",
+    "ICAO": "TYR",
+    "website": "www.tyrolean.at",
+    "notes": "Changed to trading as Austrian Arrows. Name changed from Tyrolean Airways",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974915"
+  },
+  {
+    "name": "Tyrolean Jet Service",
+    "IATA": null,
+    "ICAO": "TYJ",
+    "website": null,
+    "notes": "ICAO designator changed to TJS",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974931"
+  },
+  {
+    "name": "Viennair Luftfahrtges mbH",
+    "IATA": "VW",
+    "ICAO": "VNR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974945"
+  },
+  {
+    "name": "VIF Luftfahrt GmbH",
+    "IATA": null,
+    "ICAO": "VIF",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974961"
+  },
+  {
+    "name": "Vip Air",
+    "IATA": "9V",
+    "ICAO": "VPI",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974977"
+  },
+  {
+    "name": "Vipjets Luftfahrtunternehmen GmbH",
+    "IATA": null,
+    "ICAO": "VVP",
+    "website": null,
+    "notes": "founded in 2007. ceased operations in 2011.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.974993"
+  },
+  {
+    "name": "Vista Jet Luftfahrtunternehmen GmbH",
+    "IATA": null,
+    "ICAO": "VJS",
+    "website": "www.vistajet.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.975009"
+  },
+  {
+    "name": "Anisec Luftfahrt GmbH t/a Vueling Austria",
+    "IATA": "VK",
+    "ICAO": "FOO",
+    "website": "www.flylevel.com",
+    "notes": "Name changed to Anisec Luftfahrt GmbH t/a LEVEL Europe.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.975025"
+  },
+  {
+    "name": "Welcome Air Luftfahert GmbH & Co. KG",
+    "IATA": "2W",
+    "ICAO": "WLC",
+    "website": "www.welcomeair.com",
+    "notes": "Founded in May 2000. Ceased operations on 26 December 2017.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.975042"
+  },
+  {
+    "name": "WESTbahn Management GmbH",
+    "IATA": null,
+    "ICAO": null,
+    "website": "westbahn.at",
+    "notes": "Railway Service",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.975057"
+  },
+  {
+    "name": "WWW-Bedarfsluftfahrts GmbH",
+    "IATA": null,
+    "ICAO": "MJS",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.975072"
+  },
+  {
+    "name": "X-Jet GmbH",
+    "IATA": null,
+    "ICAO": "XJE",
+    "website": "www.x-jet.at",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:45.975089"
+  }
+]

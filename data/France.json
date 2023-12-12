@@ -1,0 +1,3944 @@
+[
+  {
+    "name": "A.P.G. Distribution System",
+    "IATA": "A1",
+    "ICAO": null,
+    "website": "www.apg-ga.com",
+    "notes": "Computer Reservation System",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776312"
+  },
+  {
+    "name": "Aero Entreprise",
+    "IATA": null,
+    "ICAO": "AON",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776342"
+  },
+  {
+    "name": "Aero Sotravia S.a.r.l.",
+    "IATA": null,
+    "ICAO": "ASR",
+    "website": "www.aero-sotravia.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776361"
+  },
+  {
+    "name": "Aero Vision",
+    "IATA": null,
+    "ICAO": "AOV",
+    "website": "www.aerovision.fr",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776378"
+  },
+  {
+    "name": "Aero-Pyrenees",
+    "IATA": null,
+    "ICAO": "EAP",
+    "website": "www.aeropyrenees.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776395"
+  },
+  {
+    "name": "Aerospeed Formation et Maintenance",
+    "IATA": null,
+    "ICAO": "AFM",
+    "website": "www.aerospeed.fr",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776412"
+  },
+  {
+    "name": "Air 65 S.a.r.l.",
+    "IATA": null,
+    "ICAO": "FGB",
+    "website": "www.flyair65.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776429"
+  },
+  {
+    "name": "Air Archipels",
+    "IATA": null,
+    "ICAO": "RHL",
+    "website": "www.air-archipels.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776446"
+  },
+  {
+    "name": "Air Cannes Mediterranee",
+    "IATA": null,
+    "ICAO": "RCM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776463"
+  },
+  {
+    "name": "Air Corsica",
+    "IATA": "XK",
+    "ICAO": "CCM",
+    "website": "www.aircorsica.com",
+    "notes": "Name changed from Compagnie Aerienne Corse Mediterranee w.e.f. October 2010. Name changed from Compagnie Aerienne Corse Mediterranee. IATA designator changed from ZN",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776482"
+  },
+  {
+    "name": "Air France",
+    "IATA": "AF",
+    "ICAO": "AFR",
+    "website": "www.airfrance.fr",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776499"
+  },
+  {
+    "name": "Air ITM S.A.S.",
+    "IATA": null,
+    "ICAO": "MQT",
+    "website": "www.airitm.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776517"
+  },
+  {
+    "name": "Air Marine",
+    "IATA": null,
+    "ICAO": "MRY",
+    "website": "ww.air-marine.fr",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776533"
+  },
+  {
+    "name": "Air Service Vosges",
+    "IATA": null,
+    "ICAO": "VGE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776550"
+  },
+  {
+    "name": "Air Tourisme Instruction Services",
+    "IATA": null,
+    "ICAO": "RWK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776568"
+  },
+  {
+    "name": "Airailes",
+    "IATA": null,
+    "ICAO": "EOL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776583"
+  },
+  {
+    "name": "Airbus Beluga Transport",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776601"
+  },
+  {
+    "name": "Airbus France",
+    "IATA": null,
+    "ICAO": "RBU",
+    "website": "www.airbus.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776618"
+  },
+  {
+    "name": "Airbus Industrie",
+    "IATA": null,
+    "ICAO": "AIB",
+    "website": "www.airbus.com",
+    "notes": "ICAO callsign changed from Victor Kilo",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776637"
+  },
+  {
+    "name": "Airbus Transport International",
+    "IATA": null,
+    "ICAO": "BGA",
+    "website": "www.airbus.com/support/airtransport",
+    "notes": "Airbus Industrie's Bulga's",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776656"
+  },
+  {
+    "name": "Airlec air Espace",
+    "IATA": null,
+    "ICAO": "ARL",
+    "website": "www.airlecairespace.com",
+    "notes": "Name changed from Airlec - Air Aquitaine Transport",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776673"
+  },
+  {
+    "name": "Alpine Airlines",
+    "IATA": null,
+    "ICAO": "APN",
+    "website": "alpine-airlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776689"
+  },
+  {
+    "name": "Alsace Air Service - Alsair, SA",
+    "IATA": null,
+    "ICAO": "LSR",
+    "website": null,
+    "notes": "Designator LJ recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776706"
+  },
+  {
+    "name": "Altagna",
+    "IATA": null,
+    "ICAO": "AGH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776723"
+  },
+  {
+    "name": "Regourd Aviation d/b/a Amelia",
+    "IATA": "8R",
+    "ICAO": "AIA",
+    "website": "flyamelia.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776740"
+  },
+  {
+    "name": "APG Airlines",
+    "IATA": "GP",
+    "ICAO": "RIV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776756"
+  },
+  {
+    "name": "Aria",
+    "IATA": null,
+    "ICAO": "ARW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776773"
+  },
+  {
+    "name": "ASL Airlines France S.A.",
+    "IATA": "5O",
+    "ICAO": "FPO",
+    "website": "www.europeairpost.fr",
+    "notes": "Name changed from Europe Airpost. Name change from Societe Financiereale (S.F.A.)",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776790"
+  },
+  {
+    "name": "Assistance Aeroportuaire de Uaeroport de Paris",
+    "IATA": null,
+    "ICAO": "XJA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776807"
+  },
+  {
+    "name": "Astonfly",
+    "IATA": null,
+    "ICAO": "BLT",
+    "website": "www.astonfly.com",
+    "notes": "Name changed from Air et Compagnie.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776824"
+  },
+  {
+    "name": "SAS Astonjet",
+    "IATA": null,
+    "ICAO": "ASJ",
+    "website": "www.astonjet.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776841"
+  },
+  {
+    "name": "ATR (Avion de Transport Regional)",
+    "IATA": null,
+    "ICAO": "EVX",
+    "website": "www.atraircraft.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776858"
+  },
+  {
+    "name": "Avia Sud A\u00e9rotaxi",
+    "IATA": null,
+    "ICAO": "AVU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776874"
+  },
+  {
+    "name": "Aviation Defense Service",
+    "IATA": null,
+    "ICAO": "DEF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776891"
+  },
+  {
+    "name": "Aviation Legere de L'armee de Terre",
+    "IATA": null,
+    "ICAO": "FMY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776908"
+  },
+  {
+    "name": "Aviaxess",
+    "IATA": null,
+    "ICAO": "AXV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776923"
+  },
+  {
+    "name": "Aviazur",
+    "IATA": null,
+    "ICAO": "VZR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776939"
+  },
+  {
+    "name": "Bureau Veritas, S.A.",
+    "IATA": null,
+    "ICAO": "XDA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776954"
+  },
+  {
+    "name": "Carry Air",
+    "IATA": null,
+    "ICAO": "EEC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776970"
+  },
+  {
+    "name": "Celeste, S.A.",
+    "IATA": "NW",
+    "ICAO": null,
+    "website": "www.flyceleste.com",
+    "notes": "Planned startup with 7 ex HOP! CRJ-1000 aircraft.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.776988"
+  },
+  {
+    "name": "Centre D'essais En Vol",
+    "IATA": null,
+    "ICAO": "CEV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777005"
+  },
+  {
+    "name": "Chalair Aviation",
+    "IATA": null,
+    "ICAO": "CLG",
+    "website": "www.chalair.fr",
+    "notes": "Name changed from Chalair. Designator M6* recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777023"
+  },
+  {
+    "name": "CitizenPlane",
+    "IATA": "1L",
+    "ICAO": null,
+    "website": "www.citizenplane.com",
+    "notes": "Computer Reservation System",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777040"
+  },
+  {
+    "name": "CMA CGM Air Cargo S.A.S.",
+    "IATA": "2C",
+    "ICAO": "CMA",
+    "website": "www.cma-cgm.com/products-services/air-cargo",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777057"
+  },
+  {
+    "name": "Commandement du Transport Aerien Militaire Francais",
+    "IATA": null,
+    "ICAO": "CTM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777073"
+  },
+  {
+    "name": "Corse Air International",
+    "IATA": "SS",
+    "ICAO": "CRL",
+    "website": "www.corsair.fr/corsair/home.ts",
+    "notes": "IATA designator changed from CS. ICAO callsign changed from Charlie Sierra",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777090"
+  },
+  {
+    "name": "Croix Rouge Francais",
+    "IATA": null,
+    "ICAO": "CRF",
+    "website": "www.croix-rouge.fr",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777106"
+  },
+  {
+    "name": "Dassault Aviation",
+    "IATA": null,
+    "ICAO": "DAB",
+    "website": "www.dassault-aviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777122"
+  },
+  {
+    "name": "Dassault Falcon Service",
+    "IATA": null,
+    "ICAO": "DSO",
+    "website": "www.dassaultfalcon.com",
+    "notes": "ICAO designator changed from EFS",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777138"
+  },
+  {
+    "name": "Dassault Falcon Service France",
+    "IATA": null,
+    "ICAO": "DSF",
+    "website": "www.dassaultfalconservice.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777155"
+  },
+  {
+    "name": "Domergue Aviation",
+    "IATA": null,
+    "ICAO": "DOM",
+    "website": "www.domergue.fr",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777172"
+  },
+  {
+    "name": "EATIS (European Aero Training Institute Strasbourg)",
+    "IATA": null,
+    "ICAO": "SRK",
+    "website": "eatis.eu",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777189"
+  },
+  {
+    "name": "ENAC",
+    "IATA": null,
+    "ICAO": "NAK",
+    "website": "www.enac.fr",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777205"
+  },
+  {
+    "name": "EPAG - Groupie Air France",
+    "IATA": null,
+    "ICAO": "IAG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777222"
+  },
+  {
+    "name": "Europe Air Lines (E.A.L.)",
+    "IATA": null,
+    "ICAO": "GED",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777238"
+  },
+  {
+    "name": "Evolem Aviation",
+    "IATA": null,
+    "ICAO": "EVL",
+    "website": "www.evolem-aviation.fr",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777255"
+  },
+  {
+    "name": "Finist'air",
+    "IATA": null,
+    "ICAO": "FTR",
+    "website": "www.finistair.fr",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777271"
+  },
+  {
+    "name": "FL140 Parachutisme Bordeaux",
+    "IATA": null,
+    "ICAO": "FLP",
+    "website": "www.fl140-parachutisme.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777287"
+  },
+  {
+    "name": "Flowair Aviation",
+    "IATA": null,
+    "ICAO": "FLW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777302"
+  },
+  {
+    "name": "Force Aerienne Francaise",
+    "IATA": null,
+    "ICAO": "FAF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777318"
+  },
+  {
+    "name": "France Douanes",
+    "IATA": null,
+    "ICAO": "FDO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777333"
+  },
+  {
+    "name": "France Marine Nationale",
+    "IATA": null,
+    "ICAO": "FNY",
+    "website": null,
+    "notes": "French Navy",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777349"
+  },
+  {
+    "name": "French bee",
+    "IATA": "BF",
+    "ICAO": "FBU",
+    "website": "www.frenchbee.com",
+    "notes": "Name changed from French Blue.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777365"
+  },
+  {
+    "name": "FTL Airlines, SA",
+    "IATA": null,
+    "ICAO": "FGO",
+    "website": "group-ftl.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777381"
+  },
+  {
+    "name": "Ga-Ma Helicoptere",
+    "IATA": null,
+    "ICAO": "GAH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777397"
+  },
+  {
+    "name": "Gendarmerie Nationale",
+    "IATA": null,
+    "ICAO": "FGN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777414"
+  },
+  {
+    "name": "Heli France",
+    "IATA": null,
+    "ICAO": "HFR",
+    "website": "www.helifrance.fr",
+    "notes": "Designator 8H recalled by IATA. Designator MY recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777433"
+  },
+  {
+    "name": "Heli Securite Helicopter Airline",
+    "IATA": "HS",
+    "ICAO": "HLI",
+    "website": "www.helicopter-saint-tropez.com",
+    "notes": "Designator H4 recalled by IATA.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777452"
+  },
+  {
+    "name": "Heli Union Heli Prestations",
+    "IATA": null,
+    "ICAO": "HLU",
+    "website": "www.heli-union.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777469"
+  },
+  {
+    "name": "Helicap SA",
+    "IATA": null,
+    "ICAO": "HLC",
+    "website": "www.helicap.fr",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777487"
+  },
+  {
+    "name": "HOP!",
+    "IATA": "A5",
+    "ICAO": "HOP",
+    "website": "www.hop.fr",
+    "notes": "Name changed from Airlinair. ICAO designator changed from ARF",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777506"
+  },
+  {
+    "name": "iNTAIRLINE",
+    "IATA": null,
+    "ICAO": "ITI",
+    "website": "www.intairline.fr",
+    "notes": "Subsidiary of the FMA group.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777524"
+  },
+  {
+    "name": "iXAir Business Jets",
+    "IATA": null,
+    "ICAO": "IXR",
+    "website": "www.ixair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777541"
+  },
+  {
+    "name": "JDP France",
+    "IATA": null,
+    "ICAO": "JDP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777559"
+  },
+  {
+    "name": "JetKey",
+    "IATA": null,
+    "ICAO": "KBD",
+    "website": "www.jetkey.fr",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777576"
+  },
+  {
+    "name": "DreamJet SAS d/b/a La Compagnie",
+    "IATA": "B0",
+    "ICAO": "DJT",
+    "website": "www.lacompagnie.com",
+    "notes": "Commenced operations on 10 July 2014. First Flight 15 July 2014. New all Business Class startup.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777595"
+  },
+  {
+    "name": "Leadair Unijet",
+    "IATA": null,
+    "ICAO": "LEA",
+    "website": "www.unijet.aero",
+    "notes": "Name changed from Leadair Jet Service",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777614"
+  },
+  {
+    "name": "Let\u2019s Fly Helicopter & Jets",
+    "IATA": null,
+    "ICAO": "FIZ",
+    "website": "www.lfhj.fr",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777637"
+  },
+  {
+    "name": "Lorraine Aviation",
+    "IATA": null,
+    "ICAO": "LRR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777655"
+  },
+  {
+    "name": "Millesime Aviation (MIM) S.A.S.",
+    "IATA": null,
+    "ICAO": "MIM",
+    "website": null,
+    "notes": "Name changed from SPARFELL France SA and previously Speedwings France SA.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777675"
+  },
+  {
+    "name": "Missions Gouvernementales Francaises",
+    "IATA": null,
+    "ICAO": "MRN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777692"
+  },
+  {
+    "name": "Normandie Aviation",
+    "IATA": null,
+    "ICAO": "NDY",
+    "website": "www.normandie-aviation.fr",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777709"
+  },
+  {
+    "name": "Ocean Airways",
+    "IATA": null,
+    "ICAO": "OCW",
+    "website": null,
+    "notes": "Designator OG recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777726"
+  },
+  {
+    "name": "Open Flight",
+    "IATA": null,
+    "ICAO": "OFL",
+    "website": "www.openflight.fr",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777745"
+  },
+  {
+    "name": "Oxygene Airways",
+    "IATA": null,
+    "ICAO": "OXY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777762"
+  },
+  {
+    "name": "Oyonnair",
+    "IATA": null,
+    "ICAO": "OYO",
+    "website": "www.oyonnair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777779"
+  },
+  {
+    "name": "Pan Europeenne",
+    "IATA": null,
+    "ICAO": "EUP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777796"
+  },
+  {
+    "name": "Pan Europeenne Air Service",
+    "IATA": null,
+    "ICAO": "PEA",
+    "website": "www.paneuropeenne.net",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777814"
+  },
+  {
+    "name": "Phenix Aviation",
+    "IATA": null,
+    "ICAO": "PHV",
+    "website": "www.phenix-aviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777831"
+  },
+  {
+    "name": "Pixair Survey",
+    "IATA": null,
+    "ICAO": "PXR",
+    "website": "pixair-survey.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777848"
+  },
+  {
+    "name": "Police Aux Frontiers",
+    "IATA": null,
+    "ICAO": "POF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777865"
+  },
+  {
+    "name": "Priv'Air",
+    "IATA": null,
+    "ICAO": "PVR",
+    "website": "www.privair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777882"
+  },
+  {
+    "name": "Rectimo Air Transports SAS",
+    "IATA": null,
+    "ICAO": "RTO",
+    "website": "www.rectimo-air-transports.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777898"
+  },
+  {
+    "name": "RTE / STH",
+    "IATA": null,
+    "ICAO": "STH",
+    "website": "rte-france.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777917"
+  },
+  {
+    "name": "SAF Helicopteres",
+    "IATA": null,
+    "ICAO": "SHP",
+    "website": "www.saf-helico.com",
+    "notes": "Name changed from Service Aerien Francais",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777935"
+  },
+  {
+    "name": "Securite Civile Francaise",
+    "IATA": null,
+    "ICAO": "FRU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777952"
+  },
+  {
+    "name": "Sky Cam",
+    "IATA": null,
+    "ICAO": "SCK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777969"
+  },
+  {
+    "name": "Smart Aviation",
+    "IATA": null,
+    "ICAO": "SMV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.777985"
+  },
+  {
+    "name": "SNCF",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.sncf.com",
+    "notes": "ICAO Designator TGV cancelled. Railway Service",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.778003"
+  },
+  {
+    "name": "Soci\u00e9t\u00e9 3 S Aviation (Aerope)",
+    "IATA": null,
+    "ICAO": "OPE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.778020"
+  },
+  {
+    "name": "Star Service International",
+    "IATA": null,
+    "ICAO": "SSD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.778038"
+  },
+  {
+    "name": "Thalair SA",
+    "IATA": null,
+    "ICAO": "TLJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.778056"
+  },
+  {
+    "name": "Touraine Helicoptre",
+    "IATA": null,
+    "ICAO": "THF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.778074"
+  },
+  {
+    "name": "Trans Helicoptere Service",
+    "IATA": null,
+    "ICAO": "THZ",
+    "website": "www.mediartis.fr/ths",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.778092"
+  },
+  {
+    "name": "Transair France",
+    "IATA": null,
+    "ICAO": "TSA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.778110"
+  },
+  {
+    "name": "Transavia France S.A.S.",
+    "IATA": "TO",
+    "ICAO": "TVF",
+    "website": "www.transavia.com/hv/fr-FR/accueil",
+    "notes": "Desginator TO reinstated by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.778127"
+  },
+  {
+    "name": "Transport'air",
+    "IATA": null,
+    "ICAO": "TSI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.778146"
+  },
+  {
+    "name": "Travel Technologyu Interactive SA",
+    "IATA": "Y1",
+    "ICAO": null,
+    "website": "www.ttinteractive.aero",
+    "notes": "Computer Reservations Systems (CRS)",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.778165"
+  },
+  {
+    "name": "Twin Jet",
+    "IATA": "T7",
+    "ICAO": "TJT",
+    "website": "www.twinjet.net",
+    "notes": "Established in May 2001. Commenced operations in October 2001.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.778183"
+  },
+  {
+    "name": "Voldirect SAS",
+    "IATA": null,
+    "ICAO": "VDR",
+    "website": "www.voldirect.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.778202"
+  },
+  {
+    "name": "Wijet",
+    "IATA": null,
+    "ICAO": "WJT",
+    "website": "www.wijet.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.778220"
+  },
+  {
+    "name": "Yankee Delta",
+    "IATA": null,
+    "ICAO": "DYT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:09.778237"
+  },
+  {
+    "name": "Nice Helicopteres",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.heliriviera.com/nice-helicopters.htm",
+    "notes": "Designator JX* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778257"
+  },
+  {
+    "name": "Regourd Aviation",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.regourd.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778275"
+  },
+  {
+    "name": "Valljet S.A.",
+    "IATA": null,
+    "ICAO": "VLJ",
+    "website": "www.valljet.com",
+    "notes": "Name changed from La Baule Aviation t/a Valljet w.e.f 31 May 2019.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778294"
+  },
+  {
+    "name": "ACE Transvalair",
+    "IATA": "VY",
+    "ICAO": "CHX",
+    "website": null,
+    "notes": "Name changed from Air Charter Express",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778312"
+  },
+  {
+    "name": "Aeralp",
+    "IATA": null,
+    "ICAO": "ALS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778330"
+  },
+  {
+    "name": "Aeris",
+    "IATA": "SH",
+    "ICAO": "AIS",
+    "website": "www.aeris.fr",
+    "notes": "Ceased operations on 07 November 2003.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778349"
+  },
+  {
+    "name": "Aero Charter DARTA",
+    "IATA": null,
+    "ICAO": "DRT",
+    "website": "www.aero-charter-darta.com",
+    "notes": "Founded in 1971. Merged into AeroVision.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778368"
+  },
+  {
+    "name": "Aero France",
+    "IATA": null,
+    "ICAO": "ARF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778385"
+  },
+  {
+    "name": "Aero France International SA",
+    "IATA": "FB",
+    "ICAO": "ROF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778403"
+  },
+  {
+    "name": "Aero Services Corporate",
+    "IATA": null,
+    "ICAO": "CJE",
+    "website": null,
+    "notes": "Ops A319CJ F-GSVU",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778429"
+  },
+  {
+    "name": "Aero Services Executive S.A.R.L.",
+    "IATA": "W4",
+    "ICAO": "BES",
+    "website": "www.aeroservices-executive.com",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778449"
+  },
+  {
+    "name": "AeroFrance",
+    "IATA": null,
+    "ICAO": "ROF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778467"
+  },
+  {
+    "name": "Aeroleasing France",
+    "IATA": null,
+    "ICAO": "AOL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778485"
+  },
+  {
+    "name": "Aerolinair",
+    "IATA": null,
+    "ICAO": "ERN",
+    "website": "www.aerolinair.com",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778503"
+  },
+  {
+    "name": "Aerolyon",
+    "IATA": "DD",
+    "ICAO": "AEY",
+    "website": "www.aerolyon.fr",
+    "notes": "IATA designator changed to 4Q",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778521"
+  },
+  {
+    "name": "Aerolyon",
+    "IATA": "4Q",
+    "ICAO": "AEY",
+    "website": "www.aerolyon.fr",
+    "notes": "Name changed to L-Air",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778538"
+  },
+  {
+    "name": "Compagnie Aeromaritime d'affretement",
+    "IATA": "QK",
+    "ICAO": "QKL",
+    "website": null,
+    "notes": "IATA designator changed to OV",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778557"
+  },
+  {
+    "name": "Aeromaritime",
+    "IATA": "OV",
+    "ICAO": "QKL",
+    "website": null,
+    "notes": "Merged into UTA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778574"
+  },
+  {
+    "name": "Aerotour",
+    "IATA": "FV",
+    "ICAO": null,
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778590"
+  },
+  {
+    "name": "Aigle Azur",
+    "IATA": "ZI",
+    "ICAO": "AAF",
+    "website": "www.aigle-azur.fr",
+    "notes": "Ceased operations on 07 September 2019. IATA designator ZI reinstated by IATA. IATA designator ZI recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778610"
+  },
+  {
+    "name": "Air Affaires EJA France",
+    "IATA": null,
+    "ICAO": "AEJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778628"
+  },
+  {
+    "name": "Air Albatros",
+    "IATA": null,
+    "ICAO": "WBA",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778645"
+  },
+  {
+    "name": "Soci\u00e9t\u00e9 Air Alpes",
+    "IATA": "LP",
+    "ICAO": "ALP",
+    "website": null,
+    "notes": "Merged into TAT",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778663"
+  },
+  {
+    "name": "Air Alsace",
+    "IATA": "SY",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778680"
+  },
+  {
+    "name": "Air Angouleme",
+    "IATA": null,
+    "ICAO": "AGL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778697"
+  },
+  {
+    "name": "Air Angouleme",
+    "IATA": null,
+    "ICAO": "AGL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778714"
+  },
+  {
+    "name": "Air Armorique",
+    "IATA": null,
+    "ICAO": "RMQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778731"
+  },
+  {
+    "name": "Air Atlantique / Air Publicit\u00e9",
+    "IATA": "KI",
+    "ICAO": "APB",
+    "website": null,
+    "notes": "Designator KI recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778749"
+  },
+  {
+    "name": "Air Atlantique / Air Publicit\u00e9",
+    "IATA": null,
+    "ICAO": "APB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778766"
+  },
+  {
+    "name": "Air Atlantique / Air Publicit\u00e9",
+    "IATA": "4Q",
+    "ICAO": "APB",
+    "website": null,
+    "notes": "Declared bankruprcy on 06 April 2004. Designator KI recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778786"
+  },
+  {
+    "name": "Air Blanchard",
+    "IATA": null,
+    "ICAO": "RBL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778804"
+  },
+  {
+    "name": "Air Bor",
+    "IATA": null,
+    "ICAO": "BRI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778821"
+  },
+  {
+    "name": "Air Bourgogne Europe",
+    "IATA": null,
+    "ICAO": "ABY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778840"
+  },
+  {
+    "name": "Air Bretagne",
+    "IATA": "3E",
+    "ICAO": "BRE",
+    "website": null,
+    "notes": "Filed for bankruptcy 12/2001",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778857"
+  },
+  {
+    "name": "Air Business Contact A.B.C.",
+    "IATA": null,
+    "ICAO": "ACB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778875"
+  },
+  {
+    "name": "Air Calypso",
+    "IATA": null,
+    "ICAO": "KLY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778893"
+  },
+  {
+    "name": "Air Charter",
+    "IATA": "SF",
+    "ICAO": "ACF",
+    "website": null,
+    "notes": "Merged into Air France",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778911"
+  },
+  {
+    "name": "Air Charter Asia",
+    "IATA": "UT",
+    "ICAO": "ORT",
+    "website": null,
+    "notes": "Name changed to Air Orient",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778929"
+  },
+  {
+    "name": "Air Charter Express",
+    "IATA": null,
+    "ICAO": "CHX",
+    "website": null,
+    "notes": "Name changed to ACE Transvalair",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778947"
+  },
+  {
+    "name": "Air Charter Express",
+    "IATA": null,
+    "ICAO": "CHX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778964"
+  },
+  {
+    "name": "Air Corporate",
+    "IATA": null,
+    "ICAO": "ACJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.778983"
+  },
+  {
+    "name": "Air Corse",
+    "IATA": "DK",
+    "ICAO": "ARK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779003"
+  },
+  {
+    "name": "Air Cote D'opale, S\u00e0rl",
+    "IATA": null,
+    "ICAO": "OPL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779020"
+  },
+  {
+    "name": "Air Cote D'opale, S\u00e0rl",
+    "IATA": null,
+    "ICAO": "OPL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779037"
+  },
+  {
+    "name": "Air Entreprise",
+    "IATA": null,
+    "ICAO": "AEN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779054"
+  },
+  {
+    "name": "Air Entreprise",
+    "IATA": null,
+    "ICAO": "AEN",
+    "website": null,
+    "notes": "Designator KD recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779071"
+  },
+  {
+    "name": "Air Entreprise",
+    "IATA": "KD",
+    "ICAO": "AEN",
+    "website": null,
+    "notes": "Designator KD recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779089"
+  },
+  {
+    "name": "Soci\u00e9t\u00e9 Air Esterel",
+    "IATA": "HC",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779108"
+  },
+  {
+    "name": "Air et Compagnie",
+    "IATA": null,
+    "ICAO": "BLT",
+    "website": "www.airetcompagnie.com",
+    "notes": "Name changed to Astonfly.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779127"
+  },
+  {
+    "name": "Air Evasion",
+    "IATA": "E3",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779143"
+  },
+  {
+    "name": "Air Exel (France)",
+    "IATA": "VJ",
+    "ICAO": "RXL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779161"
+  },
+  {
+    "name": "Air Exel Executive",
+    "IATA": null,
+    "ICAO": "AOL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779178"
+  },
+  {
+    "name": "Air Foyal",
+    "IATA": null,
+    "ICAO": "RFO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779195"
+  },
+  {
+    "name": "Air Gefco",
+    "IATA": null,
+    "ICAO": "GEF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779212"
+  },
+  {
+    "name": "Air Gefco",
+    "IATA": null,
+    "ICAO": "GEF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779228"
+  },
+  {
+    "name": "Air Hainaut",
+    "IATA": null,
+    "ICAO": "AHN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779246"
+  },
+  {
+    "name": "Air Hainaut",
+    "IATA": null,
+    "ICAO": "AHN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779264"
+  },
+  {
+    "name": "Air Horizons",
+    "IATA": "RN",
+    "ICAO": "EUH",
+    "website": "www.euralair.com/euralair_horizons.htm",
+    "notes": "Ceased operations during November 2005. Name changed from Euralair Horizons",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779282"
+  },
+  {
+    "name": "Air Inter",
+    "IATA": "IT",
+    "ICAO": "ITF",
+    "website": null,
+    "notes": "Founded on 12 November 1954. Commenced operations on 16 March 1958. Name changed to Air Inter Europe",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779301"
+  },
+  {
+    "name": "Air Inter Europe",
+    "IATA": "IT",
+    "ICAO": "ITF",
+    "website": null,
+    "notes": "Merged into Air France on 01 April 1997.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779320"
+  },
+  {
+    "name": "Air Jet",
+    "IATA": "BC",
+    "ICAO": "AIJ",
+    "website": "www.air-jet.fr",
+    "notes": "Designator BC recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779337"
+  },
+  {
+    "name": "Air Jet",
+    "IATA": null,
+    "ICAO": "AIJ",
+    "website": "www.air-jet.fr",
+    "notes": "Ceased operations on 17 March 2003.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779356"
+  },
+  {
+    "name": "Air Jet",
+    "IATA": "FE",
+    "ICAO": "AIJ",
+    "website": "www.air-jet.fr",
+    "notes": "Designator FE recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779375"
+  },
+  {
+    "name": "Air Jet",
+    "IATA": "YH",
+    "ICAO": "AIJ",
+    "website": "www.air-jet.fr",
+    "notes": "Designator YH recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779392"
+  },
+  {
+    "name": "AOM-Minerve S.A. t/a Air Lib",
+    "IATA": "IW",
+    "ICAO": "LIB",
+    "website": "www.air-liberte.fr",
+    "notes": "Ceased operations on 17 Febraury 2003. Name changed to Air Lib w.e.f. 22 September 2001. IATA changed from VD. Name changed from AOM - Air Liberte",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779411"
+  },
+  {
+    "name": "Air Lib Express",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.airlibexpress.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779428"
+  },
+  {
+    "name": "Air Liberte",
+    "IATA": "VD",
+    "ICAO": "LIB",
+    "website": null,
+    "notes": "IATA designator changed to IJ",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779446"
+  },
+  {
+    "name": "Air Liberte",
+    "IATA": "BT",
+    "ICAO": "LIB",
+    "website": null,
+    "notes": "IATA designator changed to VD",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779464"
+  },
+  {
+    "name": "Air Liberte",
+    "IATA": "IJ",
+    "ICAO": "LIB",
+    "website": null,
+    "notes": "Name changed to AOM-Minerve S.A. t/a Air Liberte. IATA changed from VD",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779482"
+  },
+  {
+    "name": "AOM-Minerve S.A. t/a Air Liberte",
+    "IATA": "IJ",
+    "ICAO": "LIB",
+    "website": "www.air-liberte.fr",
+    "notes": "Name changed to Air Lib. IATA changed from VD. Name changed from Air Liberte",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779501"
+  },
+  {
+    "name": "Air Liberte AOM",
+    "IATA": "IW",
+    "ICAO": "AOM",
+    "website": "www.aom.com",
+    "notes": "Name changed to Air Lib w.e.f. 22 September 2001. Name changed from AOM-Minerve S.A. d/b/a AOM French Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779519"
+  },
+  {
+    "name": "Air Limousin T.A.",
+    "IATA": "QD",
+    "ICAO": "LIM",
+    "website": null,
+    "notes": "ICAO designator changed to LMT",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779537"
+  },
+  {
+    "name": "Air Limousin T.A.",
+    "IATA": "QD",
+    "ICAO": "LMT",
+    "website": null,
+    "notes": "ICAO designator changed from LIM",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779554"
+  },
+  {
+    "name": "Air Limousin T.A.",
+    "IATA": "QD",
+    "ICAO": "LMT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779572"
+  },
+  {
+    "name": "Air Limousin",
+    "IATA": "DQ",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779588"
+  },
+  {
+    "name": "Air Littoral",
+    "IATA": "FU",
+    "ICAO": "LIT",
+    "website": "www.airlittoral.com",
+    "notes": "Ceased operations in February 2004.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779605"
+  },
+  {
+    "name": "Air Littoral",
+    "IATA": "FU",
+    "ICAO": "LIT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779621"
+  },
+  {
+    "name": "Air Littoral Express",
+    "IATA": null,
+    "ICAO": "LIX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779637"
+  },
+  {
+    "name": "Air Lorient",
+    "IATA": null,
+    "ICAO": "ALO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779654"
+  },
+  {
+    "name": "Air Mana - Transport A\u00e9rien",
+    "IATA": null,
+    "ICAO": "EFC",
+    "website": "www.airmana.com",
+    "notes": "Founded in June 1996.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779673"
+  },
+  {
+    "name": "Air Marne",
+    "IATA": null,
+    "ICAO": "MRN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779688"
+  },
+  {
+    "name": "Air Mediterranee",
+    "IATA": "ML",
+    "ICAO": "BIE",
+    "website": "www.air-mediterranee.fr",
+    "notes": "Founded in 1997. Ceased operations on 15 February 2016.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779706"
+  },
+  {
+    "name": "Air Mediterranee Compagnie",
+    "IATA": null,
+    "ICAO": "MDT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779723"
+  },
+  {
+    "name": "Air Odon",
+    "IATA": null,
+    "ICAO": "OHA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779740"
+  },
+  {
+    "name": "Air Open Sky",
+    "IATA": null,
+    "ICAO": "OPN",
+    "website": null,
+    "notes": "Ceased operations during November 2000.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779757"
+  },
+  {
+    "name": "Air Orient",
+    "IATA": "UT",
+    "ICAO": "ORT",
+    "website": null,
+    "notes": "Desigantor UT recalled by IATA. Name changed from Air Charter Asia",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779775"
+  },
+  {
+    "name": "Air Outre Mer",
+    "IATA": "QN",
+    "ICAO": "AOM",
+    "website": null,
+    "notes": "Name changed to AOM",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779795"
+  },
+  {
+    "name": "Air Paris",
+    "IATA": "IO",
+    "ICAO": null,
+    "website": null,
+    "notes": "Marged into TAT",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779812"
+  },
+  {
+    "name": "Air Poitiers",
+    "IATA": null,
+    "ICAO": "FUR",
+    "website": "www.airpoitiers.fr",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779829"
+  },
+  {
+    "name": "Compagnie Air Provence",
+    "IATA": null,
+    "ICAO": "APR",
+    "website": null,
+    "notes": "Name changed to Societe Nouvelle Exploitation d'Air Provence",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779848"
+  },
+  {
+    "name": "Soci\u00e9t\u00e9 Nouvelle D'exploitation Air Provence",
+    "IATA": null,
+    "ICAO": "APR",
+    "website": "www.air-provence-international.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779866"
+  },
+  {
+    "name": "Air Provence Charter",
+    "IATA": null,
+    "ICAO": "LPU",
+    "website": null,
+    "notes": "Name changed to Virgin Express France (VEF) during 1998.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779884"
+  },
+  {
+    "name": "Air Provence International",
+    "IATA": "DG",
+    "ICAO": "APR",
+    "website": null,
+    "notes": "IATA designator changed to P3",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779901"
+  },
+  {
+    "name": "Air Saint-Tropez",
+    "IATA": null,
+    "ICAO": "ILE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779918"
+  },
+  {
+    "name": "Air Savoie",
+    "IATA": null,
+    "ICAO": "ASV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779936"
+  },
+  {
+    "name": "Air Savoie",
+    "IATA": null,
+    "ICAO": "ASV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779954"
+  },
+  {
+    "name": "Air Service Affaires",
+    "IATA": null,
+    "ICAO": "RSA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779971"
+  },
+  {
+    "name": "Air Service Nantes",
+    "IATA": null,
+    "ICAO": "ASN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.779988"
+  },
+  {
+    "name": "Air Service Nantes",
+    "IATA": null,
+    "ICAO": "ASN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780005"
+  },
+  {
+    "name": "Air Service Vosges",
+    "IATA": null,
+    "ICAO": "VGE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780021"
+  },
+  {
+    "name": "Air Services",
+    "IATA": null,
+    "ICAO": "RSV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780038"
+  },
+  {
+    "name": "Air Taxi",
+    "IATA": null,
+    "ICAO": "HAT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780055"
+  },
+  {
+    "name": "Air Toulon",
+    "IATA": null,
+    "ICAO": "ATU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780072"
+  },
+  {
+    "name": "Air Toulouse",
+    "IATA": null,
+    "ICAO": "TLE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780089"
+  },
+  {
+    "name": "Air Toulouse",
+    "IATA": null,
+    "ICAO": "TLE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780106"
+  },
+  {
+    "name": "Soci\u00e9t\u00e9 Nouvelle Air Toulouse",
+    "IATA": "SH",
+    "ICAO": "TLE",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780123"
+  },
+  {
+    "name": "Air Turquoise",
+    "IATA": null,
+    "ICAO": "TUQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780140"
+  },
+  {
+    "name": "Air Turquoise SAS",
+    "IATA": null,
+    "ICAO": "RTQ",
+    "website": "www.airturquoise.com",
+    "notes": "Ceased operations on 02 August 2006.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780159"
+  },
+  {
+    "name": "Air Vend\u00e9e",
+    "IATA": "DV",
+    "ICAO": "AVD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780176"
+  },
+  {
+    "name": "Air Vend\u00e9e",
+    "IATA": "DV",
+    "ICAO": "AVD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780192"
+  },
+  {
+    "name": "Air Vend\u00e9e",
+    "IATA": "VM",
+    "ICAO": "AVD",
+    "website": null,
+    "notes": "Name changed to Regional Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780210"
+  },
+  {
+    "name": "Air Vosges",
+    "IATA": "GS",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780226"
+  },
+  {
+    "name": "Airbus Helicopters",
+    "IATA": null,
+    "ICAO": "ECF",
+    "website": "www.airbushelicopters.com",
+    "notes": "Name changed from Eurocopter",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780244"
+  },
+  {
+    "name": "Airbus Industrie",
+    "IATA": "VK",
+    "ICAO": "AIB",
+    "website": "www.airbus.com",
+    "notes": "Designator VK recalled by IATA. ICAO callsign changed to Airbus Industrie",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780261"
+  },
+  {
+    "name": "Airlec - Air Aquitaine Transport",
+    "IATA": null,
+    "ICAO": "ARL",
+    "website": "www.airlecairespace.com",
+    "notes": "Name changed to Airlec air Espace",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780279"
+  },
+  {
+    "name": "Airlec - Air Aquitaine Transport",
+    "IATA": null,
+    "ICAO": "ARL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780295"
+  },
+  {
+    "name": "Airlinair",
+    "IATA": "A5",
+    "ICAO": "RLA",
+    "website": "www.airlinair.com",
+    "notes": "Name changed to HOP!-Airlinair w.e.f. 31 March 2013. ICAO designator changed from ARF",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780313"
+  },
+  {
+    "name": "Airlinair",
+    "IATA": "A5",
+    "ICAO": "ARF",
+    "website": "www.airlinair.com",
+    "notes": "ICAO designator changed to RLA. Established in 1998. Commenced operations in May 1999.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780331"
+  },
+  {
+    "name": "Air Sarthe Organisation SA",
+    "IATA": null,
+    "ICAO": "ASO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780348"
+  },
+  {
+    "name": "Airways",
+    "IATA": null,
+    "ICAO": "WAY",
+    "website": "www.airways.fr",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780363"
+  },
+  {
+    "name": "Almajet",
+    "IATA": null,
+    "ICAO": "AJL",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780379"
+  },
+  {
+    "name": "Alsace Air Service - Alsair, SA",
+    "IATA": "LJ",
+    "ICAO": "LSR",
+    "website": null,
+    "notes": "Designator LJ recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780397"
+  },
+  {
+    "name": "Alsavia",
+    "IATA": null,
+    "ICAO": "ALV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780413"
+  },
+  {
+    "name": "ANAX Aviation",
+    "IATA": null,
+    "ICAO": "ANX",
+    "website": null,
+    "notes": "Formerly Nancy Aviation",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780429"
+  },
+  {
+    "name": "M. robert Petrelluzzi, Antilles Air Service",
+    "IATA": "RP",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780447"
+  },
+  {
+    "name": "AOM - Minerve, S.A.",
+    "IATA": "IW",
+    "ICAO": "MIN",
+    "website": "www.aom-minerve.fr",
+    "notes": "ICAO designator changed to AOM",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780465"
+  },
+  {
+    "name": "AOM-Minerve S.A. d/b/a AOM French Airlines",
+    "IATA": "IW",
+    "ICAO": "AOM",
+    "website": null,
+    "notes": "Name changed to Air Liberte AOM. Name changed to AOM-Minerve S.A. d/b/a AOM French Airlines March 1992.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780483"
+  },
+  {
+    "name": "Atlantique Air Assistance",
+    "IATA": "L5",
+    "ICAO": "TLB",
+    "website": "www.atlantiqueairassistance.com",
+    "notes": "Founded in 1989. Ceased operations in October 2017.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780501"
+  },
+  {
+    "name": "Avia Sud",
+    "IATA": null,
+    "ICAO": "AVU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780517"
+  },
+  {
+    "name": "Avia Taxi France",
+    "IATA": "TF",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780533"
+  },
+  {
+    "name": "Avion Taxis Pyreneens S\u00e0rl",
+    "IATA": null,
+    "ICAO": "TPR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780549"
+  },
+  {
+    "name": "Axis Airways",
+    "IATA": null,
+    "ICAO": "AXY",
+    "website": "www.axis-airways.com",
+    "notes": "Ceased operations on 07 December 2009.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780566"
+  },
+  {
+    "name": "Babcock Mission Critical Services France",
+    "IATA": "HN",
+    "ICAO": "PTH",
+    "website": "www.babcockinternational.com/en/Locations/UK_Europe/Babcock%20MCS%20France",
+    "notes": "Name changed from INAER Helicopter France. Previously name changed from Proteus Helicopters.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780585"
+  },
+  {
+    "name": "Belair Ile de France",
+    "IATA": "BL",
+    "ICAO": "FBR",
+    "website": null,
+    "notes": "Ceased operations during 2000",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780603"
+  },
+  {
+    "name": "Blue Line",
+    "IATA": null,
+    "ICAO": "BLE",
+    "website": "flyblueline.com",
+    "notes": "Placed into Liquidation. Ceased operations on 06 October 2010.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780621"
+  },
+  {
+    "name": "SARL Bretagne Air Services",
+    "IATA": "VB",
+    "ICAO": "ABH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780638"
+  },
+  {
+    "name": "Brit Air",
+    "IATA": "DB",
+    "ICAO": "BZH",
+    "website": "www.britair.fr",
+    "notes": "Name changed to Brit Air t/a HOP! Brit Air. Name changed from Brittany Air International",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780655"
+  },
+  {
+    "name": "Brittany Air International",
+    "IATA": "BZ",
+    "ICAO": "BZH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780671"
+  },
+  {
+    "name": "C.A.T.E.X. Compagnie A\u00e9rien de Transports Executives",
+    "IATA": null,
+    "ICAO": "TEX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780688"
+  },
+  {
+    "name": "Caliop",
+    "IATA": null,
+    "ICAO": "IOP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780705"
+  },
+  {
+    "name": "Caliop",
+    "IATA": null,
+    "ICAO": "IOP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780721"
+  },
+  {
+    "name": "Compagnie Aerienne Corse Mediterranee",
+    "IATA": "XK",
+    "ICAO": "CCM",
+    "website": "www.aircorsica.com",
+    "notes": "Name changed to Air Corsica w.e.f. October 2010. Name changed from Compagnie Aerienne Corse Mediterranee. IATA designator changed from ZN",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780740"
+  },
+  {
+    "name": "Ceeta-Kel Air",
+    "IATA": null,
+    "ICAO": "CET",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780756"
+  },
+  {
+    "name": "Centre National D'etudes Des Telecommunications (C.N.E.T.)",
+    "IATA": null,
+    "ICAO": "CNT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780774"
+  },
+  {
+    "name": "Centre National D'etudes Des Telecommunications (C.N.E.T.)",
+    "IATA": null,
+    "ICAO": "CNT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780792"
+  },
+  {
+    "name": "Chaillotine Air Service - CAS",
+    "IATA": null,
+    "ICAO": "CIS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780810"
+  },
+  {
+    "name": "Chaillotine Air Service - CAS",
+    "IATA": null,
+    "ICAO": "CIS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780826"
+  },
+  {
+    "name": "Chalair",
+    "IATA": null,
+    "ICAO": "CLG",
+    "website": "www.chalair.fr",
+    "notes": "Designator M6* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780843"
+  },
+  {
+    "name": "Chalair",
+    "IATA": null,
+    "ICAO": "CLG",
+    "website": "www.chalair.fr",
+    "notes": "Name changed to Chalair Aviation. Designator M6* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780860"
+  },
+  {
+    "name": "Challeng'Air International - CAI",
+    "IATA": null,
+    "ICAO": "CLG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780877"
+  },
+  {
+    "name": "Champagne Airlines",
+    "IATA": null,
+    "ICAO": "CPH",
+    "website": null,
+    "notes": "Founded in 1998. Ceased operations on 29 November 2005 due bankruptcy.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780894"
+  },
+  {
+    "name": "CIPRA",
+    "IATA": null,
+    "ICAO": "CIA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780911"
+  },
+  {
+    "name": "CIPRA",
+    "IATA": null,
+    "ICAO": "CIA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780927"
+  },
+  {
+    "name": "CNFA (SFACT)",
+    "IATA": null,
+    "ICAO": "FCT",
+    "website": null,
+    "notes": "Name changed to SEFA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780943"
+  },
+  {
+    "name": "Commandement des Transports Aeriensd Militaires Francais",
+    "IATA": "FM",
+    "ICAO": "FAF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780960"
+  },
+  {
+    "name": "Commandement des Transports Aeriensd Militaires Francais",
+    "IATA": "FM",
+    "ICAO": "FMT",
+    "website": null,
+    "notes": "ICAO designator changed from FAF",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780977"
+  },
+  {
+    "name": "Commandement des Transports Aeriensd Militaires Francais",
+    "IATA": "FM",
+    "ICAO": "FMT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.780993"
+  },
+  {
+    "name": "Compagne Aerienne Du Languedoc",
+    "IATA": "WL",
+    "ICAO": "LGW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781010"
+  },
+  {
+    "name": "Compagnie Aeronautique Europeenne",
+    "IATA": null,
+    "ICAO": "FEU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781028"
+  },
+  {
+    "name": "Continent Air",
+    "IATA": null,
+    "ICAO": "CBD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781044"
+  },
+  {
+    "name": "Corair, S\u00e0rl",
+    "IATA": null,
+    "ICAO": "COZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781060"
+  },
+  {
+    "name": "Corse Aero Service",
+    "IATA": null,
+    "ICAO": "CSS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781077"
+  },
+  {
+    "name": "Corse Air International",
+    "IATA": "CS",
+    "ICAO": "CRL",
+    "website": null,
+    "notes": "IATA designator changed to SS. ICAO callsign changed to Corseair",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781094"
+  },
+  {
+    "name": "Compagnie Aerienne Corse Mediterranee",
+    "IATA": "XK",
+    "ICAO": "CCM",
+    "website": "www.corsemed.com",
+    "notes": "Name changed to CCM Airlines w.e.f. November 2000. IATA designator changed from ZN",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781114"
+  },
+  {
+    "name": "Compagnie Aerienne Corse Mediterranee",
+    "IATA": "ZN",
+    "ICAO": "CCM",
+    "website": "www.corsemed.com",
+    "notes": "Established on 01 January 1989. Commenced operations in June 1990. IATA designator changed to XK",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781132"
+  },
+  {
+    "name": "Dakair SA",
+    "IATA": null,
+    "ICAO": "DAK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781147"
+  },
+  {
+    "name": "DARTA",
+    "IATA": null,
+    "ICAO": "DRT",
+    "website": null,
+    "notes": "Founded in 1971.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781164"
+  },
+  {
+    "name": "Dirac Aviation",
+    "IATA": "YM",
+    "ICAO": "DAV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781180"
+  },
+  {
+    "name": "DK Flight",
+    "IATA": null,
+    "ICAO": "NCY",
+    "website": null,
+    "notes": "Name changed to Nancy Air Transport Executive",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781197"
+  },
+  {
+    "name": "Eagle Aviation Europe",
+    "IATA": null,
+    "ICAO": "EGN",
+    "website": "www.eagle-aviation.net",
+    "notes": "Ceased operations in April 2009. Name changed from Eagle Aviation France.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781214"
+  },
+  {
+    "name": "Eagle Aviation France",
+    "IATA": null,
+    "ICAO": "EGN",
+    "website": "www.eagle-aviation.net",
+    "notes": "Name changed to Eagle Aviation Europe",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781231"
+  },
+  {
+    "name": "EAS Europe Airlines",
+    "IATA": "EY",
+    "ICAO": "EYT",
+    "website": null,
+    "notes": "Ceased operations. Name changed from Europe Aero Service",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781247"
+  },
+  {
+    "name": "ENAC",
+    "IATA": null,
+    "ICAO": "ENF",
+    "website": "www.enac.fr/en",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781263"
+  },
+  {
+    "name": "ENAC",
+    "IATA": null,
+    "ICAO": "SFA",
+    "website": null,
+    "notes": "ICAO designator changed to NAK. Name changed from Sefa",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781280"
+  },
+  {
+    "name": "Euralair",
+    "IATA": "EL",
+    "ICAO": "ERL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781295"
+  },
+  {
+    "name": "Euralair Horizons",
+    "IATA": "RN",
+    "ICAO": "EUH",
+    "website": "www.euralair.com/euralair_horizons.htm",
+    "notes": "Name changed to Air Horizons",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781312"
+  },
+  {
+    "name": "Euralair Horizons",
+    "IATA": "RN",
+    "ICAO": "EUL",
+    "website": "www.euralair.fr",
+    "notes": "ICAO Designator changed to EUH. Name changed from Euralair International. Designator RN reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781330"
+  },
+  {
+    "name": "Euralair International",
+    "IATA": "EK",
+    "ICAO": "EUI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781345"
+  },
+  {
+    "name": "Euralair International",
+    "IATA": "RN",
+    "ICAO": "EUL",
+    "website": "www.euralair.fr",
+    "notes": "ICAO designator change to ERL. Designator RN reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781364"
+  },
+  {
+    "name": "Euralair International",
+    "IATA": null,
+    "ICAO": "ERL",
+    "website": "www.euralair.com",
+    "notes": "Ceased operations in November 2003.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781383"
+  },
+  {
+    "name": "Euroberlin",
+    "IATA": "EE",
+    "ICAO": "EEB",
+    "website": null,
+    "notes": "Ceased operations. Formed by Air France and Lufthansa",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781400"
+  },
+  {
+    "name": "Eurocopter",
+    "IATA": null,
+    "ICAO": "ECF",
+    "website": null,
+    "notes": "Name changed to Airbus Helicopters",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781418"
+  },
+  {
+    "name": "Europe Aero Service",
+    "IATA": "EY",
+    "ICAO": "EYT",
+    "website": null,
+    "notes": "Name changed to EAS Europe Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781435"
+  },
+  {
+    "name": "Europe Aero Service National",
+    "IATA": null,
+    "ICAO": "EYN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781452"
+  },
+  {
+    "name": "Europe Airpost",
+    "IATA": null,
+    "ICAO": "FPO",
+    "website": "www.europeairpost.fr",
+    "notes": "Name changed to ASL Airlines France S.A. Name change from Societe Financiereale (S.F.A.)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781469"
+  },
+  {
+    "name": "Europe Falcon Service",
+    "IATA": null,
+    "ICAO": "EFS",
+    "website": null,
+    "notes": "ICAO designator changed to DSO. Designator FK recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781486"
+  },
+  {
+    "name": "Europe Falcon Service",
+    "IATA": "FK",
+    "ICAO": "EFS",
+    "website": null,
+    "notes": "Designator FK recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781504"
+  },
+  {
+    "name": "Executive Transports SA - Compagnie A\u00e9rienne UP",
+    "IATA": null,
+    "ICAO": "EXU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781520"
+  },
+  {
+    "name": "Faucher Aviation",
+    "IATA": null,
+    "ICAO": "FAU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781537"
+  },
+  {
+    "name": "Flandre Air Service",
+    "IATA": "IX",
+    "ICAO": "FRS",
+    "website": null,
+    "notes": "Merged into Regional Compagnie Aerienne Europeene 01 April 2001. Designator IX recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781555"
+  },
+  {
+    "name": "Flyeco",
+    "IATA": null,
+    "ICAO": "FLO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781571"
+  },
+  {
+    "name": "France Europe Aviajet",
+    "IATA": null,
+    "ICAO": "FEJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781588"
+  },
+  {
+    "name": "French Blue",
+    "IATA": "BF",
+    "ICAO": "FBU",
+    "website": "www.frenchblue.com",
+    "notes": "Name changed to French bee.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781605"
+  },
+  {
+    "name": "Gallic Aviation",
+    "IATA": null,
+    "ICAO": "GLI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781621"
+  },
+  {
+    "name": "Soci\u00e9t\u00e9 d'Exploration et de Constructions A\u00e9ronautiques (Groupe A\u00e9rospatiale)",
+    "IATA": null,
+    "ICAO": "SEK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781637"
+  },
+  {
+    "name": "Gyrafrance",
+    "IATA": null,
+    "ICAO": "GYR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781654"
+  },
+  {
+    "name": "Heli Air",
+    "IATA": null,
+    "ICAO": "LIR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781670"
+  },
+  {
+    "name": "Heli France",
+    "IATA": "8H",
+    "ICAO": "HFR",
+    "website": "www.helifrance.fr",
+    "notes": "Designator 8H recalled by IATA. Designator MY recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781688"
+  },
+  {
+    "name": "Heli France",
+    "IATA": "MY",
+    "ICAO": "HFR",
+    "website": null,
+    "notes": "Designator MY recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781705"
+  },
+  {
+    "name": "Heli Inter Riviera",
+    "IATA": null,
+    "ICAO": "HIN",
+    "website": "www.heliriviera.com/heli-inter.htm",
+    "notes": "Designator EC* recalled by IATA. Name changed from Heli-Inter SA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781723"
+  },
+  {
+    "name": "Heli Securite Helicopter Airline",
+    "IATA": "H4",
+    "ICAO": "HLI",
+    "website": "www.helicopter-saint-tropez.com",
+    "notes": "Designator H4 recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781740"
+  },
+  {
+    "name": "Heli Services",
+    "IATA": null,
+    "ICAO": "HES",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781756"
+  },
+  {
+    "name": "Heli Transport SA",
+    "IATA": "OI",
+    "ICAO": "HLT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781773"
+  },
+  {
+    "name": "Heli-Inter SA",
+    "IATA": "EC",
+    "ICAO": "HIN",
+    "website": null,
+    "notes": "Name changed to Heli Inter Riviera",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781790"
+  },
+  {
+    "name": "Hemet Exploration",
+    "IATA": null,
+    "ICAO": "HMT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781808"
+  },
+  {
+    "name": "Hex'Air",
+    "IATA": null,
+    "ICAO": "HER",
+    "website": "www.hexair.com",
+    "notes": "Merged with Twin Jet during January 2017.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781825"
+  },
+  {
+    "name": "Brit Air t/a HOP! Brit Air",
+    "IATA": "DB",
+    "ICAO": "BZH",
+    "website": "www.hop.fr",
+    "notes": "Name changed from Brit Air. Name changed from Brittany Air International",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781843"
+  },
+  {
+    "name": "Hop!-Airlinair",
+    "IATA": "A5",
+    "ICAO": "RLA",
+    "website": "www.hop.com",
+    "notes": "Name changed from Airlinair w.e.f. 31 March 2013. ICAO designator changed from ARF",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781860"
+  },
+  {
+    "name": "Regional Compagnie Aerienne Europeenne t/a HOP!-R\u00e9gional",
+    "IATA": "YS",
+    "ICAO": "RAE",
+    "website": "www.hop.fr",
+    "notes": "Merged into Air France w.e.f. 01 Septmerb 2019. Name changed from R\u00e9gional Compagnie A\u00e9rienne Europ\u00e9enne. Designator YS reinstated by IATA. ICAO designator changed from PRS. Formed 04/2001 by merger of Flandre Air, Protues Air and Regional Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781880"
+  },
+  {
+    "name": "Hyeres Sero Service",
+    "IATA": null,
+    "ICAO": "HYE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781898"
+  },
+  {
+    "name": "Icare Franche Comte",
+    "IATA": null,
+    "ICAO": "FRC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781915"
+  },
+  {
+    "name": "ICS Inter Ceil Service",
+    "IATA": null,
+    "ICAO": "ICS",
+    "website": null,
+    "notes": "Name changed from Intercargo Service. Associated with Air Charter, Air Inter, E.A.S and TAT",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781933"
+  },
+  {
+    "name": "INAER Helicopter France",
+    "IATA": "HN",
+    "ICAO": "PTH",
+    "website": "www.inaer.fr",
+    "notes": "Name changed to Babcock Mission Critical Services France. Name changed from Proteus Helicopters.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781951"
+  },
+  {
+    "name": "Industries Air Charter - IAC",
+    "IATA": null,
+    "ICAO": "IAZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781969"
+  },
+  {
+    "name": "Intercargo Service",
+    "IATA": null,
+    "ICAO": "ICS",
+    "website": null,
+    "notes": "Name changed to ICS Inter Ceil Service. Associated with Air Charter, Air Inter, E.A.S and TAT",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.781986"
+  },
+  {
+    "name": "Jet Alsace",
+    "IATA": null,
+    "ICAO": "JLS",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782002"
+  },
+  {
+    "name": "Jet Fret SA",
+    "IATA": "JF",
+    "ICAO": "JFT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782023"
+  },
+  {
+    "name": "Jetway",
+    "IATA": null,
+    "ICAO": "JWT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782043"
+  },
+  {
+    "name": "JOON",
+    "IATA": "JN",
+    "ICAO": "JON",
+    "website": "www.flyjoon.com",
+    "notes": "Merged back into Air France on 27 June 2019. Founded on 20 July 2017. Subsidary of Air France. Commenced operatioons on 01 December 2017.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782062"
+  },
+  {
+    "name": "Kal Air",
+    "IATA": null,
+    "ICAO": "CET",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782079"
+  },
+  {
+    "name": "Kyrnair",
+    "IATA": null,
+    "ICAO": "KYN",
+    "website": null,
+    "notes": "Designator V4* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782096"
+  },
+  {
+    "name": "Kyrnair",
+    "IATA": null,
+    "ICAO": "KYN",
+    "website": null,
+    "notes": "Designator V4* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782113"
+  },
+  {
+    "name": "L.Air",
+    "IATA": null,
+    "ICAO": "LRK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782129"
+  },
+  {
+    "name": "La Societe Seca",
+    "IATA": "FV",
+    "ICAO": "CEK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782144"
+  },
+  {
+    "name": "L-Air Holdings",
+    "IATA": null,
+    "ICAO": "AEY",
+    "website": "www.l-air-holding.com",
+    "notes": "Airline Liquidqted by courts 26 December 2002. Designator 4Q recalled by IATA. Name changed from Aerolyon",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782163"
+  },
+  {
+    "name": "L-Air Holdings",
+    "IATA": "4Q",
+    "ICAO": "AEY",
+    "website": "www.l-air-holding.com",
+    "notes": "Designator 4Q recalled by IATA. Name changed from Aerolyon",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782180"
+  },
+  {
+    "name": "Lance Aviation",
+    "IATA": null,
+    "ICAO": "LCE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782195"
+  },
+  {
+    "name": "Elysair S.A.S. d/b/a L'Avion",
+    "IATA": "EC",
+    "ICAO": "AVI",
+    "website": "www.lavion.com",
+    "notes": "Merged into Openskies. IATA designator changed from A0.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782212"
+  },
+  {
+    "name": "Elysair S.A.S. d/b/a L'Avion",
+    "IATA": "A0",
+    "ICAO": "AVI",
+    "website": "www.lavion.com",
+    "notes": "Merged into Openskies. IATA designator changed to EC.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782230"
+  },
+  {
+    "name": "Leadair Jet Service",
+    "IATA": "FE",
+    "ICAO": "LEA",
+    "website": null,
+    "notes": "Designator FE recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782249"
+  },
+  {
+    "name": "Leadair Jet Service",
+    "IATA": null,
+    "ICAO": "LEA",
+    "website": null,
+    "notes": "Name changed to Leadair Unijet",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782266"
+  },
+  {
+    "name": "OpenSkies SASU c.o.b. as LEVEL",
+    "IATA": "LV",
+    "ICAO": "BOS",
+    "website": "www.flylevel.com",
+    "notes": "Ceased operations on 08 July 2020. Name changed from OpenSkies SASU. IATA code changed from EC",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782285"
+  },
+  {
+    "name": "Locavia 49",
+    "IATA": null,
+    "ICAO": "LOC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782301"
+  },
+  {
+    "name": "Locavions Aero Services",
+    "IATA": null,
+    "ICAO": "PAU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782317"
+  },
+  {
+    "name": "Lucas Aigle Azur",
+    "IATA": "LK",
+    "ICAO": "AAF",
+    "website": null,
+    "notes": "Name changed to Aigle Azur",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782333"
+  },
+  {
+    "name": "Lucas Air Transport",
+    "IATA": "LK",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782350"
+  },
+  {
+    "name": "Lyon Air",
+    "IATA": null,
+    "ICAO": "LYA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782366"
+  },
+  {
+    "name": "Manag'Air",
+    "IATA": null,
+    "ICAO": "MRG",
+    "website": "www.manag-air.com",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782383"
+  },
+  {
+    "name": "Marie Galante Aviation",
+    "IATA": null,
+    "ICAO": "MGM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782399"
+  },
+  {
+    "name": "Michelin Air Services",
+    "IATA": "IM",
+    "ICAO": "BIB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782426"
+  },
+  {
+    "name": "Minerve, S.A.",
+    "IATA": "IW",
+    "ICAO": "MIN",
+    "website": null,
+    "notes": "Name changed to AOM - Minerve, S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782443"
+  },
+  {
+    "name": "Minerve",
+    "IATA": "FQ",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782460"
+  },
+  {
+    "name": "Miriadair",
+    "IATA": null,
+    "ICAO": "MYR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782479"
+  },
+  {
+    "name": "Montlucon Air Service - MAS",
+    "IATA": null,
+    "ICAO": "MLU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782495"
+  },
+  {
+    "name": "Nancy Air Transport Executive",
+    "IATA": null,
+    "ICAO": "NCY",
+    "website": null,
+    "notes": "Name changed from DK Flight",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782513"
+  },
+  {
+    "name": "Nice Helicopteres",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.heliriviera.com/nice-helicopters.htm",
+    "notes": "Designator JX* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782531"
+  },
+  {
+    "name": "Normandie Air Services",
+    "IATA": null,
+    "ICAO": "NDS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782547"
+  },
+  {
+    "name": "Normandie Aviation",
+    "IATA": "ID",
+    "ICAO": "RNO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782564"
+  },
+  {
+    "name": "Normandie Aviation",
+    "IATA": null,
+    "ICAO": "RNO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782582"
+  },
+  {
+    "name": "Novajet",
+    "IATA": null,
+    "ICAO": "NJT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782599"
+  },
+  {
+    "name": "O.H. Aviation",
+    "IATA": null,
+    "ICAO": "OHA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782616"
+  },
+  {
+    "name": "Occitania Jet Fleet",
+    "IATA": null,
+    "ICAO": "OJF",
+    "website": "www.occitania.net",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782633"
+  },
+  {
+    "name": "Ocean Airlines",
+    "IATA": null,
+    "ICAO": "OCF",
+    "website": "ocean.airlines.free.fr",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782651"
+  },
+  {
+    "name": "Ocean Airways",
+    "IATA": "OG",
+    "ICAO": "OCW",
+    "website": null,
+    "notes": "Designator OG recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782669"
+  },
+  {
+    "name": "Octavia Airlines",
+    "IATA": null,
+    "ICAO": "OCN",
+    "website": "www.octavia.fr",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782685"
+  },
+  {
+    "name": "OpenSkies SASU",
+    "IATA": "LV",
+    "ICAO": "BOS",
+    "website": "www.flyopenskies.com",
+    "notes": "Name changhed to OpenSkies SASU c.o.b. as LEVEL. IATA code changed from EC",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782702"
+  },
+  {
+    "name": "OpenSkies",
+    "IATA": "EC",
+    "ICAO": "AVI",
+    "website": "www.flyopenskies.com",
+    "notes": "Name changed from Elysair S.A.S. d/b/a L'Avion. Merged into Openskies. IATA designator changed from A0",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782720"
+  },
+  {
+    "name": "Openskies",
+    "IATA": "EC",
+    "ICAO": "BOS",
+    "website": "www.flyopenskies.com",
+    "notes": "IATA code changed to LV",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782735"
+  },
+  {
+    "name": "SNCF-C6 SASU",
+    "IATA": "O8",
+    "ICAO": null,
+    "website": "www.ouibus.com",
+    "notes": "Bus Service",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782752"
+  },
+  {
+    "name": "Prest'affair",
+    "IATA": null,
+    "ICAO": "PTF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782768"
+  },
+  {
+    "name": "Professional Air System - PAS",
+    "IATA": null,
+    "ICAO": "PSL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782785"
+  },
+  {
+    "name": "Proteus Airlines",
+    "IATA": "YS",
+    "ICAO": "PRB",
+    "website": null,
+    "notes": "Name changed to Regional Compagnie Aerienne Europeene on 30 March 2001.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782802"
+  },
+  {
+    "name": "Proteus Helicopters",
+    "IATA": "HN",
+    "ICAO": "PTH",
+    "website": "www.proteus-helicopteres.com",
+    "notes": "Name changed to INAER Helicopter France.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782819"
+  },
+  {
+    "name": "Provence Aero Service",
+    "IATA": null,
+    "ICAO": "RPA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782836"
+  },
+  {
+    "name": "Provence Aero Service",
+    "IATA": null,
+    "ICAO": "PRA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782853"
+  },
+  {
+    "name": "R Lines, S.A.",
+    "IATA": null,
+    "ICAO": "RLI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782871"
+  },
+  {
+    "name": "Rapid Air",
+    "IATA": null,
+    "ICAO": "RAP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782886"
+  },
+  {
+    "name": "Rectimo Air Transport",
+    "IATA": null,
+    "ICAO": "RCT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782902"
+  },
+  {
+    "name": "R\u00e9gional Compagnie A\u00e9rienne Europ\u00e9enne",
+    "IATA": "YS",
+    "ICAO": "RAE",
+    "website": "www.regional.com",
+    "notes": "Name changed to Regional Compagnie Aerienne Europeenne t/a HOP!-R\u00e9gional. Designator YS reinstated by IATA. ICAO designator changed from PRS. Formed 04/2001 by merger of Flandre Air, Protues Air and Regional Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782922"
+  },
+  {
+    "name": "Regional Airlines",
+    "IATA": "VM",
+    "ICAO": "RGI",
+    "website": null,
+    "notes": "Merged into Regional Compagnie Aerienne Europeene",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782939"
+  },
+  {
+    "name": "Regional Compagnie Aerienne Europeene",
+    "IATA": "YS",
+    "ICAO": "PRB",
+    "website": null,
+    "notes": "Formed from merger of Proteus Airlines, Flandre Air, and Regional Airlines.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782957"
+  },
+  {
+    "name": "Regourd Aviation",
+    "IATA": null,
+    "ICAO": "REG",
+    "website": "www.regourdaviation.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782973"
+  },
+  {
+    "name": "Rhonavia SA",
+    "IATA": null,
+    "ICAO": "RHN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.782990"
+  },
+  {
+    "name": "Rousseau Aviation",
+    "IATA": "RU",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783007"
+  },
+  {
+    "name": "S.A.R. Avions Taxis - Services A\u00e9ronautiques Roannais",
+    "IATA": null,
+    "ICAO": "RNS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783025"
+  },
+  {
+    "name": "Sefa",
+    "IATA": null,
+    "ICAO": "SFA",
+    "website": null,
+    "notes": "Name changed to ENAC.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783043"
+  },
+  {
+    "name": "SEFA",
+    "IATA": null,
+    "ICAO": "FCT",
+    "website": null,
+    "notes": "Name changed from CNFA (SFACT)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783060"
+  },
+  {
+    "name": "Service Aerien Francais",
+    "IATA": null,
+    "ICAO": "SHP",
+    "website": null,
+    "notes": "Name changed to SAF Helicopteres",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783076"
+  },
+  {
+    "name": "Sinair",
+    "IATA": null,
+    "ICAO": "SIN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783093"
+  },
+  {
+    "name": "SNCF",
+    "IATA": null,
+    "ICAO": "TGV",
+    "website": "www.sncf.com",
+    "notes": "Railway Service",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783145"
+  },
+  {
+    "name": "Soci\u00e9t\u00e9 Aerienne Francaise d'Affretements",
+    "IATA": "SF",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783161"
+  },
+  {
+    "name": "Societe Air Charter SAFA",
+    "IATA": "SF",
+    "ICAO": "ACF",
+    "website": null,
+    "notes": "Name changed to Air Charter",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783178"
+  },
+  {
+    "name": "Soci\u00e9t\u00e9 D\u2019Exploitation Aeropostale",
+    "IATA": "5S",
+    "ICAO": "ARP",
+    "website": null,
+    "notes": "Designator 5S recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783198"
+  },
+  {
+    "name": "Soci\u00e9t\u00e9 D\u2019Exploitation Aeropostale",
+    "IATA": null,
+    "ICAO": "ARP",
+    "website": null,
+    "notes": "Designator 5S recalled by IATA. Designator 5S reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783217"
+  },
+  {
+    "name": "Soci\u00e9t\u00e9 D\u2019Exploitation Aeropostale",
+    "IATA": null,
+    "ICAO": "ARP",
+    "website": null,
+    "notes": "Designator 5S recalled by IATA. Designator 5S reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783234"
+  },
+  {
+    "name": "Soci\u00e9t\u00e9 Financiereale (S.F.A.)",
+    "IATA": null,
+    "ICAO": "FPO",
+    "website": null,
+    "notes": "Name change to Europe Airpost",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783252"
+  },
+  {
+    "name": "Societe Nouvelle Exploitation d'Air Provence",
+    "IATA": null,
+    "ICAO": "APR",
+    "website": null,
+    "notes": "Name changed to Compagnie Air Provence",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783269"
+  },
+  {
+    "name": "Societe SECA",
+    "IATA": null,
+    "ICAO": "SEK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783285"
+  },
+  {
+    "name": "Sogervair - Transoceanic Aviation",
+    "IATA": null,
+    "ICAO": "OAT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783301"
+  },
+  {
+    "name": "SPARFELL France SA",
+    "IATA": null,
+    "ICAO": "MIM",
+    "website": "www.sparfell.aero",
+    "notes": "Name changed to Millesime Aviation (MIM) S.A.S. Name changed from Speedwings France SA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783320"
+  },
+  {
+    "name": "Speedwings France SA",
+    "IATA": null,
+    "ICAO": "MIM",
+    "website": "www.flyspeedwings.com",
+    "notes": "Name changed to SPARFELL France",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783336"
+  },
+  {
+    "name": "STAR Airlines",
+    "IATA": "2R",
+    "ICAO": "SEU",
+    "website": "www.star-airlines.fr",
+    "notes": "IATA Designator changed to SE. Name changed from STAR Europe (Societe de Transport Aerien Regional)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783353"
+  },
+  {
+    "name": "STAR Airlines",
+    "IATA": "SE",
+    "ICAO": "SEU",
+    "website": "www.star-airlines.fr",
+    "notes": "Name changed to XL Ariways France. Name changed from STAR Europe (Societe de Transport Aerien Regional) IATA Designator changed from 2R",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783371"
+  },
+  {
+    "name": "STAR Europe (Soci\u00e9t\u00e9 de Transport Aerien Regional)",
+    "IATA": "2R",
+    "ICAO": "SEU",
+    "website": null,
+    "notes": "Name changed to STAR Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783389"
+  },
+  {
+    "name": "Stellair T.A.",
+    "IATA": null,
+    "ICAO": "STR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783405"
+  },
+  {
+    "name": "Strategic Airlines SAS",
+    "IATA": "EF",
+    "ICAO": "STZ",
+    "website": "www.flystrategic.com",
+    "notes": "AOC revoked/not renewed",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783421"
+  },
+  {
+    "name": "Sud Airlines",
+    "IATA": null,
+    "ICAO": "SDU",
+    "website": "www.sudairlines.fr",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783437"
+  },
+  {
+    "name": "T.A.T. European Airlines",
+    "IATA": "VD",
+    "ICAO": "TAT",
+    "website": null,
+    "notes": "Designator VD recalled by IATA. IATA designator changed from IJ",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783454"
+  },
+  {
+    "name": "TAM Transports A\u00e9riens M\u00e9diterran\u00e9ens",
+    "IATA": null,
+    "ICAO": "TRM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783471"
+  },
+  {
+    "name": "TAT - Transport A\u00e9rien Transr\u00e9gional (Charter Flights)",
+    "IATA": "IO",
+    "ICAO": "TAD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783487"
+  },
+  {
+    "name": "TAT - Transport A\u00e9rien Transr\u00e9gional",
+    "IATA": "IJ",
+    "ICAO": "TAT",
+    "website": null,
+    "notes": "Renamed TAT European Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783504"
+  },
+  {
+    "name": "TAT European Airlines",
+    "IATA": "IJ",
+    "ICAO": "TAT",
+    "website": null,
+    "notes": "IJ prefix transfered to Air Liberte - Ops under TA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783521"
+  },
+  {
+    "name": "Taxi Air Fret",
+    "IATA": null,
+    "ICAO": "TRF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783536"
+  },
+  {
+    "name": "TEA France",
+    "IATA": "FN",
+    "ICAO": "TFR",
+    "website": null,
+    "notes": "Ceased operations on 27 September 1991.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783553"
+  },
+  {
+    "name": "Tecnavia",
+    "IATA": null,
+    "ICAO": "TNV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783567"
+  },
+  {
+    "name": "Touraine Air Transport",
+    "IATA": "IJ",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783583"
+  },
+  {
+    "name": "Trans Air Bretagne - TAB",
+    "IATA": null,
+    "ICAO": "TRB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783600"
+  },
+  {
+    "name": "Trans Alsace",
+    "IATA": null,
+    "ICAO": "TAS",
+    "website": null,
+    "notes": "Airline Founded in May 1993. Ceased Operations on 03 July 1994.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783616"
+  },
+  {
+    "name": "Trans Europe Air",
+    "IATA": "KZ",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783632"
+  },
+  {
+    "name": "Transairco",
+    "IATA": "DH",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783648"
+  },
+  {
+    "name": "Transcaraibes Air International",
+    "IATA": null,
+    "ICAO": "NOE",
+    "website": "www.air-tropical.com",
+    "notes": "Designator DZ* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783666"
+  },
+  {
+    "name": "Transmanche Aviation",
+    "IATA": null,
+    "ICAO": "TMH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783682"
+  },
+  {
+    "name": "Transport Air Centre",
+    "IATA": null,
+    "ICAO": "CTR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783697"
+  },
+  {
+    "name": "Trans-Union",
+    "IATA": "UO",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783714"
+  },
+  {
+    "name": "Uni-Air",
+    "IATA": null,
+    "ICAO": "UAR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783730"
+  },
+  {
+    "name": "Uni-Air International",
+    "IATA": null,
+    "ICAO": "UAI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783745"
+  },
+  {
+    "name": "UTA - Union De Transport Aerien",
+    "IATA": "UT",
+    "ICAO": "UTA",
+    "website": null,
+    "notes": "Merged into Air France",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783762"
+  },
+  {
+    "name": "La Baule Aviation t/a Valljet",
+    "IATA": null,
+    "ICAO": "VLJ",
+    "website": "www.valljet.com",
+    "notes": "Name changed to Valljet S.A. w.e.f 31 May 2019.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783779"
+  },
+  {
+    "name": "Virgin Express France",
+    "IATA": null,
+    "ICAO": "VEF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783796"
+  },
+  {
+    "name": "Wallisair",
+    "IATA": null,
+    "ICAO": "WLR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783814"
+  },
+  {
+    "name": "West-Air.fr",
+    "IATA": null,
+    "ICAO": "FWA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783830"
+  },
+  {
+    "name": "World Air Cargo",
+    "IATA": null,
+    "ICAO": "WAX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783847"
+  },
+  {
+    "name": "XL Airways France",
+    "IATA": "SE",
+    "ICAO": "XLF",
+    "website": "www.star-airlines.fr",
+    "notes": "Name changed from STAR Airlines. ICAO designator changed from SEU. Name changed from STAR Europe (Societe de Transport Aerien Regional) IATA Designator changed from 2R",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783864"
+  },
+  {
+    "name": "XL Airways France",
+    "IATA": "SE",
+    "ICAO": "XLF",
+    "website": "www.xlairways.fr",
+    "notes": "Ceased operations on 30 September 2019. Name changed from STAR Airlines. ICAO designator changed from SEU. Name changed from STAR Europe (Societe de Transport Aerien Regional) IATA Designator changed from 2R",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783884"
+  },
+  {
+    "name": "Air Anjou Transport",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Ceased operations in January 1980",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783901"
+  },
+  {
+    "name": "SFAir",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Ceased operations on 31 December 1979.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:09.783918"
+  }
+]

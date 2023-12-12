@@ -1,0 +1,398 @@
+[
+  {
+    "name": "Airwaver Airlink Limited",
+    "IATA": null,
+    "ICAO": "WLA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:59.660321"
+  },
+  {
+    "name": "Equatair Air Service (Z) Limited",
+    "IATA": null,
+    "ICAO": "EQZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:59.660352"
+  },
+  {
+    "name": "Fastjet Zambia Limited",
+    "IATA": null,
+    "ICAO": "FJB",
+    "website": "www.fastjet.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:59.660371"
+  },
+  {
+    "name": "Government of Zambia Communications Flight (Aircraft)",
+    "IATA": null,
+    "ICAO": "GRZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:59.660388"
+  },
+  {
+    "name": "Onetime Airlines Zambia Limited",
+    "IATA": null,
+    "ICAO": "OTM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:59.660404"
+  },
+  {
+    "name": "Phoebus Apollo Zambia",
+    "IATA": null,
+    "ICAO": "KZM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:59.660419"
+  },
+  {
+    "name": "Proflight Commuter Services Limited",
+    "IATA": "P0",
+    "ICAO": "PFZ",
+    "website": "www.proflight-zambia.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:59.660435"
+  },
+  {
+    "name": "Royal Air Charters",
+    "IATA": null,
+    "ICAO": "RAC",
+    "website": "www.royalaircharters.com",
+    "notes": "Designator 3Q recalled by IATA.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:59.660452"
+  },
+  {
+    "name": "Royal Zambian Airlines",
+    "IATA": null,
+    "ICAO": "QZR",
+    "website": "www.royalzambianairlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:59.660468"
+  },
+  {
+    "name": "Southern Aviation Limited",
+    "IATA": null,
+    "ICAO": "SOI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:59.660483"
+  },
+  {
+    "name": "Stabo Air Limited",
+    "IATA": "4E",
+    "ICAO": "SBO",
+    "website": "staboair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:59.660499"
+  },
+  {
+    "name": "Stabo Freight Limited",
+    "IATA": null,
+    "ICAO": "SOB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:59.660514"
+  },
+  {
+    "name": "Zambia Airways (2014) Limited",
+    "IATA": "ZN",
+    "ICAO": "AZB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:59.660530"
+  },
+  {
+    "name": "Zambia Skyways Ltd.",
+    "IATA": null,
+    "ICAO": "ZAK",
+    "website": "www.zambiaskyways.com.zm",
+    "notes": "Designator X7 recalled by IATA, ICAO designator changed from EAZ. Formerly Eastern Air Ltd. / IATA code changed from X7*",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:59.660547"
+  },
+  {
+    "name": "Aero Zambia",
+    "IATA": "Z9",
+    "ICAO": "RZL",
+    "website": null,
+    "notes": "Designator Z9 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:59.660564"
+  },
+  {
+    "name": "Africa Freight Services (Z) Limited",
+    "IATA": null,
+    "ICAO": "AFZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:59.660580"
+  },
+  {
+    "name": "Africa One (Zambia) Ltd.",
+    "IATA": null,
+    "ICAO": "AZL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:59.660595"
+  },
+  {
+    "name": "Air Charters (Zambia) Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:59.660611"
+  },
+  {
+    "name": "Air Yendis Limited",
+    "IATA": null,
+    "ICAO": "SYD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:59.660626"
+  },
+  {
+    "name": "Avient Air Zambia Limited",
+    "IATA": null,
+    "ICAO": "VNT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:59.660641"
+  },
+  {
+    "name": "Eastern Air Ltd.",
+    "IATA": null,
+    "ICAO": "EAZ",
+    "website": null,
+    "notes": "Named changed to Zambia Skyways",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:59.660657"
+  },
+  {
+    "name": "Gateway Aviation",
+    "IATA": null,
+    "ICAO": "GTW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:59.660671"
+  },
+  {
+    "name": "Kafue International Air Services Limited",
+    "IATA": null,
+    "ICAO": "KAF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:59.660687"
+  },
+  {
+    "name": "Kudu Air Services Limited",
+    "IATA": null,
+    "ICAO": "KUD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:59.660702"
+  },
+  {
+    "name": "Lupenga Air Charters",
+    "IATA": null,
+    "ICAO": "LUP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:59.660717"
+  },
+  {
+    "name": "Mahogany Air Charters",
+    "IATA": "KT",
+    "ICAO": "HOG",
+    "website": "flymahogany.com",
+    "notes": "Suspended operations in 2014.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:59.660734"
+  },
+  {
+    "name": "Mines Air Services Ltd.",
+    "IATA": "QW",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:59.660748"
+  },
+  {
+    "name": "Mines Air Services Zambia Limited",
+    "IATA": "Q3",
+    "ICAO": "MAZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:59.660764"
+  },
+  {
+    "name": "Nationwide Airlines (Zambia) Ltd.",
+    "IATA": null,
+    "ICAO": "NWZ",
+    "website": "www.nationwideair.co.za",
+    "notes": "Designator 4J* reinstated by IATA. Founded in 1991",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:59.660782"
+  },
+  {
+    "name": "Proflight Commuter Services Limited",
+    "IATA": null,
+    "ICAO": "PFZ",
+    "website": "www.proflight-zambia.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:59.660798"
+  },
+  {
+    "name": "Roan Air",
+    "IATA": "Q3",
+    "ICAO": "MAZ",
+    "website": null,
+    "notes": "Name changed to Zambian Airways",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:59.660814"
+  },
+  {
+    "name": "Royal Air Charters",
+    "IATA": "3Q",
+    "ICAO": "RAC",
+    "website": "www.royalaircharters.com",
+    "notes": "Designator 3Q recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:59.660829"
+  },
+  {
+    "name": "Sidfin Air Limited",
+    "IATA": null,
+    "ICAO": "SID",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:59.660844"
+  },
+  {
+    "name": "Travel International Air Charters Ltd.",
+    "IATA": null,
+    "ICAO": "TIC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:59.660860"
+  },
+  {
+    "name": "Woodgate Air Services Limited",
+    "IATA": null,
+    "ICAO": "WHL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:59.660875"
+  },
+  {
+    "name": "Zambezi Airlines",
+    "IATA": null,
+    "ICAO": "ZMA",
+    "website": "www.flyzambezi.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:59.660890"
+  },
+  {
+    "name": "Zambia Airways Ltd.",
+    "IATA": null,
+    "ICAO": "MBW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:59.660905"
+  },
+  {
+    "name": "Zambia Airways",
+    "IATA": "QZ",
+    "ICAO": "ZAC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:59.660920"
+  },
+  {
+    "name": "Zambia Skyways Ltd.",
+    "IATA": "X7",
+    "ICAO": "EAZ",
+    "website": null,
+    "notes": "Designator X7 reinstated by IATA, ICAO designator changed to ZAK. Formerly Eastern Air Ltd. / IATA code changed from X7*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:59.660937"
+  },
+  {
+    "name": "Zambia Skyways",
+    "IATA": null,
+    "ICAO": "EAZ",
+    "website": null,
+    "notes": "Formerly Eastern Air Ltd. / IATA code changed to X7",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:59.660953"
+  },
+  {
+    "name": "Zambia Skyways Ltd.",
+    "IATA": "X7",
+    "ICAO": "ZAK",
+    "website": "www.zambiatourism.com/zambiaskways/",
+    "notes": "Designator X7 recalled by IATA, ICAO designator changed from EAZ. Formerly Eastern Air Ltd. / IATA code changed from X7*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:59.660971"
+  },
+  {
+    "name": "Zambian Airways",
+    "IATA": "Q3",
+    "ICAO": "MAZ",
+    "website": null,
+    "notes": "ICAO designator changed to MBN. Formerly Roan Air",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:59.660987"
+  },
+  {
+    "name": "Zambian Airways",
+    "IATA": "Q3",
+    "ICAO": "MBN",
+    "website": "africa-insites.com/zambia/roanair.htm",
+    "notes": "Suspened Operation January 2009. ICAO designator changed from MAZ. Formerly Roan Air. ICAO callsin changed from Mines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:59.661004"
+  },
+  {
+    "name": "Zambian Express Airways (19195) Limited",
+    "IATA": "OQ",
+    "ICAO": "SZX",
+    "website": null,
+    "notes": "Designator OQ recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:59.661020"
+  }
+]

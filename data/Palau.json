@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Aviation Matters, Inc. (PacificFlyer)",
+    "IATA": null,
+    "ICAO": "PFL",
+    "website": null,
+    "notes": "Designator PI* recalled by IATA.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:07.075262"
+  },
+  {
+    "name": "Palau Asia Pacific Airlines",
+    "IATA": null,
+    "ICAO": "PPC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:07.075291"
+  },
+  {
+    "name": "Palau Express Airlines Corporation",
+    "IATA": "P9",
+    "ICAO": "PXC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:07.075308"
+  },
+  {
+    "name": "Package Express",
+    "IATA": null,
+    "ICAO": "PTP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:07.075325"
+  },
+  {
+    "name": "Royal Belau Airways",
+    "IATA": null,
+    "ICAO": "RBL",
+    "website": "royalbelauairways.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:07.075343"
+  },
+  {
+    "name": "Aviation Matters, Inc. (PacificFlyer)",
+    "IATA": null,
+    "ICAO": "PFL",
+    "website": null,
+    "notes": "Designator PI* recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:07.075361"
+  },
+  {
+    "name": "Palau Airways Corp",
+    "IATA": "P7",
+    "ICAO": "PAU",
+    "website": "www.palauairways.com",
+    "notes": "Founded in 2011. Ceased operations in April 2013.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:07.075379"
+  },
+  {
+    "name": "Palau Asia Pacific Air Inc",
+    "IATA": "0P",
+    "ICAO": null,
+    "website": "www.palau-air.com",
+    "notes": "Designator 0P recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:07.075396"
+  },
+  {
+    "name": "Palau National Airlines",
+    "IATA": "4L",
+    "ICAO": "PNA",
+    "website": null,
+    "notes": "IATA designator changed from 9P.  ICAO Callsign changed from Sebus.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:07.075413"
+  },
+  {
+    "name": "Palau National Airlines",
+    "IATA": "9P",
+    "ICAO": "PNA",
+    "website": null,
+    "notes": "IATA designator changed to 4L. ICAO Callsign changed to Tropic Bird",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:07.075430"
+  },
+  {
+    "name": "Palau Rock Island Air",
+    "IATA": "PD",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:07.075447"
+  },
+  {
+    "name": "Palau Trans Pacific Airlines, Inc.",
+    "IATA": "GP",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator GP recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:07.075464"
+  }
+]

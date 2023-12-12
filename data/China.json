@@ -1,0 +1,2351 @@
+[
+  {
+    "name": "Nine Air Co., Ltd. t/a 9air.com",
+    "IATA": "AQ",
+    "ICAO": "JYH",
+    "website": "9air.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.169822"
+  },
+  {
+    "name": "Accounting Centre of China Aviation",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.169854"
+  },
+  {
+    "name": "Changan Airlines Limited Company t/a Air Changan",
+    "IATA": "9H",
+    "ICAO": "CGN",
+    "website": "www.airchangan.con",
+    "notes": "Designator 2Z recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.169876"
+  },
+  {
+    "name": "Air China Limited",
+    "IATA": "CA",
+    "ICAO": "CCA",
+    "website": "www.airchina.com.cn",
+    "notes": "Name changed from Air China International Corporation. Name changed from CAAC - Civil Aviation Administration of China",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.169898"
+  },
+  {
+    "name": "Air China Cargo Co., Ltd.",
+    "IATA": null,
+    "ICAO": "CAO",
+    "website": "www.airchinacargo.com/en/",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.169919"
+  },
+  {
+    "name": "Air China Inner Mongolia",
+    "IATA": null,
+    "ICAO": "CNM",
+    "website": "www.airchina.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.169939"
+  },
+  {
+    "name": "Air Guilin Co., Ltd.",
+    "IATA": "GT",
+    "ICAO": "CGH",
+    "website": "www.airguilin.com",
+    "notes": "Commenced operations on 25 June 2016.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.169958"
+  },
+  {
+    "name": "Air Travel Co., Ltd.",
+    "IATA": "A6",
+    "ICAO": "OTC",
+    "website": "a6air.com",
+    "notes": "Name changed from Yunnan Hong Tu Airlines Co., Ltd. ICAO designator changed from HTU.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.169978"
+  },
+  {
+    "name": "Allpoints Jet Co., Ltd.",
+    "IATA": null,
+    "ICAO": "ALP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.169998"
+  },
+  {
+    "name": "Amber Aviation Limited",
+    "IATA": null,
+    "ICAO": "TCI",
+    "website": "www.amber-aviation.com",
+    "notes": "Established in February 2017.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170016"
+  },
+  {
+    "name": "Anhui Sky-Aviation International Flight Academy Company Ltd.",
+    "IATA": null,
+    "ICAO": "WED",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170035"
+  },
+  {
+    "name": "Apex Air Co., Ltd.",
+    "IATA": null,
+    "ICAO": "XAI",
+    "website": "www.apexair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170054"
+  },
+  {
+    "name": "Asian Express General Aviation Wuxi Co., Ltd.",
+    "IATA": "YJ",
+    "ICAO": "WUA",
+    "website": "www.asian-express.cn",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170075"
+  },
+  {
+    "name": "Astro Air Co., Ltd.",
+    "IATA": null,
+    "ICAO": "SZA",
+    "website": "www.astroair.net",
+    "notes": "Name changed from Shenzhen Astro General Aviation Co., Ltd.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170094"
+  },
+  {
+    "name": "Aviation Leader General Aviation Co., Ltd",
+    "IATA": null,
+    "ICAO": "LHG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170111"
+  },
+  {
+    "name": "Avic Joy General Aviation Co., Ltd.",
+    "IATA": null,
+    "ICAO": "HAJ",
+    "website": null,
+    "notes": "Name changed from Zhoushan Avic Joy General Aviation Co., Ltd.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170129"
+  },
+  {
+    "name": "BAA Aviation Limited",
+    "IATA": null,
+    "ICAO": "CCI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170146"
+  },
+  {
+    "name": "Beijing Airlines Co., Ltd",
+    "IATA": null,
+    "ICAO": "BJN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170163"
+  },
+  {
+    "name": "Beijing Capital Airlines Co., Ltd",
+    "IATA": "JD",
+    "ICAO": "CBJ",
+    "website": "www.capitalairlines.com.cn",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170182"
+  },
+  {
+    "name": "Beijing Capital Airlines Helicopter General Aviation Services Co., Ltd",
+    "IATA": null,
+    "ICAO": "BSH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170200"
+  },
+  {
+    "name": "Beijing City International Business Jet Co., Ltd",
+    "IATA": null,
+    "ICAO": "CWR",
+    "website": null,
+    "notes": "Name changed from Beijing City International Jet Co., Ltd.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170218"
+  },
+  {
+    "name": "Beijing Eofa International Jet Co., Ltd.",
+    "IATA": null,
+    "ICAO": "OUF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170235"
+  },
+  {
+    "name": "Beijing Mayboune General Aviation Co., Ltd.",
+    "IATA": null,
+    "ICAO": "LLJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170253"
+  },
+  {
+    "name": "Beijing Mykylin General Aviation Co., Ltd.",
+    "IATA": null,
+    "ICAO": "MYK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170270"
+  },
+  {
+    "name": "Beijing Orenda Tribe General Aviation Co., Ltd.",
+    "IATA": null,
+    "ICAO": "OLD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170288"
+  },
+  {
+    "name": "Beijing Panam International Aviaition Academy Co. Ltd.",
+    "IATA": null,
+    "ICAO": "BFM",
+    "website": "www.panamaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170307"
+  },
+  {
+    "name": "Beijing Tianxinai General Aviation Company Limited",
+    "IATA": null,
+    "ICAO": "VGB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170324"
+  },
+  {
+    "name": "Beijing VistaJet Aviation Co., Ltd",
+    "IATA": null,
+    "ICAO": "BJV",
+    "website": "www.vistajet.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170342"
+  },
+  {
+    "name": "Beyond General Aviation Co., Ltd.",
+    "IATA": null,
+    "ICAO": "BNB",
+    "website": "www.beyond-air.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170361"
+  },
+  {
+    "name": "Big White Bear Jet Co., Ltd.",
+    "IATA": null,
+    "ICAO": "DBX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170378"
+  },
+  {
+    "name": "Brilliant Jet Co., Ltd.",
+    "IATA": null,
+    "ICAO": "TXJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170395"
+  },
+  {
+    "name": "CDI Cargo Airlines Co., Ltd.",
+    "IATA": null,
+    "ICAO": "CDI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170417"
+  },
+  {
+    "name": "Central Airlines Co., Ltd.",
+    "IATA": "I9",
+    "ICAO": "HLF",
+    "website": null,
+    "notes": "Name changed from Homeland Airlines Co., Ltd. Also known as Zhongzhou Airlines.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170437"
+  },
+  {
+    "name": "Chengdu Airlines",
+    "IATA": "EU",
+    "ICAO": "UEA",
+    "website": "www.ueair.com",
+    "notes": "Name changed from United Eagle Airlines Co Ltd. ICAO callsign changed from Hibiscus City.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170457"
+  },
+  {
+    "name": "China Cargo Airlines Ltd.",
+    "IATA": "CK",
+    "ICAO": "CKK",
+    "website": "www.ckair.com",
+    "notes": "IATA designator changed from 2J* / ICAO designator changed from CHY, Callsign changed from Cargo China",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170476"
+  },
+  {
+    "name": "China Central Airlines Co., Ltd.",
+    "IATA": "GI",
+    "ICAO": "LHA",
+    "website": null,
+    "notes": "Name changed from Zhongyuan Longhao Airlines Co., Ltd. and previously changed from Guangdong Longhao Airlines Co., Ltd. Commenced operations on 29 March 2017.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170495"
+  },
+  {
+    "name": "China Civil Aviation Flight University",
+    "IATA": null,
+    "ICAO": "FTU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170513"
+  },
+  {
+    "name": "China Eastern Airlines",
+    "IATA": "MU",
+    "ICAO": "CES",
+    "website": "www.ceair.com",
+    "notes": "Formerly CAAC Shanghai region",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170531"
+  },
+  {
+    "name": "China Express Airlines Co., Ltd",
+    "IATA": "G5",
+    "ICAO": "HXA",
+    "website": "www.chinaexpressair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170549"
+  },
+  {
+    "name": "China Flying Dragon Aviation Co.",
+    "IATA": null,
+    "ICAO": "CFA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170565"
+  },
+  {
+    "name": "China General Aviation Ltd",
+    "IATA": "LL",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170584"
+  },
+  {
+    "name": "China General Aviation Corp. - CGAC",
+    "IATA": null,
+    "ICAO": "CTH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170600"
+  },
+  {
+    "name": "China Ocean Helicopter Corp. - COHC",
+    "IATA": null,
+    "ICAO": "CHC",
+    "website": null,
+    "notes": "Designator CD recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170620"
+  },
+  {
+    "name": "China Postal Airlines Ltd.",
+    "IATA": "CF",
+    "ICAO": "CYZ",
+    "website": "www.cnpostair.com",
+    "notes": "IATA designator changed from 8Y*. ICAO callsign changed from China Postair.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170640"
+  },
+  {
+    "name": "China Southern Airline General Aviation Limited",
+    "IATA": null,
+    "ICAO": "SAG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170657"
+  },
+  {
+    "name": "China Southern Airlines",
+    "IATA": "CZ",
+    "ICAO": "CSN",
+    "website": "www.cs-air.com/en",
+    "notes": "Formerly CAAC Guangzhow region",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170675"
+  },
+  {
+    "name": "China Southern Airlines Cargo",
+    "IATA": null,
+    "ICAO": "CSG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170693"
+  },
+  {
+    "name": "China Travel Tours Transportation Services Hong Kong Ltd. (CTTTS)",
+    "IATA": "NN",
+    "ICAO": null,
+    "website": "www.ctshk.com/english/bus/enquiry.htm",
+    "notes": "Bus Service",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170712"
+  },
+  {
+    "name": "China United Airlines Co., Ltd.",
+    "IATA": "KN",
+    "ICAO": "CUA",
+    "website": "www.cu-air.com",
+    "notes": "ICAO Callsign changed from Lianhang. Designator KN reinstated by IATA.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170730"
+  },
+  {
+    "name": "China West Air Ltd.",
+    "IATA": "PN",
+    "ICAO": "CHB",
+    "website": "www.westair.cn",
+    "notes": "Designator PN instated by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170749"
+  },
+  {
+    "name": "Chong Qing Airlines Co., Ltd",
+    "IATA": "OQ",
+    "ICAO": "CQN",
+    "website": "www.flycq.com",
+    "notes": "Founded on 16 June 2007. Commenced operations on 08 July 2007.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170767"
+  },
+  {
+    "name": "Colorful GuiZhou Airlines Co., Ltd",
+    "IATA": "GY",
+    "ICAO": "CGZ",
+    "website": "www.dcair.net",
+    "notes": "Founded on 19 June 2015. Commenced operations on 31 December 2015.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170784"
+  },
+  {
+    "name": "Colorful Yunnan General Aviation Co., Ltd.",
+    "IATA": null,
+    "ICAO": "CYN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170802"
+  },
+  {
+    "name": "COMAC Shanghai Aircraft Customer Service Co., Ltd.",
+    "IATA": null,
+    "ICAO": "CCS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170820"
+  },
+  {
+    "name": "Dalian Airlines Co., Ltd.",
+    "IATA": null,
+    "ICAO": "CCD",
+    "website": "www.dalianair-china.com",
+    "notes": "Founded in 2011. Commenced operations on 26 December 2011.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170837"
+  },
+  {
+    "name": "Deer Air Co. Ltd.",
+    "IATA": null,
+    "ICAO": "DRA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170854"
+  },
+  {
+    "name": "Deer Jet Aviation Co., Ltd.",
+    "IATA": null,
+    "ICAO": "DJH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170870"
+  },
+  {
+    "name": "Dinglong Business Aviation Co., Ltd.",
+    "IATA": null,
+    "ICAO": "DLJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170886"
+  },
+  {
+    "name": "Donghai Airlines Co., Ltd.",
+    "IATA": "DZ",
+    "ICAO": "EPA",
+    "website": "www.donghaiair.com",
+    "notes": "Designator J5* recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170904"
+  },
+  {
+    "name": "Donghai Business Aviation Co., Ltd.",
+    "IATA": null,
+    "ICAO": "EPB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170921"
+  },
+  {
+    "name": "Emper General Aviation (Suzhou) Co., Ltd.",
+    "IATA": null,
+    "ICAO": "STJ",
+    "website": "www.emperaviation.cn",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170938"
+  },
+  {
+    "name": "Flight Plan Processing Center of ATMB, CAAC.",
+    "IATA": null,
+    "ICAO": "ZFP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170955"
+  },
+  {
+    "name": "Freesky Aviation Co., Ltd.",
+    "IATA": null,
+    "ICAO": "FSJ",
+    "website": "www.freesky-aviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170973"
+  },
+  {
+    "name": "Fu Tai Business Jets Co., Ltd.",
+    "IATA": null,
+    "ICAO": "FTJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.170992"
+  },
+  {
+    "name": "Fujian Airlines",
+    "IATA": null,
+    "ICAO": "CFJ",
+    "website": null,
+    "notes": "IATA designator IV recalled",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171009"
+  },
+  {
+    "name": "Future Air Co., Ltd.",
+    "IATA": null,
+    "ICAO": "FJT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171026"
+  },
+  {
+    "name": "Fuzhou Airlines Co., Ltd.",
+    "IATA": "FU",
+    "ICAO": "FZA",
+    "website": "www.fuzhou-air.cn",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171043"
+  },
+  {
+    "name": "Genghis Khan Airlines Co., Ltd.",
+    "IATA": "9D",
+    "ICAO": "NMG",
+    "website": null,
+    "notes": "Formerly Tianjiao Airlines.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171060"
+  },
+  {
+    "name": "Good Jet Co., Ltd.",
+    "IATA": null,
+    "ICAO": "BGC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171075"
+  },
+  {
+    "name": "Grand China Air Co., Ltd.",
+    "IATA": "CN",
+    "ICAO": "GDC",
+    "website": "www.grandchinaair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171093"
+  },
+  {
+    "name": "Greater Bay Airlines Company Limited",
+    "IATA": "HB",
+    "ICAO": "HGB",
+    "website": "www.greaterbay-airlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171111"
+  },
+  {
+    "name": "Guangzhou Baoneng Business Aviation Co., Ltd.",
+    "IATA": null,
+    "ICAO": "BNH",
+    "website": "www.baonengjet.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171127"
+  },
+  {
+    "name": "Guilin General Aviation Co., Ltd.",
+    "IATA": null,
+    "ICAO": "GHL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171143"
+  },
+  {
+    "name": "Guangxi Beibu Gulf Airlines Co., Ltd.",
+    "IATA": "GX",
+    "ICAO": "CBG",
+    "website": "www.gxairlines.com",
+    "notes": "Subsidary of Tianjin Airlines. ICAO callsign changed from Spray.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171161"
+  },
+  {
+    "name": "Hainan Airlines Holding Company Limited",
+    "IATA": "HU",
+    "ICAO": "CHH",
+    "website": "www.hnair.com",
+    "notes": "Name changed from Hainan Airlines Company Limited. IATA designator changed from HX",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171179"
+  },
+  {
+    "name": "Hainan Aviation Academy Co., Ltd.",
+    "IATA": null,
+    "ICAO": "HNX",
+    "website": "www.hnagroup.com/en/business/hna-airlines/aviation-introduction/hainan-airlines-schools-ltd.html",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171198"
+  },
+  {
+    "name": "Hainan Lily Jet Co., Ltd.",
+    "IATA": null,
+    "ICAO": "HZY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171216"
+  },
+  {
+    "name": "Hanhwa Business Jet Airlines Co., Ltd",
+    "IATA": null,
+    "ICAO": "HAH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171233"
+  },
+  {
+    "name": "Happy Jet Co., Ltd.",
+    "IATA": null,
+    "ICAO": "HYJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171249"
+  },
+  {
+    "name": "Hebei Airlines Co., Ltd.",
+    "IATA": "NS",
+    "ICAO": "HBH",
+    "website": "www.hbhk.com.cn",
+    "notes": "Name changed from Northeast Airlines Co. Ltd.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171265"
+  },
+  {
+    "name": "Hebei Hongsheng Jet Co., Ltd",
+    "IATA": null,
+    "ICAO": "HSJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171282"
+  },
+  {
+    "name": "Hebei Tonghe General Aviation Co., Ltd.",
+    "IATA": null,
+    "ICAO": "EJE",
+    "website": "avic-hbgac.com/content/Content/index/id/505",
+    "notes": "Formerly Shijiazhuang Jihua General Aviation Co. Ltd. Founded in April 1987.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171300"
+  },
+  {
+    "name": "HK Bellawings Jet Limited",
+    "IATA": null,
+    "ICAO": "BWJ",
+    "website": "www.hkbellawings.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171318"
+  },
+  {
+    "name": "Hong Kong Air Cargo Co., Ltd.",
+    "IATA": "RH",
+    "ICAO": "HKC",
+    "website": "www.hkaircargo.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171335"
+  },
+  {
+    "name": "Hong Kong Airlines Corporate Jet Management Ltd",
+    "IATA": null,
+    "ICAO": "HKJ",
+    "website": "www.hongkongjet.com.hk",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171352"
+  },
+  {
+    "name": "Hubei Sky-Blue International Aviation Academy Co., Ltd",
+    "IATA": null,
+    "ICAO": "WLF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171370"
+  },
+  {
+    "name": "Inner Mongolia Express Co., Ltd.",
+    "IATA": null,
+    "ICAO": "IME",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171388"
+  },
+  {
+    "name": "Inner Mongolia Northern Express General Aviation Co., Ltd.",
+    "IATA": null,
+    "ICAO": "BFK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171405"
+  },
+  {
+    "name": "Jiangsu Jet Co., Ltd.",
+    "IATA": null,
+    "ICAO": "JSU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171421"
+  },
+  {
+    "name": "Jiangsu Jingdong Cargo Airlines Co., Ltd.",
+    "IATA": "JG",
+    "ICAO": "JDL",
+    "website": "www.jdl.com",
+    "notes": "JV between a subsidiary of JD.com and Nantong Airport Group.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171438"
+  },
+  {
+    "name": "Jiangxi Air Company Limited d/b/a Jiangxi Air",
+    "IATA": "RY",
+    "ICAO": "CJX",
+    "website": null,
+    "notes": "Founded in 2014. Commenced operations on 29 January 2016.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171455"
+  },
+  {
+    "name": "Jiangxi Cargo Airlines Co., Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Planned start-up with A330-300P2F and 777-300ERSF.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171472"
+  },
+  {
+    "name": "Jilin First International Aviation Academy Co., Ltd.",
+    "IATA": null,
+    "ICAO": "FUH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171489"
+  },
+  {
+    "name": "Jinggog Globaljet (Zhejiang) Jet Co., Ltd.",
+    "IATA": null,
+    "ICAO": "JGJ",
+    "website": "www.jinggongglobaljet.com/en/index.php",
+    "notes": "Name changed from Jinggong Jet Co., Ltd.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171505"
+  },
+  {
+    "name": "Jinxiang Airlines",
+    "IATA": null,
+    "ICAO": "JXX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171522"
+  },
+  {
+    "name": "Joy Air Co., Ltd.",
+    "IATA": "JR",
+    "ICAO": "JOY",
+    "website": "joy-air.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171539"
+  },
+  {
+    "name": "Juneyao Airlines Co. Ltd.",
+    "IATA": "HO",
+    "ICAO": "DKH",
+    "website": "www.juneyaoairlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171555"
+  },
+  {
+    "name": "Kun Peng Airlines Co. Ltd",
+    "IATA": null,
+    "ICAO": "KPA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171571"
+  },
+  {
+    "name": "Kunming Airlines Co., Ltd.",
+    "IATA": "KY",
+    "ICAO": "KNA",
+    "website": "www.airkunming.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171587"
+  },
+  {
+    "name": "Liaoning Meridian Jet Co., Ltd.",
+    "IATA": null,
+    "ICAO": "LNM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171604"
+  },
+  {
+    "name": "LongJiang Airlines Co., Ltd.",
+    "IATA": "LT",
+    "ICAO": "SNG",
+    "website": "www.longjianghk.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171620"
+  },
+  {
+    "name": "Zhejiang Loong Airlines Co., Ltd.",
+    "IATA": "GJ",
+    "ICAO": "CDC",
+    "website": "www.loongair.cn",
+    "notes": "ICAO Callsign changed from Hualong.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171637"
+  },
+  {
+    "name": "Lucky Air Co. Ltd",
+    "IATA": null,
+    "ICAO": "LKE",
+    "website": "www.luckyair.net",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171655"
+  },
+  {
+    "name": "Mandarin Air Co., Ltd.",
+    "IATA": null,
+    "ICAO": "MJC",
+    "website": null,
+    "notes": "Designator 6M recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171672"
+  },
+  {
+    "name": "Minsheng International Jet Co., Ltd.",
+    "IATA": null,
+    "ICAO": "MSF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171687"
+  },
+  {
+    "name": "Nanjing Airlines",
+    "IATA": null,
+    "ICAO": "CNJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171705"
+  },
+  {
+    "name": "Nanshan Jet Co., Ltd.",
+    "IATA": null,
+    "ICAO": "NSJ",
+    "website": "www.nanshanjet.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171722"
+  },
+  {
+    "name": "Netjets Business Aviation Limited",
+    "IATA": null,
+    "ICAO": "NEJ",
+    "website": "www.netjets.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171741"
+  },
+  {
+    "name": "North-Western Cargo International Airlines Co., Ltd.",
+    "IATA": "CO",
+    "ICAO": "CNW",
+    "website": "www.nwairlines.com.cn",
+    "notes": "Established in 2016.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171759"
+  },
+  {
+    "name": "Okay Airways Company Limited",
+    "IATA": null,
+    "ICAO": "OKA",
+    "website": "www.okair.net",
+    "notes": "Designator BK* reinstated by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171777"
+  },
+  {
+    "name": "Ordos General Aviation Co., Ltd.",
+    "IATA": null,
+    "ICAO": "CYE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171794"
+  },
+  {
+    "name": "OTT Airlines Co., Ltd.",
+    "IATA": "JF",
+    "ICAO": "OTT",
+    "website": null,
+    "notes": "Subsidiary of China Eastern Airlines. Planned to operate Comac C919 and ARJ21.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171812"
+  },
+  {
+    "name": "People's Liberation Army Air Force",
+    "IATA": null,
+    "ICAO": "CKJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171832"
+  },
+  {
+    "name": "Phoenix Aerospace Co., Ltd.",
+    "IATA": null,
+    "ICAO": "PIX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171850"
+  },
+  {
+    "name": "Puer General Aviation Co., Ltd.",
+    "IATA": null,
+    "ICAO": "GUC",
+    "website": null,
+    "notes": "Designator R8 recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171867"
+  },
+  {
+    "name": "Qingdao Air Express General Aviation Co., Ltd.",
+    "IATA": null,
+    "ICAO": "QBD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171884"
+  },
+  {
+    "name": "Qingdao Airlines Co., Ltd.",
+    "IATA": "QW",
+    "ICAO": "QDA",
+    "website": "www.qdairlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171902"
+  },
+  {
+    "name": "Qingdao CIMC Special Reefer Co., Ltd.",
+    "IATA": "6Q",
+    "ICAO": null,
+    "website": "www.qdcimc.com",
+    "notes": "Non-airlines Unit Load Devices (ULD) companies.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171920"
+  },
+  {
+    "name": "Qingdao Jiutian International Flight Academy Co., Ltd.",
+    "IATA": null,
+    "ICAO": "QJT",
+    "website": "www.jtfa.cn",
+    "notes": "Name changed from Qingdao Jiutian International Flight Academy Co., Ltd.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171939"
+  },
+  {
+    "name": "Reignwood Asia Aviation Co., Ltd.",
+    "IATA": null,
+    "ICAO": "ICU",
+    "website": "http://www.reignwood.com/aviation.asp",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171957"
+  },
+  {
+    "name": "Rizhao Ruixiang Flight Training Co., Ltd.",
+    "IATA": null,
+    "ICAO": "RXF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171974"
+  },
+  {
+    "name": "Sunan Ruili Airlines Co., Ltd.",
+    "IATA": "DR",
+    "ICAO": "RLH",
+    "website": "www.rlair.net",
+    "notes": "Name changed from Ruili Airlines Co., Ltd. On 18 October 2021.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.171992"
+  },
+  {
+    "name": "Ruili Jingcheng Helicopters Co., Ltd.",
+    "IATA": null,
+    "ICAO": "DLC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172009"
+  },
+  {
+    "name": "Saint Jet Co., Ltd.",
+    "IATA": null,
+    "ICAO": "SAJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172026"
+  },
+  {
+    "name": "Shun Fung Airlines Company Limited",
+    "IATA": "O3",
+    "ICAO": "CSS",
+    "website": "www.sf-airlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172043"
+  },
+  {
+    "name": "Shaanxi Phoenix International Flying College Co., Ltd.",
+    "IATA": null,
+    "ICAO": "PHF",
+    "website": "www.phoenixflychina.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172061"
+  },
+  {
+    "name": "Shandong Airlines",
+    "IATA": "SC",
+    "ICAO": "CDG",
+    "website": "www.shandongair.com.cn",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172077"
+  },
+  {
+    "name": "Shandong Airlines Rainbow Jet Co. Ltd.",
+    "IATA": null,
+    "ICAO": "RBW",
+    "website": "www.rainbow-jet.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172094"
+  },
+  {
+    "name": "Shandong Nanshan International Flight Co., Ltd",
+    "IATA": null,
+    "ICAO": "NSY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172111"
+  },
+  {
+    "name": "Shanghai Airlines Co. Ltd.",
+    "IATA": "FM",
+    "ICAO": "CSH",
+    "website": "www.ceair.com",
+    "notes": "Name changed from Shanghai Airlines. IATA designator changed from SF*",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172130"
+  },
+  {
+    "name": "Shanghai Kingjet General Aviation Co., Ltd.",
+    "IATA": null,
+    "ICAO": "KJT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172147"
+  },
+  {
+    "name": "Shanxi Shenfei Jet Co. Ltd.",
+    "IATA": null,
+    "ICAO": "SXJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172164"
+  },
+  {
+    "name": "Shenzhen Airlines",
+    "IATA": "ZH",
+    "ICAO": "CSZ",
+    "website": "www.shenzhenair.com",
+    "notes": "IATA designator to changed from 4G w.e.f. 04 March 2002. Designator 4G reinstated by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172184"
+  },
+  {
+    "name": "Shenzhen Funian Jet Aviation Co., Ltd.",
+    "IATA": null,
+    "ICAO": "HYN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172202"
+  },
+  {
+    "name": "Shenzhen Gulf Aviation Co., Ltd.",
+    "IATA": null,
+    "ICAO": "GAE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172218"
+  },
+  {
+    "name": "Shenzhen United Business Jet Co., Ltd.",
+    "IATA": null,
+    "ICAO": "HFJ",
+    "website": null,
+    "notes": "Name changed from Yifeng Business Jet Co., Ltd..",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172236"
+  },
+  {
+    "name": "Shuangyang General Aviation Co.",
+    "IATA": null,
+    "ICAO": "CSY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172252"
+  },
+  {
+    "name": "Sichuan Airlines Co. Ltd.",
+    "IATA": "3U",
+    "ICAO": "CSC",
+    "website": "www.scal.com.cn",
+    "notes": "IATA designator changed from N8",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172270"
+  },
+  {
+    "name": "Sino Jet Co., Ltd.",
+    "IATA": null,
+    "ICAO": "SJD",
+    "website": "sinojet.org",
+    "notes": "Name change from Sino Jet Limited.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172288"
+  },
+  {
+    "name": "Sino Jet Management Limited",
+    "IATA": null,
+    "ICAO": "SJM",
+    "website": "www.sinojet.org",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172305"
+  },
+  {
+    "name": "Sinojet (Beijing) Co., Ltd",
+    "IATA": null,
+    "ICAO": "JBE",
+    "website": "www.sinojet.org",
+    "notes": "Name changed from Jet Bear Co., Ltd",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172323"
+  },
+  {
+    "name": "Southern Jet Co., Ltd.",
+    "IATA": null,
+    "ICAO": "HNJ",
+    "website": "www.southern-jet.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172341"
+  },
+  {
+    "name": "Spring Airlines Limited Corporation",
+    "IATA": "9C",
+    "ICAO": "CQH",
+    "website": "www.ch.com",
+    "notes": "IATA designator changed from 9S. Designator 9S reinstated by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172360"
+  },
+  {
+    "name": "Spring Jet Limited",
+    "IATA": null,
+    "ICAO": "SZJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172376"
+  },
+  {
+    "name": "Star Jet Co., Ltd.",
+    "IATA": null,
+    "ICAO": "CHJ",
+    "website": "www.starjet.cc",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172392"
+  },
+  {
+    "name": "Sun Ritz Jet Co., Ltd",
+    "IATA": null,
+    "ICAO": "RZT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172408"
+  },
+  {
+    "name": "Suparna Airlines Co., Ltd.",
+    "IATA": "Y8",
+    "ICAO": "YZR",
+    "website": "www.yzr.com.cn",
+    "notes": "Name changed from Yangtze River Airlines Co., Ltd. w.e.f. 07 July 2017. Name previously changed from Yangtze River Express Airlines Co., Ltd. w.e.f. 28 November 2015.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172429"
+  },
+  {
+    "name": "Suzhou Aviation Co., Ltd.",
+    "IATA": null,
+    "ICAO": "CBW",
+    "website": null,
+    "notes": "Name changed from SH Bellawings Airlines limited.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172446"
+  },
+  {
+    "name": "The Cargo Flights Co., Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172464"
+  },
+  {
+    "name": "Tianjin Air Cargo Co., Ltd.",
+    "IATA": "HT",
+    "ICAO": "CTJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172483"
+  },
+  {
+    "name": "Tianjin Airlines Co. Ltd",
+    "IATA": "GS",
+    "ICAO": "GCR",
+    "website": "www.tianjin-air.com",
+    "notes": "Name changed from Grand China Express Co. Ltd. ICAO Callsign changed from China Dragon.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172501"
+  },
+  {
+    "name": "Tianjin Jeppesen International Flight College Co. Ltd.",
+    "IATA": null,
+    "ICAO": "CHF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172517"
+  },
+  {
+    "name": "Tibet Airlines Corporation Limited",
+    "IATA": "TV",
+    "ICAO": "TBA",
+    "website": "www.tibetairlines.com.cn",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172534"
+  },
+  {
+    "name": "Travelsky Technology Limited",
+    "IATA": "1E",
+    "ICAO": null,
+    "website": "travelsky.wsfg.hk",
+    "notes": "Name changed from Management Information System - Civil Aviation Administration of China. Computer Reservation System",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172552"
+  },
+  {
+    "name": "Urumqi Airlines Co. Ltd.",
+    "IATA": "UQ",
+    "ICAO": "CUH",
+    "website": "www.urumqi-air.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172568"
+  },
+  {
+    "name": "Wanfeng General Aviation Co., Ltd.",
+    "IATA": null,
+    "ICAO": "WFH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172584"
+  },
+  {
+    "name": "Xiamen Airlines",
+    "IATA": "MF",
+    "ICAO": "CXA",
+    "website": "www.xiamenair.com.cn",
+    "notes": "IATA designator changed from MF*",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172602"
+  },
+  {
+    "name": "Xi'an Aviation Base Jinsheng General Aviation Co., Ltd.",
+    "IATA": null,
+    "ICAO": "JHK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172618"
+  },
+  {
+    "name": "Xinjiang General Aviation Co., Ltd.",
+    "IATA": null,
+    "ICAO": "XTH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172634"
+  },
+  {
+    "name": "China Southern Airlines Xiongan Airlines Co., Ltd.",
+    "IATA": null,
+    "ICAO": "CXN",
+    "website": null,
+    "notes": "Subsidary of China Southern Airlines.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172654"
+  },
+  {
+    "name": "Yellow River Delta General Aviation Co., Ltd",
+    "IATA": null,
+    "ICAO": "DGA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172670"
+  },
+  {
+    "name": "YTO Cargo Airlines Co., Ltd.",
+    "IATA": "YG",
+    "ICAO": "HYT",
+    "website": "www.yto.net.cn/en/index.html",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172688"
+  },
+  {
+    "name": "Yunnan Ruifeng General Aviation Co., Ltd.",
+    "IATA": null,
+    "ICAO": "RFH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172705"
+  },
+  {
+    "name": "Zhejiang Airlines",
+    "IATA": null,
+    "ICAO": "CJG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172721"
+  },
+  {
+    "name": "Zhejiang Wanfeng General Aviation Co., Ltd.",
+    "IATA": null,
+    "ICAO": "WHG",
+    "website": "www.wanfengair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172738"
+  },
+  {
+    "name": "Zhongfei General Aviation Co.",
+    "IATA": null,
+    "ICAO": "CFZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172755"
+  },
+  {
+    "name": "Zhou Ji Airlines (Hainan) Co., Ltd.",
+    "IATA": null,
+    "ICAO": "JCN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172772"
+  },
+  {
+    "name": "First Mandarin Business Aviation Co., Ltd. d/b/a ZYB Lily Jet",
+    "IATA": null,
+    "ICAO": "MZT",
+    "website": "www.lilyjet.com/en/",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:28.172789"
+  },
+  {
+    "name": "Shun Feng Airlines, Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "en.sf-epress.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.172806"
+  },
+  {
+    "name": "Rainbow Cargo Airlines",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.172823"
+  },
+  {
+    "name": "Xingfu Airlines Co. Ltd",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.172839"
+  },
+  {
+    "name": "Air China International Corporation",
+    "IATA": "CA",
+    "ICAO": "CCA",
+    "website": "www.airchina.com.cn",
+    "notes": "Name changed to Air China Limited. Name changed from CAAC - Civil Aviation Administration of China",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.172857"
+  },
+  {
+    "name": "Air Great Wall",
+    "IATA": null,
+    "ICAO": "CGW",
+    "website": null,
+    "notes": "Merged",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.172874"
+  },
+  {
+    "name": "Air Tenglong",
+    "IATA": null,
+    "ICAO": "CTE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.172891"
+  },
+  {
+    "name": "Air Tenglong",
+    "IATA": "VB",
+    "ICAO": "CCO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.172907"
+  },
+  {
+    "name": "Asia Air Medical (Beijing) Ltd",
+    "IATA": null,
+    "ICAO": "ICU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.172923"
+  },
+  {
+    "name": "Beijing City International Jet Co., Ltd",
+    "IATA": null,
+    "ICAO": "CWR",
+    "website": null,
+    "notes": "Name changed to Beijing City International Business Jet Co., Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.172940"
+  },
+  {
+    "name": "CAAC - Civil Aviation Administration of China",
+    "IATA": "CA",
+    "ICAO": "CCA",
+    "website": null,
+    "notes": "Name changed to Air China International Corporation",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.172957"
+  },
+  {
+    "name": "CDI Cargo Airline Limited",
+    "IATA": "GJ",
+    "ICAO": "CDC",
+    "website": null,
+    "notes": "Name changed to Zhejiang Loong Airlines Co., Ltd. Founded in April 2011.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.172975"
+  },
+  {
+    "name": "Chang an Airlines Limited Company",
+    "IATA": "2Z",
+    "ICAO": "CGN",
+    "website": null,
+    "notes": "Designator 2Z recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.172992"
+  },
+  {
+    "name": "China Air Cargo Co., Ltd.",
+    "IATA": "ZY",
+    "ICAO": "CHY",
+    "website": null,
+    "notes": "Formerly AVIC Cargo Airlines. Planned startup with 1 x B757F. Joint-venture between JoyAir Holdings (45%), Guangzhou Donlinks Group Co.(35%) and Beijing Fidelity Asset Management Co. (20%).",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173010"
+  },
+  {
+    "name": "China Air Cargo",
+    "IATA": null,
+    "ICAO": "CYN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173026"
+  },
+  {
+    "name": "China Cargo Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "CHY",
+    "website": null,
+    "notes": "IATA designator changed to CK. ICAO designator changed to CKK.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173043"
+  },
+  {
+    "name": "China Eastern Business Jet Co., Ltd.",
+    "IATA": null,
+    "ICAO": "CEC",
+    "website": "www.ceaea.com/1/en/",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173060"
+  },
+  {
+    "name": "China General Aviation Corp. - CGAC",
+    "IATA": "GP",
+    "ICAO": "CTH",
+    "website": null,
+    "notes": "Designator GP recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173077"
+  },
+  {
+    "name": "China National Aviation Corporation (CNAC)",
+    "IATA": "F6",
+    "ICAO": "CAG",
+    "website": "www.cnac.org",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173094"
+  },
+  {
+    "name": "China Northern Airlines",
+    "IATA": "CJ",
+    "ICAO": "CBF",
+    "website": "www.cna.com.cn/Eng/index-en.html",
+    "notes": "Designator CJ recalled by IATA. Formerly CAAC Shenyang region",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173111"
+  },
+  {
+    "name": "China Northwest Airlines",
+    "IATA": "WH",
+    "ICAO": "CNW",
+    "website": "www.cnwa.com",
+    "notes": "Merged into China Eastern. Formerly CAAC Xian region",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173128"
+  },
+  {
+    "name": "China Ocean Helicopter Corp. - COHC",
+    "IATA": "CD",
+    "ICAO": "CHC",
+    "website": null,
+    "notes": "Designator CD recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173145"
+  },
+  {
+    "name": "China Postal Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "CYZ",
+    "website": "www.cnpostair.com",
+    "notes": "ICAO callsign changed to China Post.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173162"
+  },
+  {
+    "name": "China Postal Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "CYZ",
+    "website": "www.cnpostair.com",
+    "notes": "IATA designator changed to CF. ICAO callsign changed from China Postair.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173180"
+  },
+  {
+    "name": "China Southwest Airlines",
+    "IATA": "SZ",
+    "ICAO": "CXN",
+    "website": "www.cswa.com/en/ehome.jsp",
+    "notes": "Founded on 15 October 1987. Ceased operations on 28 October 2002 (merged with Air China). Formerly CAAC Southwest region",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173198"
+  },
+  {
+    "name": "China United Airlines Co., Ltd.",
+    "IATA": "KN",
+    "ICAO": "CUA",
+    "website": "www.cu-air.com",
+    "notes": "ICAO Callsign changed to China United. Designator KN reinstated by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173215"
+  },
+  {
+    "name": "China Xinhua Airlines",
+    "IATA": "XW",
+    "ICAO": "CXH",
+    "website": "www.chinaxinhuaair.com",
+    "notes": "Merged with Shanxi Airlines and Chang An Airlines to form Grand China Air, a subsidiary of Hainan Airlines on 29 November 2007.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173233"
+  },
+  {
+    "name": "China Xinjiang Airlines",
+    "IATA": null,
+    "ICAO": "CXJ",
+    "website": "www.cxb.web.ur.ru",
+    "notes": "Designator XO* recalled by IATA. Name changed from Zinjiang Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173251"
+  },
+  {
+    "name": "China Yunnan Airlines",
+    "IATA": "3Q",
+    "ICAO": "CYH",
+    "website": "www.chinayunnanair.com",
+    "notes": "Founded in 1992, Merged into China Eastern Airlines in 2003.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173270"
+  },
+  {
+    "name": "CITIC General Aviation Co., Ltd",
+    "IATA": null,
+    "ICAO": "HZX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173286"
+  },
+  {
+    "name": "Colorful Yunnan General Aviation Co., Ltd. t/a Colorful Yunnan Airlines",
+    "IATA": "ZO",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173302"
+  },
+  {
+    "name": "Deer Jet Co. Ltd.",
+    "IATA": null,
+    "ICAO": "DER",
+    "website": "www.deerjet.com",
+    "notes": "IATA designator changed to JD",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173320"
+  },
+  {
+    "name": "Deer Jet Co. Ltd.",
+    "IATA": "JD",
+    "ICAO": "DER",
+    "website": "www.deerjet.com",
+    "notes": "IATA designator changed from DF*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173338"
+  },
+  {
+    "name": "East Star Airlines Limited Corporation",
+    "IATA": null,
+    "ICAO": "DXH",
+    "website": "www.eaststar-air.com",
+    "notes": "The airline received its air-operators certificate from the CAAC on 10 June 2005, and started operations on 19 May 2006. Ceased operations on 15 March 2009.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173358"
+  },
+  {
+    "name": "Foshing Airline",
+    "IATA": null,
+    "ICAO": "FHA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173376"
+  },
+  {
+    "name": "Fujian Airlines",
+    "IATA": "IV",
+    "ICAO": "CFJ",
+    "website": null,
+    "notes": "IATA designator IV recalled",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173393"
+  },
+  {
+    "name": "Fujian Airlines",
+    "IATA": "IV",
+    "ICAO": "CFJ",
+    "website": null,
+    "notes": "Designator IV reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173410"
+  },
+  {
+    "name": "Grand China Express Co. Ltd.",
+    "IATA": "GS",
+    "ICAO": "GCR",
+    "website": null,
+    "notes": "Name changed to Tianjin Airlines Co. Ltd",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173428"
+  },
+  {
+    "name": "Grandstar Cargo International Airlines Co., Ltd",
+    "IATA": "GD",
+    "ICAO": "GSC",
+    "website": "www.grandstarcargo.com",
+    "notes": "Founded in 2008. Ceased operations in May 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173446"
+  },
+  {
+    "name": "Great China Airlines",
+    "IATA": "GC",
+    "ICAO": "GCA",
+    "website": null,
+    "notes": "Designator GC recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173462"
+  },
+  {
+    "name": "Great China Airlines",
+    "IATA": "IF",
+    "ICAO": "GCA",
+    "website": null,
+    "notes": "Designator IF recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173479"
+  },
+  {
+    "name": "Great Wall Airlines Company Limited",
+    "IATA": "IJ",
+    "ICAO": "GWL",
+    "website": "www.gwairlines.com",
+    "notes": "In the first half of 2011, the company was merged into China Cargo Airlines, together with another Cargo carrier Shanghai Airlines Cargo, which was the freight division of Shanghai Airlines.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173497"
+  },
+  {
+    "name": "Guizhou Airlines",
+    "IATA": null,
+    "ICAO": "CGH",
+    "website": null,
+    "notes": "Established in 1991. Merged into China Southern during 1998.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173515"
+  },
+  {
+    "name": "Guangxi Beibu Gulf Airlines Co., Ltd.",
+    "IATA": "GX",
+    "ICAO": "CBG",
+    "website": "www.gxairlines.com",
+    "notes": "Subsidary of Tianjin Airlines. ICAO callsign changed to Green City.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173533"
+  },
+  {
+    "name": "Hainan Airlines Company Limited",
+    "IATA": "HX",
+    "ICAO": "CHH",
+    "website": null,
+    "notes": "IATA designator changed from H4. IATA changed to HU",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173549"
+  },
+  {
+    "name": "Hainan Airlines Company Limited",
+    "IATA": "H4",
+    "ICAO": "CHH",
+    "website": null,
+    "notes": "IATA designator changed to HX",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173566"
+  },
+  {
+    "name": "Hainan Airlines Company Limited",
+    "IATA": "HU",
+    "ICAO": "CHH",
+    "website": "www.hnair.com/en/default.htm",
+    "notes": "Name changed to Hainan Airlines Holding Company Limited. IATA designator changed from HX",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173584"
+  },
+  {
+    "name": "Hainan Phoenix Information Systems Ltd.",
+    "IATA": "1R",
+    "ICAO": null,
+    "website": null,
+    "notes": "Computer Reservation System",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173601"
+  },
+  {
+    "name": "Hanergy Jet Co,o Ltd.",
+    "IATA": null,
+    "ICAO": "HHG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173617"
+  },
+  {
+    "name": "Hennan Airlines",
+    "IATA": "VD",
+    "ICAO": null,
+    "website": "www.kunpeng-air.com",
+    "notes": "Ceased operations on 27 August 2010, Henan provincial authorities revoked the company name \"Henan Airlines\".Name changed from Kunpeng Airlines Co. Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173636"
+  },
+  {
+    "name": "Homeland Airlines Co., Ltd.",
+    "IATA": null,
+    "ICAO": "HLF",
+    "website": null,
+    "notes": "Name changed to Central Airlines Co., Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173653"
+  },
+  {
+    "name": "Jade Cargo International Company Limited",
+    "IATA": null,
+    "ICAO": "JAE",
+    "website": "www.jadecargo.com",
+    "notes": "Founded in 2004. Ceased operations on 31 December 2011. Joint venture between Shenzhen Airlines and Lufthansa Cargo",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173671"
+  },
+  {
+    "name": "Jet Bear Co., Ltd",
+    "IATA": null,
+    "ICAO": "JBE",
+    "website": null,
+    "notes": "Name changed to Sinojet (Beijing) Co., Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173688"
+  },
+  {
+    "name": "Jinggong Jet Co., Ltd.",
+    "IATA": null,
+    "ICAO": "JGJ",
+    "website": "www.jinggonggroup.com/en/industry/general.html",
+    "notes": "Name changed to Jinggog Globaljet (Zhejiang) Jet Co., Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173705"
+  },
+  {
+    "name": "Kunpeng Airlines Co. Ltd.",
+    "IATA": "VD",
+    "ICAO": null,
+    "website": "www.kunpeng-air.com",
+    "notes": "Name changed to Hennan Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173725"
+  },
+  {
+    "name": "Guangdong Longhao Airlines Co., Ltd.",
+    "IATA": "GI",
+    "ICAO": "LHA",
+    "website": "www.longhao-air.com",
+    "notes": "Name changed to Zhongyuan Longhao Airlines Co., Ltd. Commenced operations on 29 March 2017.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173743"
+  },
+  {
+    "name": "Zhejiang Loong Airlines Co., Ltd.",
+    "IATA": "GJ",
+    "ICAO": "CDC",
+    "website": "www.loongair.cn",
+    "notes": "ICAO Callsign changed to Loong Air.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173762"
+  },
+  {
+    "name": "Management Information System - Civil Aviation Administration of China",
+    "IATA": "1E",
+    "ICAO": null,
+    "website": null,
+    "notes": "Computer Reservation System",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173779"
+  },
+  {
+    "name": "Management Information System - Civil Aviation Administration of China",
+    "IATA": "1E",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator 1E reinstated by IATA. Computer Reservation System",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173798"
+  },
+  {
+    "name": "Management Information System - Civil Aviation Administration of China",
+    "IATA": "1E",
+    "ICAO": null,
+    "website": null,
+    "notes": "Name changed to Travelsky Technology Limited. Computer Reservation System",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173817"
+  },
+  {
+    "name": "Mudanjiang General Aviation Co.",
+    "IATA": null,
+    "ICAO": "CMJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173834"
+  },
+  {
+    "name": "Ningxia Cargo Airlines Co., Ltd.",
+    "IATA": "HT",
+    "ICAO": "HTK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173851"
+  },
+  {
+    "name": "Northeast Airlines Co. Ltd.",
+    "IATA": "NS",
+    "ICAO": "DBH",
+    "website": null,
+    "notes": "Name changed to Hebei Airlines. Taken over by Sichuan Airlines and renamed Hebei Airlines.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173869"
+  },
+  {
+    "name": "Northern Airlines Sanya Limited",
+    "IATA": null,
+    "ICAO": "BYC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173886"
+  },
+  {
+    "name": "Puer General Aviation Co., Ltd.",
+    "IATA": "R8",
+    "ICAO": "GUC",
+    "website": null,
+    "notes": "Designator R8 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173902"
+  },
+  {
+    "name": "Qingdao Jiutian-Spartan International Flight Academy, Co., Ltd",
+    "IATA": null,
+    "ICAO": "QJT",
+    "website": "www.jtfa.cn",
+    "notes": "Name changed to Qingdao Jiutian International Flight Academy Co., Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173920"
+  },
+  {
+    "name": "Ruili Airlines Co., Ltd.",
+    "IATA": "DR",
+    "ICAO": "RLH",
+    "website": "www.rlair.net",
+    "notes": "Name changed to Sunan Ruili Airlines Co., Ltd. On 18 October 2021.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173938"
+  },
+  {
+    "name": "SH Bellawings Airlines limited",
+    "IATA": null,
+    "ICAO": "CBW",
+    "website": "bellawings.cn",
+    "notes": "Name changed to Suzhou Aviation Co., Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173955"
+  },
+  {
+    "name": "Shanghai Airlines",
+    "IATA": "FM",
+    "ICAO": "CSH",
+    "website": "www.shanghai-air.com/english/ehome.htm",
+    "notes": "Name changed to Shanghai Airlines Co. Ltd. IATA designator changed from SF*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173972"
+  },
+  {
+    "name": "Shanghai Airlines",
+    "IATA": null,
+    "ICAO": "CSH",
+    "website": "www.shanghai-air.com/english/ehome.htm",
+    "notes": "IATA designator changed to FM",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.173990"
+  },
+  {
+    "name": "Shanghai Airlines Cargo International",
+    "IATA": null,
+    "ICAO": "SHQ",
+    "website": "www.ceair.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.174006"
+  },
+  {
+    "name": "Shanxi Airlines",
+    "IATA": null,
+    "ICAO": "CXI",
+    "website": null,
+    "notes": "merged with China Xinhua Airlines and Chang An Airlines to form Grand China Air, a subsidiary of Hainan Airlines in 2009.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.174024"
+  },
+  {
+    "name": "Shenzhen Airlines",
+    "IATA": "4G",
+    "ICAO": "CSZ",
+    "website": "www.shenzhenair.com",
+    "notes": "IATA designator to changed to ZH w.e.f. 04 March 2002. Designator 4G reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.174041"
+  },
+  {
+    "name": "Shenzhen Astro General Aviation Co., Ltd.",
+    "IATA": null,
+    "ICAO": "SZA",
+    "website": null,
+    "notes": "Name changed to Astro Air Co., Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.174057"
+  },
+  {
+    "name": "Shenzhen Donghai Airlines Co., Ltd.",
+    "IATA": null,
+    "ICAO": "EPA",
+    "website": "www.donghaiair.com",
+    "notes": "Designator J5* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.174074"
+  },
+  {
+    "name": "Sichuan Airlines Co. Ltd.",
+    "IATA": "N8",
+    "ICAO": "CSC",
+    "website": "info.scsti.ac.cn/English/eco/air.html",
+    "notes": "IATA designator changed to 3U",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.174091"
+  },
+  {
+    "name": "Sino Jet Limited",
+    "IATA": null,
+    "ICAO": "SJD",
+    "website": "sinojet.org",
+    "notes": "Name change to Sino Jet Co., Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.174108"
+  },
+  {
+    "name": "Spring Airlines Limited Corporation",
+    "IATA": "9S",
+    "ICAO": "CQH",
+    "website": "www.china-sss.com",
+    "notes": "IATA designator changed to 9C. Designator 9S reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.174125"
+  },
+  {
+    "name": "Tianjin Airlines Co. Ltd",
+    "IATA": "GS",
+    "ICAO": "GCR",
+    "website": "www.tianjin-air.com",
+    "notes": "Name changed from Grand China Express Co. Ltd. ICAO Callsign changed to Bo Hai",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.174143"
+  },
+  {
+    "name": "United Eagle Airlines Co Ltd",
+    "IATA": "EU",
+    "ICAO": "UEA",
+    "website": "www.ueair.com",
+    "notes": "Name changed to Chengdu Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.174161"
+  },
+  {
+    "name": "Uni-Top Airlines",
+    "IATA": "UW",
+    "ICAO": "UTP",
+    "website": "www.unitop-air.com",
+    "notes": "Ceased operations on 29 November 2019.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.174177"
+  },
+  {
+    "name": "Wuhan Airlines",
+    "IATA": null,
+    "ICAO": "CNW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.174193"
+  },
+  {
+    "name": "China Eastern Airlines Wuhan Co., Ltd.",
+    "IATA": "WU",
+    "ICAO": "CWU",
+    "website": null,
+    "notes": "Merged into China Eastern Airlines during 2003.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.174211"
+  },
+  {
+    "name": "Xiamen Airlines",
+    "IATA": null,
+    "ICAO": "CXA",
+    "website": "www.xiamenair.com.cn",
+    "notes": "IATA designator changed to MF",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.174230"
+  },
+  {
+    "name": "Xinjiang Airlines",
+    "IATA": null,
+    "ICAO": "CXJ",
+    "website": "www.china-air.h1.ru",
+    "notes": "Name changed to ChinaZinjiang Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.174247"
+  },
+  {
+    "name": "Yangtze River Airlines Co., Ltd.",
+    "IATA": "Y8",
+    "ICAO": "YZR",
+    "website": "www.yzr.com.cn",
+    "notes": "Name changed to Suparna Airlines Co., Ltd. On 07 July 2017. Name changed from Yangtze River Express Airlines Co., Ltd. w.e.f. 28 November 2015.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.174266"
+  },
+  {
+    "name": "Yangtze River Express Airlines Co., Ltd.",
+    "IATA": "Y8",
+    "ICAO": "YZR",
+    "website": "www.yzr.com.cn",
+    "notes": "Name changed to Yangtze River Airlines Co., Ltd. w.e.f. 28 November 2015.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.174283"
+  },
+  {
+    "name": "Yifeng Business Jet Co., Ltd.",
+    "IATA": null,
+    "ICAO": "HFJ",
+    "website": "www.yfjet.com",
+    "notes": "Name changed to Shenzhen United Business Jet Co., Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.174300"
+  },
+  {
+    "name": "Yunnan Hong Tu Airlines Co., Ltd.",
+    "IATA": "A6",
+    "ICAO": "HTU",
+    "website": "www.redair.cn",
+    "notes": "Name changed to Air Travel Co., Ltd. ICAO Designator changed to OTC.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.174316"
+  },
+  {
+    "name": "Yunnan Yingan Airlines Co., Ltd",
+    "IATA": null,
+    "ICAO": "AYE",
+    "website": null,
+    "notes": "Founded in 2005. AOC issued on 19 January 2005. Ceased operations on 01 December 2015.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.174335"
+  },
+  {
+    "name": "Zhong Yuan Aviation Co.",
+    "IATA": null,
+    "ICAO": "CXN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.174351"
+  },
+  {
+    "name": "Zhongyuan Aviation Co.",
+    "IATA": null,
+    "ICAO": "CYN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.174368"
+  },
+  {
+    "name": "Zhongyuan Longhao Airlines Co., Ltd.",
+    "IATA": "GI",
+    "ICAO": "LHA",
+    "website": null,
+    "notes": "Name changed to China Central Longhao Airlines Co., Ltd. Name changed from Guangdong Longhao Airlines Co., Ltd. Commenced operations on 29 March 2017.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.174386"
+  },
+  {
+    "name": "Zhoushan Avic Joy General Aviation Co., Ltd.",
+    "IATA": null,
+    "ICAO": "HAJ",
+    "website": null,
+    "notes": "Name changed to Avic Joy General Aviation Co., Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:28.174403"
+  }
+]

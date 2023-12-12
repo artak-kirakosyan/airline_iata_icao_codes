@@ -1,0 +1,236 @@
+[
+  {
+    "name": "Bravo Passenger Solution Pte., Ltd.",
+    "IATA": "B1",
+    "ICAO": null,
+    "website": "www.bravo.aero",
+    "notes": "Computer Reservations Systems (CRS)",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:39.669669"
+  },
+  {
+    "name": "Jetstar Asia Airways Pte Ltd",
+    "IATA": null,
+    "ICAO": "JSA",
+    "website": "www.jetstarasia.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:39.669700"
+  },
+  {
+    "name": "Pacific Flight Services Pte Ltd.",
+    "IATA": null,
+    "ICAO": "PFA",
+    "website": "www.stengg.com/about-us/companies/aerospace/pfs",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:39.669717"
+  },
+  {
+    "name": "Republic Of Singapore Air Force",
+    "IATA": null,
+    "ICAO": "SAF",
+    "website": "www.mindef.gov.sg/rsaf/",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:39.669734"
+  },
+  {
+    "name": "Sabre Asia Pacific Pte. Ltd.",
+    "IATA": "1B",
+    "ICAO": null,
+    "website": "www.sabre.com/locations/apac",
+    "notes": "Name changed from Abacus International Pte. Ltd. Computer Reservation System",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:39.669752"
+  },
+  {
+    "name": "Scoot Pte. Ltd. d/b/a Scoot",
+    "IATA": "TR",
+    "ICAO": "TGW",
+    "website": "www.flyscoot.com",
+    "notes": "Name changed from Scoot Tigerair Pte. Ltd. d/b/a Scoot. ICAO callsign changed from Stripe. Name change from Tiger Airways Singapore Pte Ltd t/a Tigerair.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:39.669770"
+  },
+  {
+    "name": "Singapore Airlines Limited",
+    "IATA": "SQ",
+    "ICAO": "SIA",
+    "website": "www.singaporeair.com",
+    "notes": "Name changed from Singapore Airlines",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:39.669787"
+  },
+  {
+    "name": "Singapore Flying College (Jet Operations)",
+    "IATA": null,
+    "ICAO": "RFZ",
+    "website": "www.sfcpl.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:39.669803"
+  },
+  {
+    "name": "Abacus International Pte. Ltd.",
+    "IATA": "1B",
+    "ICAO": null,
+    "website": "www.abacus.com.sg",
+    "notes": "Name changed to Sabre Asia Pacific Pte. Ltd. Computer Reservation System",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:39.669820"
+  },
+  {
+    "name": "Asia Pacific Air Cargo Pte Ltd.",
+    "IATA": null,
+    "ICAO": "APK",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:39.669836"
+  },
+  {
+    "name": "Flightways Air Services Pte Ltd.",
+    "IATA": null,
+    "ICAO": "FSI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:39.669852"
+  },
+  {
+    "name": "Global Aviation Pte Ltd.",
+    "IATA": null,
+    "ICAO": "GAZ",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:39.669868"
+  },
+  {
+    "name": "Jett8 Airlines Cargo Pte Ltd",
+    "IATA": "JX",
+    "ICAO": "JEC",
+    "website": "www.jett8airlines.com",
+    "notes": "AOC revoked by CAAS on 01 August 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:39.669884"
+  },
+  {
+    "name": "Region Air Pte. Ltd.",
+    "IATA": "7S",
+    "ICAO": "RGA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:39.669901"
+  },
+  {
+    "name": "SaBer Air Private Limited",
+    "IATA": "SI",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:39.669916"
+  },
+  {
+    "name": "Scoot Private Ltd",
+    "IATA": "TZ",
+    "ICAO": "SCO",
+    "website": "www.flyscoot.com",
+    "notes": "Name changed to Scoot Tigerair Pte. Ltd. (Merged with Tigerair.). IATA Designator changed from OQ  w.e.f. 14 May 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:39.669933"
+  },
+  {
+    "name": "Scoot Tigerair Pte. Ltd. d/b/a Scoot",
+    "IATA": "TR",
+    "ICAO": "TGW",
+    "website": "www.flyscoot.com",
+    "notes": "Name changed to Scoot Pte. Ltd. d/b/a Scoot. Name changed from Scoot Tigerair Pte. Ltd. d/b/a Scoot. ICAO callsign changed from Stripe. Name change from Tiger Airways Singapore Pte Ltd t/a Tigerair.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:39.669952"
+  },
+  {
+    "name": "Scoot Private Ltd",
+    "IATA": "OQ",
+    "ICAO": "SCO",
+    "website": "www.flyscoot.com",
+    "notes": "IATA Designator changed to TZ w.e.f. 14 May 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:39.669968"
+  },
+  {
+    "name": "SilkAir (SINGAPORE) Pte. Ltd.",
+    "IATA": "MI",
+    "ICAO": "SLK",
+    "website": "www.silkair.com.sg",
+    "notes": "Merged into Singapore Airlines. Name changed from SilkAir (S) Pte. Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:39.669986"
+  },
+  {
+    "name": "SilkAir (S) Pte. Ltd.",
+    "IATA": "MI",
+    "ICAO": "SLK",
+    "website": "www.silkair.com.sg",
+    "notes": "Name changed to SilkAir (SINGAPORE) Pte. Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:39.670002"
+  },
+  {
+    "name": "Singapore Airlines",
+    "IATA": "SQ",
+    "ICAO": "SIA",
+    "website": "www.singaporeair.com",
+    "notes": "Name changed to Singapore Airlines Limited",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:39.670018"
+  },
+  {
+    "name": "Singapore Airlines Cargo PTE Ltd.",
+    "IATA": "SQ",
+    "ICAO": "SQC",
+    "website": "www.siacargo.com",
+    "notes": "Merged into Singapore Airlines on 01/04/2018.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:39.670035"
+  },
+  {
+    "name": "Tiger Airways Singapore Pte Ltd t/a Tigerair",
+    "IATA": "TR",
+    "ICAO": "TGW",
+    "website": "www.tigerairways.com",
+    "notes": "Name change to Scoot Tigerair Pte. Ltd. (Merged with Scoot.)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:39.670051"
+  },
+  {
+    "name": "Scoot Tigerair Pte. Ltd.",
+    "IATA": "TR",
+    "ICAO": "TGW",
+    "website": "www.flyscoot.com",
+    "notes": "Name changed to Scoot Tigerair Pte. Ltd. d/b/a Scoot. Name changed from Scoot Tigerair Pte. Ltd. d/b/a Scoot. ICAO Callsign changed to Scooter. Name change from Tiger Airways Singapore Pte Ltd t/a Tigerair.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:39.670070"
+  },
+  {
+    "name": "Valuair Ltd.",
+    "IATA": "VF",
+    "ICAO": "VLU",
+    "website": "www.valuair.com.sg",
+    "notes": "On 24 July 2005, the carrier announced plans to merge with Jetstar Asia.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:39.670087"
+  },
+  {
+    "name": "Wenic Air Services",
+    "IATA": null,
+    "ICAO": "WNC",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:39.670103"
+  }
+]

@@ -1,0 +1,263 @@
+[
+  {
+    "name": "Saffron Aviation (Pvt) Ltd. d/b/a Cinnamon Air",
+    "IATA": "C7",
+    "ICAO": "CIN",
+    "website": "www.cinnamonair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:51.829955"
+  },
+  {
+    "name": "Daya Aviation (Pvt) Ltd",
+    "IATA": null,
+    "ICAO": "DAY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:51.829984"
+  },
+  {
+    "name": "Deccan Aviation (Lanka) Private Limited",
+    "IATA": null,
+    "ICAO": "DLK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:51.830003"
+  },
+  {
+    "name": "FITS Aviation (Pvt) Ltd",
+    "IATA": "8D",
+    "ICAO": "EXV",
+    "website": "www.fitsair.com",
+    "notes": "Name changed from Expo Aviation (Pvt.) Limited",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:51.830021"
+  },
+  {
+    "name": "Paradise Air (Pvt) Ltd.",
+    "IATA": null,
+    "ICAO": "RPI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:51.830037"
+  },
+  {
+    "name": "Richy Slylark Pvt Ltd.",
+    "IATA": null,
+    "ICAO": "WHH",
+    "website": "Richy Slylark Pvt Ltd.",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:51.830053"
+  },
+  {
+    "name": "Senok Aviation (Pvt) Ltd.",
+    "IATA": null,
+    "ICAO": "MVS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:51.830070"
+  },
+  {
+    "name": "Sky Cabs (PVT) Ltd.",
+    "IATA": null,
+    "ICAO": "SCB",
+    "website": null,
+    "notes": "Designator 2E recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:51.830087"
+  },
+  {
+    "name": "SriLankan Airlines Limited",
+    "IATA": "UL",
+    "ICAO": "ALK",
+    "website": "www.srilankan.com",
+    "notes": "Formerly Air Lanka Limited.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:51.830104"
+  },
+  {
+    "name": "Aero Lanka (Pvt) Limited",
+    "IATA": "QL",
+    "ICAO": "RLN",
+    "website": "www.aerolanka.aero",
+    "notes": "Designator QL reinstated by IATA. Name changed from Serendib Express. Name changed from Serendib Express (Pvt) Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:51.830121"
+  },
+  {
+    "name": "Aero Lanka (Pvt) Limited",
+    "IATA": null,
+    "ICAO": "RLN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:51.830137"
+  },
+  {
+    "name": "Air Lanka Limited",
+    "IATA": "UL",
+    "ICAO": "ALK",
+    "website": "www.airlanka.com",
+    "notes": "Name changed to Srilankan during 1998. IATA designator changed from UJ",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:51.830154"
+  },
+  {
+    "name": "Air Lanka Limited",
+    "IATA": "UJ",
+    "ICAO": "ALK",
+    "website": null,
+    "notes": "Commenced operations on 01 September 1979. IATA designator changed to UL",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:51.830171"
+  },
+  {
+    "name": "Airlanka Cargo Limited",
+    "IATA": null,
+    "ICAO": "ULC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:51.830187"
+  },
+  {
+    "name": "Cosmos Aviation Services (Private) Ltd.",
+    "IATA": null,
+    "ICAO": "CMK",
+    "website": "www.cosmosaviation.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:51.830204"
+  },
+  {
+    "name": "Expo Aviation (Pvt.) Limited",
+    "IATA": "8D",
+    "ICAO": "EXV",
+    "website": "www.expoavi.com",
+    "notes": "Name changed to FITS Aviation (Pvt) Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:51.830220"
+  },
+  {
+    "name": "Guruge Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "GMD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:51.830236"
+  },
+  {
+    "name": "Jetwing Airlines (Pvt) Ltd.",
+    "IATA": null,
+    "ICAO": "JWC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:51.830252"
+  },
+  {
+    "name": "Lankair Private Limited",
+    "IATA": "IL",
+    "ICAO": "LKN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:51.830268"
+  },
+  {
+    "name": "Lankalink Aircargo (Pvt) Ltd.",
+    "IATA": null,
+    "ICAO": "LLC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:51.830284"
+  },
+  {
+    "name": "Lion Air (Pvt) Ltd.",
+    "IATA": null,
+    "ICAO": "LNS",
+    "website": null,
+    "notes": "ICAO Designator changed to LEO",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:51.830301"
+  },
+  {
+    "name": "Lion Air (Pvt) Ltd.",
+    "IATA": null,
+    "ICAO": "LEO",
+    "website": null,
+    "notes": "ICAO Designator changed from LNS",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:51.830317"
+  },
+  {
+    "name": "Mihin Lanka (Pvt) Ltd.",
+    "IATA": "MJ",
+    "ICAO": "MLR",
+    "website": "www.mihinlanka.com",
+    "notes": "Ceased operations on 30 October 2016.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:51.830333"
+  },
+  {
+    "name": "Monara Air (Pvt) Ltd.",
+    "IATA": null,
+    "ICAO": "MNR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:51.830349"
+  },
+  {
+    "name": "Peace Air (Private) Limited",
+    "IATA": "6P",
+    "ICAO": "PCA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:51.830364"
+  },
+  {
+    "name": "Serendib Air International (Pvt) Limited",
+    "IATA": null,
+    "ICAO": "DUT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:51.830379"
+  },
+  {
+    "name": "Serendib Express (Pvt) Ltd.",
+    "IATA": "QL",
+    "ICAO": "RNL",
+    "website": null,
+    "notes": "Name changed to Aero Lanka (Pvt) Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:51.830395"
+  },
+  {
+    "name": "Sky Cabs (PVT) Ltd.",
+    "IATA": "2E",
+    "ICAO": "SCB",
+    "website": null,
+    "notes": "Designator 2E recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:51.830417"
+  },
+  {
+    "name": "Sunshine Air (PVT) Ltd.",
+    "IATA": null,
+    "ICAO": "SNH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:51.830434"
+  }
+]

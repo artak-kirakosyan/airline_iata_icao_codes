@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Caicos Express Airways",
+    "IATA": "9Q",
+    "ICAO": "CXE",
+    "website": "www.caicosexpressairways.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:25.954353"
+  },
+  {
+    "name": "InterCaribbean Airways",
+    "IATA": "JY",
+    "ICAO": "IWY",
+    "website": "intercaribbean.com",
+    "notes": "Name changed from Air Turks and Caicos (2003) Ltd. Name changed from Interisland Airways Limited",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:25.954384"
+  },
+  {
+    "name": "Air Turks and Caicos (2003) Ltd",
+    "IATA": "JY",
+    "ICAO": "IWY",
+    "website": "www.flyairtc.com",
+    "notes": "Name changed to InterCaribbean Airways. Name changed from Interisland Airways Limited",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:25.954402"
+  },
+  {
+    "name": "Interisland Airways Limited",
+    "IATA": "JY",
+    "ICAO": "IWY",
+    "website": "www.interislandairways.com",
+    "notes": "Name changed to Air Turks and Caicos (2003) Ltd",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:25.954428"
+  },
+  {
+    "name": "Turks & Caicos Airways (2003) Ltd",
+    "IATA": null,
+    "ICAO": "TCI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:25.954447"
+  },
+  {
+    "name": "Turks & Caicos Airways",
+    "IATA": "QW",
+    "ICAO": "TCI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:25.954465"
+  },
+  {
+    "name": "Turks Air",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:25.954482"
+  }
+]

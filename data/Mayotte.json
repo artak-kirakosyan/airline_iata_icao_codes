@@ -1,0 +1,11 @@
+[
+  {
+    "name": "EWA Air",
+    "IATA": "ZD",
+    "ICAO": "EWR",
+    "website": "www.ewa-air.com",
+    "notes": "Commenced operations in 2013.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:31.132496"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Daallo Airlines (Somalia)",
+    "IATA": "D9",
+    "ICAO": "DMQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:44.496933"
+  },
+  {
+    "name": "Freedom Airline Express",
+    "IATA": "4K",
+    "ICAO": "SMK",
+    "website": "www.freedomairexpress.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:44.496962"
+  },
+  {
+    "name": "Halla Airlines Limited",
+    "IATA": null,
+    "ICAO": "HGA",
+    "website": "hallaairlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:44.496980"
+  },
+  {
+    "name": "Jubba Airways Limited d/b/a Jubba Airways",
+    "IATA": "3J",
+    "ICAO": "JUB",
+    "website": "www.jubbaairways.com",
+    "notes": "IATA designator changed from 3O*",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:44.496998"
+  },
+  {
+    "name": "Osob Airlines",
+    "IATA": null,
+    "ICAO": "OSB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:44.497014"
+  },
+  {
+    "name": "Osab Air",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Planned startup with 1 x BAC 1-11",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:44.497031"
+  },
+  {
+    "name": "Air Somalia",
+    "IATA": null,
+    "ICAO": "RSM",
+    "website": null,
+    "notes": "Founded in 2001. Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:44.497048"
+  },
+  {
+    "name": "Galeyr Airline",
+    "IATA": "G2",
+    "ICAO": null,
+    "website": "www.galeyrairline.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:44.497064"
+  },
+  {
+    "name": "Jubba Airways Limited d/b/a Jubba Airways",
+    "IATA": null,
+    "ICAO": "JUB",
+    "website": "www.jubba-airways.com",
+    "notes": "IATA designator changed to 6J",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:44.497081"
+  },
+  {
+    "name": "Somali Airlines",
+    "IATA": "HH",
+    "ICAO": "SOM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:44.497097"
+  },
+  {
+    "name": "Star African Air",
+    "IATA": null,
+    "ICAO": "STU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:44.497112"
+  }
+]

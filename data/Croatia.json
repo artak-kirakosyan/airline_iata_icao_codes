@@ -1,0 +1,245 @@
+[
+  {
+    "name": "Air Tractor d.o.o.",
+    "IATA": null,
+    "ICAO": "AOU",
+    "website": "www.air-tractor.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:40.301465"
+  },
+  {
+    "name": "Croatia Airlines",
+    "IATA": "OU",
+    "ICAO": "CTN",
+    "website": "www.croatiaairlines.hr",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:40.301496"
+  },
+  {
+    "name": "Croatian Air Force (Hrvatsko Ratno Zrakoplovstvo)",
+    "IATA": null,
+    "ICAO": "HRZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:40.301514"
+  },
+  {
+    "name": "ETF Airways d.o.o.",
+    "IATA": "2F",
+    "ICAO": "EZZ",
+    "website": "etfairways.com",
+    "notes": "IATA Designator chanegd from LI*.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:40.301531"
+  },
+  {
+    "name": "Fly Air41 Airways d.o.o.",
+    "IATA": null,
+    "ICAO": "BER",
+    "website": "flyair41.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:40.301547"
+  },
+  {
+    "name": "Jung Sky d.o.o.",
+    "IATA": null,
+    "ICAO": "JSY",
+    "website": "www.jungsky.hr",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:40.301563"
+  },
+  {
+    "name": "Trade Air d.o.o.",
+    "IATA": "C3",
+    "ICAO": "TDR",
+    "website": "www.trade-air.com",
+    "notes": "IATA designator changed from 8P*",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:40.301579"
+  },
+  {
+    "name": "Winair D.o.o.",
+    "IATA": null,
+    "ICAO": "WVZ",
+    "website": "www.winair-aviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:40.301595"
+  },
+  {
+    "name": "Albatros d.o.o",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.air-albatros.hr",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:40.301611"
+  },
+  {
+    "name": "Libertas Air",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Planned startup 2015 with 2 x A320.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:40.301627"
+  },
+  {
+    "name": "Air Adriatic Ltd.",
+    "IATA": null,
+    "ICAO": "AHR",
+    "website": "www.airadriatic.com",
+    "notes": "Founded in 2001. Ceased operations on 16 March 2007.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:40.301643"
+  },
+  {
+    "name": "Air Exclusive",
+    "IATA": null,
+    "ICAO": "AXC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:40.301658"
+  },
+  {
+    "name": "Aircroatia",
+    "IATA": null,
+    "ICAO": "RCR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:40.301674"
+  },
+  {
+    "name": "Columba Air d.o.o.",
+    "IATA": null,
+    "ICAO": "COL",
+    "website": "www.columbaair.hr",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:40.301690"
+  },
+  {
+    "name": "Dalmatian d.o.o.",
+    "IATA": null,
+    "ICAO": "DLN",
+    "website": "www.flydalmatian.com",
+    "notes": "Ceased trading on 24 June 2014. Operations never started.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:40.301706"
+  },
+  {
+    "name": "Dubrovnik Airline d.o.o.",
+    "IATA": "2D",
+    "ICAO": "DBK",
+    "website": "www.dubrovnikairline.com",
+    "notes": "Founded on 15 December 2004. Ceased operations on 23 October 2011.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:40.301723"
+  },
+  {
+    "name": "ETF Airways d.o.o.",
+    "IATA": null,
+    "ICAO": "EZZ",
+    "website": "etfairways.com",
+    "notes": "IATA Designator chanegd to 2F.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:40.301739"
+  },
+  {
+    "name": "European Coastal Airlines Ltd.",
+    "IATA": "H5",
+    "ICAO": "ECB",
+    "website": "www.ec-air.eu",
+    "notes": "IATA designator changed to WL",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:40.301755"
+  },
+  {
+    "name": "European Coastal Airlines Ltd.",
+    "IATA": "WL",
+    "ICAO": "ECB",
+    "website": "www.ec-air.eu",
+    "notes": "Ceased operations October 2016. IATA designator changed from H5",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:40.301772"
+  },
+  {
+    "name": "Iva Dom d.o.o.",
+    "IATA": null,
+    "ICAO": "IDJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:40.301787"
+  },
+  {
+    "name": "Ivan-Air",
+    "IATA": null,
+    "ICAO": "IVN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:40.301803"
+  },
+  {
+    "name": "Laus",
+    "IATA": null,
+    "ICAO": "LSU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:40.301817"
+  },
+  {
+    "name": "Libertas Airways",
+    "IATA": null,
+    "ICAO": "DPT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:40.301832"
+  },
+  {
+    "name": "Limitless Airways d.o.o.",
+    "IATA": null,
+    "ICAO": "LIM",
+    "website": "www.limitlessairways.hr",
+    "notes": "Commenced operations on 23 May 2015. Ceased operations on 27 December 2016 after it's AOC was suspended.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:40.301849"
+  },
+  {
+    "name": "North Adria Aviation",
+    "IATA": null,
+    "ICAO": "NAI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:40.301864"
+  },
+  {
+    "name": "Sky Vision d.o.o.",
+    "IATA": null,
+    "ICAO": "SVK",
+    "website": "sky-vision.hr",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:40.301880"
+  },
+  {
+    "name": "Trade Air d.o.o.",
+    "IATA": null,
+    "ICAO": "TDR",
+    "website": "www.trade-air.com",
+    "notes": "IATA designator changed to C3. Aircraft painted in SunAdria Airlines c/s.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:40.301896"
+  }
+]

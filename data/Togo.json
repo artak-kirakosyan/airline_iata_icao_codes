@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Air Horizon",
+    "IATA": null,
+    "ICAO": "HZT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:17.690139"
+  },
+  {
+    "name": "ASKY",
+    "IATA": "KP",
+    "ICAO": "SKK",
+    "website": "www.flyasky.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:17.690168"
+  },
+  {
+    "name": "Africa West",
+    "IATA": null,
+    "ICAO": "WTA",
+    "website": null,
+    "notes": "IATA Desginator changed to FK. Designator 3L* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:17.690188"
+  },
+  {
+    "name": "Africa West",
+    "IATA": "FK",
+    "ICAO": "WTA",
+    "website": "www.africawestcargo.com",
+    "notes": "Designator FK recalled by IATA. IATA Desginator changed from FK*. Designator 3L* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:17.690207"
+  },
+  {
+    "name": "Africa West",
+    "IATA": null,
+    "ICAO": "WTA",
+    "website": null,
+    "notes": "Designator 3L* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:17.690224"
+  },
+  {
+    "name": "Air Horizon S.A. C.A.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator 8C* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:17.690241"
+  },
+  {
+    "name": "Air Togo S.A.",
+    "IATA": "YT",
+    "ICAO": "TGA",
+    "website": "www.airtogo.net",
+    "notes": "Designator AX recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:17.690258"
+  },
+  {
+    "name": "Air Togo",
+    "IATA": "AX",
+    "ICAO": "TGA",
+    "website": null,
+    "notes": "Designator AX recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:17.690274"
+  },
+  {
+    "name": "Air Togo",
+    "IATA": "AX",
+    "ICAO": "ATG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:17.690289"
+  },
+  {
+    "name": "Comfort Jet Services",
+    "IATA": null,
+    "ICAO": "CMJ",
+    "website": "www.comfortjetservices.com",
+    "notes": "A Subsidiary of Comfort Jet Aviation. Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:17.690306"
+  },
+  {
+    "name": "Elite Air",
+    "IATA": null,
+    "ICAO": "EAI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:17.690322"
+  },
+  {
+    "name": "Finalair S.A.",
+    "IATA": null,
+    "ICAO": "FIT",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:17.690338"
+  },
+  {
+    "name": "Liz Aviation",
+    "IATA": null,
+    "ICAO": "LIZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:17.690353"
+  },
+  {
+    "name": "Peace Air Togo",
+    "IATA": null,
+    "ICAO": "PCT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:17.690368"
+  },
+  {
+    "name": "Transtel SA",
+    "IATA": null,
+    "ICAO": "TTG",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:17.690384"
+  },
+  {
+    "name": "Zircon Express Togo",
+    "IATA": null,
+    "ICAO": "ZET",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:17.690399"
+  }
+]

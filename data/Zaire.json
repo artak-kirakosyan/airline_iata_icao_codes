@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Air Zaire",
+    "IATA": "QC",
+    "ICAO": "AZR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:58.420063"
+  },
+  {
+    "name": "Compagnie Generale Aerienne Africaine",
+    "IATA": "HK",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:58.420093"
+  },
+  {
+    "name": "Congofrigo",
+    "IATA": "KF",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:58.420110"
+  },
+  {
+    "name": "Funtshi Aviation Service",
+    "IATA": "FY",
+    "ICAO": "FUN",
+    "website": null,
+    "notes": "ICAO designator assigned. ICAO callsign changed from Foxtrot Yankee.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:58.420127"
+  },
+  {
+    "name": "Funtshi Aviation Service",
+    "IATA": "FY",
+    "ICAO": null,
+    "website": null,
+    "notes": "ICAO callsign changed to Funtshi",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:58.420143"
+  },
+  {
+    "name": "MMM Aero Services",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:58.420158"
+  },
+  {
+    "name": "New ACS Ltd.",
+    "IATA": "DF",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:58.420174"
+  },
+  {
+    "name": "Scibe-Airlift",
+    "IATA": "ZM",
+    "ICAO": "SBZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:58.420189"
+  },
+  {
+    "name": "Zaire Aero Service (ZAS)",
+    "IATA": "JZ",
+    "ICAO": "ZAI",
+    "website": null,
+    "notes": "ICAO callsign changed from Juliette Zulu",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:58.420204"
+  },
+  {
+    "name": "Zaire Aero Service (ZAS)",
+    "IATA": "JZ",
+    "ICAO": "ZAI",
+    "website": null,
+    "notes": "ICAO callsign changed to Zasair",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:58.420220"
+  }
+]

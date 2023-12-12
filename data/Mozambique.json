@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Ethiopian Mozambique Airlines, Ltd",
+    "IATA": null,
+    "ICAO": "EMZ",
+    "website": "www.ethiopianmozambiqueairline.com",
+    "notes": "IATA designator ZU recalled.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:42.940595"
+  },
+  {
+    "name": "Everett Aviation Lda",
+    "IATA": null,
+    "ICAO": "EVQ",
+    "website": "www.everettaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:42.940623"
+  },
+  {
+    "name": "LAM - Linhas Aereas de Mocambique SA d/b/a LAM, SA",
+    "IATA": "TM",
+    "ICAO": "LAM",
+    "website": "www.lam.co.mz",
+    "notes": "Name changed from LAM - Linhas Aereas de Mocambique and previously from Direccao de Exploacao doe Transportes Aereos (DETA)",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:42.940641"
+  },
+  {
+    "name": "Mozambique Expresso",
+    "IATA": null,
+    "ICAO": "MXE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:42.940657"
+  },
+  {
+    "name": "Solenta Aviation Mozambique",
+    "IATA": null,
+    "ICAO": "MFJ",
+    "website": "www.solenta.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:42.940673"
+  },
+  {
+    "name": "Air Corridor",
+    "IATA": "QC",
+    "ICAO": "CRD",
+    "website": null,
+    "notes": "Designator QC reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:42.940690"
+  },
+  {
+    "name": "Direccao de Exploacao doe Transportes Aereos (DETA)",
+    "IATA": "TM",
+    "ICAO": null,
+    "website": null,
+    "notes": "Name changed to LAM - Linhas Aereas de Mocambique",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:42.940706"
+  },
+  {
+    "name": "Ethiopian Mozambique Airlines, Ltd",
+    "IATA": "ZU",
+    "ICAO": "EMZ",
+    "website": "www.ethiopianmozambiqueairline.com",
+    "notes": "IATA designator ZU recalled.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:42.940723"
+  },
+  {
+    "name": "Kaya Airlines L.D.A.",
+    "IATA": "IK",
+    "ICAO": "KYY",
+    "website": "www.kayaairlines.com",
+    "notes": "Founded 1991 as Transairways. Rebranded as Kaya Airlines and resu,ed operations on 29 August 2011.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:42.940739"
+  },
+  {
+    "name": "LAM - Linhas Aereas de Mocambique",
+    "IATA": "TM",
+    "ICAO": "LAM",
+    "website": "www.lam.co.mz",
+    "notes": "Name changed from Direccao de Exploacao doe Transportes Aereos (DETA)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:42.940755"
+  },
+  {
+    "name": "Transairways",
+    "IATA": null,
+    "ICAO": "TWM",
+    "website": null,
+    "notes": "Rebranded as Kaya Airlines. ICAO designator changed to KYY.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:42.940771"
+  },
+  {
+    "name": "Transportes E Trabalho Aero",
+    "IATA": null,
+    "ICAO": "TTA",
+    "website": null,
+    "notes": "Name changed to TTA - Empresa Nacional de Transporte e Trabalho A\u00e9reo",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:42.940789"
+  },
+  {
+    "name": "TTA - Empresa Nacional de Transporte e Trabalho A\u00e9reo",
+    "IATA": null,
+    "ICAO": "TTA",
+    "website": null,
+    "notes": "Name changed to TTA - Sociedade de Transporte E Trabalho Aereo, S.a.r.l. Name changed from Transportes E Trabalho Aero",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:42.940806"
+  },
+  {
+    "name": "TTA - Sociedade de Transporte E Trabalho Aereo, S.a.r.l.",
+    "IATA": "2Z",
+    "ICAO": "TTA",
+    "website": null,
+    "notes": "Name changed from TTA - Empresa Nacional de Transporte e Trabalho A\u00e9reo. ICAO callsign changed from Transaero",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:42.940823"
+  },
+  {
+    "name": "Sabinair Air Charter",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:42.940838"
+  }
+]

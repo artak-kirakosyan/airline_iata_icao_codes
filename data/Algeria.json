@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Air Algerie",
+    "IATA": "AH",
+    "ICAO": "DAH",
+    "website": "www.airalgerie.dz",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:30.579669"
+  },
+  {
+    "name": "Forces Aeriennes Algeriennes",
+    "IATA": null,
+    "ICAO": "KJD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:30.579696"
+  },
+  {
+    "name": "Star Aviation S.p.A.",
+    "IATA": null,
+    "ICAO": "DST",
+    "website": null,
+    "notes": "Subsidary of RedMed-Group.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:30.579713"
+  },
+  {
+    "name": "Tassili Airlines",
+    "IATA": "SF",
+    "ICAO": "DTH",
+    "website": "www.tassiliairlines.dz",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:30.579729"
+  },
+  {
+    "name": "Antinea Airlines",
+    "IATA": "HO",
+    "ICAO": "DJA",
+    "website": "www.antineaairlines-dz.com",
+    "notes": "Founded in June 1999. Merged into Khalifa Airways in 2001, and the company ceased to exist in 2003. Designator HO recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:30.579747"
+  },
+  {
+    "name": "Ecoair International",
+    "IATA": "9H",
+    "ICAO": "DEI",
+    "website": null,
+    "notes": "Founded in 1999. in 2002 it was integrated into Khalifa Group, the parent of Khalifa Airways.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:30.579764"
+  },
+  {
+    "name": "Khalifa Airways",
+    "IATA": "K6",
+    "ICAO": "KZW",
+    "website": "www.khalifaairways-dz.com",
+    "notes": "Suspended operations on 04 April 2003.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:30.579780"
+  },
+  {
+    "name": "Sahara Airlines",
+    "IATA": null,
+    "ICAO": "SHD",
+    "website": null,
+    "notes": "Founded in 1998 and started operations in September 1999. Ceased operations. Designator 6S* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:30.579797"
+  },
+  {
+    "name": "Soci\u00e9t\u00e9 de Travail A\u00e9rien",
+    "IATA": "VI",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:30.579813"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Government of Kuwait",
+    "IATA": null,
+    "ICAO": "KUG",
+    "website": "www.e.gov.kw",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:03.719441"
+  },
+  {
+    "name": "Gulf Aviation Services Group (United Aviation)",
+    "IATA": null,
+    "ICAO": "UVN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:03.719470"
+  },
+  {
+    "name": "Jazeera Airways",
+    "IATA": null,
+    "ICAO": "JZR",
+    "website": "www.jazeeraairways.com",
+    "notes": "Designator J9* reinstated by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:03.719489"
+  },
+  {
+    "name": "Kuwait Airways",
+    "IATA": "KU",
+    "ICAO": "KAC",
+    "website": "www.kuwaitairways.com",
+    "notes": "ICAO designator changed from Kilo Uniform.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:03.719509"
+  },
+  {
+    "name": "World Air Cargo Company (International Air Company)",
+    "IATA": null,
+    "ICAO": "RGD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:03.719526"
+  },
+  {
+    "name": "International Air Cargo",
+    "IATA": "L8",
+    "ICAO": null,
+    "website": "www.loadair.com",
+    "notes": "Designator L8 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:03.719542"
+  },
+  {
+    "name": "Kuwait Airways",
+    "IATA": "KU",
+    "ICAO": "KAC",
+    "website": "www.kuwait-airways.com",
+    "notes": "ICAO designator changed to Kuwaiti",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:03.719559"
+  },
+  {
+    "name": "Kuwait National Airways (K.C.S.)",
+    "IATA": "KW",
+    "ICAO": "KNA",
+    "website": "www.kna.com.kw",
+    "notes": "Name changed to Wataniya Airways",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:03.719576"
+  },
+  {
+    "name": "Kuwait National Airways (K.C.S.) t/a Wataniya Airways",
+    "IATA": "Q9",
+    "ICAO": null,
+    "website": "www.wataniyaairways.com",
+    "notes": "Received its AOC from Kuwait\u2019s DGCA in June 2017.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:03.719597"
+  },
+  {
+    "name": "Kuwait National Airways (K.C.S.) t/a Wataniya Airways",
+    "IATA": "KW",
+    "ICAO": "WAN",
+    "website": "www.wataniyaairways.com",
+    "notes": "Ceased operations on 16 March 2011. Name changed from Kuwait National Airways",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:03.719615"
+  }
+]

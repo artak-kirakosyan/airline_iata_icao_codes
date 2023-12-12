@@ -1,0 +1,200 @@
+[
+  {
+    "name": "Air Arabia Maroc",
+    "IATA": "3O",
+    "ICAO": "MAC",
+    "website": "www.airarabia.com",
+    "notes": "ICAO callsign changed from Nawras",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:41.512669"
+  },
+  {
+    "name": "Air Ocena Maroc Aviation Group",
+    "IATA": null,
+    "ICAO": "AOM",
+    "website": "airoceangroup.ma",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:41.512698"
+  },
+  {
+    "name": "Alfa Air",
+    "IATA": null,
+    "ICAO": "ALM",
+    "website": "www.alfaair.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:41.512715"
+  },
+  {
+    "name": "Dlimi Airlines",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.dlimiairlines.com",
+    "notes": "Founded in 2020. Planned startup with 2 x leased E195-E2 summer 2022.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:41.512732"
+  },
+  {
+    "name": "Morocco Airways",
+    "IATA": null,
+    "ICAO": "MCI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:41.512749"
+  },
+  {
+    "name": "RAM Express",
+    "IATA": null,
+    "ICAO": "RXP",
+    "website": "www.royalairmaroc.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:41.512765"
+  },
+  {
+    "name": "Royal Air Inter - Compagnie D'exploitation de Lignes Aeriennes Interieures",
+    "IATA": null,
+    "ICAO": "RAI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:41.512782"
+  },
+  {
+    "name": "Royal Air Maroc",
+    "IATA": "AT",
+    "ICAO": "RAM",
+    "website": "www.royalairmaroc.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:41.512798"
+  },
+  {
+    "name": "Tafarayt Jet",
+    "IATA": null,
+    "ICAO": "MBJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:41.512813"
+  },
+  {
+    "name": "Air Arabia Maroc",
+    "IATA": "3O",
+    "ICAO": "MAC",
+    "website": "www.airarabia.com",
+    "notes": "ICAO callsign changed to Arabia Maroc",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:41.512831"
+  },
+  {
+    "name": "Air Atlas Express",
+    "IATA": null,
+    "ICAO": "AXP",
+    "website": null,
+    "notes": "Commenced operations on 20 December 2002. Ceased operations during 2004.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:41.512848"
+  },
+  {
+    "name": "Air Marrakech Service",
+    "IATA": null,
+    "ICAO": "MKH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:41.512863"
+  },
+  {
+    "name": "Air Rabat",
+    "IATA": null,
+    "ICAO": "RBT",
+    "website": "www.airrabat.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:41.512879"
+  },
+  {
+    "name": "Atlas Blue",
+    "IATA": null,
+    "ICAO": "BMM",
+    "website": "www.atlas-blue.com",
+    "notes": "Low cost subsidary of Royal Air Maroc. Established on 28 May 2004 and started operations on 26 July 2004. Merged back into Royal Air Maroc by end 2009.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:41.512897"
+  },
+  {
+    "name": "Atlas Cargo Airlines",
+    "IATA": null,
+    "ICAO": "ACY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:41.512916"
+  },
+  {
+    "name": "Dalia Air",
+    "IATA": null,
+    "ICAO": "DLI",
+    "website": "www.daliaair.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:41.512933"
+  },
+  {
+    "name": "Jet4You",
+    "IATA": "8J",
+    "ICAO": "JFU",
+    "website": "www.jet4you.com",
+    "notes": "Commenced operations on 26 February 2006. Ceased operations in April 2012. Name changed from Societe D'Investissement",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:41.512950"
+  },
+  {
+    "name": "Mondair",
+    "IATA": null,
+    "ICAO": "MMA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:41.512965"
+  },
+  {
+    "name": "Regional Air Lines",
+    "IATA": null,
+    "ICAO": "RGL",
+    "website": "www.regionalmaroc.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:41.512982"
+  },
+  {
+    "name": "Royal Air Inter - Compagnie D'exploitation De Lignes Aeriennes Interieures",
+    "IATA": "RN",
+    "ICAO": "RAI",
+    "website": null,
+    "notes": "Designator RN recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:41.512999"
+  },
+  {
+    "name": "Sarah Airways",
+    "IATA": null,
+    "ICAO": "SRA",
+    "website": "www.sarahairways.ma",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:41.513014"
+  },
+  {
+    "name": "Societe D'Investissement",
+    "IATA": "8J",
+    "ICAO": null,
+    "website": null,
+    "notes": "Name changed to Jet4you",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:41.513031"
+  }
+]

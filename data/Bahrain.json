@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Bahrain Defence Force",
+    "IATA": null,
+    "ICAO": "BFW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:49.890144"
+  },
+  {
+    "name": "Bahrain Executive Air Services Co. (Bexair)",
+    "IATA": null,
+    "ICAO": "BXA",
+    "website": "www.bexair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:49.890172"
+  },
+  {
+    "name": "DHL Aviation EEMEA B.S.C(c)",
+    "IATA": null,
+    "ICAO": "DHX",
+    "website": "www.dhl.com",
+    "notes": "Name changed from DHL Aviation E.C.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:49.890189"
+  },
+  {
+    "name": "Global Aircargo Co.",
+    "IATA": null,
+    "ICAO": "GLC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:49.890205"
+  },
+  {
+    "name": "Gulf Air Company G.S.C.",
+    "IATA": "GF",
+    "ICAO": "GFA",
+    "website": "www.gulfairco.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:49.890220"
+  },
+  {
+    "name": "Gulf Air Bahrain B.S.C.",
+    "IATA": null,
+    "ICAO": "GBA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:49.890236"
+  },
+  {
+    "name": "MAE Aircraft Management WLL",
+    "IATA": "MA",
+    "ICAO": "MEN",
+    "website": "www.mena.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:49.890252"
+  },
+  {
+    "name": "Royal Bahrain Airlines B.S.C. (Closed)",
+    "IATA": null,
+    "ICAO": "RYB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:49.890267"
+  },
+  {
+    "name": "Texel Air W.L.L.",
+    "IATA": null,
+    "ICAO": "XLR",
+    "website": "www.texelair.com",
+    "notes": "Founded in 2013.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:49.890283"
+  },
+  {
+    "name": "The Amiri Flight - Bahrain",
+    "IATA": null,
+    "ICAO": "BAH",
+    "website": null,
+    "notes": "ICAO callsign cahnged from Bahrain One. Desgiantor AD recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:49.890299"
+  },
+  {
+    "name": "Transcontinental Air WLL",
+    "IATA": null,
+    "ICAO": "TCH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:49.890315"
+  },
+  {
+    "name": "Bahrain Air B.S.C. (Closed)",
+    "IATA": "2B",
+    "ICAO": "BAB",
+    "website": "www.bahrainair.net",
+    "notes": "IATA desigantor changed to BN",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:49.890331"
+  },
+  {
+    "name": "Bahrain Air B.S.C. (Closed)",
+    "IATA": "BN",
+    "ICAO": "BAB",
+    "website": "www.bahrainair.net",
+    "notes": "Ceased operations 12 February 2013. IATA desigantor changed from 2B",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:49.890347"
+  },
+  {
+    "name": "Bahrain Royal Flight",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:49.890362"
+  },
+  {
+    "name": "DHL International E.C.",
+    "IATA": null,
+    "ICAO": "DHX",
+    "website": "www.dhl.com",
+    "notes": "Name changed to DHL Aviation EEMEA B.S.C(c)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:49.890377"
+  },
+  {
+    "name": "Gulf Air",
+    "IATA": "GF",
+    "ICAO": "GFA",
+    "website": "www.gulfairco.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:49.890394"
+  },
+  {
+    "name": "Gulf Aviation",
+    "IATA": "GF",
+    "ICAO": null,
+    "website": null,
+    "notes": "Name changed to Gulf Air Company G.S.C.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:49.890409"
+  },
+  {
+    "name": "Gulf Express Aviation B.S.C. (Closed)",
+    "IATA": null,
+    "ICAO": "GXA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:49.890431"
+  },
+  {
+    "name": "The Amiri Flight - Bahrain",
+    "IATA": "AD",
+    "ICAO": "BAH",
+    "website": null,
+    "notes": "Desgiantor AD recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:49.890450"
+  },
+  {
+    "name": "Swiftair (Bahrain)",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:49.890466"
+  }
+]

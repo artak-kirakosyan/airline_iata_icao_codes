@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Aero Services",
+    "IATA": null,
+    "ICAO": "BAS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:52.296169"
+  },
+  {
+    "name": "Cargo Link (Caribbean), Inc.",
+    "IATA": null,
+    "ICAO": "CLM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:52.296203"
+  },
+  {
+    "name": "Caribbean Airways Ltd.",
+    "IATA": null,
+    "ICAO": "IQQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:52.296221"
+  },
+  {
+    "name": "Caribexpress",
+    "IATA": null,
+    "ICAO": "BCB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:52.296236"
+  },
+  {
+    "name": "Helenair (Barbados)",
+    "IATA": null,
+    "ICAO": "HCB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:52.296251"
+  },
+  {
+    "name": "OCL (Barbados) Ltd.",
+    "IATA": null,
+    "ICAO": "OCL",
+    "website": "flyonecaribbean.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:52.296267"
+  },
+  {
+    "name": "Trans Island Air 2000",
+    "IATA": null,
+    "ICAO": "TRD",
+    "website": "www.tia2000.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:52.296283"
+  },
+  {
+    "name": "Bajan Helicopters Ltd",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.bajanhelicopters.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:52.296299"
+  },
+  {
+    "name": "Caribbean Air Cargo",
+    "IATA": "DC",
+    "ICAO": "DCC",
+    "website": null,
+    "notes": "Designator DC recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:52.296318"
+  },
+  {
+    "name": "Caribbean Airways Ltd.",
+    "IATA": "IQ",
+    "ICAO": "IQQ",
+    "website": null,
+    "notes": "Name changed from International Caribbean Airline",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:52.296334"
+  },
+  {
+    "name": "International Caribbean Airline",
+    "IATA": "IQ",
+    "ICAO": null,
+    "website": null,
+    "notes": "Name changed to Caribbean Airways Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:52.296350"
+  },
+  {
+    "name": "Airone Ventures Ltd",
+    "IATA": null,
+    "ICAO": "RDJ",
+    "website": "www.flyredjet.com",
+    "notes": "Founded in 2010. Commenced operations on 10 May 2011. Ceased operations on 09 June 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:52.296367"
+  }
+]

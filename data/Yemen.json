@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Alhodhod Airline",
+    "IATA": null,
+    "ICAO": "HOD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:54.875441"
+  },
+  {
+    "name": "Blue Bird Aviation",
+    "IATA": null,
+    "ICAO": "BBY",
+    "website": null,
+    "notes": "ICAO callsign changed from Yemen Bluebird.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:54.875468"
+  },
+  {
+    "name": "Felix Airways",
+    "IATA": null,
+    "ICAO": "FXX",
+    "website": "www.felixairways.com",
+    "notes": "Designator FO recalled by IATA. Founded 26 October 2008",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:54.875486"
+  },
+  {
+    "name": "Moka Airways",
+    "IATA": null,
+    "ICAO": "MKA",
+    "website": "mokaairways.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:54.875502"
+  },
+  {
+    "name": "Queen Bilqis Airways",
+    "IATA": "QA",
+    "ICAO": "QBA",
+    "website": "queenbilqisairways.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:54.875518"
+  },
+  {
+    "name": "Sheba Aviation",
+    "IATA": null,
+    "ICAO": "SYE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:54.875534"
+  },
+  {
+    "name": "Yemenia - Yemen Airways",
+    "IATA": "IY",
+    "ICAO": "IYE",
+    "website": "www.yemenia.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:54.875550"
+  },
+  {
+    "name": "Alyemda - Democratic Yemen Airlines",
+    "IATA": null,
+    "ICAO": "DYA",
+    "website": null,
+    "notes": "Merged into Yemenia",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:54.875566"
+  },
+  {
+    "name": "Blue Bird Aviation",
+    "IATA": null,
+    "ICAO": "BBY",
+    "website": null,
+    "notes": "ICAO callsign changed to Yemen Blue.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:54.875582"
+  },
+  {
+    "name": "Felix Airways",
+    "IATA": "FO",
+    "ICAO": "FXX",
+    "website": "www.felixairways.com",
+    "notes": "Designator FO recalled by IATA. Founded 26 October 2008",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:54.875598"
+  }
+]

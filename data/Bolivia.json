@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Administracion de Aeropuertos Y Servicios Auxiliaries A La Navegacion Aerea (AASANA)",
+    "IATA": null,
+    "ICAO": "XXV",
+    "website": "www.aasana.bo",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:01.331607"
+  },
+  {
+    "name": "Aero Service Bolivia",
+    "IATA": null,
+    "ICAO": "GHM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:01.331648"
+  },
+  {
+    "name": "Aeroeste Srl",
+    "IATA": null,
+    "ICAO": "ROE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:01.331666"
+  },
+  {
+    "name": "L\u00ednea A\u00e9rea Amaszonas S.A.",
+    "IATA": null,
+    "ICAO": "AZN",
+    "website": "www.amaszonas.com",
+    "notes": "Designator Z8* reinstated by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:01.331685"
+  },
+  {
+    "name": "Boliviana de Aviacion (BoA)",
+    "IATA": "OB",
+    "ICAO": "BOV",
+    "website": "www.boa.bo",
+    "notes": "Founded on 24 October 2007",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:01.331703"
+  },
+  {
+    "name": "Linea Aerea Eco Jet S.A.",
+    "IATA": "8J",
+    "ICAO": "ECO",
+    "website": "www.ecojet.bo",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:01.331720"
+  },
+  {
+    "name": "Empresa Publica de Transporte Aereo Militar",
+    "IATA": null,
+    "ICAO": "EPT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:01.331736"
+  },
+  {
+    "name": "Transportes Aereos Bolivianos (TAB)",
+    "IATA": null,
+    "ICAO": "BOL",
+    "website": "tab-bolivia.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:01.331753"
+  },
+  {
+    "name": "TAM Mercosur Boliva",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Subsidary of TAM Brasil",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:01.331771"
+  },
+  {
+    "name": "Aerocomercial Oriente Norte Ltd",
+    "IATA": "A4",
+    "ICAO": "AEK",
+    "website": "www.aerocon.bo",
+    "notes": "Founded in 2005. Ceased operations during 2015.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:01.331789"
+  },
+  {
+    "name": "Compania Boliviana de Transporte Aereo Privado Aerosur, S.A.",
+    "IATA": "5L",
+    "ICAO": "RSU",
+    "website": "www.aerosur.com",
+    "notes": "Founded in 1992. Ceased operations on 17 May 2012. AOC revoked on 20 July 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:01.331807"
+  },
+  {
+    "name": "Linea Aerea Merida Internacional de Aviacion C.A. (LiMia C.A.)",
+    "IATA": null,
+    "ICAO": "LMI",
+    "website": "www.limia.com.ve",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:01.331824"
+  },
+  {
+    "name": "Lloyd Aereo Boliviano S.A. (LAB)",
+    "IATA": "LB",
+    "ICAO": "LLB",
+    "website": "www.labairlines.com",
+    "notes": "Ceased Operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:01.331841"
+  },
+  {
+    "name": "North East Bolivian Airways (NEBA)",
+    "IATA": null,
+    "ICAO": "NBA",
+    "website": "nebairways.com",
+    "notes": "Founded in 1970. Ceased operations during 2006.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:01.331859"
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "name": "FlyNamibia Aviation (Pty) Ltd. d/b/a FlyNamibia",
+    "IATA": "WV",
+    "ICAO": "FLN",
+    "website": "flynam.com",
+    "notes": "IATA designator WV transferred from parent Westair Aviation w.e.f. 01/08/2023",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:45.192737"
+  },
+  {
+    "name": "Government Air Transport Services (GATS)",
+    "IATA": null,
+    "ICAO": "NAM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:45.192766"
+  },
+  {
+    "name": "International SOS Windhoek",
+    "IATA": null,
+    "ICAO": "RSQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:45.192783"
+  },
+  {
+    "name": "Namdeb Diamond Corporation Namibia",
+    "IATA": null,
+    "ICAO": "DMD",
+    "website": "www.namdeb.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:45.192799"
+  },
+  {
+    "name": "Namibia Commercial Aviation (Pty) Ltd.",
+    "IATA": null,
+    "ICAO": "MRE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:45.192815"
+  },
+  {
+    "name": "Namibia Rescue Services",
+    "IATA": null,
+    "ICAO": "NMR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:45.192830"
+  },
+  {
+    "name": "Namibian Defence Force",
+    "IATA": null,
+    "ICAO": "NDF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:45.192845"
+  },
+  {
+    "name": "Quickjet Aviation (Pty) Ltd.",
+    "IATA": null,
+    "ICAO": "QJA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:45.192860"
+  },
+  {
+    "name": "Red Sky Ventures CC",
+    "IATA": null,
+    "ICAO": "RSV",
+    "website": "www.redskyventures.org",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:45.192876"
+  },
+  {
+    "name": "Scenic Air (Pty) Ltd",
+    "IATA": null,
+    "ICAO": "ENR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:45.192890"
+  },
+  {
+    "name": "Trustco Group International (Pty) Ltd",
+    "IATA": null,
+    "ICAO": "TUS",
+    "website": "www.tgh.na",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:45.192906"
+  },
+  {
+    "name": "Westair Aviation (Pty) Ltd.",
+    "IATA": null,
+    "ICAO": "WAA",
+    "website": "westair.com.na",
+    "notes": "IATA designator WV transferred to subsidiary FlyNamibia w.e.f. 01/08/2023. IATA Accounting code 614 recalled.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:45.192923"
+  },
+  {
+    "name": "Air Namibia",
+    "IATA": "SW",
+    "ICAO": "NMB",
+    "website": "www.airnamibia.com",
+    "notes": "Ceased operation on 11 February 2021.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:45.192940"
+  },
+  {
+    "name": "Nomad Aviation (Pty) Ltd t/a Bay Air Aviation",
+    "IATA": "N6",
+    "ICAO": "NMD",
+    "website": "www.bay-air.com",
+    "notes": "Operates flights obo flyafrica.com",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:45.192956"
+  },
+  {
+    "name": "Compion Aviation (Pty) Ltd.",
+    "IATA": null,
+    "ICAO": "COX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:45.192971"
+  },
+  {
+    "name": "Kalahari Express Airlines (pty) Ltd.",
+    "IATA": "XY",
+    "ICAO": "KEA",
+    "website": null,
+    "notes": "Designator XY recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:45.192986"
+  },
+  {
+    "name": "Westair Aviation (Pty) Ltd.",
+    "IATA": "WV",
+    "ICAO": "WAA",
+    "website": "westair.com.na",
+    "notes": "IATA designator WV transferred to subsidiary FlyNamibia w.e.f. 01/08/2023. IATA Accounting code 614 recalled.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:45.193003"
+  },
+  {
+    "name": "Comav (Pty) Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:45.193018"
+  }
+]

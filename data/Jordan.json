@@ -1,0 +1,290 @@
+[
+  {
+    "name": "Arab Air Cargo",
+    "IATA": null,
+    "ICAO": "AWF",
+    "website": null,
+    "notes": "ICAO callsign changed from Arab Cargo",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:54.729874"
+  },
+  {
+    "name": "Arab Wings Company",
+    "IATA": null,
+    "ICAO": "AWS",
+    "website": "www.arabwings.com.jo",
+    "notes": "Designator SI recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:54.729903"
+  },
+  {
+    "name": "Solitaire Air Ltd. Co. (d/b/a Fly Jordan)",
+    "IATA": null,
+    "ICAO": "FJR",
+    "website": "www.flyjordanairline.com",
+    "notes": "IATA Designator F0* Recalled. ICAO Designator changed from STR.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:54.729921"
+  },
+  {
+    "name": "Jordan Enterprise for Air Navigation and Aviation",
+    "IATA": "R5",
+    "ICAO": "JAV",
+    "website": "www.jordanaviation.jo",
+    "notes": "IATA designator changed from R5*",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:54.729939"
+  },
+  {
+    "name": "Jordan Aviation",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.jordanaviation.jo",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:54.729955"
+  },
+  {
+    "name": "Queens Air",
+    "IATA": null,
+    "ICAO": null,
+    "website": "queens-air.com",
+    "notes": "Planned start up with A320ceo",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:54.729971"
+  },
+  {
+    "name": "Alia - The Royal Jordanian Airline d/b/a Royal Jordanian",
+    "IATA": "RJ",
+    "ICAO": "RJA",
+    "website": "www.rj.com",
+    "notes": "Name changed from ALIA - Royal Jordanian Airline",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:54.729988"
+  },
+  {
+    "name": "Royal Jordanian Air Force",
+    "IATA": null,
+    "ICAO": "RJZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:54.730003"
+  },
+  {
+    "name": "Royal Wings",
+    "IATA": "JO",
+    "ICAO": "RYW",
+    "website": "www.royalwings.com.jo",
+    "notes": "Founded 01 January 1996. IATA Desginator changed from RY*. ICAO designator changed to RYW. ICAO designator changed from RWA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:54.730021"
+  },
+  {
+    "name": "Starair Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.starairltd.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:54.730036"
+  },
+  {
+    "name": "Air Arabia Jordan",
+    "IATA": "9P",
+    "ICAO": "JAD",
+    "website": "www.airarabia.com",
+    "notes": "Ceased operatsions during April 2018. Joint venture between Air Arabia/RUM Group. Commenced operations on 19 May 2015. Name changed from Petra Airlines. ICAO Designator changed from PTR.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:54.730054"
+  },
+  {
+    "name": "Al Shohra Aviation",
+    "IATA": null,
+    "ICAO": "FMJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:54.730069"
+  },
+  {
+    "name": "ALIA - Royal Jordanian Airline",
+    "IATA": "RJ",
+    "ICAO": "RJA",
+    "website": null,
+    "notes": "Name changed to Royal Jordanian (Alia - The Royal Jordanian Airline)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:54.730086"
+  },
+  {
+    "name": "ALIA - Royal Jordanian Airline",
+    "IATA": "RJ",
+    "ICAO": "RJA",
+    "website": null,
+    "notes": "ICAO Callsign changed to Jordanian",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:54.730101"
+  },
+  {
+    "name": "Arab Air Cargo",
+    "IATA": null,
+    "ICAO": "AWF",
+    "website": null,
+    "notes": "ICAO callsign changed to Sinbad",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:54.730116"
+  },
+  {
+    "name": "Arab Wings Company",
+    "IATA": "SI",
+    "ICAO": "AWS",
+    "website": "www.arabwings.com.jo",
+    "notes": "Designator SI recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:54.730132"
+  },
+  {
+    "name": "Solitaire Air Ltd. Co. (d/b/a Fly Jordan)",
+    "IATA": null,
+    "ICAO": "FJR",
+    "website": "www.flyjordanairline.com",
+    "notes": "IATA Designator F0* Recalled. ICAO Designator changed from STR.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:54.730149"
+  },
+  {
+    "name": "Jordan Enterprise for Air Navigation and Aviation",
+    "IATA": null,
+    "ICAO": "JAV",
+    "website": "www.jordanaviation.com",
+    "notes": "IATA designator changed to R5",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:54.730166"
+  },
+  {
+    "name": "Jordan International Air Cargo Company (JIAC)",
+    "IATA": null,
+    "ICAO": "JCI",
+    "website": "www.jiac.com.jo",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:54.730182"
+  },
+  {
+    "name": "Petra Airlines",
+    "IATA": "9P",
+    "ICAO": "PTR",
+    "website": "www.petraairline.com",
+    "notes": "Name changed to Air Arabia Jordan.  ICAO Designator changed to JAD.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:54.730198"
+  },
+  {
+    "name": "Prestiget Jet - Jordan",
+    "IATA": null,
+    "ICAO": "PSJ",
+    "website": "www.prestige-jet.com",
+    "notes": "AOC Expired.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:54.730213"
+  },
+  {
+    "name": "Raya Jet",
+    "IATA": null,
+    "ICAO": "RYT",
+    "website": "rayajet.com",
+    "notes": "AOC Expired. Name changed from Royal Jet",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:54.730229"
+  },
+  {
+    "name": "Royal Falcon of Jordan",
+    "IATA": "RL",
+    "ICAO": "RFJ",
+    "website": "www.royalfalcon.com.jo",
+    "notes": "IATA designator changed from RZ",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:54.730245"
+  },
+  {
+    "name": "Royal Falcon of Jordan",
+    "IATA": "RZ",
+    "ICAO": "RFJ",
+    "website": "www.royalfalcon.com.jo",
+    "notes": "IATA designator changed to RL",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:54.730261"
+  },
+  {
+    "name": "Royal Jet",
+    "IATA": null,
+    "ICAO": "RYT",
+    "website": null,
+    "notes": "Name changed to Raya Jet",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:54.730276"
+  },
+  {
+    "name": "Royal Jordanian Airlines Company",
+    "IATA": "RJ",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:54.730291"
+  },
+  {
+    "name": "Royal Wings",
+    "IATA": null,
+    "ICAO": "RWA",
+    "website": "www.royalwings.com.jo",
+    "notes": "ICAO designator changed from RWZ",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:54.730307"
+  },
+  {
+    "name": "Royal Wings",
+    "IATA": null,
+    "ICAO": "RWZ",
+    "website": "www.royalwings.com.jo",
+    "notes": "ICAO designator changed to RWA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:54.730322"
+  },
+  {
+    "name": "Royal Wings",
+    "IATA": null,
+    "ICAO": "RYW",
+    "website": "www.royalwings.com.jo",
+    "notes": "Founded 01 January 1996. IATA Desginator changed to JO. ICAO designator changed to RYW. ICAO designator changed from RWA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:54.730339"
+  },
+  {
+    "name": "Solitaire Air",
+    "IATA": null,
+    "ICAO": "STR",
+    "website": "www.solitaireair.com",
+    "notes": "ICAO Designaotr changed to FJR",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:54.730355"
+  },
+  {
+    "name": "Transworld Airfreighters",
+    "IATA": null,
+    "ICAO": "TWR",
+    "website": null,
+    "notes": "AOC revoked.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:54.730370"
+  },
+  {
+    "name": "Waves Jet of Jordan",
+    "IATA": null,
+    "ICAO": "WVJ",
+    "website": "www.wavesjet.com",
+    "notes": "AOC Revoked",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:54.730386"
+  }
+]

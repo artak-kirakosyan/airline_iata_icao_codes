@@ -1,0 +1,263 @@
+[
+  {
+    "name": "Aircraft Support and Services",
+    "IATA": null,
+    "ICAO": "NFF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:08.705835"
+  },
+  {
+    "name": "Beirut Wings S.a.l.",
+    "IATA": null,
+    "ICAO": "BWM",
+    "website": "www.beirutwings.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:08.705865"
+  },
+  {
+    "name": "Berytos Airlines",
+    "IATA": null,
+    "ICAO": "BYR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:08.705882"
+  },
+  {
+    "name": "Blue Sky Aviation S.A.L.",
+    "IATA": null,
+    "ICAO": "BSM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:08.705898"
+  },
+  {
+    "name": "Cedar Executive",
+    "IATA": null,
+    "ICAO": "CDX",
+    "website": "www.cedarexecutive.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:08.705915"
+  },
+  {
+    "name": "Emerald Jets S.A.L.",
+    "IATA": null,
+    "ICAO": "EFB",
+    "website": "www.emerald-jets.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:08.705931"
+  },
+  {
+    "name": "Executive Aircraft Services S.A.L.",
+    "IATA": null,
+    "ICAO": "ESM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:08.705948"
+  },
+  {
+    "name": "FlyExec Ltd",
+    "IATA": null,
+    "ICAO": "FEL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:08.705964"
+  },
+  {
+    "name": "Ibex Air Charter S.A.R.L.",
+    "IATA": null,
+    "ICAO": "IBC",
+    "website": "ibexaircharter.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:08.705980"
+  },
+  {
+    "name": "Ibex Air Charter",
+    "IATA": null,
+    "ICAO": "IAC",
+    "website": "ibexaircharter.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:08.705996"
+  },
+  {
+    "name": "Imperial Jet",
+    "IATA": null,
+    "ICAO": "IMJ",
+    "website": "www.imperial-jet.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:08.706012"
+  },
+  {
+    "name": "Jetex Aviation",
+    "IATA": null,
+    "ICAO": "JXA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:08.706027"
+  },
+  {
+    "name": "Lebanese Air Transport (Charter) Co. S.A.L.",
+    "IATA": null,
+    "ICAO": "LAT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:08.706043"
+  },
+  {
+    "name": "Middle East Airlines - AirLiban",
+    "IATA": "ME",
+    "ICAO": "MEA",
+    "website": "www.mea.com.lb",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:08.706059"
+  },
+  {
+    "name": "Med Airways",
+    "IATA": null,
+    "ICAO": "MED",
+    "website": "www.medairways.com",
+    "notes": "Founded in 2000 as Flying Carpet. IATA Designator 7Y* recalled",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:08.706076"
+  },
+  {
+    "name": "Skylounge Services S.A.L.",
+    "IATA": null,
+    "ICAO": "TSM",
+    "website": "skyloungeservices.com",
+    "notes": "Name changed from Trans Sayegh Airport Services.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:08.706093"
+  },
+  {
+    "name": "ADC Airways",
+    "IATA": null,
+    "ICAO": "ADW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:08.706109"
+  },
+  {
+    "name": "Flying Carpet Air Transport & Services sal",
+    "IATA": null,
+    "ICAO": "FCR",
+    "website": "www.flyingcarpet.com.lb",
+    "notes": "Name changed to Med Airways. IATA designator changed from F8*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:08.706128"
+  },
+  {
+    "name": "Flying Carpet Air Transport & Services sal",
+    "IATA": null,
+    "ICAO": "FCR",
+    "website": "www.flyingcarpet.com.lb",
+    "notes": "IATA designator changed to 7Y*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:08.706145"
+  },
+  {
+    "name": "Globe Jet S.A.L.",
+    "IATA": null,
+    "ICAO": "GJA",
+    "website": "www.globejetairlines.com",
+    "notes": "Established in December of 2003.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:08.706162"
+  },
+  {
+    "name": "Lebanese Air Transport",
+    "IATA": "LQ",
+    "ICAO": "LAQ",
+    "website": "www.lat.com.lb",
+    "notes": "Designator LQ recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:08.706178"
+  },
+  {
+    "name": "Lebanon Sky Aviation",
+    "IATA": null,
+    "ICAO": "LSY",
+    "website": "www.lebanonsky.com",
+    "notes": "AOC revoked by Lebanese Directorate General of Civil Aviation on 23 November 2016.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:08.706195"
+  },
+  {
+    "name": "Med Airways",
+    "IATA": null,
+    "ICAO": "MED",
+    "website": "www.medairways.com",
+    "notes": "Founded in 2000 as Flying Carpet. IATA Designator 7Y* recalled",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:08.706213"
+  },
+  {
+    "name": "Trans Mediterranean Airways (TMA)",
+    "IATA": "TL",
+    "ICAO": "TMA",
+    "website": "www.tma.com.lb",
+    "notes": "Designator TL recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:08.706229"
+  },
+  {
+    "name": "Trans Mediterranean Airways S.A.L.",
+    "IATA": "T2",
+    "ICAO": "TMA",
+    "website": "www.tma.com.lb",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:08.706245"
+  },
+  {
+    "name": "Trans Mediterranean Airways S.A.L.",
+    "IATA": "N2",
+    "ICAO": "TMA",
+    "website": "www.tma.com.lb",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:08.706261"
+  },
+  {
+    "name": "Trans Sayegh Airport Services",
+    "IATA": null,
+    "ICAO": "TSM",
+    "website": null,
+    "notes": "Name changed to Skylounge Services S.A.L.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:08.706278"
+  },
+  {
+    "name": "Wings of Lebanon S.a.l.",
+    "IATA": "L4",
+    "ICAO": "WLB",
+    "website": "www.wingsoflebanon.com.lb",
+    "notes": "Designator L4 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:08.706295"
+  },
+  {
+    "name": "Wings of Lebanon S.a.l.",
+    "IATA": null,
+    "ICAO": "WLB",
+    "website": "www.wingsoflebanon.com.lb",
+    "notes": "Temporarily suspended operation on 26 August 2020. Designator L4 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:08.706312"
+  }
+]

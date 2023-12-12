@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Air Greenland A/S",
+    "IATA": "GL",
+    "ICAO": "GRL",
+    "website": "www.airgreenland.com",
+    "notes": "Name changed from Greenlandair / ICAO callsign changed from Greenlandair",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:22.588229"
+  },
+  {
+    "name": "Greenland Express Iceland",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.greenlandexpress.com",
+    "notes": "Flights operated by Denim Air. (J2*/DNM)",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:22.588259"
+  },
+  {
+    "name": "Greenlandcopter A/S",
+    "IATA": null,
+    "ICAO": "GRE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:22.588277"
+  },
+  {
+    "name": "Air Alpha A/S",
+    "IATA": null,
+    "ICAO": "AHA",
+    "website": "www.airalpha.com",
+    "notes": "Name changed from Air Alpha Greenland A/S",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:22.588294"
+  },
+  {
+    "name": "Air Alpha Greenland A/S",
+    "IATA": "GD",
+    "ICAO": "AHA",
+    "website": "www.airalpha.com/Air_A_page1.htm",
+    "notes": "Designator GD recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:22.588312"
+  },
+  {
+    "name": "Greenlandair",
+    "IATA": "GL",
+    "ICAO": "GRL",
+    "website": "www.greenland-guide.dk/gla/default.htm",
+    "notes": "Name changed to Air Greenland A/S / ICAO callsign changed to Greenland",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:22.588330"
+  },
+  {
+    "name": "Gronlandsfly Ltd.",
+    "IATA": "GL",
+    "ICAO": "GRL",
+    "website": null,
+    "notes": "Name changed to Greenlandair",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:22.588347"
+  }
+]

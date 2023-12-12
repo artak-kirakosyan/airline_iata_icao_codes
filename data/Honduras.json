@@ -1,0 +1,227 @@
+[
+  {
+    "name": "AVIAC S.A. de C.V. (Aereo Vias Centroamericanas Sociedad Anonima de Capital Variable)",
+    "IATA": null,
+    "ICAO": "ACM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:36.214122"
+  },
+  {
+    "name": "Avianca Honduras",
+    "IATA": null,
+    "ICAO": "ISV",
+    "website": "www.avianca.com",
+    "notes": "Designator WC recalled by IATA. Founded in 1981. Name changed from Islena de Inversiones S.A. de C.V. d/b/a Islena Airlines",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:36.214153"
+  },
+  {
+    "name": "Aviatsa S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "VVT",
+    "website": "www.aviatsa-hn.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:36.214171"
+  },
+  {
+    "name": "Aviatsa (Aviacion Tecnologica S.A.)",
+    "IATA": null,
+    "ICAO": "LEM",
+    "website": "www.aviatsa-hn.com",
+    "notes": "Formerly Aviation Partners Honduras.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:36.214189"
+  },
+  {
+    "name": "Caribbean Air Tours & Services Charters, S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "CRB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:36.214205"
+  },
+  {
+    "name": "Castillo Mourra",
+    "IATA": null,
+    "ICAO": "OMT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:36.214221"
+  },
+  {
+    "name": "Aviation Partners, S. De R.L. de.C.V. d/b/a EasySky",
+    "IATA": null,
+    "ICAO": "EKY",
+    "website": "www.easy-sky.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:36.214238"
+  },
+  {
+    "name": "Honduras Airlines",
+    "IATA": null,
+    "ICAO": "HAS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:36.214253"
+  },
+  {
+    "name": "Linea Aerea Nacional de Honduras S.A. de C.V.",
+    "IATA": null,
+    "ICAO": "LNH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:36.214269"
+  },
+  {
+    "name": "Rollins Air S. de r.l.",
+    "IATA": null,
+    "ICAO": "RAV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:36.214285"
+  },
+  {
+    "name": "Aerolineas de Honduras, S.A. (AEHSA)",
+    "IATA": null,
+    "ICAO": "AHB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:36.214301"
+  },
+  {
+    "name": "Aerolineas Sosa, S.A.",
+    "IATA": null,
+    "ICAO": "NSO",
+    "website": "www.aerolineasosahn.com",
+    "notes": "Desginator P4* reinstated byIATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:36.214318"
+  },
+  {
+    "name": "Aeroservicios S.r.l.",
+    "IATA": "HD",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:36.214334"
+  },
+  {
+    "name": "Atlantic Airlines de Honduras, S de R.L.",
+    "IATA": null,
+    "ICAO": "HHA",
+    "website": "www.atlanticairlines.com.ni",
+    "notes": "Founded in 1991 by Atlantic Airlines of Nicaragua. Ceased Operations in October 2008. Company dissolved in 2009.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:36.214352"
+  },
+  {
+    "name": "Avianca Honduras",
+    "IATA": "WC",
+    "ICAO": "ISV",
+    "website": "www.avianca.com",
+    "notes": "Designator WC reinstated by IATA. Founded in 1981. Name changed from Islena de Inversiones S.A. de C.V. d/b/a Islena Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:36.214368"
+  },
+  {
+    "name": "Islena de Inversiones S.A. de C.V. d/b/a Islena Airlines",
+    "IATA": "WC",
+    "ICAO": "ISV",
+    "website": "www.flyislena.com",
+    "notes": "Designator WC reinstated by IATA. Founded in 1981. Name changed to Avianca Honduras.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:36.214385"
+  },
+  {
+    "name": "Islena de Inversiones S.A. de C.V. d/b/a Islena Airlines",
+    "IATA": "1H",
+    "ICAO": "ISV",
+    "website": "www.flyislena.com",
+    "notes": "IATA designator changed to WC. Founded in 1981. Commenced operations on 31 March 1981.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:36.214402"
+  },
+  {
+    "name": "Lansa S.r.l.",
+    "IATA": "UL",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:36.214423"
+  },
+  {
+    "name": "Omega Air, S. de R.L.",
+    "IATA": null,
+    "ICAO": "OME",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:36.214438"
+  },
+  {
+    "name": "Riecam, S.A.",
+    "IATA": null,
+    "ICAO": "REM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:36.214454"
+  },
+  {
+    "name": "Servicio Aereo de Honduras, S.A. (SAHSA)",
+    "IATA": "SH",
+    "ICAO": "SHA",
+    "website": null,
+    "notes": "Desigantor SH recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:36.214470"
+  },
+  {
+    "name": "Servicio Aereo de Honduras, S.A. (SAHSA)",
+    "IATA": null,
+    "ICAO": "SHA",
+    "website": null,
+    "notes": "Desigantor SH recalled by IATA. Ceased Operations during 1993",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:36.214486"
+  },
+  {
+    "name": "Aero Hunduras, S.A. d/b/a Sol Air",
+    "IATA": "4S",
+    "ICAO": "HON",
+    "website": "www.aerohonduras.com",
+    "notes": "Established in January 2002. Commenced operation on 12 July 2002. Ceased operations in 2005.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:36.214504"
+  },
+  {
+    "name": "Transportes Aereos Centroamericanos de Honduras (TACA de Honduras)",
+    "IATA": null,
+    "ICAO": "THO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:36.214520"
+  },
+  {
+    "name": "Transportes A\u00e9reos Nacionales, S.A. - TAN Honduras",
+    "IATA": "TX",
+    "ICAO": "TAN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:36.214535"
+  }
+]

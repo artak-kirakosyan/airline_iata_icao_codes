@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Air Ayiti",
+    "IATA": null,
+    "ICAO": null,
+    "website": "airayiti.com",
+    "notes": "Flights operated by Eastern Air Lines/Aruba Airlines.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:33.720907"
+  },
+  {
+    "name": "Air Haiti",
+    "IATA": null,
+    "ICAO": "HJA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:33.720937"
+  },
+  {
+    "name": "Caribintair, S.A.",
+    "IATA": null,
+    "ICAO": "CRT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:33.720955"
+  },
+  {
+    "name": "Haiti Air Freight International SA",
+    "IATA": null,
+    "ICAO": "HLS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:33.720971"
+  },
+  {
+    "name": "Haiti International Air, S.A.",
+    "IATA": null,
+    "ICAO": "HTI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:33.720987"
+  },
+  {
+    "name": "Haiti National Airlines (HANA)",
+    "IATA": null,
+    "ICAO": "HNR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:33.721002"
+  },
+  {
+    "name": "Haiti North Airline",
+    "IATA": null,
+    "ICAO": "HTN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:33.721018"
+  },
+  {
+    "name": "Haiti Trans Air, S.A.",
+    "IATA": null,
+    "ICAO": "HTC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:33.721034"
+  },
+  {
+    "name": "Haitian Aviation Line, S.A.",
+    "IATA": null,
+    "ICAO": "HBC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:33.721049"
+  },
+  {
+    "name": "Papair Terminal, S.A.",
+    "IATA": null,
+    "ICAO": "HMP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:33.721065"
+  },
+  {
+    "name": "Pearl Airways Compagne Haitienne",
+    "IATA": null,
+    "ICAO": "HPA",
+    "website": null,
+    "notes": "Designator HP recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:33.721081"
+  },
+  {
+    "name": "Quisqueya Airlines, S.A.",
+    "IATA": null,
+    "ICAO": "QAS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:33.721095"
+  },
+  {
+    "name": "Sunrise Airways S.A.",
+    "IATA": "S6",
+    "ICAO": "KSZ",
+    "website": "www.sunriseairways.net",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:33.721111"
+  },
+  {
+    "name": "Haiti Aviation S.A. d/b/a Air D'Ayiti",
+    "IATA": "H9",
+    "ICAO": "HAD",
+    "website": null,
+    "notes": "Designator H9 reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:33.721127"
+  },
+  {
+    "name": "Air Haiti",
+    "IATA": "HJ",
+    "ICAO": "HJA",
+    "website": null,
+    "notes": "Designator HJ recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:33.721143"
+  },
+  {
+    "name": "Haiti Aviation S.A. d/b/a D'Ayiti",
+    "IATA": "2N",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator 2N recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:33.721158"
+  },
+  {
+    "name": "Haiti Ambassador Airlines",
+    "IATA": null,
+    "ICAO": "HAM",
+    "website": null,
+    "notes": "Founded in April 2002. Commenced operations in 2003.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:33.721176"
+  },
+  {
+    "name": "Haiti Aviation S.A.",
+    "IATA": "H5",
+    "ICAO": "HAD",
+    "website": "www.haitiaviation.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:33.721192"
+  },
+  {
+    "name": "Haiti Caribbean Airlines S.A., Inc.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "IATA Designator changed to 9C",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:33.721208"
+  },
+  {
+    "name": "Haiti Caribbean Airlines S.A., Inc.",
+    "IATA": "9C",
+    "ICAO": null,
+    "website": null,
+    "notes": "IATA Designator changed from 9C*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:33.721224"
+  },
+  {
+    "name": "Haiti International Airline",
+    "IATA": "HG",
+    "ICAO": "HRB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:33.721239"
+  },
+  {
+    "name": "Haiti Trans Air, S.A.",
+    "IATA": "TV",
+    "ICAO": "HTC",
+    "website": null,
+    "notes": "Designator TV recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:33.721255"
+  },
+  {
+    "name": "Pearl Airways Compagne Haitienne",
+    "IATA": "HP",
+    "ICAO": "HPA",
+    "website": null,
+    "notes": "Designator HP recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:33.721270"
+  },
+  {
+    "name": "Salsa D'Haiti",
+    "IATA": "SO",
+    "ICAO": "SLC",
+    "website": "www.flysalsa.com",
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:33.721286"
+  },
+  {
+    "name": "Tropical Airways D'Haiti",
+    "IATA": null,
+    "ICAO": "TBG",
+    "website": "www.tropical-haiti.com",
+    "notes": "Designator M7* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:33.721303"
+  }
+]

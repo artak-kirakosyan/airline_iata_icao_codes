@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Aero Africa (Pty) Ltd",
+    "IATA": null,
+    "ICAO": "RFC",
+    "website": null,
+    "notes": "Ceased operations on 01 March 2010.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:04.761655"
+  },
+  {
+    "name": "Air Gulf Falcon PTY Ltd.",
+    "IATA": "QL",
+    "ICAO": "GLN",
+    "website": "www.air-gulffalcon.com",
+    "notes": "Ceased operations. Designator QL recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:04.761684"
+  },
+  {
+    "name": "Air Swazi Cargo (Pty) Ltd.",
+    "IATA": "CW",
+    "ICAO": "ZSC",
+    "website": null,
+    "notes": "ICAO designator changed to CWS",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:04.761702"
+  },
+  {
+    "name": "Air Swazi Cargo (Pty) Ltd.",
+    "IATA": null,
+    "ICAO": "CWS",
+    "website": null,
+    "notes": "Ceased operations. ICAO designator changed from ZSC",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:04.761718"
+  },
+  {
+    "name": "Airlink Swaziland",
+    "IATA": null,
+    "ICAO": "SZL",
+    "website": "www.flyswaziland.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:04.761735"
+  },
+  {
+    "name": "Intercontinental Aero Leasing (Pty) Ltd",
+    "IATA": null,
+    "ICAO": "ICA",
+    "website": "www.ialcargo.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:04.761751"
+  },
+  {
+    "name": "Interflight (PTY) Ltd.",
+    "IATA": null,
+    "ICAO": "JMV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:04.761766"
+  },
+  {
+    "name": "Jetafrica Swaziland",
+    "IATA": null,
+    "ICAO": "OSW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:04.761782"
+  },
+  {
+    "name": "North East Airlines",
+    "IATA": null,
+    "ICAO": "NEY",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:04.761797"
+  },
+  {
+    "name": "Ocean Air (PTY) Ltd.",
+    "IATA": null,
+    "ICAO": "JFZ",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:04.761812"
+  },
+  {
+    "name": "Royal Swazi National Airways Corp.",
+    "IATA": "ZC",
+    "ICAO": "RSN",
+    "website": "www.tanzania-web.com/www.africanet.com/africanet/temp/airlines/royal1.htm",
+    "notes": "Designator ZC recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:04.761829"
+  },
+  {
+    "name": "Skygate International (Pty) Ltd",
+    "IATA": null,
+    "ICAO": "SGJ",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:04.761844"
+  },
+  {
+    "name": "Swazi Air Ltd.",
+    "IATA": "WZ",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:04.761859"
+  },
+  {
+    "name": "Swazi Air Charter (Pty) Ltd.",
+    "IATA": null,
+    "ICAO": "HWK",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:04.761874"
+  },
+  {
+    "name": "Steffen Air Charter Services d/b/a Swazi Express Airways",
+    "IATA": "Q4",
+    "ICAO": "SWX",
+    "website": "www.swaziexpress.com",
+    "notes": "Ceased operations on 04 April 2008.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:04.761891"
+  },
+  {
+    "name": "Volga Atlantic Airlines",
+    "IATA": null,
+    "ICAO": "VAA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:04.761906"
+  },
+  {
+    "name": "East Western Airways (Pty) Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:04.761921"
+  },
+  {
+    "name": "Galaxy Avion (Pty) Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:04.761936"
+  }
+]

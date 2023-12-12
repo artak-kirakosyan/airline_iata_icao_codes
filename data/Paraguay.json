@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Corporacion Paraguaya de Aeronautica S.A.",
+    "IATA": null,
+    "ICAO": "CGY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:10.664116"
+  },
+  {
+    "name": "Corporacion Paraguayana de Aeronautica S.A.",
+    "IATA": null,
+    "ICAO": "PGY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:10.664144"
+  },
+  {
+    "name": "TAM - Transportes Aereos del Mercosur, S.A. d/b/a LATAM Airlines Paraguay",
+    "IATA": "PZ",
+    "ICAO": "LAP",
+    "website": "www.latamairlines.com",
+    "notes": "Name changed from TAM - Transportes Aereos del Mercosur, S.A.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:10.664163"
+  },
+  {
+    "name": "Compa\u00f1\u00eda de Aviaci\u00f3n Paraguaya S.A. d/b/a Paranair",
+    "IATA": "ZP",
+    "ICAO": "AZP",
+    "website": "www.paranair.com",
+    "notes": "Name changed from Amaszonas del Paraguay SA Lineas Aereas w.e.f. from 15 October 2018.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:10.664181"
+  },
+  {
+    "name": "Aero Regional Paraguaya S.A.",
+    "IATA": "P7",
+    "ICAO": "REP",
+    "website": "www.aeroregional.com.ar",
+    "notes": "Name changed to Aero Sur Paraguay S.A. ICAO designator changed to AES.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:10.664199"
+  },
+  {
+    "name": "Aerolap Paraguay Airlines",
+    "IATA": null,
+    "ICAO": "PYL",
+    "website": "www.aerolap.com",
+    "notes": "Believed to have never started operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:10.664216"
+  },
+  {
+    "name": "Aerosur Paraguay S.A.",
+    "IATA": "PQ",
+    "ICAO": "AES",
+    "website": "www.aerosurparaguay.com",
+    "notes": "Ceased operations on 01 July 2012. Name changed from Aero Regional Paraguaya S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:10.664234"
+  },
+  {
+    "name": "Amaszonas del Paraguay SA Lineas Aereas",
+    "IATA": "ZP",
+    "ICAO": "AZP",
+    "website": "www.amaszonas.com",
+    "notes": "Name changed to Compa\u00f1\u00eda de Aviaci\u00f3n Paraguaya S.A. d/b/a Paranair w.e.f. from 15 October 2018.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:10.664251"
+  },
+  {
+    "name": "ARPA Aerolineas Paraguayas",
+    "IATA": "A8",
+    "ICAO": "PAY",
+    "website": "www.tam.com.py",
+    "notes": "Merged with TAM-Mercosur in December 2002. Founded in 1994.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:10.664267"
+  },
+  {
+    "name": "LAP - Lineas Aereas Paraguayas",
+    "IATA": "PZ",
+    "ICAO": "LAP",
+    "website": null,
+    "notes": "Name changed to TAM - Transportes Aereos del Mercosur. ICAO callsign changed from Papa Zulu",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:10.664284"
+  },
+  {
+    "name": "LAP - Lineas Aereas Paraguayas",
+    "IATA": "PZ",
+    "ICAO": "LAP",
+    "website": null,
+    "notes": "ICAO callsign changed to Paraguayas",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:10.664301"
+  },
+  {
+    "name": "Sol del Paraguay Lineas Aereas S.A.",
+    "IATA": "PI",
+    "ICAO": "SGU",
+    "website": "viajaconsol.com",
+    "notes": "Founded on 15 May 2010. Commenced operations on 15 June 2011. Ceased operations on 01 August 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:10.664318"
+  },
+  {
+    "name": "TAM - Transportes Aereos del Mercosur, S.A.",
+    "IATA": "PZ",
+    "ICAO": "LAP",
+    "website": "www.tam.com.py",
+    "notes": "Name changed to TAM - Transportes Aereos del Mercosur, S.A. d/b/a LATAM Airlines Paraguay. Name changed from LAP - Lineas Aereas Paraguayas",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:10.664337"
+  }
+]

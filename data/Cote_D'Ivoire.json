@@ -1,0 +1,254 @@
+[
+  {
+    "name": "Afrik Airways",
+    "IATA": null,
+    "ICAO": "CIW",
+    "website": "www.afrikairways.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:39.134597"
+  },
+  {
+    "name": "Agence Nationale Des Aerodromes Et de La Meteorologie (ANAM)",
+    "IATA": null,
+    "ICAO": "ZZM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:39.134627"
+  },
+  {
+    "name": "Air Bandama",
+    "IATA": null,
+    "ICAO": "BDM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:39.134645"
+  },
+  {
+    "name": "Air Cote d Ivoire",
+    "IATA": "HF",
+    "ICAO": "VRE",
+    "website": "www.aircotedivoire.com",
+    "notes": "Setup with strategic partner Air France. Founded on 15 May 2012. Commenced operations on 12 November 2012.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:39.134662"
+  },
+  {
+    "name": "CI-Tours",
+    "IATA": null,
+    "ICAO": "VCI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:39.134677"
+  },
+  {
+    "name": "I.A.S. (Ivoire Aero Services)",
+    "IATA": null,
+    "ICAO": "IVS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:39.134693"
+  },
+  {
+    "name": "Ivoire Jet Express",
+    "IATA": null,
+    "ICAO": "IJE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:39.134708"
+  },
+  {
+    "name": "Ivoirienne de Transports Aeriens (I.T.A.)",
+    "IATA": null,
+    "ICAO": "IVN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:39.134724"
+  },
+  {
+    "name": "Nel Cargo",
+    "IATA": null,
+    "ICAO": "NLG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:39.134739"
+  },
+  {
+    "name": "NHV Cote d'Ivoire",
+    "IATA": null,
+    "ICAO": "HNZ",
+    "website": "nhv.be",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:39.134755"
+  },
+  {
+    "name": "Solenta Aviation Cote D'Ivoire",
+    "IATA": null,
+    "ICAO": "SIV",
+    "website": "www.solenta.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:39.134771"
+  },
+  {
+    "name": "Westair Cargo Airlines",
+    "IATA": null,
+    "ICAO": "WSC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:39.134786"
+  },
+  {
+    "name": "Abidjan Air Cargo",
+    "IATA": null,
+    "ICAO": "ADJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:39.134800"
+  },
+  {
+    "name": "Afric'air Express",
+    "IATA": null,
+    "ICAO": "AAX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:39.134815"
+  },
+  {
+    "name": "Afrique Regional Airways",
+    "IATA": null,
+    "ICAO": "AFW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:39.134831"
+  },
+  {
+    "name": "Air Afrique",
+    "IATA": "RK",
+    "ICAO": "RKA",
+    "website": "www.airafrique.com",
+    "notes": "Declared bankrupt on 07 February 2002.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:39.134847"
+  },
+  {
+    "name": "Air Afrique Vacancies",
+    "IATA": null,
+    "ICAO": "AFV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:39.134861"
+  },
+  {
+    "name": "Air Inter Ivoire",
+    "IATA": null,
+    "ICAO": "NTV",
+    "website": null,
+    "notes": "Founded and commenced operations in 1978. Ceased operations in 1979.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:39.134878"
+  },
+  {
+    "name": "Soci\u00e9t\u00e9 Air Ivoire",
+    "IATA": "VU",
+    "ICAO": "VUN",
+    "website": null,
+    "notes": "Established in 1960. Name changed to Societe Nouvelle Air Ivoire",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:39.134894"
+  },
+  {
+    "name": "Air Ivoire, Soci\u00e9t\u00e9",
+    "IATA": null,
+    "ICAO": "VUN",
+    "website": null,
+    "notes": "Established in 1960. Name changed to Societe Nouvelle Air Ivoire",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:39.134910"
+  },
+  {
+    "name": "Soci\u00e9t\u00e9 Nouvelle Air Ivoire",
+    "IATA": "VU",
+    "ICAO": "VUN",
+    "website": "www.airivoire.com",
+    "notes": "Ceased operations during 2011. Designator VU reinstated by IATA. Name changed from Societe Air Ivoire",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:39.134926"
+  },
+  {
+    "name": "Cargo Ivoire",
+    "IATA": null,
+    "ICAO": "CRV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:39.134941"
+  },
+  {
+    "name": "Ivoire Airways",
+    "IATA": null,
+    "ICAO": "IVW",
+    "website": null,
+    "notes": "IATA deignator changed to XV",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:39.134957"
+  },
+  {
+    "name": "Ivoire Airways",
+    "IATA": "XV",
+    "ICAO": "IVW",
+    "website": "www.ivoireairways.ci",
+    "notes": "IATA deignator changed to XV*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:39.134972"
+  },
+  {
+    "name": "Ivoirenne de Transport Aerien",
+    "IATA": "I3",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:39.134987"
+  },
+  {
+    "name": "Panafrican Airways",
+    "IATA": null,
+    "ICAO": "PNF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:39.135003"
+  },
+  {
+    "name": "Union Africaine Des Transports",
+    "IATA": null,
+    "ICAO": "UAI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:39.135018"
+  },
+  {
+    "name": "Afrivoir International Airlines (A.I.A.) S.A.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:39.135033"
+  }
+]

@@ -1,0 +1,1928 @@
+[
+  {
+    "name": "1903 Aviation AB",
+    "IATA": null,
+    "ICAO": "HCR",
+    "website": "www.1903.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.234496"
+  },
+  {
+    "name": "Airways Flygutbildning Svenska AB",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.airwaysflygutbildning.se",
+    "notes": "ICAO Designator ATO cancelled.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.234532"
+  },
+  {
+    "name": "Babcock Scandinavian AirAmbulance AB",
+    "IATA": null,
+    "ICAO": "DFL",
+    "website": "www.airamb.se",
+    "notes": "Name changed from Scandinavian Medicopter AB.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.234553"
+  },
+  {
+    "name": "Benders Air",
+    "IATA": null,
+    "ICAO": "PEB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.234572"
+  },
+  {
+    "name": "Braathens International Airways AB",
+    "IATA": "TT",
+    "ICAO": "BIX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.234592"
+  },
+  {
+    "name": "Braathens Regional Airways AB",
+    "IATA": "TF",
+    "ICAO": "BRX",
+    "website": "www.braathensregional.com",
+    "notes": "IATA designator changed from DC after merger with Braathens Regional Aviation AB on 18 March 2020.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.234612"
+  },
+  {
+    "name": "Bromma Air Maintenance AB",
+    "IATA": null,
+    "ICAO": "CFL",
+    "website": "www.bam.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.234629"
+  },
+  {
+    "name": "Business Flight Sweden AB",
+    "IATA": null,
+    "ICAO": "BFS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.234647"
+  },
+  {
+    "name": "Diamond Flight Academy Scandinavia AB",
+    "IATA": null,
+    "ICAO": "DMN",
+    "website": "www.flightacademy.se",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.234667"
+  },
+  {
+    "name": "EFS European Flight Service AB",
+    "IATA": null,
+    "ICAO": "EUW",
+    "website": "www.efsflight.se",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.234683"
+  },
+  {
+    "name": "Envirotainer AB",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.envirotainer.com",
+    "notes": "Non-Airline Unit Load Devices (ULD) Companies",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.234701"
+  },
+  {
+    "name": "Flygprestanda AB",
+    "IATA": null,
+    "ICAO": "FPA",
+    "website": "www.flygp.se",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.234720"
+  },
+  {
+    "name": "Flygtransporter Nykoping AB",
+    "IATA": null,
+    "ICAO": "EYS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.234737"
+  },
+  {
+    "name": "Grafair Flight Management AB",
+    "IATA": null,
+    "ICAO": "GFM",
+    "website": "www.grafair.se",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.234755"
+  },
+  {
+    "name": "Heliair Sweden AB",
+    "IATA": null,
+    "ICAO": "SWC",
+    "website": "www.heliairsweden.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.234773"
+  },
+  {
+    "name": "Hummingbird Aviation Services AB",
+    "IATA": null,
+    "ICAO": "ETI",
+    "website": "www.hbird.se",
+    "notes": "Name changed from Eastair KB",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.234792"
+  },
+  {
+    "name": "Jivair AB",
+    "IATA": null,
+    "ICAO": "JIV",
+    "website": "jivair.se",
+    "notes": "Established in 1981",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.234811"
+  },
+  {
+    "name": "Jonair Aff\u00e4rsflyg AB",
+    "IATA": null,
+    "ICAO": "JON",
+    "website": "jonair.se",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.234829"
+  },
+  {
+    "name": "Kinnarps",
+    "IATA": null,
+    "ICAO": "KIP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.234848"
+  },
+  {
+    "name": "Kommunalf\u00f6rbundet Ambulanshelikopter V\u00e4rmland-Dalarna",
+    "IATA": null,
+    "ICAO": "SWV",
+    "website": "www.regiondalarna.se",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.234868"
+  },
+  {
+    "name": "Kustbevakningen",
+    "IATA": null,
+    "ICAO": "KBV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.234885"
+  },
+  {
+    "name": "Linkopings Flygklubb",
+    "IATA": null,
+    "ICAO": "LFK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.234903"
+  },
+  {
+    "name": "Lund University School of Aviation, TFHS",
+    "IATA": null,
+    "ICAO": "UNY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.234921"
+  },
+  {
+    "name": "North East West South Airlines AB",
+    "IATA": null,
+    "ICAO": "NES",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.234940"
+  },
+  {
+    "name": "Norwegian Air Sweden AOC AB",
+    "IATA": "D8",
+    "ICAO": "NSZ",
+    "website": "www.norwegian.com/se/",
+    "notes": "ICAO Callsign changed from Norlight.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.234959"
+  },
+  {
+    "name": "Norwegian Air Sweden AOC AB",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.234978"
+  },
+  {
+    "name": "OSM Aviation Academy AB",
+    "IATA": null,
+    "ICAO": "SCQ",
+    "website": "www.osmaviationacademy.com",
+    "notes": "Name changed from BF Scandinavian Aviation Academy AB.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.234997"
+  },
+  {
+    "name": "Amapola Flyg AB d/b/a PopulAir",
+    "IATA": "HP",
+    "ICAO": "APF",
+    "website": "www.amapola.nu",
+    "notes": "IATA designator changed from 7P. Name changed from Amapola Flyg AB.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.235017"
+  },
+  {
+    "name": "Quicknet Air AB",
+    "IATA": null,
+    "ICAO": "QUN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.235036"
+  },
+  {
+    "name": "Rikspolisstyrelsen",
+    "IATA": null,
+    "ICAO": "POL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.235055"
+  },
+  {
+    "name": "Saab Nyge Aero AB",
+    "IATA": null,
+    "ICAO": "TGT",
+    "website": null,
+    "notes": "Name changed from AB Nyge Aero",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.235073"
+  },
+  {
+    "name": "Saab-Aircraft AB",
+    "IATA": null,
+    "ICAO": "SCT",
+    "website": "saab.com",
+    "notes": "Name changed from Saab-Scania AS",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.235094"
+  },
+  {
+    "name": "Scandinavian Airlines System (SAS)",
+    "IATA": "SK",
+    "ICAO": "SAS",
+    "website": "www.flysas.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.235113"
+  },
+  {
+    "name": "SAS Link AB",
+    "IATA": null,
+    "ICAO": "SVS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.235132"
+  },
+  {
+    "name": "Sjofartsverket",
+    "IATA": null,
+    "ICAO": "HMF",
+    "website": "www.sjofartsverket.se",
+    "notes": "Name changed from Norrlandsflyg AB.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.235152"
+  },
+  {
+    "name": "SOS Helikoptern Gotland AB",
+    "IATA": null,
+    "ICAO": "MCG",
+    "website": "www.sos-helikoptern.se",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.235171"
+  },
+  {
+    "name": "Storm Heliworks AB",
+    "IATA": null,
+    "ICAO": "HWS",
+    "website": "stormheliworks.se",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.235190"
+  },
+  {
+    "name": "Svenskt Ambulansflyg",
+    "IATA": null,
+    "ICAO": "SWE",
+    "website": "svenskt-ambulansflyg.se",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.235209"
+  },
+  {
+    "name": "Svenskt Industriflyg AB",
+    "IATA": null,
+    "ICAO": "JET",
+    "website": "www.industriflyg.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.235228"
+  },
+  {
+    "name": "Swedish Armed Forces",
+    "IATA": null,
+    "ICAO": "SVF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.235249"
+  },
+  {
+    "name": "TUIfly Nordic AB",
+    "IATA": null,
+    "ICAO": "BLX",
+    "website": "www.tuiflynordic.se",
+    "notes": "Name changed from Britannia Airways AB w.e.f. 01 May 2006. Designator 6B* Reinstated by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.235269"
+  },
+  {
+    "name": "Waltair Europe AB",
+    "IATA": null,
+    "ICAO": "GOT",
+    "website": "www.waltair.se",
+    "notes": "Established in 1994. Name changed to Walter 1 Linkoping AB",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.235288"
+  },
+  {
+    "name": "Wermlandsflyg Operations AB",
+    "IATA": null,
+    "ICAO": "BLW",
+    "website": "www.wermlandsflyg.se",
+    "notes": "Name changed from Wermlandsflyg AB.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.235307"
+  },
+  {
+    "name": "West Atlantic Sweden AB",
+    "IATA": null,
+    "ICAO": "SWN",
+    "website": "westatlantic.eu",
+    "notes": "Formed by the merger of West Air (Sweden) and Atlantic Airlines (UK)",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:06.235328"
+  },
+  {
+    "name": "Goodjet",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.goodjet.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.235347"
+  },
+  {
+    "name": "Osterman Helicopter",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.ostermanhelicopter.se",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.235368"
+  },
+  {
+    "name": "Waltair I Linkoping AB",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.waltair.se",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.235386"
+  },
+  {
+    "name": "AB Flygtjanst F.J. Viklund",
+    "IATA": null,
+    "ICAO": "KTR",
+    "website": "www.helikoptertransport.com",
+    "notes": "Name changed from HT Helikoptertransport AB",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.235405"
+  },
+  {
+    "name": "Abal Air AB",
+    "IATA": null,
+    "ICAO": "ABK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.235424"
+  },
+  {
+    "name": "Abal Air",
+    "IATA": "KD",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.235443"
+  },
+  {
+    "name": "Aerokontakt",
+    "IATA": "AK",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator AK recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.235460"
+  },
+  {
+    "name": "Aerokontakt",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator AK recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.235480"
+  },
+  {
+    "name": "Air Alvik AB",
+    "IATA": null,
+    "ICAO": "AVK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.235499"
+  },
+  {
+    "name": "Air Express in Sweden AB",
+    "IATA": null,
+    "ICAO": "AEQ",
+    "website": "www.airexpress.se",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.235517"
+  },
+  {
+    "name": "Air Express",
+    "IATA": "XV",
+    "ICAO": "GOT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.235534"
+  },
+  {
+    "name": "Air Hudik AB",
+    "IATA": null,
+    "ICAO": "HUD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.235552"
+  },
+  {
+    "name": "Air Large European Aviation Project t/a Air Leap",
+    "IATA": "FL",
+    "ICAO": "LPA",
+    "website": "www.airleap.se",
+    "notes": "Ceased operation on 24 January 2022 and filed for reorganisation.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.235571"
+  },
+  {
+    "name": "Air Operations of Europe",
+    "IATA": null,
+    "ICAO": "OOE",
+    "website": null,
+    "notes": "Ceased operations in 1996.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.235590"
+  },
+  {
+    "name": "Air Sweden Aviation AB",
+    "IATA": null,
+    "ICAO": "SNX",
+    "website": "www.airsweden.net",
+    "notes": "Ceased operations during September 2011. Name changed from Nordic Commercial Holding AB",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.235610"
+  },
+  {
+    "name": "Air Sweden AB",
+    "IATA": null,
+    "ICAO": "SWE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.235628"
+  },
+  {
+    "name": "Air Trader Sweden AB",
+    "IATA": "WE",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.235648"
+  },
+  {
+    "name": "Airborne of Sweden AB",
+    "IATA": "ZF",
+    "ICAO": "MIW",
+    "website": null,
+    "notes": "Designator ZF recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.235665"
+  },
+  {
+    "name": "Airways Flygutbildning Svenska AB",
+    "IATA": null,
+    "ICAO": "ATO",
+    "website": "www.airwaysflygutbildning.se",
+    "notes": "ICAO Designator ATO cancelled.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.235685"
+  },
+  {
+    "name": "AMA-Flyg I Goteborg HB",
+    "IATA": null,
+    "ICAO": "AAX",
+    "website": null,
+    "notes": "Name changed to Salair AB. ICAO designator changed to SKX",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.235705"
+  },
+  {
+    "name": "Amapola Flyg AB",
+    "IATA": "HP",
+    "ICAO": "APF",
+    "website": "www.amapola.nu",
+    "notes": "IATA designator changed from 7P. Name changed to Amapola Flyg AB d/b/a PopulAir.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.235725"
+  },
+  {
+    "name": "Amapola Flyg AB",
+    "IATA": "7P",
+    "ICAO": "APF",
+    "website": "www.amapola.nu",
+    "notes": "IATA designator changed to HP",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.235742"
+  },
+  {
+    "name": "Arosflyg KB",
+    "IATA": null,
+    "ICAO": "AOS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.235760"
+  },
+  {
+    "name": "Avia Express Sweden AB",
+    "IATA": "JZ",
+    "ICAO": "SKX",
+    "website": "www.skyways.se",
+    "notes": "Ceased operations on 22 May 2012. Name changed from Skyways Express AB w.e.f. 01 December 2010. Name changed to Skyways AB",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.235781"
+  },
+  {
+    "name": "Avitrans Nordic AB",
+    "IATA": null,
+    "ICAO": "ETS",
+    "website": "www.avitrans.se",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.235800"
+  },
+  {
+    "name": "Bac Aviation",
+    "IATA": null,
+    "ICAO": "NDX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.235818"
+  },
+  {
+    "name": "Baltic Aviation",
+    "IATA": "VB",
+    "ICAO": "BAB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.235834"
+  },
+  {
+    "name": "Bear Flight",
+    "IATA": null,
+    "ICAO": "BFG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.235851"
+  },
+  {
+    "name": "BF Scandinavian Aviation Academy AB",
+    "IATA": null,
+    "ICAO": "SCQ",
+    "website": null,
+    "notes": "Name changed to OSM Aviation Academy AB.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.235869"
+  },
+  {
+    "name": "Birkaflyg AB",
+    "IATA": null,
+    "ICAO": "BKF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.235885"
+  },
+  {
+    "name": "Blekinge Flyg AS",
+    "IATA": null,
+    "ICAO": "BFA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.235902"
+  },
+  {
+    "name": "Blue Chip Jet",
+    "IATA": null,
+    "ICAO": "VOL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.235918"
+  },
+  {
+    "name": "Blue Scandinavia",
+    "IATA": null,
+    "ICAO": "BLX",
+    "website": null,
+    "notes": "Name changed to Britannia Airways AB w.e.f. 24 March 1998",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.235936"
+  },
+  {
+    "name": "Bluelinks Jets AB",
+    "IATA": null,
+    "ICAO": "BLJ",
+    "website": "www.bluelinkjets.se",
+    "notes": "Name changed from Petter Solberg Aviation AB",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.235955"
+  },
+  {
+    "name": "Braathens Malmo Aviation AB",
+    "IATA": null,
+    "ICAO": "SCW",
+    "website": null,
+    "notes": "Designator 6E recalled by IATA / Name and ICAO callsign changed. Formerly Malmo Aviation / Name reverted to Malmo Aviation AB",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.235974"
+  },
+  {
+    "name": "Braathens Regional Airways AB",
+    "IATA": "DC",
+    "ICAO": "BRX",
+    "website": "www.braathensregional.com",
+    "notes": "IATA designator changed to TF after merger with Braathens Regional Aviation AB on 18 March 2020.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.235994"
+  },
+  {
+    "name": "Braathens Regional Aviation AB",
+    "IATA": "TF",
+    "ICAO": "SCW",
+    "website": "www.flygbra.se",
+    "notes": "Merged into Braathens Regional Airways AB on 18 March 2020. Name changed from Malmo Aviation AB. Designator 6E recalled by IATA / Name and ICAO callsign changed. Name changed from Braathens Malmo Aviation AB",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236014"
+  },
+  {
+    "name": "Britannia Airways AB",
+    "IATA": null,
+    "ICAO": "BLX",
+    "website": "www.britanniaairways.se",
+    "notes": "Name changed to TUIFly Nordic AB w.e.f. 01 May 2006. Designator 6B* Reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236032"
+  },
+  {
+    "name": "Bromma Flygskola AB",
+    "IATA": null,
+    "ICAO": "CVN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236049"
+  },
+  {
+    "name": "Business Jet Sweden KS",
+    "IATA": null,
+    "ICAO": "SCJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236066"
+  },
+  {
+    "name": "City Airline AB",
+    "IATA": "CF",
+    "ICAO": "SDR",
+    "website": "www.cityairline.com",
+    "notes": "Ceased Operations and  filed for bankruptcy 12 May 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236083"
+  },
+  {
+    "name": "Eastair KB",
+    "IATA": null,
+    "ICAO": "ETI",
+    "website": "www.eastair.se",
+    "notes": "Name changed to H-Bird Aviation Services AB",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236102"
+  },
+  {
+    "name": "Ehrenstr\u00f6m Flyg AB",
+    "IATA": "EH",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236120"
+  },
+  {
+    "name": "European Executive Express",
+    "IATA": null,
+    "ICAO": "EXC",
+    "website": "www.european.se",
+    "notes": "Designator RY* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236139"
+  },
+  {
+    "name": "Falcon Air AB",
+    "IATA": "IH",
+    "ICAO": "FCN",
+    "website": "www.falconair.se",
+    "notes": "Founded in 1986. Ceased operations during 2006. Designator IH recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236156"
+  },
+  {
+    "name": "Falcon Cargo AB",
+    "IATA": null,
+    "ICAO": "FCN",
+    "website": null,
+    "notes": "Name changed to Falcon Air AB",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236174"
+  },
+  {
+    "name": "Flight Support Sweden",
+    "IATA": null,
+    "ICAO": "FSU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236192"
+  },
+  {
+    "name": "Fly European Airlines",
+    "IATA": null,
+    "ICAO": "FLE",
+    "website": null,
+    "notes": "Designator E7* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236210"
+  },
+  {
+    "name": "Fly Excellent AB",
+    "IATA": null,
+    "ICAO": "FXL",
+    "website": "www.flyexcellent.se",
+    "notes": "Declared bankrupt on 14 April 2009.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236229"
+  },
+  {
+    "name": "Fly Logic Malmo AB",
+    "IATA": "XN",
+    "ICAO": null,
+    "website": "www.fly-logic.com",
+    "notes": "Ceased operations on 13 December 2013 due bankrupcy. Formerly Malm\u00f6 Air Taxi",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236247"
+  },
+  {
+    "name": "Flygaktiebolaget Gota Vingar",
+    "IATA": null,
+    "ICAO": "GVG",
+    "website": null,
+    "notes": "Declared bankrupt on 22 April 2005. Founded on 29 September 1994.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236266"
+  },
+  {
+    "name": "Flygcentrum I Stockholm AB",
+    "IATA": null,
+    "ICAO": "FYC",
+    "website": "www.flyg-centrum.se",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236284"
+  },
+  {
+    "name": "Flyguppdraget Backamo AB",
+    "IATA": null,
+    "ICAO": "INU",
+    "website": "www.flyguppdraget.se",
+    "notes": "Name changed to Prokitor Flight Training AB.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236301"
+  },
+  {
+    "name": "Flying Enterprise AB",
+    "IATA": "F3",
+    "ICAO": "FLY",
+    "website": null,
+    "notes": "Name changed to Skyways Enterprise AB",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236319"
+  },
+  {
+    "name": "FlyMe Sweden AB",
+    "IATA": "F3",
+    "ICAO": "FLY",
+    "website": "www.flyme.com",
+    "notes": "IATA designator changed to SH",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236336"
+  },
+  {
+    "name": "FlyMe Sweden AB",
+    "IATA": "SH",
+    "ICAO": "FLY",
+    "website": "www.flyme.com",
+    "notes": "Founded in 2003. Commenced operations on 01 March 2004. Ceased operations on 02 March 2007.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236355"
+  },
+  {
+    "name": "Nordic Airlink Holding AB dba FlyNordic",
+    "IATA": "LF",
+    "ICAO": "NDC",
+    "website": "www.flynordic.com",
+    "notes": "Purchased by and merged in Norwegian Air Shuttle. Name changed from Nordic East Airlink AB. Designator changed from 9R*. IATA designator changed from 7I w.e.f. 30 December 2002.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236375"
+  },
+  {
+    "name": "General Tullstryrelsen",
+    "IATA": null,
+    "ICAO": "KBV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236393"
+  },
+  {
+    "name": "Golden Air AB",
+    "IATA": null,
+    "ICAO": "GJZ",
+    "website": null,
+    "notes": "ICAO designator changed to GAO",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236410"
+  },
+  {
+    "name": "Golden Air Flyg AB",
+    "IATA": "DC",
+    "ICAO": "GAO",
+    "website": "www.goldenair.se",
+    "notes": "Name changed to Braathens Regional AB. ICAO desigantor changed from GJZ",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236428"
+  },
+  {
+    "name": "Grafair AB",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236445"
+  },
+  {
+    "name": "Heliflyg AB",
+    "IATA": null,
+    "ICAO": "HFL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236464"
+  },
+  {
+    "name": "Helikopterservice AB, Euro Air",
+    "IATA": "YQ",
+    "ICAO": "SCO",
+    "website": "www.helikopterservice.com/index.html",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236481"
+  },
+  {
+    "name": "Highland Air AB",
+    "IATA": null,
+    "ICAO": "HIL",
+    "website": null,
+    "notes": "Name changed to Skyways Regional AB",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236501"
+  },
+  {
+    "name": "Hillrstr\u00f6m Flyg AB",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236519"
+  },
+  {
+    "name": "Holmstorm Flyg AB",
+    "IATA": null,
+    "ICAO": "ENT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236537"
+  },
+  {
+    "name": "HT Helikoptertransport AB",
+    "IATA": null,
+    "ICAO": "KTR",
+    "website": "www.helikoptertransport.com",
+    "notes": "Name changed to AB Flygtjanst F.J. Viklund",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236556"
+  },
+  {
+    "name": "IBA International Business Airlines AB",
+    "IATA": null,
+    "ICAO": "IBZ",
+    "website": "www.iba.nu",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236574"
+  },
+  {
+    "name": "Inter Air AB",
+    "IATA": null,
+    "ICAO": "INR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236591"
+  },
+  {
+    "name": "International Business Air",
+    "IATA": "U5",
+    "ICAO": "IBZ",
+    "website": "www.iba.nu",
+    "notes": "Designator U5 reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236610"
+  },
+  {
+    "name": "Interswede Aviation AB",
+    "IATA": "IU",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236627"
+  },
+  {
+    "name": "Jet 2000 AB",
+    "IATA": null,
+    "ICAO": "SJT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236644"
+  },
+  {
+    "name": "Jet Time Sweden AB",
+    "IATA": null,
+    "ICAO": "JTS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236661"
+  },
+  {
+    "name": "Justair Scandinavia AB",
+    "IATA": null,
+    "ICAO": "MEY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236677"
+  },
+  {
+    "name": "Kingsair AB",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236694"
+  },
+  {
+    "name": "Kronflyg",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.kronflyg.se",
+    "notes": "Designator K4* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236712"
+  },
+  {
+    "name": "L&L Flygbildteknik AB",
+    "IATA": null,
+    "ICAO": "PHO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236729"
+  },
+  {
+    "name": "Laplandsflyg AB",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236746"
+  },
+  {
+    "name": "Lid Air AB",
+    "IATA": null,
+    "ICAO": "LIQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236762"
+  },
+  {
+    "name": "Linjeflyg AB",
+    "IATA": "LF",
+    "ICAO": "LIN",
+    "website": null,
+    "notes": "Merged into SAS",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236779"
+  },
+  {
+    "name": "Liz Air HB",
+    "IATA": null,
+    "ICAO": "LIZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236796"
+  },
+  {
+    "name": "Malmo Aviation AB",
+    "IATA": "6E",
+    "ICAO": "SCW",
+    "website": null,
+    "notes": "Designator 6E recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236814"
+  },
+  {
+    "name": "Malmo Aviation AB",
+    "IATA": "QO",
+    "ICAO": "SCW",
+    "website": null,
+    "notes": "IATA designator changed top 6E",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236832"
+  },
+  {
+    "name": "Malmo Aviation AB",
+    "IATA": null,
+    "ICAO": "SCW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236849"
+  },
+  {
+    "name": "Malmo Aviation AB",
+    "IATA": "TF",
+    "ICAO": "SCW",
+    "website": "www.malmoaviation.se",
+    "notes": "Name changed to Braathens Regional Aviation AB. Designator 6E recalled by IATA / Name and ICAO callsign changed. Name changed from Braathens Malmo Aviation AB",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236869"
+  },
+  {
+    "name": "Malmoe Air Taxi AB",
+    "IATA": null,
+    "ICAO": "LOD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236887"
+  },
+  {
+    "name": "Maxair",
+    "IATA": "8M",
+    "ICAO": "MXL",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236904"
+  },
+  {
+    "name": "MCA Airlines Sweden AB",
+    "IATA": null,
+    "ICAO": "MCA",
+    "website": "www.mcaairlines.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236922"
+  },
+  {
+    "name": "NEX Time Jet AB",
+    "IATA": "2N",
+    "ICAO": "NTJ",
+    "website": "www.nextjet.se",
+    "notes": "Name changed to NextJet AB",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236941"
+  },
+  {
+    "name": "NextJet AB",
+    "IATA": "2N",
+    "ICAO": "NTJ",
+    "website": "www.nextjet.se",
+    "notes": "Suspended all operations and filed for bankruptcy on 16 May 2018. Name changed from NEX Time Jet AB",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236960"
+  },
+  {
+    "name": "Nextres AB",
+    "IATA": "N1",
+    "ICAO": null,
+    "website": "www.nextres.se",
+    "notes": "Designator N1 recalled by IATA. Computer Reservations Systems (CRS)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236979"
+  },
+  {
+    "name": "Nobisair AB",
+    "IATA": null,
+    "ICAO": "NOB",
+    "website": "www.nobisair.se",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.236995"
+  },
+  {
+    "name": "Nord-Flyg AB",
+    "IATA": null,
+    "ICAO": "NEF",
+    "website": "www.nordflyg.se",
+    "notes": "Name changed to NordFlyg Logistik AB.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237012"
+  },
+  {
+    "name": "NordFlyg Logistik AB",
+    "IATA": null,
+    "ICAO": "NEF",
+    "website": "www.nordflyg.se",
+    "notes": "Name changed from Nord-Flyg AB.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237031"
+  },
+  {
+    "name": "Nordic Airways AB",
+    "IATA": "6N",
+    "ICAO": "NRD",
+    "website": "www.nordicregional.se",
+    "notes": "Sweden's Transport Authority has revoked the Air Operators licence. Name changed from Nordic NR Regional AB",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237050"
+  },
+  {
+    "name": "Nordic Commercial Holding AB",
+    "IATA": null,
+    "ICAO": "SNX",
+    "website": "www.nordicairways.se",
+    "notes": "Name changed to Air Sweden Aviation AB",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237067"
+  },
+  {
+    "name": "Nordic East Airlink AB",
+    "IATA": null,
+    "ICAO": "NDC",
+    "website": null,
+    "notes": "Designator changed to 7I",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237083"
+  },
+  {
+    "name": "Nordic East Airlink AB",
+    "IATA": "7I",
+    "ICAO": "NDC",
+    "website": "www.nordicairlink.se",
+    "notes": "IATA designator changed to LF w.e.f. 30 December 2002. Designator changed from 9R*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237101"
+  },
+  {
+    "name": "Nordic East Airlink AB",
+    "IATA": "LF",
+    "ICAO": "NDC",
+    "website": "www.nordicairlink.se",
+    "notes": "Name changed to Nordic Airlink Holding AB dba FlyNordic. Designator changed from 9R*. IATA designator changed from 7I w.e.f. 30 December 2002.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237120"
+  },
+  {
+    "name": "Nordic European Airlines",
+    "IATA": "DJ",
+    "ICAO": "NOD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237136"
+  },
+  {
+    "name": "Nordic European Airlines International",
+    "IATA": null,
+    "ICAO": "ELN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237152"
+  },
+  {
+    "name": "Nordic NR Regional AB",
+    "IATA": "6N",
+    "ICAO": "NRD",
+    "website": "www.nordicregional.se",
+    "notes": "Name changed to Nordic Airways AB",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237169"
+  },
+  {
+    "name": "Nordkalottflyg AB",
+    "IATA": null,
+    "ICAO": "NKF",
+    "website": "www.nordkalottflyg.se",
+    "notes": "Designator 8N* recalled by IATA. Designator 8N* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237186"
+  },
+  {
+    "name": "Norrlandsflyg AB",
+    "IATA": null,
+    "ICAO": "HMF",
+    "website": null,
+    "notes": "Name changed to Sjofartsverket.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237202"
+  },
+  {
+    "name": "North Express AB",
+    "IATA": null,
+    "ICAO": "NOX",
+    "website": null,
+    "notes": "Formerly Fly Logic Malmo AB.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237218"
+  },
+  {
+    "name": "Norwegian Air Sweden AB",
+    "IATA": "LE",
+    "ICAO": "NSW",
+    "website": "www.norwegian.com/se/",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237236"
+  },
+  {
+    "name": "Norwegian Air Sweden AOC AB",
+    "IATA": "D8",
+    "ICAO": "NSZ",
+    "website": "www.norwegian.com/se/",
+    "notes": "ICAO Callsign changed to Rednose.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237252"
+  },
+  {
+    "name": "Nova Airlines AB",
+    "IATA": "1I",
+    "ICAO": "NVR",
+    "website": "www.novair.se",
+    "notes": "IATA designator changed to N9*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237270"
+  },
+  {
+    "name": "Nova Airlines AB",
+    "IATA": null,
+    "ICAO": "NVR",
+    "website": "www.novair.se",
+    "notes": "Suspened operations on 09 October 2023. IATA designator changed from 1I. Part of Jet Nordic Group AS.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237288"
+  },
+  {
+    "name": "AB Nyge Aero",
+    "IATA": null,
+    "ICAO": "TGT",
+    "website": null,
+    "notes": "Name changed to Saab Nyge Aero AB",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237304"
+  },
+  {
+    "name": "Nyge Aero Trafikflyg AB",
+    "IATA": "NG",
+    "ICAO": "NYG",
+    "website": null,
+    "notes": "Designator NG recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237322"
+  },
+  {
+    "name": "Orebro Aviation AB",
+    "IATA": null,
+    "ICAO": "BUE",
+    "website": null,
+    "notes": "ICAO callsign changed from Blueflite",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237338"
+  },
+  {
+    "name": "Ostermans Aero AB",
+    "IATA": null,
+    "ICAO": "OST",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237354"
+  },
+  {
+    "name": "Petter Solberg Aviation AB",
+    "IATA": null,
+    "ICAO": "BLJ",
+    "website": null,
+    "notes": "Name changed to Bluelinks Jets AB",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237371"
+  },
+  {
+    "name": "Polar-Air O/Y",
+    "IATA": "PJ",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237388"
+  },
+  {
+    "name": "Prime Airlines Of Sweden AB",
+    "IATA": null,
+    "ICAO": "VPR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237405"
+  },
+  {
+    "name": "Prokitor Flight Training AB",
+    "IATA": null,
+    "ICAO": "INU",
+    "website": "www.flyguppdraget.se",
+    "notes": "Name changed to Vflight AB. Name changed from Flyguppdraget Backamo AB.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237423"
+  },
+  {
+    "name": "Reguljair",
+    "IATA": null,
+    "ICAO": "REF",
+    "website": null,
+    "notes": "Designator R8* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237439"
+  },
+  {
+    "name": "Saab-Scania AS",
+    "IATA": null,
+    "ICAO": "SCT",
+    "website": null,
+    "notes": "Name changed to Saab-Aircraft AB",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237457"
+  },
+  {
+    "name": "SAE SWE Aviation Europe AB",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "IATA designator changed to S9*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237475"
+  },
+  {
+    "name": "SAE SWE Aviation Europe AB",
+    "IATA": null,
+    "ICAO": "SWL",
+    "website": null,
+    "notes": "Name changed to Trans Jet Airways AB / Callsign changed. IATA changed from S6*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237493"
+  },
+  {
+    "name": "Salair AB",
+    "IATA": null,
+    "ICAO": "SKX",
+    "website": null,
+    "notes": "Name changed to Skyways AB. Name changed from AMA-Flyg I Goteborg HB. ICAO designator changed from AAX",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237510"
+  },
+  {
+    "name": "ScanBlu Airlines AB",
+    "IATA": null,
+    "ICAO": "CBU",
+    "website": "www.scanblu.com",
+    "notes": "Established Febraury 2018. Planned to start ACMI work with A319 summer 2018.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237528"
+  },
+  {
+    "name": "Scandinavian Medicopter AB",
+    "IATA": null,
+    "ICAO": "DFL",
+    "website": "www.airamb.se",
+    "notes": "Name changed to Babcock Scandinavian AirAmbulance AB.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237547"
+  },
+  {
+    "name": "Scanjet AB",
+    "IATA": null,
+    "ICAO": "SCJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237563"
+  },
+  {
+    "name": "Scanjet Sweden AS",
+    "IATA": null,
+    "ICAO": "SCJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237579"
+  },
+  {
+    "name": "Skyline AB",
+    "IATA": "OX",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237597"
+  },
+  {
+    "name": "Skyways AB",
+    "IATA": "JZ",
+    "ICAO": "SKX",
+    "website": null,
+    "notes": "Name changed to Skyways Express AB",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237615"
+  },
+  {
+    "name": "Skyways Enterprise AB",
+    "IATA": "F3",
+    "ICAO": "FLY",
+    "website": "www.skyways.se",
+    "notes": "Name changed from Flying Enterprise AB then changed to Fly Me Sweden AB",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237633"
+  },
+  {
+    "name": "Skyways Express AB",
+    "IATA": "JZ",
+    "ICAO": "SKX",
+    "website": "www.skyways.se",
+    "notes": "Ceased Operations and filed for Bankrupcy on 12 May 2012. Name changed to Avia Express Sweden AB. Name changed from Skyways AB",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237652"
+  },
+  {
+    "name": "Skyways Regional AB",
+    "IATA": null,
+    "ICAO": "HIL",
+    "website": null,
+    "notes": "Name changed to Svenska Direcktflyg AB. Name changed from Highland Air AB",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237670"
+  },
+  {
+    "name": "Skyways Regional AB",
+    "IATA": null,
+    "ICAO": "SKH",
+    "website": "www.skyways.se",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237687"
+  },
+  {
+    "name": "Smalandsflyg AB",
+    "IATA": null,
+    "ICAO": "SMF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237703"
+  },
+  {
+    "name": "Snowflake",
+    "IATA": "SK",
+    "ICAO": "SAS",
+    "website": "www.flysnowflake.com",
+    "notes": "Commenced operations on 19 March 2003. Merged back into SAS 31 October 2004. Low cost business unit of SAS Scandinavian Airlines (SAS Group)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237720"
+  },
+  {
+    "name": "SOS Flygambulans AS",
+    "IATA": null,
+    "ICAO": "SAG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237737"
+  },
+  {
+    "name": "Sunways Airlines AB",
+    "IATA": null,
+    "ICAO": "SWY",
+    "website": null,
+    "notes": "Commenced operations in March 1995. Ceased operations in October 1997.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237754"
+  },
+  {
+    "name": "Svea Flyg AB",
+    "IATA": null,
+    "ICAO": "SVB",
+    "website": "www.sveflyg.se",
+    "notes": "Name changed to Westeastair AB",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237773"
+  },
+  {
+    "name": "Svensk Flygtj\u00e4nst AB",
+    "IATA": "FX",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237789"
+  },
+  {
+    "name": "Svenska Direktflyg AB",
+    "IATA": null,
+    "ICAO": "HSV",
+    "website": "www.direktflyg.se",
+    "notes": "ICAO designator changed from SKH, ICAO callsign changed from Skyreg. Flight also operated by AIS Airlines (IS/PNX). Website shows flight using IATA designator W2 (FlexFlight ApS). Name changed from Skyways Regional AB",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237808"
+  },
+  {
+    "name": "Svenska Direktflyg AB",
+    "IATA": null,
+    "ICAO": "SKH",
+    "website": "www.direktflyg.se",
+    "notes": "ICAO designator changed to HSV. ICAO designator changed from HIL, ICAO callsign changed from Highland. Name changed from Skyways Regional AB",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237826"
+  },
+  {
+    "name": "Svenska Direktflyg AB",
+    "IATA": null,
+    "ICAO": "HIL",
+    "website": "www.direktflyg.se",
+    "notes": "ICAO designator changed to SKH, ICAO callsign changed to Skyreg. Name changed from Skyways Regional AB",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237844"
+  },
+  {
+    "name": "Swe Fly AB",
+    "IATA": null,
+    "ICAO": "SWV",
+    "website": "www.swefly.com",
+    "notes": "Founded in 1994. Ceased operations on 02 September 2005. Name changed from Westeastair AB. ICAO designator changed from SVB. Name changed from Sveaflyg AB",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237863"
+  },
+  {
+    "name": "Swe Fly AB",
+    "IATA": null,
+    "ICAO": "SVB",
+    "website": "www.westeastair.com",
+    "notes": "Name changed from Westeastair AB. ICAO designator changed to SWV. Name changed from Sveaflyg AB",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237881"
+  },
+  {
+    "name": "Swedair AB",
+    "IATA": "JG",
+    "ICAO": "SWE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237896"
+  },
+  {
+    "name": "Swedeways Air Lines AB",
+    "IATA": "HJ",
+    "ICAO": "SWE",
+    "website": null,
+    "notes": "Desginator HJ recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237913"
+  },
+  {
+    "name": "Swedewings AB",
+    "IATA": null,
+    "ICAO": "SWW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237928"
+  },
+  {
+    "name": "Swedish Airlines",
+    "IATA": null,
+    "ICAO": "CFL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237945"
+  },
+  {
+    "name": "Swedish Civil Aviation Administration",
+    "IATA": null,
+    "ICAO": "CBN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237962"
+  },
+  {
+    "name": "Swedjet Airways AB",
+    "IATA": "VD",
+    "ICAO": "BBB",
+    "website": "www.swedjet.se",
+    "notes": "Designator VD recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.237981"
+  },
+  {
+    "name": "Swedline Express AB",
+    "IATA": null,
+    "ICAO": "SRL",
+    "website": "www.swedline.com",
+    "notes": "IATA designator changed to SM. Name changed from AB Varmlandsflyg w.e.f. 01 December 2002.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.238000"
+  },
+  {
+    "name": "Swedline Express AB",
+    "IATA": "SM",
+    "ICAO": "SRL",
+    "website": "www.swedline.com",
+    "notes": "IATA designator changed from T9*. Name changed from AB Varmlandsflyg w.e.f. 01 December 2002.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.238019"
+  },
+  {
+    "name": "Tor Air AB",
+    "IATA": null,
+    "ICAO": "OAI",
+    "website": "www.torair.se",
+    "notes": "AOC granted on 01 December 2008.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.238038"
+  },
+  {
+    "name": "Transair Sweden AB",
+    "IATA": null,
+    "ICAO": "TWE",
+    "website": "www.transair.se",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.238057"
+  },
+  {
+    "name": "Transair Sweden AB",
+    "IATA": "TB",
+    "ICAO": null,
+    "website": null,
+    "notes": "Merged into SAS during 1981. Formed as Nordisk Aerotransport AB in 1950.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.238075"
+  },
+  {
+    "name": "Transjet Airways AB",
+    "IATA": null,
+    "ICAO": "SWL",
+    "website": "www.transjet.se",
+    "notes": "Operating Licence revoked on 09 July 2002. Name changed from SAE SWE Aviation Europe AB / Callsign changed. IATA changed from S6*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.238093"
+  },
+  {
+    "name": "Transwede Airways AB",
+    "IATA": "GM",
+    "ICAO": "GMP",
+    "website": null,
+    "notes": "Renamed Blue Scandinavia on 28 October 1996.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.238112"
+  },
+  {
+    "name": "Transwede Airways AB",
+    "IATA": "TQ",
+    "ICAO": "TWE",
+    "website": "www.transwede.com",
+    "notes": "Transwede Airways merged into Braathens. Transwede Leisure merged in Blue Scandinavia during 1998.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.238131"
+  },
+  {
+    "name": "Transwede Airways AB",
+    "IATA": null,
+    "ICAO": "TWE",
+    "website": "www.transwede.com",
+    "notes": "Founded in 2005. Ceased operations on 31 March 2010. Owned by Braathens Aviation.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.238151"
+  },
+  {
+    "name": "Trygg-Flyg Erik Trygg AB",
+    "IATA": "YC",
+    "ICAO": "TYG",
+    "website": "www.trygg-flyg.se",
+    "notes": "Designator YC recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.238168"
+  },
+  {
+    "name": "Tuna Aero HB",
+    "IATA": null,
+    "ICAO": "TUZ",
+    "website": "www.tunaaero.se",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.238185"
+  },
+  {
+    "name": "AB Varmlandsflyg",
+    "IATA": null,
+    "ICAO": "SRL",
+    "website": "www.varmlandsflyg.se",
+    "notes": "Name changed to Swedline Express AB w.e.f. 01 December 2002.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.238202"
+  },
+  {
+    "name": "Vflight AB",
+    "IATA": null,
+    "ICAO": "INU",
+    "website": null,
+    "notes": "Name changed from Prokitor Flight Training AB. Name changed from Flyguppdraget Backamo AB.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.238219"
+  },
+  {
+    "name": "Viking Airlines AB",
+    "IATA": null,
+    "ICAO": "VIK",
+    "website": "www.vikingairlines.com",
+    "notes": "Founded in 2003. Commenced operations on 05 May 2003. Ceased operations on 18 October 2010.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.238236"
+  },
+  {
+    "name": "Volvo AB",
+    "IATA": null,
+    "ICAO": "VOL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.238252"
+  },
+  {
+    "name": "Waltair I Linkoping AB",
+    "IATA": "XV",
+    "ICAO": null,
+    "website": "www.waltair.se",
+    "notes": "Designator XV recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.238272"
+  },
+  {
+    "name": "Walter 1 Linkoping AB",
+    "IATA": null,
+    "ICAO": "GOT",
+    "website": "www.waltair.se",
+    "notes": "Established in 1994. Name changed to Waltair Europe AB.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.238289"
+  },
+  {
+    "name": "Wermlandsflyg AB",
+    "IATA": null,
+    "ICAO": "BLW",
+    "website": "www.wermlandsflyg.se",
+    "notes": "Name changed to Wermlandsflyg Operations AB.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.238307"
+  },
+  {
+    "name": "West Air Sweden AB",
+    "IATA": "PT",
+    "ICAO": "SWN",
+    "website": "www.westair.se",
+    "notes": "Designator PT reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.238325"
+  },
+  {
+    "name": "West Air Sweden AB",
+    "IATA": null,
+    "ICAO": "SWN",
+    "website": "www.westair.se",
+    "notes": "Name changed to West Atlantic Sweden AB. Designator PT recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.238342"
+  },
+  {
+    "name": "Westeastair AB",
+    "IATA": null,
+    "ICAO": "SVB",
+    "website": "www.westeastair.com",
+    "notes": "Name changed to Swe Fly AB. Name changed from Sveaflyg AB",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:06.238360"
+  }
+]

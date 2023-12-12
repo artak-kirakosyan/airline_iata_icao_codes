@@ -1,0 +1,245 @@
+[
+  {
+    "name": "Aerogaucho, S.A.",
+    "IATA": null,
+    "ICAO": "GAU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:40.496147"
+  },
+  {
+    "name": "MaxAir S.A. 1984 t/a Aerom\u00e1s",
+    "IATA": null,
+    "ICAO": "MSM",
+    "website": "www.aeromas.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:40.496183"
+  },
+  {
+    "name": "Air Express S.A. d/b/a Air Class Lineas Aereas",
+    "IATA": null,
+    "ICAO": "QCL",
+    "website": "airclass.com.uy",
+    "notes": "Founded in 1996. Commenced operations in 1997. Name changed from AeroVIP S.A. (Air Class).",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:40.496203"
+  },
+  {
+    "name": "Ameravia",
+    "IATA": null,
+    "ICAO": "VAM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:40.496219"
+  },
+  {
+    "name": "Bolidor S.A.",
+    "IATA": null,
+    "ICAO": "BOR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:40.496236"
+  },
+  {
+    "name": "Empresa Aviacion Interamericana, S.A.",
+    "IATA": null,
+    "ICAO": "VNA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:40.496251"
+  },
+  {
+    "name": "Empresa Floridian S.A.",
+    "IATA": null,
+    "ICAO": "FLD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:40.496267"
+  },
+  {
+    "name": "Transcontinental Sur S.R.L.",
+    "IATA": null,
+    "ICAO": "TCT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:40.496282"
+  },
+  {
+    "name": "Travelair",
+    "IATA": null,
+    "ICAO": "TLV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:40.496296"
+  },
+  {
+    "name": "Empreas Aero Uruguay, S.A.",
+    "IATA": "UO",
+    "ICAO": "AEU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:40.496314"
+  },
+  {
+    "name": "Aerolineas Colonia S.A. (Arco S.A.)",
+    "IATA": "KO",
+    "ICAO": "AKO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:40.496330"
+  },
+  {
+    "name": "Aerolineas Uruguayas, S.A.",
+    "IATA": null,
+    "ICAO": "AUY",
+    "website": null,
+    "notes": "Founded in 1990. Ceased operations in 2005.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:40.496346"
+  },
+  {
+    "name": "Compania Aerea del Sur S.A. (Aerosur S.A.)",
+    "IATA": null,
+    "ICAO": "ASU",
+    "website": null,
+    "notes": "Founded in 1993. Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:40.496363"
+  },
+  {
+    "name": "AeroVIP S.A. (Air Class)",
+    "IATA": null,
+    "ICAO": "QCL",
+    "website": "www.airclass.com.uy",
+    "notes": "Founded in 1996. Commenced operations in 1997. Name changed to Air Express S.A. d/b/a Air Class Lineas Aereas.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:40.496380"
+  },
+  {
+    "name": "Air Atlantic Uruguay, S.A.",
+    "IATA": null,
+    "ICAO": "AUM",
+    "website": null,
+    "notes": "Founded in 1998. Ceased operations in 2000.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:40.496396"
+  },
+  {
+    "name": "Air Class Lineas Aereas (Aerovip Ltda)",
+    "IATA": null,
+    "ICAO": "QCL",
+    "website": "www.airclass.com.uy",
+    "notes": "Founded in 1996. Commenced operations in 1997.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:40.496412"
+  },
+  {
+    "name": "Alas Uruguay - Dyrus S.A.",
+    "IATA": "YZ",
+    "ICAO": "ALY",
+    "website": "www.alasuruguay.com.uy",
+    "notes": "Suspended all operations on 24 October 2016.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:40.496427"
+  },
+  {
+    "name": "Amaszonas Uruguay",
+    "IATA": "Z7",
+    "ICAO": "AUZ",
+    "website": "www.amaszonas.com/es-uy/",
+    "notes": "Name changed to Amaszonas Uruguay d/b/a Cristalux SA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:40.496443"
+  },
+  {
+    "name": "Los Cipreses S.A. d/b/a BQB Lineas A\u00e9reas",
+    "IATA": "5Q",
+    "ICAO": "BQB",
+    "website": "www.buquebus.com",
+    "notes": "Suspened operations on 11 April 2015. Commenced operations in May 2010. Subsidiary of ferry company Buquebus.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:40.496461"
+  },
+  {
+    "name": "Amaszonas Uruguay d/b/a Cristalux SA",
+    "IATA": "Z7",
+    "ICAO": "AUZ",
+    "website": "www.amaszonas.com/es-uy/",
+    "notes": "Name changed from Amaszonas Uruguay.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:40.496477"
+  },
+  {
+    "name": "Empresa (Aero Uruguay), S.A.",
+    "IATA": "UG",
+    "ICAO": "AUO",
+    "website": null,
+    "notes": "Founded in 1977. Ceased operations in 2005. Designator recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:40.496493"
+  },
+  {
+    "name": "Euroamerican Air",
+    "IATA": null,
+    "ICAO": "EUU",
+    "website": null,
+    "notes": "Founded in 2002. Commenced operations in 2003. Ceased operations in 2005.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:40.496509"
+  },
+  {
+    "name": "PLUNA - Primeras Lineas Uruguayas de Navegacion A\u00e9rea",
+    "IATA": "PU",
+    "ICAO": "PUA",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:40.496527"
+  },
+  {
+    "name": "Primeras Lineas Uruguayas de Navegacion Aerea (PLUNA)",
+    "IATA": "PU",
+    "ICAO": "PUA",
+    "website": null,
+    "notes": "Name changed to Pluna Lineas Aereas Urugauyas S.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:40.496543"
+  },
+  {
+    "name": "Pluna Lineas Aereas Urugauyas, S.A.",
+    "IATA": "PU",
+    "ICAO": "PUA",
+    "website": "www.pluna.aero",
+    "notes": "Founded in September 1936. Commenced operations on 19 November 1936. Ceased operations on 05 July 2012. Name changed from Primeras Lineas Uruguayas de Navegacion Aerea (PLUNA)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:40.496560"
+  },
+  {
+    "name": "Air Euroamerica S.A. (Uair)",
+    "IATA": "UE",
+    "ICAO": null,
+    "website": "www.uair.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:40.496576"
+  },
+  {
+    "name": "Sol Lineas Aereas Uruguayas (Cuweroy S.A.)",
+    "IATA": null,
+    "ICAO": "SGA",
+    "website": "www.sol.com.ar",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:40.496592"
+  }
+]

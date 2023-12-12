@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Aero Guernsey Ltd.",
+    "IATA": null,
+    "ICAO": "AEO",
+    "website": "aero.com",
+    "notes": "Name changed from Avionco Ltd.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:28.570421"
+  },
+  {
+    "name": "Air Alderney",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.airalderney.gg",
+    "notes": "Planned startup with 1 x Islander in Summer 2017.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:28.570461"
+  },
+  {
+    "name": "Aurigny Air Services Limited",
+    "IATA": "GR",
+    "ICAO": "AUR",
+    "website": "www.aurigny.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:28.570487"
+  },
+  {
+    "name": "Volare Aviation GSY Ltd.",
+    "IATA": null,
+    "ICAO": "VLZ",
+    "website": "www.volareaviation.gg",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:28.570511"
+  },
+  {
+    "name": "Avionco Ltd",
+    "IATA": null,
+    "ICAO": "AEO",
+    "website": "www.avionco.com",
+    "notes": "Name changed to Aero Guernsey Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:28.570536"
+  }
+]

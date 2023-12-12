@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Air Madagascar",
+    "IATA": "MD",
+    "ICAO": "MDG",
+    "website": "www.airmadagascar.com",
+    "notes": "ICAO callsign changed from Madair",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:19.180043"
+  },
+  {
+    "name": "Air Transport & Transit Regional",
+    "IATA": null,
+    "ICAO": "TTO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:19.180072"
+  },
+  {
+    "name": "Asecna - Agence Pour La Securite de La Navigation Aerienne En Afrique Et A Madagascar",
+    "IATA": null,
+    "ICAO": "XKX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:19.180090"
+  },
+  {
+    "name": "Madagascar Airlines",
+    "IATA": null,
+    "ICAO": "MGY",
+    "website": "madagascarairlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:19.180107"
+  },
+  {
+    "name": "Malagasy Airlines",
+    "IATA": null,
+    "ICAO": "MLG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:19.180122"
+  },
+  {
+    "name": "Rockair, Soci\u00e9t\u00e9",
+    "IATA": null,
+    "ICAO": "RKR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:19.180138"
+  },
+  {
+    "name": "Tsaradia",
+    "IATA": "TZ",
+    "ICAO": "TDS",
+    "website": "tsaradia.com",
+    "notes": "Domestic subsidary of Air Madagascar",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:19.180155"
+  },
+  {
+    "name": "Air Madagascar",
+    "IATA": "MD",
+    "ICAO": "MDG",
+    "website": "www.airmadagascar.info",
+    "notes": "ICAO callsign changed to Air Madagascar",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:19.180172"
+  },
+  {
+    "name": "Asecna - Agence Pour La Securite de la Navigation Aerienne en Afrique et a Madagascar",
+    "IATA": "XK",
+    "ICAO": "XKX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:19.180188"
+  },
+  {
+    "name": "Madagasikara Airways",
+    "IATA": "7D",
+    "ICAO": "AYS",
+    "website": "www.madagasikaraairways.com",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:19.180205"
+  },
+  {
+    "name": "Transports et Travaux A\u00e9riens de Madagascar",
+    "IATA": "OF",
+    "ICAO": "TML",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:19.180221"
+  }
+]

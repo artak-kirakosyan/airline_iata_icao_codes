@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Heli Air Monaco",
+    "IATA": "YO",
+    "ICAO": "MCM",
+    "website": "www.heliairmonaco.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:36.794438"
+  },
+  {
+    "name": "Monacair",
+    "IATA": "QM",
+    "ICAO": null,
+    "website": "www.monacair.mc",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:36.794468"
+  },
+  {
+    "name": "Heli Air Monaco",
+    "IATA": "EM",
+    "ICAO": "MCM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:36.794485"
+  },
+  {
+    "name": "Monacair-Agusta",
+    "IATA": null,
+    "ICAO": "MCR",
+    "website": "www.heliriviera.com/monacair.htm",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:36.794502"
+  },
+  {
+    "name": "Prince Albert of Monaco",
+    "IATA": null,
+    "ICAO": "POM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:36.794518"
+  }
+]

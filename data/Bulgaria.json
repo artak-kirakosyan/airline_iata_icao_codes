@@ -1,0 +1,956 @@
+[
+  {
+    "name": "ALK JSC",
+    "IATA": null,
+    "ICAO": "VBB",
+    "website": "www.airvk-bg.net",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:11.402422"
+  },
+  {
+    "name": "Air Volta Ltd.",
+    "IATA": null,
+    "ICAO": "VLB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:11.402454"
+  },
+  {
+    "name": "AVB 2012 Ltd.",
+    "IATA": null,
+    "ICAO": "VBA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:11.402471"
+  },
+  {
+    "name": "Avio Bravo Ltd.",
+    "IATA": null,
+    "ICAO": "BIK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:11.402488"
+  },
+  {
+    "name": "Aviootriad Varna Ltd",
+    "IATA": null,
+    "ICAO": "AVC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:11.402506"
+  },
+  {
+    "name": "Aviostart AS Ltd.",
+    "IATA": null,
+    "ICAO": "VSR",
+    "website": "www.aviostart-bg.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:11.402522"
+  },
+  {
+    "name": "Balkan Agro Aviation",
+    "IATA": null,
+    "ICAO": "BAA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:11.402539"
+  },
+  {
+    "name": "BH Air Ltd.",
+    "IATA": null,
+    "ICAO": "BGH",
+    "website": "www.bhairlines.com",
+    "notes": "Founded in 2001. Commenced operations in January 2002. IATA prefox code 366 recalled.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:11.402558"
+  },
+  {
+    "name": "BH Heli Ltd",
+    "IATA": null,
+    "ICAO": "BHH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:11.402574"
+  },
+  {
+    "name": "Breeze Aviation",
+    "IATA": null,
+    "ICAO": "BRC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:11.402591"
+  },
+  {
+    "name": "Bright Flight Ltd",
+    "IATA": null,
+    "ICAO": "BFG",
+    "website": "www.bright-flight.eu",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:11.402607"
+  },
+  {
+    "name": "Bul Air Ltd",
+    "IATA": null,
+    "ICAO": "BVL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:11.402624"
+  },
+  {
+    "name": "Bulgaria Air",
+    "IATA": "FB",
+    "ICAO": "LZB",
+    "website": "www.air.bg",
+    "notes": "ICAO callsign changed from Balkan Tour. Name changed from Balkan Air Tours Ltd.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:11.402641"
+  },
+  {
+    "name": "Bulgarian Air Force",
+    "IATA": null,
+    "ICAO": "AFB",
+    "website": "www.airforce-bg.com/en/",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:11.402658"
+  },
+  {
+    "name": "Bulgarian Eagle",
+    "IATA": null,
+    "ICAO": "BEG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:11.402674"
+  },
+  {
+    "name": "Cargo Air Ltd",
+    "IATA": null,
+    "ICAO": "CGF",
+    "website": "www.cargoair.bg",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:11.402691"
+  },
+  {
+    "name": "Compass Cargo Airlines Ltd.",
+    "IATA": "HQ",
+    "ICAO": "ADZ",
+    "website": "compasscargo.eu",
+    "notes": "Name changed from Avio Delta Ltd.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:11.402708"
+  },
+  {
+    "name": "Darik Sky",
+    "IATA": null,
+    "ICAO": "DKR",
+    "website": "www.dariksky.bg",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:11.402725"
+  },
+  {
+    "name": "EGT Jet Ltd.",
+    "IATA": null,
+    "ICAO": "EGT",
+    "website": "egtjet.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:11.402742"
+  },
+  {
+    "name": "Electra Airways",
+    "IATA": null,
+    "ICAO": "EAF",
+    "website": "www.electra-airways.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:11.402758"
+  },
+  {
+    "name": "European Air Charter Ltd.",
+    "IATA": "H6",
+    "ICAO": "BUC",
+    "website": "euaircharter.com",
+    "notes": "Name changed from Bulgarian Air Charter. ICAO callsign changed from Bulgarian Charter.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:11.402775"
+  },
+  {
+    "name": "Fleet Air BG",
+    "IATA": null,
+    "ICAO": "FBG",
+    "website": "www.fleetair.eu",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:11.402792"
+  },
+  {
+    "name": "Fly2Sky o.o.d.",
+    "IATA": "F6",
+    "ICAO": "VAW",
+    "website": "www.fly2sky.aero",
+    "notes": "Name changed from Via Airways Ltd.ICAO designator changed to VAW w.e.f. 01 January 2016. ICAO callsign changed from Via Airways. Name changed from Air VIA Bulgarian Airways",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:11.402811"
+  },
+  {
+    "name": "Special Purpose Aviation Operator-SAO",
+    "IATA": null,
+    "ICAO": "BGF",
+    "website": null,
+    "notes": "Name changed from Aviodetachment-28.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:11.402830"
+  },
+  {
+    "name": "GP Aviation E.o.o.d.",
+    "IATA": "IV",
+    "ICAO": "GPX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:11.402847"
+  },
+  {
+    "name": "GullivAir Ltd.",
+    "IATA": "G2",
+    "ICAO": "GBG",
+    "website": "gullivair.com",
+    "notes": "ICAO designator changed from TJJ.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:11.402864"
+  },
+  {
+    "name": "Heli Air Services",
+    "IATA": null,
+    "ICAO": "HLR",
+    "website": "www.heliair.bg",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:11.402880"
+  },
+  {
+    "name": "Holiday Europe Ltd.",
+    "IATA": "5Q",
+    "ICAO": "HES",
+    "website": "www.holidayeurope.bg",
+    "notes": "IATA Designator changed from 5Q*.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:11.402897"
+  },
+  {
+    "name": "Jet-Ops Europe Ltd",
+    "IATA": null,
+    "ICAO": "JOE",
+    "website": "www.jetopseurope.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:11.402913"
+  },
+  {
+    "name": "Rebus",
+    "IATA": null,
+    "ICAO": "REB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:11.402929"
+  },
+  {
+    "name": "Rose Air Ltd.",
+    "IATA": null,
+    "ICAO": "REM",
+    "website": "roseair.bg",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:11.402945"
+  },
+  {
+    "name": "Sun Air Bulgaria AD",
+    "IATA": null,
+    "ICAO": "BGS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:11.402960"
+  },
+  {
+    "name": "Tayaran Jet JSC",
+    "IATA": null,
+    "ICAO": "TJB",
+    "website": "tayaranjet.com",
+    "notes": "Designator E8 recalled by IATA.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:11.402978"
+  },
+  {
+    "name": "Voyage Air Ltd.",
+    "IATA": null,
+    "ICAO": "VRG",
+    "website": "voyageair.bg",
+    "notes": "Designator VO recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:35:11.402994"
+  },
+  {
+    "name": "Bexx Air Express Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.flybexx.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403013"
+  },
+  {
+    "name": "Air Ban Ltd.",
+    "IATA": null,
+    "ICAO": "BAN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403034"
+  },
+  {
+    "name": "Air Ban",
+    "IATA": null,
+    "ICAO": "LZP",
+    "website": null,
+    "notes": "Ceased Operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403056"
+  },
+  {
+    "name": "Air Bright Ltd.",
+    "IATA": null,
+    "ICAO": "RBI",
+    "website": "www.air-bright.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403079"
+  },
+  {
+    "name": "Air BTR Ltd",
+    "IATA": null,
+    "ICAO": "TBR",
+    "website": "www.airbtr.com",
+    "notes": "Established on 25 January 2012. Ceased Operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403105"
+  },
+  {
+    "name": "Air Concorde",
+    "IATA": null,
+    "ICAO": "KGD",
+    "website": null,
+    "notes": "Ceased Operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403126"
+  },
+  {
+    "name": "Air Lazur - General Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "LZR",
+    "website": "www.airlazur.com",
+    "notes": "Ceased Operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403142"
+  },
+  {
+    "name": "Air Max Ltd.",
+    "IATA": null,
+    "ICAO": "RMX",
+    "website": null,
+    "notes": "Ceased Operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403158"
+  },
+  {
+    "name": "Air Net 21 JSC - Flying Dandy",
+    "IATA": null,
+    "ICAO": "DDD",
+    "website": null,
+    "notes": "IATA Designator changed to ZD",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403175"
+  },
+  {
+    "name": "Air Net 21 JSC - Flying Dandy",
+    "IATA": "ZD",
+    "ICAO": "DDD",
+    "website": null,
+    "notes": "Designator ZD recalled by IATA. IATA Designator changed from ZD*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403192"
+  },
+  {
+    "name": "Air Nove",
+    "IATA": null,
+    "ICAO": "NHA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403208"
+  },
+  {
+    "name": "Air Scorpio",
+    "IATA": null,
+    "ICAO": "SCU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403224"
+  },
+  {
+    "name": "Air Sofia",
+    "IATA": "CT",
+    "ICAO": "SFB",
+    "website": "www.airsofia.com",
+    "notes": "Closed down by Bulgarian Authorites on 05 March 2007.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403240"
+  },
+  {
+    "name": "Air Sport",
+    "IATA": null,
+    "ICAO": "MSK",
+    "website": null,
+    "notes": "Ceased Operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403255"
+  },
+  {
+    "name": "Air Truks",
+    "IATA": null,
+    "ICAO": "TCK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403271"
+  },
+  {
+    "name": "Air Varna Co. Bulgarian Charter And Cargo Flights",
+    "IATA": null,
+    "ICAO": "BAV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403286"
+  },
+  {
+    "name": "Air Via Ltd.",
+    "IATA": "VL",
+    "ICAO": "VIM",
+    "website": "www.air-via.com",
+    "notes": "ICAO dessignator changed to VAW. ICAO callsign changed from Via Airways. Name changed from Air VIA Bulgarian Airways",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403303"
+  },
+  {
+    "name": "Air Via Ltd.",
+    "IATA": "VL",
+    "ICAO": "VIM",
+    "website": "www.air-via.com",
+    "notes": "ICAO callsign changed to Crystal. Name changed from Air VIA Bulgarian Airways",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403320"
+  },
+  {
+    "name": "Air VIA Bulgarian Airways",
+    "IATA": "VL",
+    "ICAO": "VIM",
+    "website": "www.air-via.com",
+    "notes": "Founded in 1990. Name changed to Air Via Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403337"
+  },
+  {
+    "name": "Air Zory",
+    "IATA": null,
+    "ICAO": "MZA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403352"
+  },
+  {
+    "name": "Airgo Airlines",
+    "IATA": null,
+    "ICAO": "AGE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403367"
+  },
+  {
+    "name": "Alpha Air Ltd",
+    "IATA": null,
+    "ICAO": "ELZ",
+    "website": null,
+    "notes": "Ceased Operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403383"
+  },
+  {
+    "name": "AVB-2004 Ltd",
+    "IATA": null,
+    "ICAO": "VBC",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403398"
+  },
+  {
+    "name": "AVB-2010",
+    "IATA": null,
+    "ICAO": "VBV",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403414"
+  },
+  {
+    "name": "Avio Delta Ltd",
+    "IATA": null,
+    "ICAO": "ADZ",
+    "website": "www.aviodelta.eu",
+    "notes": "Name changed to Compass Cargo Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403431"
+  },
+  {
+    "name": "Balkan - Bulgarian Airlines",
+    "IATA": "LZ",
+    "ICAO": "LAZ",
+    "website": "www.balkan.com",
+    "notes": "Ceased operations on 21 Febraury 2001.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403448"
+  },
+  {
+    "name": "Balkan Air Tours Ltd.",
+    "IATA": "FB",
+    "ICAO": "LZB",
+    "website": "www.bat.bg",
+    "notes": "Name changed to Bulgaria Air. New State Airline to replace bankrupt Balkan - Bulgarian Airlines.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403465"
+  },
+  {
+    "name": "BH Air Ltd.",
+    "IATA": "8H",
+    "ICAO": "BGH",
+    "website": "www.bhairlines.com",
+    "notes": "Founded in 2001. Commenced operations in January 2002. IATA prefox code 366 recalled.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403482"
+  },
+  {
+    "name": "Biz Air",
+    "IATA": null,
+    "ICAO": "LZZ",
+    "website": null,
+    "notes": "Ceased Operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403498"
+  },
+  {
+    "name": "Boss Air Group",
+    "IATA": null,
+    "ICAO": "BSG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403513"
+  },
+  {
+    "name": "Bright Aviation Services",
+    "IATA": null,
+    "ICAO": "BRW",
+    "website": "www.air-bright.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403529"
+  },
+  {
+    "name": "Bul Air Ltd",
+    "IATA": "LB",
+    "ICAO": "BVL",
+    "website": "www.bulair.bg",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403546"
+  },
+  {
+    "name": "Bulair",
+    "IATA": "DB",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403562"
+  },
+  {
+    "name": "Bulgaria",
+    "IATA": null,
+    "ICAO": "BGB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403577"
+  },
+  {
+    "name": "Bulgaria Air",
+    "IATA": "FB",
+    "ICAO": "LZB",
+    "website": "www.bat.bg",
+    "notes": "ICAO callsign changed to Flying Bulgaria. Name changed from Balkan Air Tours Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403593"
+  },
+  {
+    "name": "Bulgarian Aeronautical Centre",
+    "IATA": null,
+    "ICAO": "BVC",
+    "website": "www.bac-fto.com",
+    "notes": "Ceased Operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403609"
+  },
+  {
+    "name": "Bulgarian Air Cargo",
+    "IATA": null,
+    "ICAO": "BCA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403624"
+  },
+  {
+    "name": "Bulgarian Air Charter Ltd.",
+    "IATA": "H6",
+    "ICAO": "BUC",
+    "website": "www.bgaircharter.com",
+    "notes": "Name changed to European Air Charter.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403641"
+  },
+  {
+    "name": "Bulgarian Flying Cargo",
+    "IATA": null,
+    "ICAO": "BFB",
+    "website": null,
+    "notes": "Ceased Operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403656"
+  },
+  {
+    "name": "Bulgarian Lucky Flight",
+    "IATA": null,
+    "ICAO": "BLF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403672"
+  },
+  {
+    "name": "Business Air Ltd",
+    "IATA": null,
+    "ICAO": "BEM",
+    "website": "business-air.eu",
+    "notes": "Ceased Operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403688"
+  },
+  {
+    "name": "East West European",
+    "IATA": null,
+    "ICAO": "EWE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403703"
+  },
+  {
+    "name": "Eurosense",
+    "IATA": null,
+    "ICAO": "EBG",
+    "website": null,
+    "notes": "Ceased Operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403718"
+  },
+  {
+    "name": "Aviodetachment-28",
+    "IATA": null,
+    "ICAO": "BGF",
+    "website": null,
+    "notes": "Name changed to Special Purpose Aviation Operator-SAO",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403734"
+  },
+  {
+    "name": "GullivAir Ltd.",
+    "IATA": "G2",
+    "ICAO": "TJJ",
+    "website": "gullivair.com",
+    "notes": "ICAO designator changed to GBG.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403750"
+  },
+  {
+    "name": "Hemus Air",
+    "IATA": "DU",
+    "ICAO": "HMS",
+    "website": "www.hemusair.bg",
+    "notes": "Merged into Bulgaria Air FB/LZB in 2010",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403766"
+  },
+  {
+    "name": "Holiday Europe Ltd.",
+    "IATA": null,
+    "ICAO": "HES",
+    "website": "www.holidayeurope.bg",
+    "notes": "IATA Designator changed to 5Q.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403783"
+  },
+  {
+    "name": "Inter Air",
+    "IATA": null,
+    "ICAO": "ITW",
+    "website": null,
+    "notes": "Ceased Operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403799"
+  },
+  {
+    "name": "Intersky Ltd",
+    "IATA": null,
+    "ICAO": "IKY",
+    "website": null,
+    "notes": "Ceased Operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403814"
+  },
+  {
+    "name": "Jes Air",
+    "IATA": null,
+    "ICAO": "JES",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403829"
+  },
+  {
+    "name": "Lada Air Ltd.",
+    "IATA": null,
+    "ICAO": "LDB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403844"
+  },
+  {
+    "name": "Lotos Air Ltd.",
+    "IATA": null,
+    "ICAO": "LTZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403860"
+  },
+  {
+    "name": "Naftex Bulgaria Holding",
+    "IATA": null,
+    "ICAO": "UKO",
+    "website": null,
+    "notes": "Name changed from Yukos. Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403876"
+  },
+  {
+    "name": "Niko Air Ltd.",
+    "IATA": null,
+    "ICAO": "NIK",
+    "website": null,
+    "notes": "Ceased Operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403891"
+  },
+  {
+    "name": "Phoenix Air Ltd.",
+    "IATA": null,
+    "ICAO": "PXB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403906"
+  },
+  {
+    "name": "Rila Airlines, Joint Stock Company",
+    "IATA": null,
+    "ICAO": "RAB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403921"
+  },
+  {
+    "name": "Skorpion Air",
+    "IATA": null,
+    "ICAO": "SPN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403937"
+  },
+  {
+    "name": "Solis Aviation",
+    "IATA": null,
+    "ICAO": "SOF",
+    "website": null,
+    "notes": "Ceased Operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403952"
+  },
+  {
+    "name": "S.C. Starlight Airlines S.r.l.",
+    "IATA": null,
+    "ICAO": "LTA",
+    "website": null,
+    "notes": "Operators licence revoked w.e.f. 10 Febraury 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403969"
+  },
+  {
+    "name": "Sunlight Air",
+    "IATA": null,
+    "ICAO": "RHT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.403984"
+  },
+  {
+    "name": "Tayaran Jet JSC",
+    "IATA": "E8",
+    "ICAO": "TJB",
+    "website": "tayaranjet.com",
+    "notes": "Designator E8 recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.404000"
+  },
+  {
+    "name": "TopJets Limited",
+    "IATA": null,
+    "ICAO": "TJJ",
+    "website": "www.topjets.eu",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.404016"
+  },
+  {
+    "name": "Vega Airlines",
+    "IATA": null,
+    "ICAO": "VEA",
+    "website": null,
+    "notes": "Founded in 1997. AOC revoked on 20 June 2007. Restarted operations as Cargo Air (CGF) on 15 September 2008.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.404033"
+  },
+  {
+    "name": "Venid Air",
+    "IATA": null,
+    "ICAO": "DNE",
+    "website": "venidair.com",
+    "notes": "Ceased Operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.404049"
+  },
+  {
+    "name": "Via Airways Ltd.",
+    "IATA": null,
+    "ICAO": "VAW",
+    "website": "www.air-via.com",
+    "notes": "Name changed to Fly2Sky.ICAO designator changed to VAW w.e.f. 01 January 2016. ICAO callsign changed from Via Airways. Name changed from Air VIA Bulgarian Airways",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.404066"
+  },
+  {
+    "name": "Viaggio Air",
+    "IATA": "VM",
+    "ICAO": "VOA",
+    "website": "www.viaggioair.com",
+    "notes": "Start ops with ATR 42 on 27 Febraury 2003. Merged  into Bulgaria Air/Hemus Air",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.404083"
+  },
+  {
+    "name": "Victoria Air Ltd.",
+    "IATA": null,
+    "ICAO": "VEM",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.404098"
+  },
+  {
+    "name": "Vivant Air",
+    "IATA": null,
+    "ICAO": "VVI",
+    "website": null,
+    "notes": "Ceased operations in 2006.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.404114"
+  },
+  {
+    "name": "Voyage Air Ltd.",
+    "IATA": "VO",
+    "ICAO": "VRG",
+    "website": "voyageair.bg",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.404130"
+  },
+  {
+    "name": "Wizz Air Bulgaria Airlines EAD",
+    "IATA": "8Z",
+    "ICAO": "WVL",
+    "website": "www.wizzair.com",
+    "notes": "Merged back into Wizz Air Hungary in 2011",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.404148"
+  },
+  {
+    "name": "Yukos",
+    "IATA": null,
+    "ICAO": "UKO",
+    "website": null,
+    "notes": "Name changed to Naftex Bulgaria Holding",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.404165"
+  },
+  {
+    "name": "Zori Air Cargo",
+    "IATA": null,
+    "ICAO": "OZG",
+    "website": null,
+    "notes": "Ceased Operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:11.404181"
+  }
+]

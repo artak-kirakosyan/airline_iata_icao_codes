@@ -1,0 +1,731 @@
+[
+  {
+    "name": "Abavia",
+    "IATA": null,
+    "ICAO": "BVZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:15.742240"
+  },
+  {
+    "name": "Aero Expedition LLC",
+    "IATA": null,
+    "ICAO": "GEX",
+    "website": "aero-expedition.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:15.742272"
+  },
+  {
+    "name": "Air Georgia Ltd d/b/a Aircompany Air Georgia",
+    "IATA": null,
+    "ICAO": "AGF",
+    "website": "airgeorgia.com.ge",
+    "notes": "IATA designator DC* recalled.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:15.742291"
+  },
+  {
+    "name": "Air Iberia",
+    "IATA": null,
+    "ICAO": "TBB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:15.742307"
+  },
+  {
+    "name": "Airzena LLC d/b/a Aircompany AIRZENA",
+    "IATA": "LV",
+    "ICAO": "DTG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:15.742325"
+  },
+  {
+    "name": "AK-Air Georgia, LLC",
+    "IATA": null,
+    "ICAO": "NTX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:15.742341"
+  },
+  {
+    "name": "AMS Airlines LLC",
+    "IATA": null,
+    "ICAO": "GEO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:15.742356"
+  },
+  {
+    "name": "Aquiline International Corporation Ltd",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.aquiline-aero.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:15.742373"
+  },
+  {
+    "name": "Aviakomi",
+    "IATA": null,
+    "ICAO": "LMB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:15.742387"
+  },
+  {
+    "name": "Aviaservice",
+    "IATA": null,
+    "ICAO": "BIV",
+    "website": "www.aviaservice.ge",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:15.742403"
+  },
+  {
+    "name": "Bravo Air Ltd.",
+    "IATA": null,
+    "ICAO": "BRZ",
+    "website": "bravo-air.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:15.742429"
+  },
+  {
+    "name": "CAMEX Airlines LLC",
+    "IATA": null,
+    "ICAO": "CMS",
+    "website": "camex.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:15.742446"
+  },
+  {
+    "name": "Caucasus Airways, Airline",
+    "IATA": null,
+    "ICAO": "GEA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:15.742461"
+  },
+  {
+    "name": "Easycharter LLC",
+    "IATA": null,
+    "ICAO": "LOL",
+    "website": "www.easycharter.ge",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:15.742477"
+  },
+  {
+    "name": "Fly Adjara",
+    "IATA": null,
+    "ICAO": "NOD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:15.742493"
+  },
+  {
+    "name": "Geo Fly Airways",
+    "IATA": null,
+    "ICAO": "GFY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:15.742509"
+  },
+  {
+    "name": "Airline Geo Sky LLC",
+    "IATA": "D4",
+    "ICAO": "GEL",
+    "website": "airgeosky.ge",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:15.742525"
+  },
+  {
+    "name": "Georgian Airlines LLC d/b/a Aircompany Georgian Airlines",
+    "IATA": "GH",
+    "ICAO": "IGT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:15.742544"
+  },
+  {
+    "name": "Georgian Airways",
+    "IATA": "A9",
+    "ICAO": "TGZ",
+    "website": "www.georgian-airways.com",
+    "notes": "Filed for bankruptcy on 31 December 2021. Name changed from Airzena Georgian Airlines in August 2004. Designator A9 reinstated by IATA.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:15.742563"
+  },
+  {
+    "name": "Georgian Aviation Federation",
+    "IATA": null,
+    "ICAO": "FGA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:15.742582"
+  },
+  {
+    "name": "Georgian Wings",
+    "IATA": null,
+    "ICAO": null,
+    "website": "georgianwings.com",
+    "notes": "All flights operated by Airline Geo Sky.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:15.742599"
+  },
+  {
+    "name": "Gryphon Air Cargo LLC",
+    "IATA": null,
+    "ICAO": "GRG",
+    "website": "gryphon.ge",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:15.742614"
+  },
+  {
+    "name": "Jav-Avia Ltd",
+    "IATA": null,
+    "ICAO": "JAZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:15.742630"
+  },
+  {
+    "name": "Lasare Airline",
+    "IATA": null,
+    "ICAO": "LRE",
+    "website": "www.lasare.ge",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:15.742647"
+  },
+  {
+    "name": "MyWay Airlines Co., Ltd.",
+    "IATA": "MJ",
+    "ICAO": "MYW",
+    "website": "www.mywayairlines.com",
+    "notes": "Commenced operations on 31 March 2018.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:15.742664"
+  },
+  {
+    "name": "Serviceair",
+    "IATA": null,
+    "ICAO": "GYG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:15.742680"
+  },
+  {
+    "name": "Sky Travel Ltd",
+    "IATA": null,
+    "ICAO": "RVU",
+    "website": null,
+    "notes": "Name changed from First Aeronautic Club",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:15.742696"
+  },
+  {
+    "name": "Tbilisi Airways Ltd.",
+    "IATA": "TD",
+    "ICAO": "TBC",
+    "website": "tbilisi-airways.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:15.742712"
+  },
+  {
+    "name": "TCA LLC",
+    "IATA": null,
+    "ICAO": "TZS",
+    "website": "www.tca.ge",
+    "notes": "Name changed from The Cargo Airlines.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:15.742729"
+  },
+  {
+    "name": "Transaviaservice",
+    "IATA": null,
+    "ICAO": "FNV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:15.742744"
+  },
+  {
+    "name": "Tusheti",
+    "IATA": null,
+    "ICAO": "USB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:15.742760"
+  },
+  {
+    "name": "Vip-Avia",
+    "IATA": null,
+    "ICAO": "VPV",
+    "website": "www.vip-avia.ge",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:15.742776"
+  },
+  {
+    "name": "Yak Air, Aircompany Ltd.",
+    "IATA": null,
+    "ICAO": "YRG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:15.742793"
+  },
+  {
+    "name": "Adjaria",
+    "IATA": null,
+    "ICAO": "MNM",
+    "website": null,
+    "notes": "Name changed from Aldi",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.742809"
+  },
+  {
+    "name": "AG Air Ltd",
+    "IATA": null,
+    "ICAO": "AGA",
+    "website": null,
+    "notes": "AOC suspended by Georgian CAA on 13 January 2014. Name changed from New Georgia Ltd",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.742826"
+  },
+  {
+    "name": "Air Batumi",
+    "IATA": null,
+    "ICAO": "BTM",
+    "website": "www.airbatumi.net",
+    "notes": "Founed in 2010. Ceased operations during 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.742843"
+  },
+  {
+    "name": "Air Bisec",
+    "IATA": "QB",
+    "ICAO": null,
+    "website": null,
+    "notes": "Name changed to Georgian National Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.742859"
+  },
+  {
+    "name": "Air Bised",
+    "IATA": null,
+    "ICAO": "GFG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.742874"
+  },
+  {
+    "name": "Air Cargo Georgia",
+    "IATA": null,
+    "ICAO": "GGG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.742889"
+  },
+  {
+    "name": "Air Caucasus",
+    "IATA": "UY",
+    "ICAO": "CSG",
+    "website": "www.aircaucasus.com",
+    "notes": "Commenced operations in August 2013. Ceased operations during 2014.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.742906"
+  },
+  {
+    "name": "Air G",
+    "IATA": "5I",
+    "ICAO": "GRG",
+    "website": null,
+    "notes": "Designator 5I recalled by IATA. Name changed from Trans Air Georgia",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.742923"
+  },
+  {
+    "name": "Air Georgia Ltd d/b/a Aircompany Air Georgia",
+    "IATA": null,
+    "ICAO": "AGF",
+    "website": "airgeorgia.com.ge",
+    "notes": "IATA designator DC* recalled.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.742941"
+  },
+  {
+    "name": "Air Georgia",
+    "IATA": "DA",
+    "ICAO": "DAN",
+    "website": null,
+    "notes": "Merged into Aircompany Airzena Georgian Airlines. Designator DA recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.742957"
+  },
+  {
+    "name": "Air Georgia",
+    "IATA": "DA",
+    "ICAO": "GEO",
+    "website": null,
+    "notes": "ICAO designator changed from DAN",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.742973"
+  },
+  {
+    "name": "Air Zena",
+    "IATA": null,
+    "ICAO": "TGZ",
+    "website": null,
+    "notes": "Merged into Aircompany Airzena Georgian Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.742990"
+  },
+  {
+    "name": "Airzena Georgian Airlines",
+    "IATA": "A9",
+    "ICAO": "TGZ",
+    "website": "www.airzena.com",
+    "notes": "Name changed to Georgian Airways in August 2004. Designator A9 reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.743008"
+  },
+  {
+    "name": "Avial",
+    "IATA": null,
+    "ICAO": "GGO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.743024"
+  },
+  {
+    "name": "Batumi",
+    "IATA": null,
+    "ICAO": "ADJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.743040"
+  },
+  {
+    "name": "Caucasus Airlines",
+    "IATA": null,
+    "ICAO": "SRJ",
+    "website": "www.caucasusairlines.ge",
+    "notes": "Ceased operations. Name changed from Silk Route Airways. ICAO designator changed from GSR. ICAO callsign changed from Silkroute Airways",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.743059"
+  },
+  {
+    "name": "Eurex Airlines",
+    "IATA": null,
+    "ICAO": "URX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.743074"
+  },
+  {
+    "name": "Euroline",
+    "IATA": "4L",
+    "ICAO": "MJX",
+    "website": null,
+    "notes": "Name changed to Georgian International Airlines Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.743090"
+  },
+  {
+    "name": "First Aeronautic Club",
+    "IATA": null,
+    "ICAO": "RVU",
+    "website": null,
+    "notes": "Name changed to Sky Travel Ltd",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.743106"
+  },
+  {
+    "name": "FlyGeorgia",
+    "IATA": "9Y",
+    "ICAO": "FGE",
+    "website": "www.flygeorgia.com",
+    "notes": "Designator 9Y recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.743122"
+  },
+  {
+    "name": "Vista Georgia Ltd.",
+    "IATA": "GT",
+    "ICAO": "AJD",
+    "website": "www.flyvista.ge",
+    "notes": "Commenced operations on 05 August 2014. Ceased operations in May 2015.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.743138"
+  },
+  {
+    "name": "Airline Geo Sky LLC",
+    "IATA": null,
+    "ICAO": "GEL",
+    "website": "airgeosky.ge",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.743154"
+  },
+  {
+    "name": "Georgian LLC",
+    "IATA": null,
+    "ICAO": "GEO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.743169"
+  },
+  {
+    "name": "Georgian Air",
+    "IATA": null,
+    "ICAO": "GEO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.743184"
+  },
+  {
+    "name": "Georgian Air",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator 4G* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.743200"
+  },
+  {
+    "name": "Georgian Airlines",
+    "IATA": "6R",
+    "ICAO": "GEG",
+    "website": null,
+    "notes": "Designator 6R recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.743215"
+  },
+  {
+    "name": "Georgian Airlines",
+    "IATA": "3P",
+    "ICAO": "GEG",
+    "website": null,
+    "notes": "Merged into Air Georgia DA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.743232"
+  },
+  {
+    "name": "Georgian Cargo Airlines",
+    "IATA": null,
+    "ICAO": "GCA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.743247"
+  },
+  {
+    "name": "Georgian International Airlines Ltd.",
+    "IATA": "4L",
+    "ICAO": "GIL",
+    "website": "www.avia.ge",
+    "notes": "Name changed from Euroline",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.743263"
+  },
+  {
+    "name": "Georgian National Airlines",
+    "IATA": "QB",
+    "ICAO": "GFG",
+    "website": "www.national-avia.com",
+    "notes": "Designator QB reinstated by IATA. Name changed from Air Bisec",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.743279"
+  },
+  {
+    "name": "Georgian Star",
+    "IATA": null,
+    "ICAO": "GST",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.743294"
+  },
+  {
+    "name": "Aircompany \"Global Air\" Ltd.",
+    "IATA": null,
+    "ICAO": "GGB",
+    "website": null,
+    "notes": "Designator 5G* recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.743310"
+  },
+  {
+    "name": "Luftline Georgia Ltd",
+    "IATA": "GX",
+    "ICAO": "LLG",
+    "website": "www.luftline.com",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.743326"
+  },
+  {
+    "name": "New Georgia Ltd",
+    "IATA": null,
+    "ICAO": "AGA",
+    "website": null,
+    "notes": "Name changed to AG Air Ltd",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.743341"
+  },
+  {
+    "name": "Omega Copters",
+    "IATA": null,
+    "ICAO": "GBG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.743356"
+  },
+  {
+    "name": "ORBI Georgian Airways",
+    "IATA": null,
+    "ICAO": "DVU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.743371"
+  },
+  {
+    "name": "Sakaviaservice",
+    "IATA": null,
+    "ICAO": "AZG",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.743388"
+  },
+  {
+    "name": "Shervbery",
+    "IATA": null,
+    "ICAO": "MDO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.743403"
+  },
+  {
+    "name": "Silk Route Airways",
+    "IATA": null,
+    "ICAO": "GSR",
+    "website": null,
+    "notes": "Name changed to Caucasus Airlines, ICAO desigantor changed to SRJ. ICAO callsign changed to Caucasus.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.743420"
+  },
+  {
+    "name": "Sky Georgia",
+    "IATA": "QB",
+    "ICAO": "GFG",
+    "website": "www.skygeorgia.org",
+    "notes": "Name changed from Georgian National Airlines. Designator QB reinstated by IATA. Name changed from Air Bisec",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.743439"
+  },
+  {
+    "name": "Sky Line",
+    "IATA": null,
+    "ICAO": "ISI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.743453"
+  },
+  {
+    "name": "Skyway",
+    "IATA": null,
+    "ICAO": "DGD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.743469"
+  },
+  {
+    "name": "South-East European Airlines",
+    "IATA": "G2",
+    "ICAO": "GGG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.743484"
+  },
+  {
+    "name": "Sukhumi Airways",
+    "IATA": null,
+    "ICAO": "LOA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.743499"
+  },
+  {
+    "name": "Tbilaviamsheni",
+    "IATA": null,
+    "ICAO": "VNZ",
+    "website": "www.tam.ge",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.743515"
+  },
+  {
+    "name": "The Cargo Airlines",
+    "IATA": null,
+    "ICAO": "TZS",
+    "website": null,
+    "notes": "Name changed to TCA Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.743530"
+  },
+  {
+    "name": "Trans Air Georgia",
+    "IATA": "5I",
+    "ICAO": "GRG",
+    "website": null,
+    "notes": "Name changed to Air G",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.743545"
+  },
+  {
+    "name": "West Georgia",
+    "IATA": null,
+    "ICAO": "GCD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:15.743560"
+  }
+]

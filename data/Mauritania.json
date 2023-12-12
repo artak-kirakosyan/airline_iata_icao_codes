@@ -1,0 +1,344 @@
+[
+  {
+    "name": "Air Ada",
+    "IATA": null,
+    "ICAO": "RDM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:28.742752"
+  },
+  {
+    "name": "Air Amder S.A.",
+    "IATA": null,
+    "ICAO": "RMD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:28.742783"
+  },
+  {
+    "name": "Air Soleil, Soci\u00e9t\u00e9",
+    "IATA": null,
+    "ICAO": "SOE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:28.742802"
+  },
+  {
+    "name": "Al Rida Airways",
+    "IATA": null,
+    "ICAO": "LRW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:28.742819"
+  },
+  {
+    "name": "Benane Aviation Corporation",
+    "IATA": null,
+    "ICAO": "BNV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:28.742836"
+  },
+  {
+    "name": "C.S.P., Societe",
+    "IATA": null,
+    "ICAO": "RMU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:28.742855"
+  },
+  {
+    "name": "Caravan Air",
+    "IATA": null,
+    "ICAO": "VAN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:28.742873"
+  },
+  {
+    "name": "Cargo Express",
+    "IATA": null,
+    "ICAO": "MCX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:28.742891"
+  },
+  {
+    "name": "Chinguetti Airlines",
+    "IATA": null,
+    "ICAO": "CGU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:28.742907"
+  },
+  {
+    "name": "Class Aviation",
+    "IATA": null,
+    "ICAO": "DUC",
+    "website": "www.classaviation.mr",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:28.742923"
+  },
+  {
+    "name": "CM Sair, Compagnie Mauritanienne des Services ET",
+    "IATA": null,
+    "ICAO": "CMZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:28.742940"
+  },
+  {
+    "name": "Compagnie Mauritanienne Des Transports",
+    "IATA": null,
+    "ICAO": "CPM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:28.742956"
+  },
+  {
+    "name": "Des R. Cargo Express",
+    "IATA": null,
+    "ICAO": "DRX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:28.742972"
+  },
+  {
+    "name": "Dunair",
+    "IATA": null,
+    "ICAO": "DUN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:28.742987"
+  },
+  {
+    "name": "Global Aviation S.a.r.l.",
+    "IATA": null,
+    "ICAO": "MSS",
+    "website": "globalaviation.mr",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:28.743003"
+  },
+  {
+    "name": "Lignes Mauritaniennes Air Express",
+    "IATA": null,
+    "ICAO": "LME",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:28.743018"
+  },
+  {
+    "name": "Mauria, Soci\u00e9t\u00e9 Mauritanienne D'aviation",
+    "IATA": null,
+    "ICAO": "MIA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:28.743034"
+  },
+  {
+    "name": "Mauritania Airlines",
+    "IATA": "L6",
+    "ICAO": "MAI",
+    "website": "www.mauritaniaairlines.mr",
+    "notes": "Founded December 2010. Name changed from Mauritanian Airlines International.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:28.743051"
+  },
+  {
+    "name": "Mauritania Airways",
+    "IATA": null,
+    "ICAO": "MTW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:28.743066"
+  },
+  {
+    "name": "Mauritanienne Air Fret",
+    "IATA": null,
+    "ICAO": "MRF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:28.743082"
+  },
+  {
+    "name": "Mauritanienne Airways",
+    "IATA": null,
+    "ICAO": "MWY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:28.743097"
+  },
+  {
+    "name": "Mauritanienne de Transport Aerien",
+    "IATA": null,
+    "ICAO": "MDE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:28.743113"
+  },
+  {
+    "name": "Maurtanienne Aerienne Et Navale",
+    "IATA": null,
+    "ICAO": "MNV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:28.743128"
+  },
+  {
+    "name": "Ocean Air",
+    "IATA": null,
+    "ICAO": "BCN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:28.743143"
+  },
+  {
+    "name": "Regional Air",
+    "IATA": null,
+    "ICAO": "RIL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:28.743158"
+  },
+  {
+    "name": "Soci\u00e9t\u00e9 de Transport Aerien de Mauritanie",
+    "IATA": null,
+    "ICAO": "NSC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:28.743175"
+  },
+  {
+    "name": "Soci\u00e9t\u00e9 Tout Transport Mauritanien",
+    "IATA": null,
+    "ICAO": "TTM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:28.743190"
+  },
+  {
+    "name": "Stella Aviation",
+    "IATA": null,
+    "ICAO": "SLV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:28.743206"
+  },
+  {
+    "name": "Tar Interpilot",
+    "IATA": null,
+    "ICAO": "TPL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:28.743221"
+  },
+  {
+    "name": "Trading Air Cargo",
+    "IATA": null,
+    "ICAO": "JCH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:28.743237"
+  },
+  {
+    "name": "Tram, Soci\u00e9t\u00e9",
+    "IATA": null,
+    "ICAO": "TMQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:28.743252"
+  },
+  {
+    "name": "Trans Reco",
+    "IATA": null,
+    "ICAO": "REC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:28.743268"
+  },
+  {
+    "name": "Transport Aerien de Mauritanie (TAM)",
+    "IATA": null,
+    "ICAO": "TRM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:28.743284"
+  },
+  {
+    "name": "West African Cargo Airlines Sarl",
+    "IATA": null,
+    "ICAO": "WAC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:28.743300"
+  },
+  {
+    "name": "Zemmour Airlines",
+    "IATA": null,
+    "ICAO": "EMR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:28.743315"
+  },
+  {
+    "name": "Air Fret de Mauritanie",
+    "IATA": null,
+    "ICAO": "FMI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:28.743331"
+  },
+  {
+    "name": "Air Mauritanie",
+    "IATA": "MR",
+    "ICAO": "MRT",
+    "website": "www.airmauritanie.mr",
+    "notes": "Designator MR reinsated by IATA. Founded in September 1962. Ceased operations during 2007.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:28.743349"
+  },
+  {
+    "name": "Mauritanian Airlines International",
+    "IATA": "L6",
+    "ICAO": "MAI",
+    "website": "www.mai.mr",
+    "notes": "Founded December 2010. Name changed to Mauritania Airlines.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:28.743366"
+  }
+]

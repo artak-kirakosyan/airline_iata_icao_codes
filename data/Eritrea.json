@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Eritrean Airlines",
+    "IATA": "B8",
+    "ICAO": "ERT",
+    "website": "www.eritrean-airlines.com",
+    "notes": "Ceased Operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:59.569674"
+  },
+  {
+    "name": "Nasair Air Service",
+    "IATA": "UE",
+    "ICAO": "NAS",
+    "website": "www.nasair.aero",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:59.569702"
+  },
+  {
+    "name": "Red Sea Air",
+    "IATA": null,
+    "ICAO": "ERS",
+    "website": null,
+    "notes": "Designator 7R* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:59.569721"
+  }
+]

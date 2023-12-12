@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Burma Airways Corporation",
+    "IATA": "UB",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:13.779204"
+  },
+  {
+    "name": "Union of Burma Airways",
+    "IATA": "UB",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:35:13.779231"
+  }
+]

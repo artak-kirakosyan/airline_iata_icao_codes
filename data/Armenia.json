@@ -1,0 +1,587 @@
+[
+  {
+    "name": "Air Dilijans LLC",
+    "IATA": "RM",
+    "ICAO": "NGT",
+    "website": "airdilijans.com",
+    "notes": "Name changed from Aircompany Armenia LLC w.e.f. 21 March 2023.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:40.446668"
+  },
+  {
+    "name": "Air Highnesses LLC",
+    "IATA": null,
+    "ICAO": "HNS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:40.446696"
+  },
+  {
+    "name": "Arm-Aero",
+    "IATA": null,
+    "ICAO": "RMO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:40.446713"
+  },
+  {
+    "name": "Armenia Airways Air company CJSC",
+    "IATA": "6A",
+    "ICAO": "AMW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:40.446728"
+  },
+  {
+    "name": "Armenian Airlines LLC",
+    "IATA": "JI",
+    "ICAO": "AAG",
+    "website": "armenianairlines.am",
+    "notes": "AOC granted on 27 December 2022.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:40.446744"
+  },
+  {
+    "name": "Armenian Helicopters",
+    "IATA": null,
+    "ICAO": "KAV",
+    "website": "armheli.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:40.446759"
+  },
+  {
+    "name": "ATC CJSC",
+    "IATA": null,
+    "ICAO": "ARY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:40.446774"
+  },
+  {
+    "name": "Avia-Urartu",
+    "IATA": null,
+    "ICAO": "URT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:40.446790"
+  },
+  {
+    "name": "Aykavia Aircompany",
+    "IATA": null,
+    "ICAO": "AYK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:40.446805"
+  },
+  {
+    "name": "Dvin-Avia",
+    "IATA": null,
+    "ICAO": "DVN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:40.446820"
+  },
+  {
+    "name": "Fly Armenia Airways LLC",
+    "IATA": "VF",
+    "ICAO": "FBB",
+    "website": "flyarmenia.aero",
+    "notes": "IATA designator changed from 9F.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:40.446836"
+  },
+  {
+    "name": "Armenian National Airlines CLSC d/b/a FLY ARNA",
+    "IATA": "G6",
+    "ICAO": "ACY",
+    "website": "www.flyarna.com",
+    "notes": "Planned national airline. A joint venture company between the Armenian National Interests Fund (ANIF) and Air Arabia Group. Air Operating Certificate (AOC) and Air Operator License (AOL) granted 03/06/2022.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:40.446853"
+  },
+  {
+    "name": "FLYONE Armenia",
+    "IATA": "3F",
+    "ICAO": "FIE",
+    "website": "flyone.eu/am/",
+    "notes": "AOC obtained 27/10/2021.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:40.446869"
+  },
+  {
+    "name": "NOVAIR LLC",
+    "IATA": "NG",
+    "ICAO": "NAI",
+    "website": null,
+    "notes": "Founded on 23 October 2020, as a subsidiary of Atlantis Armenian Airlines.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:40.446885"
+  },
+  {
+    "name": "Phoenix Avia LLC",
+    "IATA": null,
+    "ICAO": "PHY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:40.446900"
+  },
+  {
+    "name": "Shirak Avia LLC",
+    "IATA": null,
+    "ICAO": "SHS",
+    "website": "shirakavia.am",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:40.446917"
+  },
+  {
+    "name": "Sky Net Airline",
+    "IATA": null,
+    "ICAO": "SKJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:40.446932"
+  },
+  {
+    "name": "Smart Airlines LLC",
+    "IATA": null,
+    "ICAO": "DGV",
+    "website": "www.smartairlines.am",
+    "notes": "Planned start-up.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:40.446948"
+  },
+  {
+    "name": "V Berd Avia",
+    "IATA": null,
+    "ICAO": "VBD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:40.446963"
+  },
+  {
+    "name": "Vertir LLC",
+    "IATA": null,
+    "ICAO": "VRZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:40.446979"
+  },
+  {
+    "name": "Air Armenia CJSC",
+    "IATA": null,
+    "ICAO": "ARR",
+    "website": "www.air.am",
+    "notes": "Ceased operations on 29 October 2014.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.446995"
+  },
+  {
+    "name": "Air Wings",
+    "IATA": null,
+    "ICAO": "LXL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447011"
+  },
+  {
+    "name": "Aircompany Starway",
+    "IATA": null,
+    "ICAO": "STW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447026"
+  },
+  {
+    "name": "Aircompany Veteran",
+    "IATA": null,
+    "ICAO": "RVT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447041"
+  },
+  {
+    "name": "Air-Van Airlines",
+    "IATA": null,
+    "ICAO": "VAR",
+    "website": "www.airvanairlines.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447057"
+  },
+  {
+    "name": "Alliance Air Company LLC",
+    "IATA": null,
+    "ICAO": "SKX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447072"
+  },
+  {
+    "name": "Ararat Airlines",
+    "IATA": "4A",
+    "ICAO": "ARK",
+    "website": null,
+    "notes": "Designator 4A recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447088"
+  },
+  {
+    "name": "Ararat International Airline LLC",
+    "IATA": null,
+    "ICAO": "RRN",
+    "website": null,
+    "notes": "Founded in 2010. Ceased operations during 2013.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447104"
+  },
+  {
+    "name": "Arax Airways",
+    "IATA": "Y5",
+    "ICAO": "RXR",
+    "website": null,
+    "notes": "Designator Y5 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447120"
+  },
+  {
+    "name": "Ark Airways LLC",
+    "IATA": null,
+    "ICAO": "ARQ",
+    "website": null,
+    "notes": "Founded in 2010. Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447136"
+  },
+  {
+    "name": "Armavia Aviacompany LLC",
+    "IATA": "U8",
+    "ICAO": "RNV",
+    "website": "www.armavia.aero",
+    "notes": "Ceased operations 01 April 2013. Founded in 1996",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447152"
+  },
+  {
+    "name": "Aircompany Armenia LLC",
+    "IATA": "RM",
+    "ICAO": "NGT",
+    "website": "armeniafly.com",
+    "notes": "Name changed to Air Dilijans LLC w.e.f. 21 March 2023.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447168"
+  },
+  {
+    "name": "Armenian Airlines",
+    "IATA": "R3",
+    "ICAO": "RME",
+    "website": "www.armenianairlines.com",
+    "notes": "Suspended operations on 15 April 2003.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447184"
+  },
+  {
+    "name": "Armenian International Airways",
+    "IATA": "MV",
+    "ICAO": "RML",
+    "website": "www.armenianairways.com",
+    "notes": "Founded in 2002. Merged with Armavia during 2005.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447201"
+  },
+  {
+    "name": "As-Aero",
+    "IATA": null,
+    "ICAO": "SRY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447216"
+  },
+  {
+    "name": "Atlantis Armenian Airlines",
+    "IATA": null,
+    "ICAO": "AEU",
+    "website": "atlantis.am",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447232"
+  },
+  {
+    "name": "Atlantis European Airways LLC",
+    "IATA": "TD",
+    "ICAO": "LUR",
+    "website": "www.atlantis.am",
+    "notes": "ICAO Designator changed from ALS. Designator TD reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447249"
+  },
+  {
+    "name": "Atlantis European Airways",
+    "IATA": "TD",
+    "ICAO": "ALS",
+    "website": null,
+    "notes": "ICAO Designator changed to LUR. Designator TD reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447265"
+  },
+  {
+    "name": "Aviaservice",
+    "IATA": null,
+    "ICAO": "ARN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447280"
+  },
+  {
+    "name": "Blue Airways",
+    "IATA": null,
+    "ICAO": "BLM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447295"
+  },
+  {
+    "name": "D.G.L. Air",
+    "IATA": null,
+    "ICAO": "DGL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447309"
+  },
+  {
+    "name": "Fly Armenia Airways LLC",
+    "IATA": "9F",
+    "ICAO": "FBB",
+    "website": "flyarmenia.aero",
+    "notes": "IATA designator changed to VF.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447325"
+  },
+  {
+    "name": "General Avia",
+    "IATA": null,
+    "ICAO": "GNV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447340"
+  },
+  {
+    "name": "GKV-Avia",
+    "IATA": null,
+    "ICAO": "GKV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447355"
+  },
+  {
+    "name": "Gorizont Air",
+    "IATA": null,
+    "ICAO": "GZT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447370"
+  },
+  {
+    "name": "Gyumru Aviaughiner",
+    "IATA": null,
+    "ICAO": "GYM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447384"
+  },
+  {
+    "name": "Jupiter-Avia",
+    "IATA": null,
+    "ICAO": "JPT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447399"
+  },
+  {
+    "name": "Mars Avia CJSC",
+    "IATA": null,
+    "ICAO": "MRS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447415"
+  },
+  {
+    "name": "Masisavia",
+    "IATA": null,
+    "ICAO": "MIX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447430"
+  },
+  {
+    "name": "Mega Airlines",
+    "IATA": null,
+    "ICAO": "MEG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447445"
+  },
+  {
+    "name": "Noy Avia",
+    "IATA": null,
+    "ICAO": "NYA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447459"
+  },
+  {
+    "name": "Reliable Unique Services Aviation LLC",
+    "IATA": "R4",
+    "ICAO": "RLB",
+    "website": "www.rusaviation.ae",
+    "notes": "IATA designator changed from R6*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447475"
+  },
+  {
+    "name": "Reliable Unique Services Aviation LLC",
+    "IATA": null,
+    "ICAO": "RLB",
+    "website": "www.rusaviation.ae",
+    "notes": "IATA designator changed to R4",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447494"
+  },
+  {
+    "name": "Simeron Enterprises",
+    "IATA": null,
+    "ICAO": "SPT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447510"
+  },
+  {
+    "name": "Sipan",
+    "IATA": null,
+    "ICAO": "SPP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447526"
+  },
+  {
+    "name": "Skiva Air LLC",
+    "IATA": null,
+    "ICAO": "KIR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447542"
+  },
+  {
+    "name": "South-Airlines LLC",
+    "IATA": null,
+    "ICAO": "STH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447557"
+  },
+  {
+    "name": "Sun Airlines",
+    "IATA": null,
+    "ICAO": "NSR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447572"
+  },
+  {
+    "name": "Taron-Avia LLC",
+    "IATA": null,
+    "ICAO": "TRV",
+    "website": "taron-avia.am",
+    "notes": "Designator K7* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447588"
+  },
+  {
+    "name": "Taron-Avia LLC",
+    "IATA": "H7",
+    "ICAO": "TRV",
+    "website": "taron-avia.am",
+    "notes": "Ceased operations in November 2019. Designator K7* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447605"
+  },
+  {
+    "name": "Tiga-Air",
+    "IATA": null,
+    "ICAO": "TIG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447620"
+  },
+  {
+    "name": "Urartu-Air",
+    "IATA": null,
+    "ICAO": "UTU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447635"
+  },
+  {
+    "name": "V.T.A. Group",
+    "IATA": null,
+    "ICAO": "VTP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447650"
+  },
+  {
+    "name": "Veteran Avia LLC",
+    "IATA": null,
+    "ICAO": "VTF",
+    "website": "www.veteran-avia.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447666"
+  },
+  {
+    "name": "Yerevan-Avia",
+    "IATA": null,
+    "ICAO": "ERV",
+    "website": "www.yer-avia.am",
+    "notes": "Prefix Code 998 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:34:40.447683"
+  }
+]

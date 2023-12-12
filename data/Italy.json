@@ -1,0 +1,2810 @@
+[
+  {
+    "name": "Aeroitalia S.r.l.",
+    "IATA": "XZ",
+    "ICAO": "AEZ",
+    "website": "www.aeroitalia.com",
+    "notes": "Commenced operations on 09 July 2022.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.149437"
+  },
+  {
+    "name": "Aeronautica Militare Italiana",
+    "IATA": null,
+    "ICAO": "IAM",
+    "website": "www.aeronautica.difesa.it",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.149471"
+  },
+  {
+    "name": "Aeropa S.r.l.",
+    "IATA": null,
+    "ICAO": "AAU",
+    "website": "www.aeropa.it",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.149494"
+  },
+  {
+    "name": "Air Corporate S.r.l.",
+    "IATA": null,
+    "ICAO": "CPV",
+    "website": "www.aircorporate.it",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.149513"
+  },
+  {
+    "name": "Air Dolomiti S.p.A. Linee Aeree Regionali Europee",
+    "IATA": "EN",
+    "ICAO": "DLA",
+    "website": "www.airdolomiti.it",
+    "notes": "Name changed from Air Dolomiti S.p.A.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.149533"
+  },
+  {
+    "name": "Air Italy S.p.A.",
+    "IATA": "IG",
+    "ICAO": "ISS",
+    "website": "www.airitaly.com",
+    "notes": "Name changed from Meridiana Fly S.p.A. t/a Meridiana w.e.f. from 01 March 2018.ICAO designator changed to ISS. Name changed to Meridiana Fly S.p.A. t/a Meridiana. ICAO callsign changed from Merair. Merged with Eurofly S.p.A.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.149557"
+  },
+  {
+    "name": "Air Service Center Srl",
+    "IATA": null,
+    "ICAO": "RCX",
+    "website": "www.airservicecenter.it",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.149577"
+  },
+  {
+    "name": "Alba Servizi Aerotrasporti S.p.A.",
+    "IATA": null,
+    "ICAO": "AFQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.149595"
+  },
+  {
+    "name": "Alidaunia S.R.L.",
+    "IATA": null,
+    "ICAO": "LID",
+    "website": "www.alidaunia.it",
+    "notes": "IATA designator changed from D1",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.149616"
+  },
+  {
+    "name": "Aliparma S.r.l.",
+    "IATA": null,
+    "ICAO": "PAJ",
+    "website": "www.aliparma.it",
+    "notes": "Callsign changed from Airparma.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.149636"
+  },
+  {
+    "name": "Aliscargo Airlines S.p.A.",
+    "IATA": null,
+    "ICAO": "LSI",
+    "website": "www.aliscargo.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.149655"
+  },
+  {
+    "name": "Aliserio S.r.l.",
+    "IATA": null,
+    "ICAO": "TJD",
+    "website": "www.aliserio.it",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.149674"
+  },
+  {
+    "name": "Alitalia Cityliner S.p.A.",
+    "IATA": "CT",
+    "ICAO": "CYL",
+    "website": "www.alitalia.com",
+    "notes": "Name changed from Air One Cityliner S.p.A. w.e.f. 20 April 2011.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.149696"
+  },
+  {
+    "name": "Avionord S.r.l.",
+    "IATA": null,
+    "ICAO": "VND",
+    "website": "www.avionord.com",
+    "notes": "ICAO Designator changed from FNM.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.149716"
+  },
+  {
+    "name": "Babcock Mission Critical Services Italia S.p.A.",
+    "IATA": null,
+    "ICAO": "ELH",
+    "website": "www.babcockinternational.com/en/Locations/UK_Europe/Babcock%20MCS%20Italia",
+    "notes": "Name changed from Elilario Italia S.p.A.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.149735"
+  },
+  {
+    "name": "C.A.I. - Compagnia Aeronautica Italiana S.p.A.",
+    "IATA": null,
+    "ICAO": "CPI",
+    "website": "www.governo.it",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.149754"
+  },
+  {
+    "name": "Cargolux Italia S.p.A.",
+    "IATA": "C8",
+    "ICAO": "ICV",
+    "website": "www.cargoluxitalia.com",
+    "notes": "ICAO Callsign changed from Cargo Med.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.149773"
+  },
+  {
+    "name": "Compagnia Generale Ripreseaeree S.p.A.",
+    "IATA": null,
+    "ICAO": "CGR",
+    "website": "www.cgrspa.com",
+    "notes": "Name changed from BLOM CGR S.p.A.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.149792"
+  },
+  {
+    "name": "E+S Air S.r.l.",
+    "IATA": null,
+    "ICAO": "CAH",
+    "website": "epsair.it",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.149811"
+  },
+  {
+    "name": "Elifriulia",
+    "IATA": null,
+    "ICAO": "EFG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.149828"
+  },
+  {
+    "name": "Elilombarda S.R.L.",
+    "IATA": null,
+    "ICAO": "EOA",
+    "website": "www.elilombarda.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.149848"
+  },
+  {
+    "name": "Eliossola Srl",
+    "IATA": null,
+    "ICAO": "EOS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.149866"
+  },
+  {
+    "name": "Elitaliana S.p.A.",
+    "IATA": null,
+    "ICAO": "ELA",
+    "website": "www.elitaliana.eu",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.149884"
+  },
+  {
+    "name": "Elitellina",
+    "IATA": null,
+    "ICAO": "FGS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.149904"
+  },
+  {
+    "name": "ENAV S.p.A.",
+    "IATA": null,
+    "ICAO": "ENF",
+    "website": "www.enav.it",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.149923"
+  },
+  {
+    "name": "Esercito Italiano",
+    "IATA": null,
+    "ICAO": "IEI",
+    "website": "www.esercito.difesa.it",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.149942"
+  },
+  {
+    "name": "Esperia Aviation Services S.p.A.",
+    "IATA": null,
+    "ICAO": "ESP",
+    "website": "www.esperia-aviation.it",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.149963"
+  },
+  {
+    "name": "Eurofly Service",
+    "IATA": null,
+    "ICAO": "EEU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.149980"
+  },
+  {
+    "name": "Fly Marche",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.flymarche.it",
+    "notes": "Plans to launch operations on 15 July 2017 with one L410 from Olbia.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.150000"
+  },
+  {
+    "name": "flyValan S.r.l.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.flyvalan.com",
+    "notes": "Due to commence operations on 27 November 2017. Flights operated by FlyCompass Services S.r.l. (F6/FXP)",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.150018"
+  },
+  {
+    "name": "FlyVolare S.r.l.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "prova.flyvolare.eu",
+    "notes": "Plans to launch operations out of Umbria in late July 2017 with one A319.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.150038"
+  },
+  {
+    "name": "Guarda Costiera Italiana",
+    "IATA": null,
+    "ICAO": "GCI",
+    "website": "www.guardiacostiera.gov.it",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.150055"
+  },
+  {
+    "name": "Il Ciocco International Travel Service Srl",
+    "IATA": null,
+    "ICAO": "CIO",
+    "website": "www.ciaofly.com/En/english.html",
+    "notes": "Name changed from Il Ciocco",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.150073"
+  },
+  {
+    "name": "Interjet",
+    "IATA": null,
+    "ICAO": "MTF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.150090"
+  },
+  {
+    "name": "Italia Transporto Aereo S.p.A. d/b/a ITA S.p.A",
+    "IATA": "AZ",
+    "ICAO": "ITY",
+    "website": "www.itaspa.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.150107"
+  },
+  {
+    "name": "Italfly S.r.l.",
+    "IATA": null,
+    "ICAO": "ITL",
+    "website": "www.italfly.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.150125"
+  },
+  {
+    "name": "Leader S.r.l.",
+    "IATA": null,
+    "ICAO": "LSA",
+    "website": "www.flyleader.eu",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.150143"
+  },
+  {
+    "name": "Leisure One Fly S.r.l.",
+    "IATA": null,
+    "ICAO": "LIT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.150161"
+  },
+  {
+    "name": "Marina Militare Italiana",
+    "IATA": null,
+    "ICAO": "MMI",
+    "website": "www.marina.difesa.it",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.150179"
+  },
+  {
+    "name": "NATO Alliance Ground Surveillance (AGS)",
+    "IATA": null,
+    "ICAO": "MAG",
+    "website": "www.nato.int",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.150196"
+  },
+  {
+    "name": "Neos S.p.A.",
+    "IATA": null,
+    "ICAO": "NOS",
+    "website": "www.neosair.it",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.150212"
+  },
+  {
+    "name": "Nordend S.r.l.",
+    "IATA": null,
+    "ICAO": "NDD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.150229"
+  },
+  {
+    "name": "Poste Air Cargo S.r.l.",
+    "IATA": "M4",
+    "ICAO": "MSA",
+    "website": "www.poste.it/posteaircargo.html",
+    "notes": "Name changed from Mistral Air S.r.l. October 2019. IATA Designator changed from 7M. ICAO callsign changed from Aiemerci",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.150249"
+  },
+  {
+    "name": "Prime Service Italia S.r.l.",
+    "IATA": null,
+    "ICAO": "PRT",
+    "website": "www.primeserviceitalia.it",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.150266"
+  },
+  {
+    "name": "Sardinian Sky Service s.r.l.",
+    "IATA": null,
+    "ICAO": "SSR",
+    "website": "www.sss.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.150283"
+  },
+  {
+    "name": "Servizi Aerei S.p.A.",
+    "IATA": null,
+    "ICAO": "SNM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.150300"
+  },
+  {
+    "name": "Sirio S.p.A.",
+    "IATA": null,
+    "ICAO": "SIO",
+    "website": "sirio.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.150319"
+  },
+  {
+    "name": "Sky Alps S.r.l.",
+    "IATA": "BQ",
+    "ICAO": "SWU",
+    "website": "www.skyalps.com",
+    "notes": "Flights operated by LuxWing Ltd. (BN/LWG) Until own AOC obtained.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.150336"
+  },
+  {
+    "name": "Slam Lavori Aerei S.R.L.",
+    "IATA": null,
+    "ICAO": "SLJ",
+    "website": "slamair.eu",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.150353"
+  },
+  {
+    "name": "Star Work Sky",
+    "IATA": null,
+    "ICAO": "SWP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.150370"
+  },
+  {
+    "name": "Trenitalia S.p.A.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.trenitalia.com",
+    "notes": "Railway Service",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:50.150389"
+  },
+  {
+    "name": "Air Freedom",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.airfreedom.it",
+    "notes": "Planned start Sep 2003 with wet leased Boeing 737-400",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.150414"
+  },
+  {
+    "name": "Free Airways",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.freeairways.it",
+    "notes": "Planned startup 03/2002 with 2 x MD83",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.150439"
+  },
+  {
+    "name": "Voliamo",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.voliamo.eu",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.150459"
+  },
+  {
+    "name": "Action Air S.r.l.",
+    "IATA": null,
+    "ICAO": "ORS",
+    "website": "www.actionair.eu",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.150476"
+  },
+  {
+    "name": "Aer Sicilia S.R.L.",
+    "IATA": null,
+    "ICAO": "FON",
+    "website": "www.aersicilia.it",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.150493"
+  },
+  {
+    "name": "AERAL - Aeronoleggi S.p.A.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.150509"
+  },
+  {
+    "name": "Aermarche",
+    "IATA": null,
+    "ICAO": "MMC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.150526"
+  },
+  {
+    "name": "Aermediterranea Linee Aeree Mediterranee S.p.A.",
+    "IATA": "BQ",
+    "ICAO": "BQI",
+    "website": null,
+    "notes": "Merged into ATI",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.150542"
+  },
+  {
+    "name": "Aermediterranea Linee Aeree Mediterranee S.p.A.",
+    "IATA": "VQ",
+    "ICAO": "BQI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.150561"
+  },
+  {
+    "name": "Aernord",
+    "IATA": null,
+    "ICAO": "AED",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.150578"
+  },
+  {
+    "name": "Aeroitalia",
+    "IATA": null,
+    "ICAO": "ROO",
+    "website": "www.aeroitalia.it",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.150595"
+  },
+  {
+    "name": "Aeronave S.p.A.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.150611"
+  },
+  {
+    "name": "Aeroscuola Cerrina S.p.A.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.150628"
+  },
+  {
+    "name": "Aeroveneta",
+    "IATA": null,
+    "ICAO": "EVT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.150646"
+  },
+  {
+    "name": "Aertirrena S.p.A.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.150662"
+  },
+  {
+    "name": "Air 70 - Aerotaxi S.r.l.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.150680"
+  },
+  {
+    "name": "Air Bee S.p.A.",
+    "IATA": "OB",
+    "ICAO": "CMM",
+    "website": "www.airbee.it",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.150696"
+  },
+  {
+    "name": "Air Bee S.p.A.",
+    "IATA": "BM",
+    "ICAO": "OBE",
+    "website": "www.airbee.it",
+    "notes": "Suspended operations 10 September 2008.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.150715"
+  },
+  {
+    "name": "Air Columbia",
+    "IATA": null,
+    "ICAO": "ACO",
+    "website": "www.aeroservices.it/aircolumbia/index_en.htm",
+    "notes": "Name changed to Transporti Aerei Italiani S.r.l.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.150735"
+  },
+  {
+    "name": "Air Dimension",
+    "IATA": null,
+    "ICAO": "DMS",
+    "website": "www.airdimension.it",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.150753"
+  },
+  {
+    "name": "Air Europe S.p.A.",
+    "IATA": null,
+    "ICAO": "AEL",
+    "website": "www.aireurope.it",
+    "notes": "Suspended operations in December 2008. Designator PE recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.150771"
+  },
+  {
+    "name": "Air Europe S.p.A.",
+    "IATA": "PE",
+    "ICAO": "AEL",
+    "website": "www.aireurope.it",
+    "notes": "Designator PE recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.150789"
+  },
+  {
+    "name": "Air Four S.p.A.",
+    "IATA": null,
+    "ICAO": "AFM",
+    "website": "www.air4.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.150809"
+  },
+  {
+    "name": "Air Industria S.p.A.",
+    "IATA": "7Y",
+    "ICAO": "IDU",
+    "website": "www.airindustria.it",
+    "notes": "Suspended operations during 2003.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.150826"
+  },
+  {
+    "name": "Air Italy S.p.A.",
+    "IATA": "I9",
+    "ICAO": "AEY",
+    "website": "www.airitaly.it",
+    "notes": "Ceased operation on 11 February 2020. Name changed to Air Italy Fleet Management, S.p.A. w.e.f. 01 March 2018. AOC returned on 01 March 2018. ICAO Designator changed from AJR. Designator I9* reinstated by IATA. Designator NN recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.150846"
+  },
+  {
+    "name": "Air Italy S.p.A.",
+    "IATA": "NN",
+    "ICAO": "AJR",
+    "website": null,
+    "notes": "Designator NN recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.150863"
+  },
+  {
+    "name": "Air Italy S.p.A.",
+    "IATA": "I9",
+    "ICAO": "AEY",
+    "website": "www.airitaly.it",
+    "notes": "Merged into Meridiana fly on 18 July 2011. IATA Accounting code and Prefix code recalled. ICAO Designator changed from AJR. Designator I9* reinstated by IATA. Designator NN recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.150883"
+  },
+  {
+    "name": "Air Italy S.p.A.",
+    "IATA": null,
+    "ICAO": "AEY",
+    "website": "www.airitaly.it",
+    "notes": "ICAO Designator changed from AJR. Designator I9* recalled by IATA. Designator NN recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.150902"
+  },
+  {
+    "name": "Air Italy S.p.A.",
+    "IATA": null,
+    "ICAO": "AJR",
+    "website": "www.airitaly.it",
+    "notes": "ICAO Designator changed to AEY. Designator NN recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.150922"
+  },
+  {
+    "name": "Air Mach",
+    "IATA": null,
+    "ICAO": "KAM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.150940"
+  },
+  {
+    "name": "Air One",
+    "IATA": "AP",
+    "ICAO": "ADH",
+    "website": "www.flyairone.it",
+    "notes": "Merged into Alitalia on 30 October 2014. Name changed from Aliadriatica w.e.f. 23 November 1995.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.150958"
+  },
+  {
+    "name": "Air One Cityliner S.p.A.",
+    "IATA": "CT",
+    "ICAO": "CYL",
+    "website": "www.flyairone.it",
+    "notes": "Name changed to Alitalia Cityliner S.p.A. w.e.f. 20 April 2011. Founded June 2006",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.150975"
+  },
+  {
+    "name": "Air One Executive S.p.A.",
+    "IATA": null,
+    "ICAO": "AOE",
+    "website": "www.aironeexecutive.it",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.150992"
+  },
+  {
+    "name": "Air Sardinia S.p.A.",
+    "IATA": "VV",
+    "ICAO": "ASZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151008"
+  },
+  {
+    "name": "Air Sardinia S.p.A.",
+    "IATA": "VV",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151026"
+  },
+  {
+    "name": "Air Sardinia S.p.A.",
+    "IATA": "UF",
+    "ICAO": "ASZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151042"
+  },
+  {
+    "name": "Air Sardinia International",
+    "IATA": null,
+    "ICAO": "ARS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151060"
+  },
+  {
+    "name": "Air Sicilia S.R.L.",
+    "IATA": "BM",
+    "ICAO": "SIC",
+    "website": "www.airsicilia.it",
+    "notes": "Name changed to Air Sicilia S.p.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151076"
+  },
+  {
+    "name": "Air Sicilia S.p.A.",
+    "IATA": "BM",
+    "ICAO": "SIC",
+    "website": "www.airsicilia.it",
+    "notes": "Ceased operations during 2004. Name changed from Air Sicilia S.R.L.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151093"
+  },
+  {
+    "name": "Air Umbria, Societa",
+    "IATA": null,
+    "ICAO": "UMB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151110"
+  },
+  {
+    "name": "Air Vallee S.p.A.",
+    "IATA": "DO",
+    "ICAO": "RVL",
+    "website": "www.airvallee.it",
+    "notes": "IATA designator changed to VK. IATA accounting code 965 recalled",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151126"
+  },
+  {
+    "name": "Air Vallee S.p.A.",
+    "IATA": "VK",
+    "ICAO": "RVL",
+    "website": "www.airvallee.it",
+    "notes": "Suspeded operations in June 2016. IATA designator changed from DO. IATA accounting code 965 recalled",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151145"
+  },
+  {
+    "name": "Air Viggi San Raffaele S.r.l.",
+    "IATA": null,
+    "ICAO": "AHS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151162"
+  },
+  {
+    "name": "Air Walser S.r.l.",
+    "IATA": null,
+    "ICAO": "WLR",
+    "website": "www.airwalser.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151181"
+  },
+  {
+    "name": "Aircapitol",
+    "IATA": "CK",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151200"
+  },
+  {
+    "name": "Airday Srl",
+    "IATA": "7S",
+    "ICAO": "IAD",
+    "website": null,
+    "notes": "IATA designator changed to IM*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151218"
+  },
+  {
+    "name": "Airday Srl",
+    "IATA": null,
+    "ICAO": "IAD",
+    "website": "www.flywex.com",
+    "notes": "Name changed to Fly Wez Srl. IATA designator changed from 7S",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151237"
+  },
+  {
+    "name": "Alba Servicio Aerotrasporti S.p.A.",
+    "IATA": null,
+    "ICAO": "AFQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151256"
+  },
+  {
+    "name": "Algenova S.p.A.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151274"
+  },
+  {
+    "name": "ALI Aero Leasing Italiana",
+    "IATA": null,
+    "ICAO": "ALJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151292"
+  },
+  {
+    "name": "Ali Capitol S.p.A.",
+    "IATA": null,
+    "ICAO": "ALJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151310"
+  },
+  {
+    "name": "Aliadriatica",
+    "IATA": "AP",
+    "ICAO": "ADH",
+    "website": null,
+    "notes": "Founded in November 1983. Name changed to Air One w.e.f.  23 November 1995.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151330"
+  },
+  {
+    "name": "Aliblu Airways S.p.A.",
+    "IATA": "KR",
+    "ICAO": "KRO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151347"
+  },
+  {
+    "name": "Alico - Ali Commerciali",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151363"
+  },
+  {
+    "name": "Alidaunia S.R.L.",
+    "IATA": null,
+    "ICAO": "LID",
+    "website": "www.alidaunia.it",
+    "notes": "IATA designator changed from D1",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151380"
+  },
+  {
+    "name": "Alidaunia S.R.L.",
+    "IATA": "D1",
+    "ICAO": "LID",
+    "website": null,
+    "notes": "IATA designator changed to D4*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151398"
+  },
+  {
+    "name": "Alieurope",
+    "IATA": null,
+    "ICAO": "TOO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151415"
+  },
+  {
+    "name": "Aligiulia S.p.A.",
+    "IATA": "RW",
+    "ICAO": "RWA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151432"
+  },
+  {
+    "name": "Alinord S.p.A.",
+    "IATA": "DN",
+    "ICAO": "DNO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151451"
+  },
+  {
+    "name": "Aliparma S.r.l.",
+    "IATA": null,
+    "ICAO": "PAJ",
+    "website": "www.aliparma.it",
+    "notes": "Callsign changed to Aliparma.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151470"
+  },
+  {
+    "name": "Alisarda S.p.A.",
+    "IATA": "IG",
+    "ICAO": "ISS",
+    "website": null,
+    "notes": "change of name to Meridiana S.p.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151488"
+  },
+  {
+    "name": "Alisea Airlines S.p.A.",
+    "IATA": "FZ",
+    "ICAO": "BBG",
+    "website": "www.aliseairlines.it",
+    "notes": "Ceased operations December 2003. Designator FZ recalled by IATA. ICAO callsign changed from Bravo Bravo Golf",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151509"
+  },
+  {
+    "name": "Alisea Airlines S.p.A.",
+    "IATA": null,
+    "ICAO": "BBG",
+    "website": "www.aliseairlines.it",
+    "notes": "ICAO callsign changed from Bravo Bravo Golf",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151527"
+  },
+  {
+    "name": "Alisea Airlines S.p.A.",
+    "IATA": null,
+    "ICAO": "BBG",
+    "website": "www.aliseairlines.it",
+    "notes": "ICAO callsign changed to Alisea",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151547"
+  },
+  {
+    "name": "Aliserio S.p.A.",
+    "IATA": null,
+    "ICAO": "ALL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151565"
+  },
+  {
+    "name": "Alitalia Societa Aerea Italiana S.p.A.",
+    "IATA": "AZ",
+    "ICAO": "AZA",
+    "website": "www.alitalia.com",
+    "notes": "Name changed from Alitalia-Compagnia Aerea Italiana S.p.A. w.e.f. 13 January 2009 assets transferred from old airline Alitalia - Linee Aeree Italiane",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151584"
+  },
+  {
+    "name": "Alitalia-Compagnia Aerea Italiana S.p.A.",
+    "IATA": "AZ",
+    "ICAO": "AZA",
+    "website": "www.alitalia.it",
+    "notes": "Name changed to Alitalia Societa Aerea Italiana S.p.A. w.e.f. 13 January 2009 assets transferred from old airline Alitalia - Linee Aeree Italiane",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151602"
+  },
+  {
+    "name": "Alitalia - Linee Aeree Italiane",
+    "IATA": "AZ",
+    "ICAO": "AZA",
+    "website": "www.alitalia.it",
+    "notes": "w.e.f. 13 January 2009 assets transferred to new airline Alitalia-Compagnia Aerea Italiana S.p.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151620"
+  },
+  {
+    "name": "Alitalia Express",
+    "IATA": "XM",
+    "ICAO": "SMX",
+    "website": "www.alitalia.it/it/know/group/activities/ air/express/express.asp",
+    "notes": "ICAO callsign changed to Aliexpress",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151639"
+  },
+  {
+    "name": "Alitalia Express",
+    "IATA": "XM",
+    "ICAO": "SMX",
+    "website": "www.alitalia.it/it/know/group/activities/ air/express/express.asp",
+    "notes": "Designator XM recalled by IATA. ICAO callsign changed from Cee-Cee Express",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151659"
+  },
+  {
+    "name": "Alitalia Express",
+    "IATA": "XM",
+    "ICAO": "SMX",
+    "website": "www.alitalia.it/it/know/group/activities/ air/express/express.asp",
+    "notes": "w.e.f. from 13 January 2009 assets transferred to new airline C.A.I. First S.p.A. Designator XM reinstated by IATA. ICAO callsign changed from Cee-Cee Express",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151679"
+  },
+  {
+    "name": "Alitalia Team",
+    "IATA": "RD",
+    "ICAO": "NOV",
+    "website": "www.alitalia.it",
+    "notes": "Merged into Alitalia w.e.f. 01 August 2002.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151696"
+  },
+  {
+    "name": "Alitaxi Srl",
+    "IATA": null,
+    "ICAO": "ALX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151713"
+  },
+  {
+    "name": "Aliven S.r.l.",
+    "IATA": null,
+    "ICAO": "LVN",
+    "website": "www.aliven.it",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151731"
+  },
+  {
+    "name": "Aliway",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Suspended all operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151749"
+  },
+  {
+    "name": "ALPI Eagles S.p.A.",
+    "IATA": null,
+    "ICAO": "ELG",
+    "website": "www.alpieagles.com",
+    "notes": "AOC suspended bu Authorties during October 2007.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151769"
+  },
+  {
+    "name": "ALPI Eagles S.p.A.",
+    "IATA": "ES",
+    "ICAO": "ELG",
+    "website": null,
+    "notes": "IATA designator changed to E8",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151829"
+  },
+  {
+    "name": "Altair Linee Aeree S.p.A.",
+    "IATA": "SM",
+    "ICAO": "SMI",
+    "website": null,
+    "notes": "Ceased Operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151845"
+  },
+  {
+    "name": "Atal - Soc. Aerotrasporto",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151863"
+  },
+  {
+    "name": "Atal",
+    "IATA": null,
+    "ICAO": "IOI",
+    "website": null,
+    "notes": "Name changed to Atal Milano S.r.l.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151880"
+  },
+  {
+    "name": "Atal Milano S.r.l.",
+    "IATA": null,
+    "ICAO": "IOI",
+    "website": null,
+    "notes": "Name changed from Atal.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151897"
+  },
+  {
+    "name": "Societa Aero Trasporti Italiani S.p.A. (ATI)",
+    "IATA": "BM",
+    "ICAO": "ATI",
+    "website": null,
+    "notes": "Merged into Alitalia on 30 October 1994.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151914"
+  },
+  {
+    "name": "Avianova",
+    "IATA": "RD",
+    "ICAO": "NOV",
+    "website": null,
+    "notes": "Merged into Alitalia Express during 1996.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151931"
+  },
+  {
+    "name": "Avioligure",
+    "IATA": "TF",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151947"
+  },
+  {
+    "name": "Avionord S.r.l.",
+    "IATA": null,
+    "ICAO": "FNM",
+    "website": "www.avionord.com",
+    "notes": "ICAO designator changed to VND",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151964"
+  },
+  {
+    "name": "Avioriprese Jet Executive S.p.A.",
+    "IATA": null,
+    "ICAO": "VJG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151980"
+  },
+  {
+    "name": "Aviosarda",
+    "IATA": null,
+    "ICAO": "ADZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.151997"
+  },
+  {
+    "name": "Azzzurra Air S.p.A.",
+    "IATA": null,
+    "ICAO": "AZI",
+    "website": "www.azzurraair.it",
+    "notes": "Ceased operations in March 2004. Designator ZS* reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152015"
+  },
+  {
+    "name": "Belle Air Europe s.r.l.",
+    "IATA": "L9",
+    "ICAO": "BAL",
+    "website": "www.belleaireurope.eu",
+    "notes": "Ceased operations on 25 November 2013.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152033"
+  },
+  {
+    "name": "Benair",
+    "IATA": null,
+    "ICAO": "BEI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152052"
+  },
+  {
+    "name": "Besit Srl",
+    "IATA": null,
+    "ICAO": "BST",
+    "website": null,
+    "notes": "Name changed from Societa' Besit Srl",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152070"
+  },
+  {
+    "name": "Bizjet Aircraft & Helicopters Management S.R.L.",
+    "IATA": null,
+    "ICAO": "BZT",
+    "website": "www.euroflyservice.it",
+    "notes": "Name changed to Executive Aircraft Management S.r.l.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152090"
+  },
+  {
+    "name": "BLOM CGR S.p.A.",
+    "IATA": null,
+    "ICAO": "CGR",
+    "website": "www.cgrspa.com",
+    "notes": "Name changed to Compagnia Generale Ripreseaeree S.p.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152109"
+  },
+  {
+    "name": "Blue Panorama Airlines S.p.A.",
+    "IATA": "BV",
+    "ICAO": "BPA",
+    "website": "www.blue-panorama.com",
+    "notes": "Suspended operations on 26 October 2021. ICAO Callsign changed from Blue Jet. IATA changed from 1I, then 9S",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152128"
+  },
+  {
+    "name": "Blue Panorama Airlines S.p.A.",
+    "IATA": "1I",
+    "ICAO": "BPA",
+    "website": "www.blue-panorama.com",
+    "notes": "IATA designator changed to 9S",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152148"
+  },
+  {
+    "name": "Blue Panorama Airlines S.p.A.",
+    "IATA": "BV",
+    "ICAO": "BPA",
+    "website": "www.blue-panorama.com",
+    "notes": "ICAO Callsign changed to Blue Panorama. IATA changed from 1I, then 9S",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152166"
+  },
+  {
+    "name": "Blue Panorama Airlines S.p.A.",
+    "IATA": "9S",
+    "ICAO": "BPA",
+    "website": "www.blue-panorama.com",
+    "notes": "IATA designator changed from 1I, then to BV",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152184"
+  },
+  {
+    "name": "Bond Aviation",
+    "IATA": null,
+    "ICAO": "EBA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152201"
+  },
+  {
+    "name": "C.A.I. First S.p.A.",
+    "IATA": "XM",
+    "ICAO": "SMX",
+    "website": "www.alitalia.it/it/know/group/activities/ air/express/express.asp",
+    "notes": "w.e.f. 13 January 2009 assets transferred from old airline Alitalia Express. Designator XM reinstated by IATA. ICAO callsign changed from Cee-Cee Express",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152234"
+  },
+  {
+    "name": "C.A.I. Second S.p.A.",
+    "IATA": "VE",
+    "ICAO": "VLE",
+    "website": "www.volarespa.it",
+    "notes": "w.e.f. 13 January 2009 assets transferred from old airline Volare S.p.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152255"
+  },
+  {
+    "name": "Cadabo Gestione Servizi Aeronautici",
+    "IATA": "KB",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152272"
+  },
+  {
+    "name": "CAF",
+    "IATA": null,
+    "ICAO": "AFF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152291"
+  },
+  {
+    "name": "CAI, Compagnia Aeronautica Italiana S.p.A.",
+    "IATA": "KV",
+    "ICAO": "KVY",
+    "website": null,
+    "notes": "Designator KV recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152311"
+  },
+  {
+    "name": "CAI, Compagnia Aeronautica Italiana S.p.A.",
+    "IATA": null,
+    "ICAO": "KVY",
+    "website": null,
+    "notes": "Designator KV recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152330"
+  },
+  {
+    "name": "Cargoitalia S.p.A.",
+    "IATA": "2G",
+    "ICAO": "CRG",
+    "website": "www.cargoitalia.it",
+    "notes": "Founed in 2005. Ceased operations on 21 December 2011.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152349"
+  },
+  {
+    "name": "Cargolux Italia S.p.A.",
+    "IATA": "C8",
+    "ICAO": "ICV",
+    "website": "www.cargoluxitalia.com",
+    "notes": "ICAO Callsign changed to Cargolux Italia.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152367"
+  },
+  {
+    "name": "Ciga Hotels Aviation S.p.A.",
+    "IATA": null,
+    "ICAO": "CHO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152385"
+  },
+  {
+    "name": "CityFly",
+    "IATA": null,
+    "ICAO": "CII",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152403"
+  },
+  {
+    "name": "Clubair Sixgo S.p.A.",
+    "IATA": "6P",
+    "ICAO": "ISG",
+    "website": "www.sixcargo.com",
+    "notes": "Name changed from Sixcargo S.p.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152422"
+  },
+  {
+    "name": "Colombia",
+    "IATA": "KW",
+    "ICAO": "CLA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152439"
+  },
+  {
+    "name": "Compagnia Italiana Elicotteri S.r.l.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152457"
+  },
+  {
+    "name": "Condomett",
+    "IATA": null,
+    "ICAO": "OND",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152477"
+  },
+  {
+    "name": "Delta Aerotaxi",
+    "IATA": null,
+    "ICAO": "DEA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152494"
+  },
+  {
+    "name": "Ditta Transavio di I. Ballero",
+    "IATA": null,
+    "ICAO": "TVO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152512"
+  },
+  {
+    "name": "Eagles S.p.A.",
+    "IATA": null,
+    "ICAO": "EGS",
+    "website": "www.eaglesairlines.com",
+    "notes": "IATA desinator changed to E3",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152531"
+  },
+  {
+    "name": "Eagles S.p.A.",
+    "IATA": "E3",
+    "ICAO": "EGS",
+    "website": "www.eaglesairlines.com",
+    "notes": "Ceased operations. IATA desinator changed from GL*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152550"
+  },
+  {
+    "name": "EAS Aeroservizi",
+    "IATA": null,
+    "ICAO": "GDM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152567"
+  },
+  {
+    "name": "EGO Airways S.p.A.",
+    "IATA": "E3",
+    "ICAO": "EGW",
+    "website": "www.egoairways.com",
+    "notes": "Founded on 29 July 2019. AOC received on 19 November 2020. Licence revoked by ENAC w.e.f. 04/01/2022.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152586"
+  },
+  {
+    "name": "Eliadamello S.p.A.",
+    "IATA": null,
+    "ICAO": "LLO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152605"
+  },
+  {
+    "name": "Eliair S.r.l.",
+    "IATA": null,
+    "ICAO": "PML",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152623"
+  },
+  {
+    "name": "Elicar S.r.l.",
+    "IATA": null,
+    "ICAO": "PDV",
+    "website": "www.elicar.it",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152644"
+  },
+  {
+    "name": "Elicomo",
+    "IATA": null,
+    "ICAO": "LEC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152664"
+  },
+  {
+    "name": "Elidolomiti",
+    "IATA": null,
+    "ICAO": "EDO",
+    "website": null,
+    "notes": "Renamed INAER Italia",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152683"
+  },
+  {
+    "name": "Elieuro S.p.A.",
+    "IATA": null,
+    "ICAO": "ELB",
+    "website": null,
+    "notes": "Name changed from Elilombardia",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152702"
+  },
+  {
+    "name": "Eli-fly S.p.A.",
+    "IATA": null,
+    "ICAO": "EBS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152719"
+  },
+  {
+    "name": "Elilario",
+    "IATA": null,
+    "ICAO": "ELC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152736"
+  },
+  {
+    "name": "Elilario Italia S.p.A.",
+    "IATA": null,
+    "ICAO": "ELH",
+    "website": null,
+    "notes": "Name changed to Babcock Mission Critical Services Italia S.p.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152757"
+  },
+  {
+    "name": "Eliliguria",
+    "IATA": null,
+    "ICAO": "HLL",
+    "website": null,
+    "notes": "Name changed to Eliliguria International S.p.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152775"
+  },
+  {
+    "name": "Eliliguria International S.p.A.",
+    "IATA": null,
+    "ICAO": "HLL",
+    "website": null,
+    "notes": "Name changed from Eliliguria",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152794"
+  },
+  {
+    "name": "Elilombardia",
+    "IATA": null,
+    "ICAO": "ELB",
+    "website": null,
+    "notes": "Name changed to Elieuro S.p.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152813"
+  },
+  {
+    "name": "Elimediterranea S.r.l.",
+    "IATA": null,
+    "ICAO": "MEE",
+    "website": "www.elimed.net",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152832"
+  },
+  {
+    "name": "Elios",
+    "IATA": null,
+    "ICAO": "VUL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152850"
+  },
+  {
+    "name": "Elipiu",
+    "IATA": null,
+    "ICAO": "IEP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152868"
+  },
+  {
+    "name": "Elisusa",
+    "IATA": null,
+    "ICAO": "LDO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152885"
+  },
+  {
+    "name": "Elisystem",
+    "IATA": null,
+    "ICAO": "EEI",
+    "website": null,
+    "notes": "Name changed to Elisystem Eliagricola Srl",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152902"
+  },
+  {
+    "name": "Elisystem Eliagricola Srl",
+    "IATA": null,
+    "ICAO": "EEI",
+    "website": null,
+    "notes": "Name changed from Elisystem",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152923"
+  },
+  {
+    "name": "Elitaliana S.p.A.",
+    "IATA": null,
+    "ICAO": "ETI",
+    "website": "www.elitaliana.eu",
+    "notes": "Founded in 1964.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152941"
+  },
+  {
+    "name": "Elitorino",
+    "IATA": null,
+    "ICAO": "ELW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152957"
+  },
+  {
+    "name": "Elitos S.p.A.",
+    "IATA": null,
+    "ICAO": "EHS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152974"
+  },
+  {
+    "name": "Elivie - Soc. Italiana Servizio Elicotteri S.p.A.",
+    "IATA": "EV",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.152993"
+  },
+  {
+    "name": "Ernest S.r.l.",
+    "IATA": "EG",
+    "ICAO": "ERN",
+    "website": "flyernest.com",
+    "notes": "AOC granted Novmeber 2016. Suspended operations on 11 January 2020.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153011"
+  },
+  {
+    "name": "ESI Eliservizi Italiani",
+    "IATA": null,
+    "ICAO": "ESI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153028"
+  },
+  {
+    "name": "ETI 2000",
+    "IATA": null,
+    "ICAO": "MJM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153048"
+  },
+  {
+    "name": "Euraviation",
+    "IATA": null,
+    "ICAO": "EVN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153064"
+  },
+  {
+    "name": "Eureca srl",
+    "IATA": "F4",
+    "ICAO": "URE",
+    "website": "www.eureca.it",
+    "notes": "Designator F4 recalled by IATA. Name changed from International Flying Services. ICAO designator changed from IFS",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153084"
+  },
+  {
+    "name": "Eurofly Company",
+    "IATA": "EE",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153101"
+  },
+  {
+    "name": "Eurofly S.P.A.",
+    "IATA": "GJ",
+    "ICAO": "EEZ",
+    "website": "www.eurofly.it",
+    "notes": "Merged with Meridianna S.p.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153120"
+  },
+  {
+    "name": "Eurojet Italia S.r.ll.",
+    "IATA": null,
+    "ICAO": "ERJ",
+    "website": "www.eurojetitalia.com",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153138"
+  },
+  {
+    "name": "Ex. A.V. Executive Aviation",
+    "IATA": null,
+    "ICAO": "EEV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153156"
+  },
+  {
+    "name": "Executive Aircraft Management S.r.l.",
+    "IATA": null,
+    "ICAO": "BZT",
+    "website": "www.euroflyservice.it",
+    "notes": "Name changed from Bizjet Aircraft & Helicopters Management S.R.L.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153176"
+  },
+  {
+    "name": "Executive Jet Italiana Srl",
+    "IATA": null,
+    "ICAO": "EXJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153193"
+  },
+  {
+    "name": "Far Airlines",
+    "IATA": null,
+    "ICAO": "FAR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153212"
+  },
+  {
+    "name": "Federico II Airways, S.p.A.",
+    "IATA": null,
+    "ICAO": "FDE",
+    "website": "www.federicoiiairways.it",
+    "notes": "Ceased operations. Designator 2D* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153231"
+  },
+  {
+    "name": "Federico II Airways, S.p.A.",
+    "IATA": "X8",
+    "ICAO": "FDE",
+    "website": "www.federicoiiairways.it",
+    "notes": "IATA designator changed to 2D",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153248"
+  },
+  {
+    "name": "Federico II Airways, S.p.A.",
+    "IATA": null,
+    "ICAO": "FDE",
+    "website": "www.federicoiiairways.it",
+    "notes": "Designator 2D* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153267"
+  },
+  {
+    "name": "Fly Jet",
+    "IATA": null,
+    "ICAO": "FJT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153284"
+  },
+  {
+    "name": "Fly Wex Srl",
+    "IATA": null,
+    "ICAO": "IAD",
+    "website": "www.flywex.com",
+    "notes": "Desigantor IM* recalled by IATA. Name changed from Airday Srl",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153301"
+  },
+  {
+    "name": "Flying Services Srl",
+    "IATA": null,
+    "ICAO": "IFS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153320"
+  },
+  {
+    "name": "Flynor",
+    "IATA": null,
+    "ICAO": "FLJ",
+    "website": null,
+    "notes": "Name changed to Flynor Jet S.p.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153338"
+  },
+  {
+    "name": "Flynor Jet S.p.A.",
+    "IATA": null,
+    "ICAO": "FLJ",
+    "website": null,
+    "notes": "Merged into Sirio. Name changed from Flynor",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153358"
+  },
+  {
+    "name": "Foxair",
+    "IATA": null,
+    "ICAO": "FXR",
+    "website": null,
+    "notes": "Name changed to K-Air S.r.l.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153375"
+  },
+  {
+    "name": "FreeAir Helicopters S.p.A.",
+    "IATA": null,
+    "ICAO": "FRH",
+    "website": "www.freeair.it",
+    "notes": "Merged into Elitaliana S.p.a.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153394"
+  },
+  {
+    "name": "Frifly S.p.A.",
+    "IATA": null,
+    "ICAO": "FIF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153411"
+  },
+  {
+    "name": "Gandalf Airlines S.p.A.",
+    "IATA": "G7",
+    "ICAO": "GNF",
+    "website": "www.gandalfair.it",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153430"
+  },
+  {
+    "name": "Gitanair",
+    "IATA": "VG",
+    "ICAO": "GTA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153447"
+  },
+  {
+    "name": "Goldwing Airlines S.p.A.",
+    "IATA": "EE",
+    "ICAO": "GDW",
+    "website": null,
+    "notes": "Ceased operations during March 2001. Designator EE recalled by IATA. Founded in December 2000.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153466"
+  },
+  {
+    "name": "Heli Training Vallee",
+    "IATA": null,
+    "ICAO": "GGW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153483"
+  },
+  {
+    "name": "Helisirio SRL",
+    "IATA": null,
+    "ICAO": "HSL",
+    "website": "www.heliusirio.aero",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153502"
+  },
+  {
+    "name": "Helitalia S.p.A.",
+    "IATA": null,
+    "ICAO": "HIT",
+    "website": "www.alimed-iar.it",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153520"
+  },
+  {
+    "name": "Icaro",
+    "IATA": null,
+    "ICAO": "ICA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153537"
+  },
+  {
+    "name": "Icarus",
+    "IATA": null,
+    "ICAO": "IUS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153555"
+  },
+  {
+    "name": "Il Ciocco",
+    "IATA": null,
+    "ICAO": "CIO",
+    "website": null,
+    "notes": "Name changed to Il Ciocco International Travel Service Srl",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153574"
+  },
+  {
+    "name": "Infinit Air S.L.",
+    "IATA": null,
+    "ICAO": "FFI",
+    "website": "www.infinitair.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153592"
+  },
+  {
+    "name": "Interfly",
+    "IATA": null,
+    "ICAO": "RFL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153609"
+  },
+  {
+    "name": "International Flying Serivces",
+    "IATA": "F4",
+    "ICAO": "IFS",
+    "website": "www.eureca.it",
+    "notes": "Name changed to Eureca Srl",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153627"
+  },
+  {
+    "name": "Italair S.p.A.",
+    "IATA": "B8",
+    "ICAO": "DRG",
+    "website": null,
+    "notes": "Ceased operations 09/2000",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153645"
+  },
+  {
+    "name": "Itali Airlines s.r.l.",
+    "IATA": null,
+    "ICAO": "ACL",
+    "website": "www.italiweb.it",
+    "notes": "Name changed from Transporti Aerei Italiani S.r.l. ICAO designator changed from ACO",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153663"
+  },
+  {
+    "name": "Itali Airlines s.r.l.",
+    "IATA": "FS",
+    "ICAO": "ACL",
+    "website": "www.italiweb.it",
+    "notes": "Name changed from Transporti Aerei Italiani S.r.l. ICAO designator changed from ACO",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153681"
+  },
+  {
+    "name": "Italia Tour Airlines S.p.A.",
+    "IATA": "OI",
+    "ICAO": "IAZ",
+    "website": "www.italiatourairlines.it",
+    "notes": "AOC license was suspended by ENAC on 30 November 2009.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153701"
+  },
+  {
+    "name": "Italy First",
+    "IATA": null,
+    "ICAO": "IFS",
+    "website": "www.italy-first.com",
+    "notes": "Designator IF* recalled by IATA. ICAO callsign changed from Italy First",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153721"
+  },
+  {
+    "name": "Itavia - Societa Aerolinee S.p.A.",
+    "IATA": "IH",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153738"
+  },
+  {
+    "name": "Jet X",
+    "IATA": null,
+    "ICAO": "JXX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153754"
+  },
+  {
+    "name": "K-Air S.r.l.",
+    "IATA": null,
+    "ICAO": "FXR",
+    "website": null,
+    "notes": "Name changed from Foxair. Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153773"
+  },
+  {
+    "name": "LAER Guerrini - Ditta",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153790"
+  },
+  {
+    "name": "Lauda Air S.p.A.",
+    "IATA": "L4",
+    "ICAO": "LDI",
+    "website": "www.laudaair.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153809"
+  },
+  {
+    "name": "Lauda Air Italy",
+    "IATA": "NL",
+    "ICAO": "LDI",
+    "website": null,
+    "notes": "IATA designator changed to L4",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153826"
+  },
+  {
+    "name": "Linkair Express S.p.A.",
+    "IATA": null,
+    "ICAO": "LKX",
+    "website": "www.linkairexpress.com",
+    "notes": "Commenced operations in April 2006.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153845"
+  },
+  {
+    "name": "New Livingston S.p.A.",
+    "IATA": "JN",
+    "ICAO": "NLV",
+    "website": "www.livingstonair.it",
+    "notes": "Ceased Operations on 06 October 2014. Founded 2011",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153863"
+  },
+  {
+    "name": "Livingston S.p.A.",
+    "IATA": "LM",
+    "ICAO": "LVG",
+    "website": "www.livingstonair.it",
+    "notes": "Ceased Operations on 14 October 2010. Founded 13 January 2003",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153883"
+  },
+  {
+    "name": "Livingston Executive S.p.A.",
+    "IATA": null,
+    "ICAO": "AOE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153900"
+  },
+  {
+    "name": "Lufthansa Italia S.p.A.",
+    "IATA": null,
+    "ICAO": "LIT",
+    "website": null,
+    "notes": "Founded in 2008. Commenced operations on 02 February 2009. Ceased operations on 29 October 2011.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153918"
+  },
+  {
+    "name": "Med Airlines S.p.A.",
+    "IATA": "M8",
+    "ICAO": "MDS",
+    "website": null,
+    "notes": "Ceased operations on 15 March 2001.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153936"
+  },
+  {
+    "name": "Meridiana S.p.A.",
+    "IATA": "IG",
+    "ICAO": "ISS",
+    "website": "www.meridiana.it",
+    "notes": "Merged with Eurofly S.p.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153953"
+  },
+  {
+    "name": "Meridiana Fly S.p.A. t/a Meridiana",
+    "IATA": "IG",
+    "ICAO": "ISS",
+    "website": "www.meridiana.it",
+    "notes": "Name changed to Air Italy S.p.A. w.e.f. from 01 Amrch 2018.ICAO designator changed to ISS. Name changed to Meridiana Fly S.p.A. t/a Meridiana. ICAO callsign changed from Merair. Merged with Eurofly S.p.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153973"
+  },
+  {
+    "name": "Meridiana Fly S.p.A.",
+    "IATA": "IG",
+    "ICAO": "EEZ",
+    "website": "www.meridiana.it",
+    "notes": "ICAO designator changed to ISS. Name changed to Meridiana Fly S.p.A. t/a Meridiana. Merged with Eurofly S.p.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.153991"
+  },
+  {
+    "name": "Millenium Air Corporation d/b/a Millair",
+    "IATA": "2Q",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154010"
+  },
+  {
+    "name": "Minerva Airlines",
+    "IATA": null,
+    "ICAO": "MTC",
+    "website": null,
+    "notes": "IATA designator changed from Q2*, then changed to N4",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154027"
+  },
+  {
+    "name": "Minerva Airlines",
+    "IATA": null,
+    "ICAO": "MTC",
+    "website": null,
+    "notes": "IATA designator changed to Q9*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154045"
+  },
+  {
+    "name": "Minerva Airlines",
+    "IATA": "N4",
+    "ICAO": "MTC",
+    "website": "www.minerva-airlines.it",
+    "notes": "Ceased operations on 25 October 2003 due bankruptcy. IATA designator changed from Q2*, then changed from Q9*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154065"
+  },
+  {
+    "name": "Miniliner Srl",
+    "IATA": "GK",
+    "ICAO": "MNL",
+    "website": null,
+    "notes": "Designator GL recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154083"
+  },
+  {
+    "name": "Mistral Air Srl",
+    "IATA": null,
+    "ICAO": "MSA",
+    "website": null,
+    "notes": "ICAO callsign changed to Aiemerci",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154101"
+  },
+  {
+    "name": "Mistral Air Srl",
+    "IATA": null,
+    "ICAO": "MSA",
+    "website": "www.mistralair.it",
+    "notes": "ICAO callsign changed to Mistral Wings",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154120"
+  },
+  {
+    "name": "Mistral Air S.r.l.",
+    "IATA": "M4",
+    "ICAO": "MSA",
+    "website": "www.mistralair.it",
+    "notes": "Name changed to Poste Air Cargo S.r.l. October 2019. IATA Designator changed from 7M. ICAO callsign changed from Aiemerci",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154138"
+  },
+  {
+    "name": "Mistral Air S.r.l.",
+    "IATA": "7M",
+    "ICAO": "MSA",
+    "website": "www.mistralair.it",
+    "notes": "IATA Designator changed to M4. ICAO callsign changed from Aiemerci",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154156"
+  },
+  {
+    "name": "My Way Airline Srl",
+    "IATA": "8I",
+    "ICAO": "MYW",
+    "website": "www.myair.com",
+    "notes": "Designator 8I reinstated by IATA. The airline was established in 2004 and started operations on 17 December 2004. Ceased operations 24 July 2009.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154177"
+  },
+  {
+    "name": "Nardi S.p.A. (Costruzioni Aeronautiche)",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154197"
+  },
+  {
+    "name": "Nauta",
+    "IATA": null,
+    "ICAO": "DLO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154214"
+  },
+  {
+    "name": "Noman",
+    "IATA": null,
+    "ICAO": "NOM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154231"
+  },
+  {
+    "name": "Nuovo Trasporto Viaggiatori S.p.A.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.ntvspa.it",
+    "notes": "Designator 2Q* recalled by IATA. Railway Service",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154250"
+  },
+  {
+    "name": "Ocean Airlines S.p.A.",
+    "IATA": "VC",
+    "ICAO": "VCX",
+    "website": "www.oceanairlines.com",
+    "notes": "Suspended operations and placed into receivership",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154268"
+  },
+  {
+    "name": "Orion S.p.A.",
+    "IATA": null,
+    "ICAO": "MTT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154284"
+  },
+  {
+    "name": "Palio Air Service",
+    "IATA": null,
+    "ICAO": "PLS",
+    "website": "www.palioairservice.it",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154300"
+  },
+  {
+    "name": "Palio Air Service",
+    "IATA": null,
+    "ICAO": "PLS",
+    "website": null,
+    "notes": "ICAO callsign Palio assigned",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154317"
+  },
+  {
+    "name": "Panair S.p.A.",
+    "IATA": null,
+    "ICAO": "PIT",
+    "website": "www.panair.it",
+    "notes": "Name changed from Panair - Comagnia Aerea Mediterranea Srl. Name changed from Panair - Comagnia Aerea Meridiaonale Srl",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154337"
+  },
+  {
+    "name": "Panair - Comagnia Aerea Mediterranea Srl",
+    "IATA": null,
+    "ICAO": "PIT",
+    "website": null,
+    "notes": "Name changed to Panair S.p.A. Name changed from Panair - Comagnia Aerea Meridiaonale Srl",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154357"
+  },
+  {
+    "name": "Panair International Srl",
+    "IATA": null,
+    "ICAO": "PIT",
+    "website": null,
+    "notes": "Name changed to Panair - Comagnia Aerea Mediterranea",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154377"
+  },
+  {
+    "name": "Pellissier Helicopter S.r.l.",
+    "IATA": null,
+    "ICAO": "ELI",
+    "website": null,
+    "notes": "AOC revoked by ENAC on 13 March 2019.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154394"
+  },
+  {
+    "name": "Professione Volare S.r.l.",
+    "IATA": null,
+    "ICAO": "PVL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154416"
+  },
+  {
+    "name": "Pubbi-Aer-Foto - Trasporti Aerei S.r.l.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154435"
+  },
+  {
+    "name": "Rotkopf Aviation Italia S.R.L.",
+    "IATA": null,
+    "ICAO": "RTK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154453"
+  },
+  {
+    "name": "Rotor Italia S.A.S. Di Vanni Claudio E.C.",
+    "IATA": null,
+    "ICAO": "RTI",
+    "website": null,
+    "notes": "AOC revoked by ENC on 26 September 2019.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154473"
+  },
+  {
+    "name": "S.T.C. Aviation S.p.A.",
+    "IATA": null,
+    "ICAO": "MXY",
+    "website": "www.my-jet.ne",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154492"
+  },
+  {
+    "name": "Sagittair",
+    "IATA": null,
+    "ICAO": "SGT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154510"
+  },
+  {
+    "name": "Samanta S.P.A.",
+    "IATA": null,
+    "ICAO": "CDF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154527"
+  },
+  {
+    "name": "Sardairline",
+    "IATA": null,
+    "ICAO": "SAP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154545"
+  },
+  {
+    "name": "Serib Wings",
+    "IATA": null,
+    "ICAO": "ISW",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154564"
+  },
+  {
+    "name": "Servizi Aerei Industriali S.p.A.",
+    "IATA": null,
+    "ICAO": "SIN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154581"
+  },
+  {
+    "name": "Siba S.p.A.",
+    "IATA": null,
+    "ICAO": "SIB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154599"
+  },
+  {
+    "name": "Sicieta' Besit Srl",
+    "IATA": null,
+    "ICAO": "BST",
+    "website": null,
+    "notes": "Name changed to Besit Srl",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154615"
+  },
+  {
+    "name": "SiFly Compagnia Aerea",
+    "IATA": "S6",
+    "ICAO": "KWY",
+    "website": null,
+    "notes": "Designator S6 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154635"
+  },
+  {
+    "name": "SiFly Compagnia Aerea",
+    "IATA": "8X",
+    "ICAO": "KWY",
+    "website": null,
+    "notes": "IATA designator changed to S6",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154652"
+  },
+  {
+    "name": "SiFly Compagnia Aerea",
+    "IATA": "S6",
+    "ICAO": "KWY",
+    "website": null,
+    "notes": "Ceased operations on 06 October 2001. Designator S6 reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154670"
+  },
+  {
+    "name": "SIGE - Italiana Gestione Elicotteri S.p.A.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154687"
+  },
+  {
+    "name": "Sirio Executive S.r.l.",
+    "IATA": null,
+    "ICAO": "SIW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154704"
+  },
+  {
+    "name": "Sisav",
+    "IATA": null,
+    "ICAO": "SSA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154721"
+  },
+  {
+    "name": "Sixcargo S.p.A.",
+    "IATA": "6P",
+    "ICAO": "ISG",
+    "website": "www.sixcargo.com",
+    "notes": "Name changed to Clubair Sixgo S.p.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154738"
+  },
+  {
+    "name": "Skybridge Airops S.R.L.",
+    "IATA": null,
+    "ICAO": "KYB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154755"
+  },
+  {
+    "name": "Small Planet Airlines Italia",
+    "IATA": null,
+    "ICAO": "LLI",
+    "website": "www.smallplanet.aero",
+    "notes": "Operating Licence suspended by Italian Civil Aviation Authority (ENAC) on 20 January 2014.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154774"
+  },
+  {
+    "name": "SNAM S.p.A.",
+    "IATA": null,
+    "ICAO": "SNM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154790"
+  },
+  {
+    "name": "Societa Aerea Mediterranea (SAM)",
+    "IATA": "MQ",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154807"
+  },
+  {
+    "name": "StarFly Helicopters",
+    "IATA": null,
+    "ICAO": "SLF",
+    "website": "www.starfly.biz",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154824"
+  },
+  {
+    "name": "SW Italia S.p.A.",
+    "IATA": null,
+    "ICAO": "CSW",
+    "website": "www.switalia.eu",
+    "notes": "AOC Revoked by ENAC on 26 September 2019. Subsidary of Silk Way West Airlines.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154843"
+  },
+  {
+    "name": "T.A.S.D. (Transporti Aerei Speciali)",
+    "IATA": null,
+    "ICAO": "TTS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154860"
+  },
+  {
+    "name": "TEA Italia S.p.A.",
+    "IATA": "TD",
+    "ICAO": "TEI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154876"
+  },
+  {
+    "name": "Transalp",
+    "IATA": null,
+    "ICAO": "TNP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154893"
+  },
+  {
+    "name": "Transavio",
+    "IATA": null,
+    "ICAO": "TVO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154910"
+  },
+  {
+    "name": "Transavio - Societ\u00e0",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154927"
+  },
+  {
+    "name": "Transporti Aerei Italiani S.r.l.",
+    "IATA": null,
+    "ICAO": "ACL",
+    "website": "www.aeroservices.it/aircolumbia/index_en.htm",
+    "notes": "Name changed to Itali Airlines s.r.l. ICAO designator changed from ACO",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154947"
+  },
+  {
+    "name": "Transporti Aerei Italiani S.r.l.",
+    "IATA": null,
+    "ICAO": "ACO",
+    "website": "www.aeroservices.it/aircolumbia/index_en.htm",
+    "notes": "ICAO designator changed to ACL. Name changed from Air Columbia",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154966"
+  },
+  {
+    "name": "Turavia S.r.l. - Linee aeree Turistiche",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.154984"
+  },
+  {
+    "name": "Umbria Fly",
+    "IATA": null,
+    "ICAO": "UFI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.155001"
+  },
+  {
+    "name": "Unifly Srl",
+    "IATA": "IP",
+    "ICAO": "IPP",
+    "website": null,
+    "notes": "Name changed from Unifly",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.155018"
+  },
+  {
+    "name": "Unifly",
+    "IATA": "IP",
+    "ICAO": null,
+    "website": null,
+    "notes": "Name changed to Unifly Srl",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.155036"
+  },
+  {
+    "name": "Unifly Servizi Aerei",
+    "IATA": null,
+    "ICAO": "UNU",
+    "website": "www.unifly.it",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.155054"
+  },
+  {
+    "name": "Univex Srl",
+    "IATA": null,
+    "ICAO": "UAD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.155071"
+  },
+  {
+    "name": "Vip-Air - Trasporti Aerei - S.p.A.",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.155089"
+  },
+  {
+    "name": "Vip-Air - Transporti Aerei - S.p.A.",
+    "IATA": null,
+    "ICAO": "VIT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.155108"
+  },
+  {
+    "name": "Volare S.p.A.",
+    "IATA": "VE",
+    "ICAO": "VLE",
+    "website": "www.volarespa.it",
+    "notes": "w.e.f. 13 January 2009 assets transferred to new airline C.A.I. Second S.p.A.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.155127"
+  },
+  {
+    "name": "Volare Airlines S.p.A.",
+    "IATA": "VA",
+    "ICAO": "VLE",
+    "website": "www.volare-airlines.com",
+    "notes": "Ceased operations. IATA designator changed from 8D* w.e.f. 31 March 2002.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.155147"
+  },
+  {
+    "name": "Volare Airlines S.p.A.",
+    "IATA": null,
+    "ICAO": "VLE",
+    "website": "www.volare-airlines.com",
+    "notes": "IATA designator changed to VA w.e.f. 31 March 2002.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.155165"
+  },
+  {
+    "name": "Wind Jet S.p.A.",
+    "IATA": "IV",
+    "ICAO": "JET",
+    "website": "www.volawindjet.it",
+    "notes": "Ceased Operations in August 2012. Designator IV reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:50.155182"
+  }
+]

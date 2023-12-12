@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Air Seychelles Limited",
+    "IATA": "HM",
+    "ICAO": "SEY",
+    "website": "www.airseychelles.net",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:36.868820"
+  },
+  {
+    "name": "Island Development Company Ltd",
+    "IATA": null,
+    "ICAO": "IDC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:36.868847"
+  },
+  {
+    "name": "Aviation Seychelles Ltd.",
+    "IATA": null,
+    "ICAO": "AVS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:36.868863"
+  },
+  {
+    "name": "Ligne A\u00e9rienne Seychelles",
+    "IATA": "JG",
+    "ICAO": "LAS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:36.868879"
+  },
+  {
+    "name": "Orion Air Pte. Ltd.",
+    "IATA": null,
+    "ICAO": "ORI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:36.868895"
+  }
+]

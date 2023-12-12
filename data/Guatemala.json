@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Aereo Ruta Maya",
+    "IATA": null,
+    "ICAO": "MMG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:27.065302"
+  },
+  {
+    "name": "AVIATECA, S.A. - Avianca Guatemala",
+    "IATA": "GU",
+    "ICAO": "GUG",
+    "website": "www.avianca.com",
+    "notes": "Subsidiary of Grupo TACA. Name changed from AVIATECA, S.A.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:27.065335"
+  },
+  {
+    "name": "DHL de Guatemala, S.A.",
+    "IATA": null,
+    "ICAO": "JOS",
+    "website": "www.dhl.com/publish/g0/en/about/airline.low.html",
+    "notes": "IATA designator changed from Z8*",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:27.065355"
+  },
+  {
+    "name": "Helicopteros de Guatemala",
+    "IATA": null,
+    "ICAO": "HCG",
+    "website": "helicopterosdeguatemala.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:27.065373"
+  },
+  {
+    "name": "Transportes A\u00e9reos Guatemaltecos",
+    "IATA": "5U",
+    "ICAO": "TGU",
+    "website": "www.tag.com.gt",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:27.065389"
+  },
+  {
+    "name": "Vuela, S.A. (Volaris Guatemala)",
+    "IATA": null,
+    "ICAO": "VGU",
+    "website": "www.volaris.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:27.065405"
+  },
+  {
+    "name": "Aeroquetzal",
+    "IATA": "AW",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:27.065421"
+  },
+  {
+    "name": "Aguilas Mayas Internacional",
+    "IATA": null,
+    "ICAO": "GME",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:27.065438"
+  },
+  {
+    "name": "Empresa Guatemalteca de Aviacion (AVIATECA)",
+    "IATA": "GU",
+    "ICAO": "GUG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:27.065454"
+  },
+  {
+    "name": "AVIATECA, S.A.",
+    "IATA": "GU",
+    "ICAO": "GUG",
+    "website": "www.taca.com",
+    "notes": "Subsidiary of Grupo TACA. Name changed to Avianca Guatemala",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:27.065471"
+  },
+  {
+    "name": "DHL de Guatemala, S.A.",
+    "IATA": null,
+    "ICAO": "JOS",
+    "website": null,
+    "notes": "IATA designator changed to L3*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:27.065488"
+  },
+  {
+    "name": "Mayan World Airlines",
+    "IATA": "EY",
+    "ICAO": "MYN",
+    "website": null,
+    "notes": "Ceased operations. Designator EY recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:27.065504"
+  },
+  {
+    "name": "RACSA Airlines",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.racsaairlines.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:27.065521"
+  },
+  {
+    "name": "Tikal Jets, S.A.",
+    "IATA": null,
+    "ICAO": "TKC",
+    "website": null,
+    "notes": "IATA designator changed to WU*. IATA designator changed from 2E*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:27.065538"
+  },
+  {
+    "name": "Tikal Jets, S.A.",
+    "IATA": null,
+    "ICAO": "TKC",
+    "website": null,
+    "notes": "IATA designator changed to A5*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:27.065556"
+  },
+  {
+    "name": "Tikal Jets, S.A.",
+    "IATA": "WU",
+    "ICAO": "TKC",
+    "website": "www.tikaljets.com",
+    "notes": "Designator WU recalled by IATA. IATA designator changed from WU*. IATA designator previously changed from 2E*, Then from A5*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:27.065574"
+  },
+  {
+    "name": "Tikal Jets, S.A.",
+    "IATA": null,
+    "ICAO": "TKC",
+    "website": "www.tikaljets.com",
+    "notes": "Ceased operations. Designator WU recalled by IATA. IATA designator changed from WU*. IATA designator previously changed from 2E*, Then from A5*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:27.065591"
+  },
+  {
+    "name": "Tikal Jets, S.A.",
+    "IATA": null,
+    "ICAO": "TKC",
+    "website": null,
+    "notes": "IATA designator changed to WU. IATA designator previously changed from 2E*, Then from A5*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:27.065608"
+  },
+  {
+    "name": "Transportes Aereos Inter S.A.",
+    "IATA": "9O",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator 9O recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:27.065624"
+  },
+  {
+    "name": "Transportes Aereos Inter, S.A.",
+    "IATA": null,
+    "ICAO": "TSP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:27.065640"
+  }
+]

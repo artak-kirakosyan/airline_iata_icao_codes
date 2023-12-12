@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Lulutai Airlines Limited",
+    "IATA": "L8",
+    "ICAO": "TON",
+    "website": "www.lulutaiairlines.to",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:20.011336"
+  },
+  {
+    "name": "Real Tonga Airline",
+    "IATA": null,
+    "ICAO": "RLT",
+    "website": "www.realtonga.to",
+    "notes": "Designator R4 recalled by IATA.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:20.011366"
+  },
+  {
+    "name": "Air Tonga",
+    "IATA": null,
+    "ICAO": "ATO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:20.011383"
+  },
+  {
+    "name": "Friendly Islands Airways Limited",
+    "IATA": "JK",
+    "ICAO": "HRH",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:20.011400"
+  },
+  {
+    "name": "Peau Vava'u Limited t/a Peau Vava'u",
+    "IATA": "3O",
+    "ICAO": "PVU",
+    "website": "www.peauvavau.to",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:20.011416"
+  },
+  {
+    "name": "Real Tonga Airline",
+    "IATA": "R4",
+    "ICAO": "RLT",
+    "website": "www.realtonga.to",
+    "notes": "Designator R4 recalled by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:20.011433"
+  },
+  {
+    "name": "Royal Tongan Airlines",
+    "IATA": "WR",
+    "ICAO": "HRH",
+    "website": "flyroyaltongan.com",
+    "notes": "Ceased operatioins",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:20.011449"
+  }
+]

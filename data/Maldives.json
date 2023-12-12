@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Beond-Simdi Operations Private Ltd.",
+    "IATA": "B4",
+    "ICAO": "BYD",
+    "website": "flybeond.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:22.825606"
+  },
+  {
+    "name": "Villa Air Private Limited t/a flyme",
+    "IATA": "VP",
+    "ICAO": "VQI",
+    "website": "www.flyme.mv",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:22.825634"
+  },
+  {
+    "name": "Island Aviation Services Ltd.",
+    "IATA": "Q2",
+    "ICAO": "DQA",
+    "website": "www.maldivian.aero",
+    "notes": "IATA Prefix code reinstated.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:22.825652"
+  },
+  {
+    "name": "Manta Aviation Pvt. Ltd.",
+    "IATA": "NR",
+    "ICAO": "MAV",
+    "website": "mantaair.mv",
+    "notes": "Commenced operations on 24 February 2019.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:22.825670"
+  },
+  {
+    "name": "Trans Maldivian Airways Pvt., Ltd",
+    "IATA": null,
+    "ICAO": "TMW",
+    "website": "www.tma.com.mv",
+    "notes": "Name changed from Hummingbird Helicopters Maldives (Pvt) Ltd.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:22.825688"
+  },
+  {
+    "name": "Air Maldives Limited",
+    "IATA": "L6",
+    "ICAO": "AMI",
+    "website": null,
+    "notes": "Founded on 01 October 1974. Ceased operations during 2000.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:22.825705"
+  },
+  {
+    "name": "Flying Cargo Private Limited",
+    "IATA": null,
+    "ICAO": "FCM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:22.825721"
+  },
+  {
+    "name": "Flying Swiss Ambulance Maldives (Pvt) Ltd.",
+    "IATA": null,
+    "ICAO": "SRM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:22.825737"
+  },
+  {
+    "name": "Hummingbird Helicopters Maldives (Pvt) Ltd.",
+    "IATA": null,
+    "ICAO": "HUM",
+    "website": null,
+    "notes": "Name changed to Trans Maldivian Airways",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:22.825754"
+  },
+  {
+    "name": "Maldives Airways Ltd.",
+    "IATA": "MQ",
+    "ICAO": null,
+    "website": null,
+    "notes": "IATA designator changed to PN",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:22.825770"
+  },
+  {
+    "name": "Maldives Airways Ltd.",
+    "IATA": "PN",
+    "ICAO": null,
+    "website": null,
+    "notes": "IATA designator changed from MQ",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:22.825786"
+  },
+  {
+    "name": "Maldives International Airlines",
+    "IATA": "M8",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:22.825802"
+  },
+  {
+    "name": "Mega Global Air Services (Maldives) Pvt. Ltd. t/a MEGA Maldives Airlines",
+    "IATA": "LV",
+    "ICAO": "MEG",
+    "website": "megamaldivesair.com",
+    "notes": "Founded on 23 February 2010. AOC granted on 22 December 2010. Commenced operations on 23 December 2010. Ceased operations on 02 May 2017. IATA Designator changed from 5M",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:22.825820"
+  },
+  {
+    "name": "Mega Global Air Services (Maldives) Pvt. Ltd. t/a MEGA Maldives Airlines",
+    "IATA": "5M",
+    "ICAO": "MEG",
+    "website": "www.mega-maldives.com",
+    "notes": "Founded on 23 February 2010. AOC granted on 22 December 2010. Commenced operations on 23 December 2010. IATA Designator changed to LV",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:22.825838"
+  },
+  {
+    "name": "Ocean Air PVT Ltd.",
+    "IATA": null,
+    "ICAO": "OCR",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:22.825854"
+  }
+]

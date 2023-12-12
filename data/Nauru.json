@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Nauru Air Corporation t/a Nauru Airlines",
+    "IATA": "ON",
+    "ICAO": "RON",
+    "website": "www.nauruairlines.com.au",
+    "notes": "Name changed from Nauru Air Corporation t/a Our Airline w.e.f. 01 August 2014.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:46.380735"
+  },
+  {
+    "name": "Air Nauru",
+    "IATA": "ON",
+    "ICAO": "RON",
+    "website": "www.southpacific.org/map.airnauru.html",
+    "notes": "Commenceds operation on 14 February 1970. Ceased operations on 18 December 2005. Relaunched as Nauru Air Corporation t/a Our Airline on 14 October 2006. Designator ON reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:46.380765"
+  },
+  {
+    "name": "Nauru Air Corporation t/a Our Airline",
+    "IATA": "ON",
+    "ICAO": "RON",
+    "website": null,
+    "notes": "Nauru Air Corporation t/a Nauru Airlines w.e.f. 01 August 2014. Name changed from Air Nauru on 14 October 2005.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:46.380784"
+  }
+]

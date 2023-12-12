@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Blue Wing Airlines N.V.",
+    "IATA": null,
+    "ICAO": "BWI",
+    "website": "www.bluewingairlines.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:02.411044"
+  },
+  {
+    "name": "Fly AllWays N.V.",
+    "IATA": "8W",
+    "ICAO": "EDR",
+    "website": "www.flyallways.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:02.411071"
+  },
+  {
+    "name": "Gonini Air Services Ltd.",
+    "IATA": null,
+    "ICAO": "GON",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:02.411088"
+  },
+  {
+    "name": "Gum Air N.V.",
+    "IATA": null,
+    "ICAO": "GUM",
+    "website": "www.gumair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:02.411104"
+  },
+  {
+    "name": "Hi-Jet Helicopter Services N.V.",
+    "IATA": null,
+    "ICAO": "HHS",
+    "website": "www.hi-jethelicopters.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:02.411120"
+  },
+  {
+    "name": "Pont International Airline Services N.V.",
+    "IATA": null,
+    "ICAO": "PSI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:02.411136"
+  },
+  {
+    "name": "SuriJet.com Inc.",
+    "IATA": null,
+    "ICAO": "SRJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:02.411152"
+  },
+  {
+    "name": "Surinam Airways Ltd.",
+    "IATA": "PY",
+    "ICAO": "SLM",
+    "website": "www.flyslm.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:02.411167"
+  },
+  {
+    "name": "Suriname International Victory Airline N.V.",
+    "IATA": null,
+    "ICAO": "SWO",
+    "website": "sivaworld.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:39:02.411183"
+  },
+  {
+    "name": "Inter Tropical Aviation",
+    "IATA": "3P",
+    "ICAO": "TCU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:02.411198"
+  },
+  {
+    "name": "Sky Liners Air Services Ltd.",
+    "IATA": null,
+    "ICAO": "LNR",
+    "website": null,
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:39:02.411215"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "name": "GM Helicopters 102 NE Co., Ltd.",
+    "IATA": null,
+    "ICAO": "GME",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:06.278357"
+  },
+  {
+    "name": "Lanexang Aviation Services Co., Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "lanexangaviation.com",
+    "notes": "Planned start-up ATR72-600",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:06.278386"
+  },
+  {
+    "name": "Lao Airlines",
+    "IATA": "QV",
+    "ICAO": "LAO",
+    "website": "www.laoairlines.com",
+    "notes": "Name changed from Lao Aviation. Designator QV reinstated by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:06.278404"
+  },
+  {
+    "name": "Lao Skyway",
+    "IATA": "LK",
+    "ICAO": "LLL",
+    "website": "www.laoskyway.com",
+    "notes": "Name change from Lao Air Company.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:06.278427"
+  },
+  {
+    "name": "Northern Aviation Company Limited",
+    "IATA": null,
+    "ICAO": "NLP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:06.278444"
+  },
+  {
+    "name": "Euro-Asia Aviation Co. Ltd.",
+    "IATA": null,
+    "ICAO": "EUL",
+    "website": null,
+    "notes": "Founded in 2002. Ceased operations in 2003.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:06.278460"
+  },
+  {
+    "name": "Lao Air Company",
+    "IATA": null,
+    "ICAO": "LLL",
+    "website": null,
+    "notes": "Name change to Lao Skyway",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:06.278477"
+  },
+  {
+    "name": "Lao Air Lines",
+    "IATA": "WL",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:06.278493"
+  },
+  {
+    "name": "Lao Aviation",
+    "IATA": "QV",
+    "ICAO": "LAO",
+    "website": "www.lao-aviation.com",
+    "notes": "Name changed to Lao Airlines. Designator QV reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:06.278510"
+  },
+  {
+    "name": "Lao Central Airlines Public Co., Ltd",
+    "IATA": "LF",
+    "ICAO": "LCI",
+    "website": "www.flylaocentral.com",
+    "notes": "Designator LF recalled by IATA. Founded in 2010",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:06.278527"
+  },
+  {
+    "name": "Royal Air Laos",
+    "IATA": "RY",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:06.278543"
+  }
+]

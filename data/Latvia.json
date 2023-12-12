@@ -1,0 +1,335 @@
+[
+  {
+    "name": "Air Baltic Corporation S/A",
+    "IATA": "BT",
+    "ICAO": "BTI",
+    "website": "www.airbaltic.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:07.442919"
+  },
+  {
+    "name": "Amber Aero, SIA",
+    "IATA": "M1",
+    "ICAO": null,
+    "website": "amber.aero",
+    "notes": "Computer Reservations Systems (CRS)",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:07.442948"
+  },
+  {
+    "name": "Baltic Express Line",
+    "IATA": null,
+    "ICAO": "LTB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:07.442966"
+  },
+  {
+    "name": "Baltic Jet Aircompany",
+    "IATA": null,
+    "ICAO": "BJC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:07.442982"
+  },
+  {
+    "name": "Baltic Jet Cargo, SIA",
+    "IATA": null,
+    "ICAO": "BAQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:07.442998"
+  },
+  {
+    "name": "Baltijas Helicopters",
+    "IATA": null,
+    "ICAO": "BTH",
+    "website": "www.helicopters.lv",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:07.443014"
+  },
+  {
+    "name": "Baltijas Meridians",
+    "IATA": null,
+    "ICAO": "BMF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:07.443030"
+  },
+  {
+    "name": "ECO Airlines SIA",
+    "IATA": null,
+    "ICAO": "EKO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:07.443045"
+  },
+  {
+    "name": "FCG - Flight Consulting Group Ltd, LV",
+    "IATA": null,
+    "ICAO": "FCG",
+    "website": "www.fcg.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:07.443061"
+  },
+  {
+    "name": "Getjet Airlines Latvia",
+    "IATA": null,
+    "ICAO": "DML",
+    "website": "getjet.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:07.443077"
+  },
+  {
+    "name": "KS Avia",
+    "IATA": null,
+    "ICAO": "KSA",
+    "website": "www.ksavia.lv",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:07.443093"
+  },
+  {
+    "name": "LATPASS Airlines",
+    "IATA": null,
+    "ICAO": "LTP",
+    "website": null,
+    "notes": "Designator QJ* and Prefix Code 937 recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:07.443109"
+  },
+  {
+    "name": "Latvian Air Force",
+    "IATA": null,
+    "ICAO": "LAF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:07.443125"
+  },
+  {
+    "name": "Latvian Airlines",
+    "IATA": null,
+    "ICAO": "LTL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:07.443140"
+  },
+  {
+    "name": "RAF-Avia",
+    "IATA": null,
+    "ICAO": "MTL",
+    "website": "www.rafavia.aero",
+    "notes": "Established on 31 October 1990. Commenced operations on 19 August 1991.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:07.443157"
+  },
+  {
+    "name": "Riga Airclub (Latvian Professional Air Sport Center)",
+    "IATA": null,
+    "ICAO": "RAK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:07.443173"
+  },
+  {
+    "name": "Riga Airlines",
+    "IATA": null,
+    "ICAO": "RIG",
+    "website": "www.riga-airlines.com",
+    "notes": "Designator GV recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:07.443190"
+  },
+  {
+    "name": "Smartlynx Airlines, SIA",
+    "IATA": "6Y",
+    "ICAO": "ART",
+    "website": "www.smart-lynx.com",
+    "notes": "ICAO Designator changed from LTC. ICAO callsign changed from Latcharter. Name changed from Latcharter",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:07.443208"
+  },
+  {
+    "name": "AS Union Aviation",
+    "IATA": null,
+    "ICAO": "UAG",
+    "website": "www.unionaviation.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:07.443223"
+  },
+  {
+    "name": "Air Baltic Eastern",
+    "IATA": null,
+    "ICAO": "BTE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:07.443239"
+  },
+  {
+    "name": "Alpha Express Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "APZ",
+    "website": "www.alphaexpress.aero",
+    "notes": "Founded on 01 March 2012.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:07.443255"
+  },
+  {
+    "name": "Baltic Helicopters",
+    "IATA": null,
+    "ICAO": "BHE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:07.443270"
+  },
+  {
+    "name": "Baltic International Airlines",
+    "IATA": null,
+    "ICAO": "BIA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:07.443286"
+  },
+  {
+    "name": "Concors Latvian Air Service",
+    "IATA": null,
+    "ICAO": "COS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:07.443302"
+  },
+  {
+    "name": "Fenix Airways",
+    "IATA": null,
+    "ICAO": "FNX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:07.443317"
+  },
+  {
+    "name": "Inversia",
+    "IATA": null,
+    "ICAO": "INV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:07.443332"
+  },
+  {
+    "name": "Latcharter",
+    "IATA": "6Y",
+    "ICAO": "LTC",
+    "website": "www.latcharter.com",
+    "notes": "Name changed to Smartlynx Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:07.443348"
+  },
+  {
+    "name": "Latgales Avio",
+    "IATA": null,
+    "ICAO": "LTG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:07.443364"
+  },
+  {
+    "name": "LATPASS Airlines",
+    "IATA": null,
+    "ICAO": "LTP",
+    "website": null,
+    "notes": "Designator QJ* and Prefix Code 937 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:07.443381"
+  },
+  {
+    "name": "Primera Air Nordic",
+    "IATA": "6F",
+    "ICAO": "PRW",
+    "website": "www.primeraair.com",
+    "notes": "Ceased operations on 01 October 2018.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:07.443399"
+  },
+  {
+    "name": "Riga Aeronatical Institute",
+    "IATA": null,
+    "ICAO": "RLS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:07.443414"
+  },
+  {
+    "name": "Riga Airlines",
+    "IATA": "GV",
+    "ICAO": "RIG",
+    "website": "www.riga-airlines.com",
+    "notes": "Designator GV recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:07.443431"
+  },
+  {
+    "name": "Simplejet LV Ltd",
+    "IATA": null,
+    "ICAO": "SMP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:07.443446"
+  },
+  {
+    "name": "Smartlynx Airlines",
+    "IATA": "6Y",
+    "ICAO": "LTC",
+    "website": "www.latcharter.com",
+    "notes": "ICAO Designator changed to ART. ICAO callsign changed to Smart Lynx. Name changed from Latcharter",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:07.443463"
+  },
+  {
+    "name": "Transeast Airlines Ltd.",
+    "IATA": "T4",
+    "ICAO": "TRL",
+    "website": "www.junik.lv/~tea",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:07.443479"
+  },
+  {
+    "name": "VIP Avia",
+    "IATA": null,
+    "ICAO": "PRX",
+    "website": null,
+    "notes": "Name changed from Vip Aviation",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:07.443495"
+  },
+  {
+    "name": "VIP Aviation",
+    "IATA": null,
+    "ICAO": "PRX",
+    "website": null,
+    "notes": "Name changed to Vip Avia",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:07.443511"
+  }
+]

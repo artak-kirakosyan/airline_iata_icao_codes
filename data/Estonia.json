@@ -1,0 +1,236 @@
+[
+  {
+    "name": "Airest Inc.",
+    "IATA": null,
+    "ICAO": "AEG",
+    "website": "www.airest.ee",
+    "notes": "Founded 2002",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:00.962898"
+  },
+  {
+    "name": "Diamond Sky OU",
+    "IATA": null,
+    "ICAO": "DMS",
+    "website": "www.diamond-sky.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:00.962927"
+  },
+  {
+    "name": "Estonian Airforce",
+    "IATA": null,
+    "ICAO": "EEF",
+    "website": "https://mil.ee/en/air-force/",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:00.962944"
+  },
+  {
+    "name": "Fort Aero",
+    "IATA": null,
+    "ICAO": "FRX",
+    "website": "fort.aero",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:00.962961"
+  },
+  {
+    "name": "Marabu Airlines O\u00dc",
+    "IATA": "DI",
+    "ICAO": "MBU",
+    "website": "flymarabu.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:00.962978"
+  },
+  {
+    "name": "Nordic Aviation Group AS d/b/a Nordica",
+    "IATA": "ND",
+    "ICAO": "NDA",
+    "website": "www.nordica.ee",
+    "notes": "All flights operated under LOT Polsih Airlines AOC (LO/LOT) w.e.f. 19 November 2016. Established by Nordic Aviation Group on 25 September 2015 as Nordic Aviation Group.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:00.962996"
+  },
+  {
+    "name": "Nyxair OU",
+    "IATA": "OJ",
+    "ICAO": "NYX",
+    "website": "www.nyxair.ee",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:00.963012"
+  },
+  {
+    "name": "Pakker Avio Ltd.",
+    "IATA": null,
+    "ICAO": "PKR",
+    "website": "pakkeravio.e",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:00.963028"
+  },
+  {
+    "name": "Panaviatic",
+    "IATA": null,
+    "ICAO": "VPC",
+    "website": "www.panaviatic.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:00.963044"
+  },
+  {
+    "name": "Skystream Airlines AS",
+    "IATA": null,
+    "ICAO": "STM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:00.963060"
+  },
+  {
+    "name": "Smartlynx Airlines Estonia",
+    "IATA": null,
+    "ICAO": "MYX",
+    "website": "www.smart-lynx.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:00.963076"
+  },
+  {
+    "name": "Regional Jet Ou d/b/a Xfly",
+    "IATA": "EE",
+    "ICAO": "EST",
+    "website": "xfly.ee",
+    "notes": "Name changed from Regional Jet Ou. Subsidary of Nordic Aviation Group.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:00.963094"
+  },
+  {
+    "name": "Pakker Avio LTd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.pakkeravio.ee",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:00.963110"
+  },
+  {
+    "name": "Aero Airlines A.S.",
+    "IATA": "EE",
+    "ICAO": "EAY",
+    "website": "www.aeroairlines.com",
+    "notes": "Founded in 2000. Commenced operations in 2002. Ceased operations in January 2008. Setup by Finnair",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:00.963127"
+  },
+  {
+    "name": "Air Livonia Ltd.",
+    "IATA": null,
+    "ICAO": "LIV",
+    "website": "www.airlivonia.ee",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:00.963142"
+  },
+  {
+    "name": "Airest",
+    "IATA": null,
+    "ICAO": "AIT",
+    "website": "www.airest.ee",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:00.963158"
+  },
+  {
+    "name": "Avies SA",
+    "IATA": "U3",
+    "ICAO": "AIA",
+    "website": "www.flyavies.ee",
+    "notes": "Founded and commenced operations in 1991. Ceased operations on 01 April 2016 after AOC withdrawn by Estonian CAA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:00.963174"
+  },
+  {
+    "name": "Estonian Aviation Company ELK Airways",
+    "IATA": null,
+    "ICAO": "ELK",
+    "website": "lyelk.eu/?id=201&s=2",
+    "notes": "Originally known as Eesti Lennukompanii. Founded in 1991. Ceased operations. Designator S8 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:00.963191"
+  },
+  {
+    "name": "Estonian Aviation Company ELK Airways",
+    "IATA": "S8",
+    "ICAO": "ELK",
+    "website": "www.elk.ee",
+    "notes": "Designator S8 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:00.963207"
+  },
+  {
+    "name": "Enimex Ltd.",
+    "IATA": null,
+    "ICAO": "ENI",
+    "website": "www.enimex.ee",
+    "notes": "Founded in 1994. Ceased operations during 2008.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:00.963223"
+  },
+  {
+    "name": "Estonian Air",
+    "IATA": "OV",
+    "ICAO": "ELL",
+    "website": "www.estonian-air.ee",
+    "notes": "Ceased operations on 08 November 2015.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:00.963240"
+  },
+  {
+    "name": "Estonian Air Regional",
+    "IATA": null,
+    "ICAO": "ESG",
+    "website": "estonian-air.com",
+    "notes": "Ceased operations on 08 Novmber 2015.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:00.963255"
+  },
+  {
+    "name": "FlyLAL Charter Eesti AS",
+    "IATA": null,
+    "ICAO": "ESC",
+    "website": "www.flylalcharters.com",
+    "notes": "Founded in 1991. Ceased operations on 17 January 2009.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:00.963272"
+  },
+  {
+    "name": "Nordica",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.nordica.ee",
+    "notes": "Formerly Nordic Aviation Group. All flights operated under Adria Airways AOC (JP/ADR). Established on 25 September 2015 as Nordic Aviation Group.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:00.963289"
+  },
+  {
+    "name": "Regional Jet Ou",
+    "IATA": "EE",
+    "ICAO": "EST",
+    "website": null,
+    "notes": "Nmae changed to Regional Jet Ou d/b/a Xfly. Subsidary of Nordic Aviation Group.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:00.963306"
+  },
+  {
+    "name": "Small Planet Airlines",
+    "IATA": null,
+    "ICAO": "ELC",
+    "website": "www.smallplanet.aero",
+    "notes": "Ceased operations during 2010.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:00.963322"
+  }
+]

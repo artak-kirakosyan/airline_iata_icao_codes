@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Aero Soga Ltd.",
+    "IATA": null,
+    "ICAO": "SOG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:30.960120"
+  },
+  {
+    "name": "Air Bissau International Lda",
+    "IATA": null,
+    "ICAO": "BSA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:30.960159"
+  },
+  {
+    "name": "Halcyon Air Bissau Airways",
+    "IATA": null,
+    "ICAO": "HCN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:30.960178"
+  },
+  {
+    "name": "Transports A\u00e9riens de La Guinee-Bissau",
+    "IATA": null,
+    "ICAO": "GBU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:30.960196"
+  },
+  {
+    "name": "Air Luxor GB, Lda",
+    "IATA": "L8",
+    "ICAO": "LXG",
+    "website": "www.airluxor.com",
+    "notes": "Ceased",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:30.960213"
+  },
+  {
+    "name": "Astravia-Bissau Air Transports Ltd.",
+    "IATA": null,
+    "ICAO": "ASV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:30.960230"
+  },
+  {
+    "name": "Bissau Discovery Flying Club",
+    "IATA": null,
+    "ICAO": "BDF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:30.960246"
+  },
+  {
+    "name": "Guine Bissau Airlines",
+    "IATA": "G6",
+    "ICAO": "BSR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:30.960262"
+  },
+  {
+    "name": "Linhas Aereas da Guine Bissau",
+    "IATA": null,
+    "ICAO": "GBU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:30.960278"
+  },
+  {
+    "name": "Transportes Aereos da Guine-Bissau",
+    "IATA": "GB",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:30.960295"
+  },
+  {
+    "name": "Transports Aereos de Guinee-Bissau",
+    "IATA": "YZ",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator YZ reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:30.960312"
+  }
+]

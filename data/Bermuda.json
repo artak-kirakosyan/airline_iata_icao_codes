@@ -1,0 +1,65 @@
+[
+  {
+    "name": "BermudAir Limited",
+    "IATA": "2T",
+    "ICAO": "BMA",
+    "website": "flybermudair.com",
+    "notes": "Commenced operations on 01 September 2023.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:58.487278"
+  },
+  {
+    "name": "BermudAir Limited",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Planned startup with ERJ-175.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:58.487306"
+  },
+  {
+    "name": "Bermuda Aircraft Management Limited d/b/a Coral Jet",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.coraljet.com",
+    "notes": "Planned startup with 7 x A320.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:58.487324"
+  },
+  {
+    "name": "Freedom II Bermuda Limited",
+    "IATA": null,
+    "ICAO": "BUY",
+    "website": "flyfreedom2.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:58.487341"
+  },
+  {
+    "name": "HKJ Bermuda Ltd.",
+    "IATA": null,
+    "ICAO": "HBL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:58.487356"
+  },
+  {
+    "name": "Longtail Aviation International Ltd",
+    "IATA": "6T",
+    "ICAO": "LGT",
+    "website": "www.longtailaviation.bm",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:58.487373"
+  },
+  {
+    "name": "Triair Bermuda Ltd",
+    "IATA": null,
+    "ICAO": "TBQ",
+    "website": "www.triair.aero",
+    "notes": "Established in 2001 .",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:34:58.487388"
+  }
+]

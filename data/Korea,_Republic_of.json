@@ -1,0 +1,371 @@
+[
+  {
+    "name": "Ace Air",
+    "IATA": null,
+    "ICAO": "ATZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:01.193622"
+  },
+  {
+    "name": "Air Busan",
+    "IATA": "BX",
+    "ICAO": "ABL",
+    "website": "www.flyairbusan.com",
+    "notes": "Low cost subsidiary of Asiana Airlines",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:01.193657"
+  },
+  {
+    "name": "Air Incheon Co., Ltd.",
+    "IATA": "KJ",
+    "ICAO": "AIH",
+    "website": "www.air-incheon.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:01.193690"
+  },
+  {
+    "name": "Air Korea Co. Ltd.",
+    "IATA": null,
+    "ICAO": "AKA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:01.193710"
+  },
+  {
+    "name": "Air Premia Inc.",
+    "IATA": "YP",
+    "ICAO": "APZ",
+    "website": "airpremia.com",
+    "notes": "Due to commence operations in 2H20 with 3 x Boeing 787-9. Founded on 27 July 2017.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:01.193732"
+  },
+  {
+    "name": "Air Seoul, Inc.",
+    "IATA": "RS",
+    "ICAO": "ASV",
+    "website": "flyairseoul.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:01.193749"
+  },
+  {
+    "name": "Asia Aero Survey And Consulting Engineers, Inc.",
+    "IATA": null,
+    "ICAO": "KAA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:01.193767"
+  },
+  {
+    "name": "Asiana Airlines, Inc.",
+    "IATA": "OZ",
+    "ICAO": "AAR",
+    "website": "us.flyasiana.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:01.193785"
+  },
+  {
+    "name": "Blue Air Lines",
+    "IATA": null,
+    "ICAO": "BBJ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:01.193800"
+  },
+  {
+    "name": "Chodang University",
+    "IATA": null,
+    "ICAO": "CDQ",
+    "website": "www.chodang.ac.kr/english/",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:01.193818"
+  },
+  {
+    "name": "Eastar Jet Co. Ltd.",
+    "IATA": "ZE",
+    "ICAO": "ESR",
+    "website": "www.eastarjet.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:01.193837"
+  },
+  {
+    "name": "Ewest Air",
+    "IATA": null,
+    "ICAO": "EWA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:01.193854"
+  },
+  {
+    "name": "Jeju Air Co. Ltd.",
+    "IATA": "7C",
+    "ICAO": "JJA",
+    "website": "www.jejuair.net",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:01.193870"
+  },
+  {
+    "name": "Jin Air Co. Ltd.",
+    "IATA": "LJ",
+    "ICAO": "JNA",
+    "website": "www.jinair.com",
+    "notes": "Formerly Air Korea",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:01.193887"
+  },
+  {
+    "name": "Keuk Dong Dae",
+    "IATA": null,
+    "ICAO": "KDA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:01.193904"
+  },
+  {
+    "name": "Korea Aerospace University",
+    "IATA": null,
+    "ICAO": "HGD",
+    "website": "www.kau.ac.kr",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:01.193921"
+  },
+  {
+    "name": "Korea Aviation College",
+    "IATA": null,
+    "ICAO": "KAG",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:01.193937"
+  },
+  {
+    "name": "Korea National University of Transportation",
+    "IATA": null,
+    "ICAO": "KTU",
+    "website": "genglish.ut.ac.kr",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:01.193955"
+  },
+  {
+    "name": "Korean Air",
+    "IATA": "KE",
+    "ICAO": "KAL",
+    "website": "www.koreanair.com",
+    "notes": "Name changed from Korean Air Lines Co. Ltd. w.e.f. 20 June 1984.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:01.193973"
+  },
+  {
+    "name": "Kyungwoon University",
+    "IATA": null,
+    "ICAO": "WCD",
+    "website": "www.ikw.ac.kr",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:01.193989"
+  },
+  {
+    "name": "Republic of Korea Air Force",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:01.194005"
+  },
+  {
+    "name": "The Sky, Inc.",
+    "IATA": null,
+    "ICAO": "SFI",
+    "website": null,
+    "notes": "Name changed from Star Aerospace.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:01.194021"
+  },
+  {
+    "name": "TTM Korea Co. Ltd",
+    "IATA": null,
+    "ICAO": "TTK",
+    "website": "ttmkorea.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:01.194037"
+  },
+  {
+    "name": "T'Way Air Co. Ltd.",
+    "IATA": "TW",
+    "ICAO": "TWB",
+    "website": "www.twayair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:01.194053"
+  },
+  {
+    "name": "Universal Aviation Academy",
+    "IATA": null,
+    "ICAO": "AUE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:01.194068"
+  },
+  {
+    "name": "uSKY AIR",
+    "IATA": null,
+    "ICAO": "URI",
+    "website": "eng.uskyair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:01.194084"
+  },
+  {
+    "name": "Air Daegu",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Plans to launch operations in mid 2017 on domestic routes.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:01.194101"
+  },
+  {
+    "name": "Air First",
+    "IATA": null,
+    "ICAO": "FIA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:01.194118"
+  },
+  {
+    "name": "Air Korea Co. Ltd.",
+    "IATA": "CD",
+    "ICAO": "AKA",
+    "website": null,
+    "notes": "Designator CD recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:01.194133"
+  },
+  {
+    "name": "Air Philip",
+    "IATA": "3P",
+    "ICAO": "APV",
+    "website": "www.airphilip.com",
+    "notes": "Ceased operations on 13 March 2019. Founded in December 2016. Commenced operations on 30 June 2018.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:01.194150"
+  },
+  {
+    "name": "Air Pohang Co., Ltd.",
+    "IATA": "RN",
+    "ICAO": "KAB",
+    "website": "www.airpohang.kr",
+    "notes": "Commenced operations on 07 February 2018. Ceased operations on 29 November 2018.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:01.194167"
+  },
+  {
+    "name": "Fly Gangwon Co., Ltd.",
+    "IATA": "4V",
+    "ICAO": "FGW",
+    "website": "www.flygangwon.com",
+    "notes": "Established on 12 April 2016. Suspended all operations on 20 May 2023.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:01.194185"
+  },
+  {
+    "name": "Hansung Airlines",
+    "IATA": "HS",
+    "ICAO": "HAN",
+    "website": "www.gohansung.com",
+    "notes": "Rebranded as T'Way Airline. Suspended operations October 2008.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:01.194201"
+  },
+  {
+    "name": "Hi Air Co., Ltd.",
+    "IATA": "4H",
+    "ICAO": "HGG",
+    "website": "www.hi-airlines.com",
+    "notes": "AOC suspend by authorities on 31 October 2023. Ceased operations on 01 September 2023.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:01.194219"
+  },
+  {
+    "name": "Korea Express Air Co., Ltd.",
+    "IATA": "KW",
+    "ICAO": "KEA",
+    "website": "www.keair.co.kr",
+    "notes": "IATA designator changed from XE*. Commenced opeations on 15 August 2009.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:01.194236"
+  },
+  {
+    "name": "Korea Express Air Co., Ltd.",
+    "IATA": null,
+    "ICAO": "KEA",
+    "website": "www.keair.co.kr",
+    "notes": "IATA designator changed to KW.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:01.194253"
+  },
+  {
+    "name": "Korean Air Lines Co. Ltd.",
+    "IATA": "KE",
+    "ICAO": "KAL",
+    "website": "www.koreanair.com",
+    "notes": "Name changed to Korean Air w.e.f. 20 June 1984.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:01.194270"
+  },
+  {
+    "name": "Seoul Air International",
+    "IATA": null,
+    "ICAO": "SHI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:01.194286"
+  },
+  {
+    "name": "Star Aerospace",
+    "IATA": null,
+    "ICAO": "SFI",
+    "website": null,
+    "notes": "Name changed to The Sky, Inc.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:01.194302"
+  },
+  {
+    "name": "Topas Co. Ltd.",
+    "IATA": "K1",
+    "ICAO": null,
+    "website": "www.topasweb.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:01.194318"
+  },
+  {
+    "name": "Yeongnam Air Co. Ltd.",
+    "IATA": "OE",
+    "ICAO": "ONA",
+    "website": "www.ynair.co.kr",
+    "notes": "Founded in 2008. Commenced operations on 25 July 2008. Ceased operations in December 2008.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:01.194336"
+  }
+]

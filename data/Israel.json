@@ -1,0 +1,434 @@
+[
+  {
+    "name": "Aeroel Airways Ltd.",
+    "IATA": null,
+    "ICAO": "ROL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:48.534053"
+  },
+  {
+    "name": "Aim Aviation",
+    "IATA": null,
+    "ICAO": "AIF",
+    "website": "www.aim-aviation.co.il",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:48.534083"
+  },
+  {
+    "name": "Arkia Israeli Airlines Ltd.",
+    "IATA": "IZ",
+    "ICAO": "AIZ",
+    "website": "www.arkia.co.il",
+    "notes": "Name changed from Arkia Israel Inland Airlines",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:48.534101"
+  },
+  {
+    "name": "Arrow Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "HEZ",
+    "website": "arrowaviation.biz",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:48.534118"
+  },
+  {
+    "name": "Aya Aviation",
+    "IATA": null,
+    "ICAO": "AYC",
+    "website": "www.aya-aviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:48.534135"
+  },
+  {
+    "name": "Ayit Aviation & Tourism",
+    "IATA": null,
+    "ICAO": "AYT",
+    "website": "www.ayit.co.il",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:48.534151"
+  },
+  {
+    "name": "Challenge Airlines (IL) Ltd.",
+    "IATA": "5C",
+    "ICAO": "ICL",
+    "website": "www.cal.co.il",
+    "notes": "Name changed from Cavei Avir Lemitanim t/a Cargo Air Lines.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:48.534168"
+  },
+  {
+    "name": "Eden",
+    "IATA": null,
+    "ICAO": "EDN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:48.534184"
+  },
+  {
+    "name": "EL AL Israel Airlines Ltd. d/b/a El Al",
+    "IATA": "LY",
+    "ICAO": "ELY",
+    "website": "www.elal.com",
+    "notes": "Name changed from EL AL Israel Airlines Ltd.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:48.534202"
+  },
+  {
+    "name": "Elrom Aviation And Investments",
+    "IATA": null,
+    "ICAO": "ELR",
+    "website": null,
+    "notes": "Founded in 1990.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:48.534218"
+  },
+  {
+    "name": "FNA",
+    "IATA": null,
+    "ICAO": "FNB",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:48.534234"
+  },
+  {
+    "name": "G.A.D. Flights Ltd.",
+    "IATA": null,
+    "ICAO": "GFT",
+    "website": "gadflights.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:48.534250"
+  },
+  {
+    "name": "Israeli Air Force",
+    "IATA": null,
+    "ICAO": "IAF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:48.534265"
+  },
+  {
+    "name": "Israir Airlines and Tourism Ltd.",
+    "IATA": "6H",
+    "ICAO": "ISR",
+    "website": "www.israir.co.il",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:48.534281"
+  },
+  {
+    "name": "Jet Link",
+    "IATA": null,
+    "ICAO": "JEK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:48.534296"
+  },
+  {
+    "name": "Lahak Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "LHK",
+    "website": "www.lahakaviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:48.534312"
+  },
+  {
+    "name": "Leadair Ltd Israel Airlines",
+    "IATA": null,
+    "ICAO": "LEV",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:48.534328"
+  },
+  {
+    "name": "Megido Aviation",
+    "IATA": null,
+    "ICAO": "MGV",
+    "website": "www.megido-air.co.il",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:48.534343"
+  },
+  {
+    "name": "Moonair",
+    "IATA": null,
+    "ICAO": "MOO",
+    "website": "www.moonair.co.il",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:48.534359"
+  },
+  {
+    "name": "Noy Aviation",
+    "IATA": null,
+    "ICAO": "NOY",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:48.534375"
+  },
+  {
+    "name": "OFEK",
+    "IATA": null,
+    "ICAO": "OFK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:48.534390"
+  },
+  {
+    "name": "Ray Aviation",
+    "IATA": null,
+    "ICAO": "REI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:48.534405"
+  },
+  {
+    "name": "Reut Airways Ltd",
+    "IATA": null,
+    "ICAO": "RUT",
+    "website": "reutairways.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:48.534428"
+  },
+  {
+    "name": "Roy Ritter Sky Dive",
+    "IATA": null,
+    "ICAO": "ROY",
+    "website": "www.skydive.co.il/en/",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:48.534445"
+  },
+  {
+    "name": "Snunit Aviation",
+    "IATA": null,
+    "ICAO": "SNU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:48.534461"
+  },
+  {
+    "name": "Sun d'Or International Airlines",
+    "IATA": "2U",
+    "ICAO": "ERO",
+    "website": "www.sundor.co.il",
+    "notes": "As of March 2013, all Sun d'Or's flights are operated by El Al under Sun d'Or, Arkia and Israir brand. Authorities revoked operating licence. Ceased operations 01 April 2011. Designator 2U restated/changed by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:48.534481"
+  },
+  {
+    "name": "Sunair",
+    "IATA": null,
+    "ICAO": "SNF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:48.534497"
+  },
+  {
+    "name": "Tamir Airways",
+    "IATA": null,
+    "ICAO": "TMI",
+    "website": "www.tamir-air.co.il",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:36:48.534513"
+  },
+  {
+    "name": "Up",
+    "IATA": null,
+    "ICAO": null,
+    "website": "flyup.com",
+    "notes": "Low cost subsidiary of El Al Israel Airlines. Founded in November 2013. Planned start 30 March 2014.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:48.534530"
+  },
+  {
+    "name": "Arkia Israel Inland Airlines",
+    "IATA": "IZ",
+    "ICAO": "AIZ",
+    "website": null,
+    "notes": "Name changed to Arkia Israeli Airlines Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:48.534548"
+  },
+  {
+    "name": "Cavei Avir Lemitanim t/a Cargo Air Lines",
+    "IATA": "5C",
+    "ICAO": "ICL",
+    "website": "www.cal.co.il",
+    "notes": "Name changed to Challenge Airlines (IL) Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:48.534566"
+  },
+  {
+    "name": "Cavei Avir Lemitanim t/a Cargo Air Lines",
+    "IATA": "CH",
+    "ICAO": "ICL",
+    "website": null,
+    "notes": "Designator CH recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:48.534582"
+  },
+  {
+    "name": "EL AL Israel Airlines Ltd.",
+    "IATA": "LY",
+    "ICAO": "ELY",
+    "website": "www.elal.com",
+    "notes": "Name changed to EL AL Israel Airlines Ltd. d/b/a El Al.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:48.534598"
+  },
+  {
+    "name": "Elan Arad",
+    "IATA": null,
+    "ICAO": "ILA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:48.534613"
+  },
+  {
+    "name": "Kanfey-Ha'emek Aviation d/b/a Emek Wings",
+    "IATA": "RF",
+    "ICAO": "KHE",
+    "website": null,
+    "notes": "Name changed to Israir in September 1996.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:48.534631"
+  },
+  {
+    "name": "Israel Aircraft Industries Ltd.",
+    "IATA": "BK",
+    "ICAO": "IAI",
+    "website": null,
+    "notes": "Designator BK recalled by IATA. ICAO callsign changed to Israel Aircraft",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:48.534647"
+  },
+  {
+    "name": "Israel Aircraft Industries Ltd.",
+    "IATA": null,
+    "ICAO": "IAI",
+    "website": null,
+    "notes": "Designator BK recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:48.534663"
+  },
+  {
+    "name": "Jet G & D Aviation",
+    "IATA": null,
+    "ICAO": "JGD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:48.534679"
+  },
+  {
+    "name": "Kanaf-Arkia Airlines Ltd.",
+    "IATA": null,
+    "ICAO": "KIZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:48.534695"
+  },
+  {
+    "name": "Maof Airlines",
+    "IATA": "OJ",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:48.534710"
+  },
+  {
+    "name": "Moaf Airways",
+    "IATA": "MG",
+    "ICAO": "MOF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:48.534726"
+  },
+  {
+    "name": "Nanyah Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "NYA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:48.534742"
+  },
+  {
+    "name": "Sun d'Or International Airlines",
+    "IATA": "ER",
+    "ICAO": "ERO",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:48.534759"
+  },
+  {
+    "name": "Sun d'Or International Airlines",
+    "IATA": null,
+    "ICAO": "ERO",
+    "website": "www.sundor.co.il",
+    "notes": "Designator 7L* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:48.534776"
+  },
+  {
+    "name": "Sunair",
+    "IATA": null,
+    "ICAO": "SNF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:48.534791"
+  },
+  {
+    "name": "Aviation Bridge",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:48.534806"
+  },
+  {
+    "name": "Geva Aviation",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:48.534822"
+  },
+  {
+    "name": "Chim-Nir Aviation",
+    "IATA": null,
+    "ICAO": "ETN",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:36:48.534837"
+  }
+]

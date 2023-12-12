@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Air Martinique",
+    "IATA": "NN",
+    "ICAO": "MTQ",
+    "website": null,
+    "notes": "Merged in Air Gaudeloupe in July 2000.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:27.578298"
+  },
+  {
+    "name": "Soci\u00e9t\u00e9 Nouvelle Air Martinique",
+    "IATA": "PN",
+    "ICAO": "MTQ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:27.578326"
+  },
+  {
+    "name": "Ava Air",
+    "IATA": null,
+    "ICAO": "JSR",
+    "website": "www.ava-air.com",
+    "notes": "Liquidarted on 28 September 2017.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:27.578344"
+  }
+]

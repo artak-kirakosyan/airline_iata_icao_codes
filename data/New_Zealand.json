@@ -1,0 +1,614 @@
+[
+  {
+    "name": "Aerial Surveys (1980) Ltd.",
+    "IATA": null,
+    "ICAO": "SUY",
+    "website": "www.aerialsurveys.co.nz",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:52.364808"
+  },
+  {
+    "name": "Air Chathams Limited t/a Air Chathams",
+    "IATA": "3C",
+    "ICAO": "CVA",
+    "website": "www.airchathams.co.nz",
+    "notes": "IATA designator changed from CV*.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:52.364840"
+  },
+  {
+    "name": "Air Freight NZ Ltd.",
+    "IATA": null,
+    "ICAO": "TFR",
+    "website": "www.airfreightnz.co.nz",
+    "notes": "Designator OG recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:52.364858"
+  },
+  {
+    "name": "Air Napier",
+    "IATA": null,
+    "ICAO": "NPR",
+    "website": "airnapier.co.nz",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:52.364876"
+  },
+  {
+    "name": "Air Nelson Ltd.",
+    "IATA": null,
+    "ICAO": "RLK",
+    "website": "www.airnelson.co.nz",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:52.364892"
+  },
+  {
+    "name": "Air New Zealand Limited",
+    "IATA": "NZ",
+    "ICAO": "ANZ",
+    "website": "www.airnewzealand.com",
+    "notes": "IATA designator changed from TE. (Was orginally only Domestic Division)",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:52.364910"
+  },
+  {
+    "name": "Air Safaris And Services (NZ) Ltd.",
+    "IATA": null,
+    "ICAO": "SRI",
+    "website": "www.airsafaris.co.nz",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:52.364926"
+  },
+  {
+    "name": "Airways Corporation Of New Zealand Limited",
+    "IATA": null,
+    "ICAO": "XFX",
+    "website": "www.airways.co.nz",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:52.364942"
+  },
+  {
+    "name": "Airwork New Zealand Limited",
+    "IATA": null,
+    "ICAO": "AWK",
+    "website": "www.airwork.co.nz",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:52.364959"
+  },
+  {
+    "name": "Auckland Regional Rescue Helicopter Trust",
+    "IATA": null,
+    "ICAO": "WPR",
+    "website": "www.rescuehelicopter.org.nz",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:52.364977"
+  },
+  {
+    "name": "Buckley Air Ltd.",
+    "IATA": null,
+    "ICAO": "BUK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:52.364994"
+  },
+  {
+    "name": "Civil Aviation Authority Of New Zealand",
+    "IATA": null,
+    "ICAO": "CIV",
+    "website": "www.caa.govt.nz",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:52.365010"
+  },
+  {
+    "name": "Flight Corporation",
+    "IATA": null,
+    "ICAO": "FCP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:52.365026"
+  },
+  {
+    "name": "Jet Connect Ltd.",
+    "IATA": null,
+    "ICAO": "QNZ",
+    "website": null,
+    "notes": "Founded on 11 June 2001. Commenced operations in October 2002.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:52.365044"
+  },
+  {
+    "name": "Massey University School Of Aviation",
+    "IATA": null,
+    "ICAO": "MSY",
+    "website": "www.massey.ac.nz/massey/learning/departments/school-aviation/",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:52.365062"
+  },
+  {
+    "name": "Nelson Aviation College",
+    "IATA": null,
+    "ICAO": "CGE",
+    "website": "www.nelson-aviation.co.nz",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:52.365078"
+  },
+  {
+    "name": "New Zealand Air Defence Force",
+    "IATA": null,
+    "ICAO": "KRC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:52.365095"
+  },
+  {
+    "name": "NZ Warbirds Association, Inc.",
+    "IATA": null,
+    "ICAO": "WAR",
+    "website": "www.nzwarbirds.org.nz",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:52.365111"
+  },
+  {
+    "name": "Reef Air Ltd. (Air Transport (Chatham Islands) Ltd)",
+    "IATA": null,
+    "ICAO": "REF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:52.365128"
+  },
+  {
+    "name": "Rick Lucas Helicopters Ltd.",
+    "IATA": null,
+    "ICAO": "HPR",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:52.365144"
+  },
+  {
+    "name": "Royal New Zealand Air Force",
+    "IATA": null,
+    "ICAO": "KIW",
+    "website": "www.airforce.mil.nz",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:52.365160"
+  },
+  {
+    "name": "Sounds Air Travel & Tourism Ltd.",
+    "IATA": "S8",
+    "ICAO": "SDA",
+    "website": "www.soundsair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:52.365176"
+  },
+  {
+    "name": "Southflight Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "SFL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:52.365192"
+  },
+  {
+    "name": "Tauranga Aero Club (Inc)",
+    "IATA": null,
+    "ICAO": "PGS",
+    "website": "www.flytac.co.nz",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:52.365207"
+  },
+  {
+    "name": "Texel Air Limited t/a Texel Air Australasia",
+    "IATA": null,
+    "ICAO": "TNZ",
+    "website": "www.texelair.co.nz",
+    "notes": "Commenced operations on 10 June 2023.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:52.365223"
+  },
+  {
+    "name": "Unilode Aviation Solutions New Zealand Limited",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.unilode.com",
+    "notes": "Non-airline Unit Load Devices (ULD) companies",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:37:52.365241"
+  },
+  {
+    "name": "Air West Coast Limited",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.airwestcoast.co.nz",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365257"
+  },
+  {
+    "name": "air2there.com Ltd",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.air2there.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365274"
+  },
+  {
+    "name": "Alpineair Air Services Limited",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.alpineair.co.nz",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365290"
+  },
+  {
+    "name": "Eagle Airways Ltd.",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.eagleair.co.nz",
+    "notes": "Wholly owned subsidiary of Air New Zealand",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365306"
+  },
+  {
+    "name": "Originair",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.originair.co.nz",
+    "notes": "Commenced operations on 12 August 2015. Flights operated by Air Freight NZ Ltd. (OG/TFR)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365323"
+  },
+  {
+    "name": "Air Chathams Limited t/a Air Chathams",
+    "IATA": null,
+    "ICAO": "CVA",
+    "website": "www.airchathams.co.nz",
+    "notes": "IATA designator changed to 3C.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365341"
+  },
+  {
+    "name": "Air Freight NZ Ltd.",
+    "IATA": "OG",
+    "ICAO": "TFR",
+    "website": "www.airfreightnz.co.nz",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365357"
+  },
+  {
+    "name": "Air Hamilton",
+    "IATA": null,
+    "ICAO": "ENT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365372"
+  },
+  {
+    "name": "Air National Corporate Ltd",
+    "IATA": null,
+    "ICAO": "JPS",
+    "website": "www.airnational.co.nz",
+    "notes": "Founded in 1989, Ceased operations January 2011.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365389"
+  },
+  {
+    "name": "Air New Zealand Ltd.",
+    "IATA": "TE",
+    "ICAO": "ANZ",
+    "website": null,
+    "notes": "IATA designator changed to NZ. (International Division)",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365405"
+  },
+  {
+    "name": "Airwork (New Zealand) Ltd.",
+    "IATA": "HT",
+    "ICAO": "PST",
+    "website": null,
+    "notes": "Designator HT recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365421"
+  },
+  {
+    "name": "Billmans Management Ltd t/a Ansett New Zealand",
+    "IATA": "ZQ",
+    "ICAO": "NZA",
+    "website": "www.ansett.co.nz",
+    "notes": "Name changed to Tasman Pacific Airlines of NZ Limited t/a Qantas New Zealand on 29 August 2000.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365438"
+  },
+  {
+    "name": "Billmans Management Ltd t/a Ansett New Zealand",
+    "IATA": "NY",
+    "ICAO": "NMA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365454"
+  },
+  {
+    "name": "Aspiring Air Limited",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.aspiringair.com",
+    "notes": "Designator OI* reinstated by IATA. Founded in 1974",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365470"
+  },
+  {
+    "name": "Cargoair New Zealand Ltd.",
+    "IATA": "KC",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator KC recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365487"
+  },
+  {
+    "name": "Cook Island Airways",
+    "IATA": "KH",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365503"
+  },
+  {
+    "name": "Coral Air Ltd.",
+    "IATA": null,
+    "ICAO": "NIU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365519"
+  },
+  {
+    "name": "Coral Air Niue",
+    "IATA": null,
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator ZD* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365535"
+  },
+  {
+    "name": "South Pacific Air Charters Ltd. t/a Freedom Air International",
+    "IATA": "SJ",
+    "ICAO": "FOM",
+    "website": "www.freedomair.co.nz",
+    "notes": "ICAO callsign changed from Free Air",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365553"
+  },
+  {
+    "name": "South Pacific Air Charters Ltd. t/a Freedom Air International",
+    "IATA": "SJ",
+    "ICAO": "FOM",
+    "website": "www.freedomair.co.nz",
+    "notes": "ICAO callsign changed to Freedom",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365569"
+  },
+  {
+    "name": "South Pacific Air Charters Ltd. t/a Freedom Air International",
+    "IATA": "SJ",
+    "ICAO": "FOM",
+    "website": "www.freedomair.co.nz",
+    "notes": "Founded in 1995. Commenced operations in 1995. Ceased operations on 30 March 2008. ICAO callsign changed from Freedom",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365587"
+  },
+  {
+    "name": "South Pacific Air Charters Ltd. t/a Freedom Air International",
+    "IATA": "SJ",
+    "ICAO": "FOM",
+    "website": "www.freedomair.co.nz",
+    "notes": "ICAO callsign changed from Freedom",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365604"
+  },
+  {
+    "name": "Great Barrier Airlines",
+    "IATA": "GB",
+    "ICAO": "AFW",
+    "website": "www.greatbarrierairlines.co.nz",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365621"
+  },
+  {
+    "name": "Kiwi Travel International Airlines",
+    "IATA": "KC",
+    "ICAO": "KIC",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365637"
+  },
+  {
+    "name": "Moana Airlines",
+    "IATA": null,
+    "ICAO": "MOA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365654"
+  },
+  {
+    "name": "Mount Cook Airlines",
+    "IATA": "NM",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365670"
+  },
+  {
+    "name": "New Zealand Ministry of Transport",
+    "IATA": "NQ",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365685"
+  },
+  {
+    "name": "Newmans Airways Limited",
+    "IATA": "NY",
+    "ICAO": "NMA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365700"
+  },
+  {
+    "name": "Origin Pacific Airways Limited",
+    "IATA": null,
+    "ICAO": "OGN",
+    "website": "www.originpacific.co.nz",
+    "notes": "Founded in 1996. Commenced operatins in April 1997. Ceased passenger operations on 10 August 2006 and cargo operation on 15 September 2006. Placed into Receivership on 15 September 2006.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365720"
+  },
+  {
+    "name": "Owens Group Ltd.",
+    "IATA": null,
+    "ICAO": "OWN",
+    "website": null,
+    "notes": "In 2003 Mainfreight bought Owens Group Limited",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365736"
+  },
+  {
+    "name": "Pacific Blue Airlines (NZ) Ltd.",
+    "IATA": null,
+    "ICAO": "PBI",
+    "website": null,
+    "notes": "Established in 2003 and commenced operations on 29 January 2004. Name changed to Virgin Australia Airlines (NZ) Limited w.e.f. 07 December 2011. Uses Virgin Blue IATA code DJ. ICAO Designator changed to PBN w.e.f. 01 August 2007 (local date).",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365754"
+  },
+  {
+    "name": "Pacific Midland Airlines Ltd.",
+    "IATA": "2W",
+    "ICAO": null,
+    "website": null,
+    "notes": "Designator recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365770"
+  },
+  {
+    "name": "Tasman Pacific Airlines of NZ Limited t/a Qantas New Zealand",
+    "IATA": "ZQ",
+    "ICAO": "NZA",
+    "website": null,
+    "notes": "Ceased operation in 2001. Name changed from Ansett New Zealand",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365786"
+  },
+  {
+    "name": "Sunair Aviation Ltd.",
+    "IATA": null,
+    "ICAO": "SAV",
+    "website": "www.sunair.co.nz",
+    "notes": "IATA designator ZU recalled.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365803"
+  },
+  {
+    "name": "Sunair Aviation Ltd.",
+    "IATA": "ZU",
+    "ICAO": "SAV",
+    "website": "www.sunair.co.nz",
+    "notes": "IATA designator ZU recalled.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365820"
+  },
+  {
+    "name": "The Mount Cook Airline Ltd.",
+    "IATA": "NM",
+    "ICAO": "NZM",
+    "website": "www.airnz.co.nz",
+    "notes": "Name changed from The Mount Cook Group Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365836"
+  },
+  {
+    "name": "The Mount Cook Group Ltd.",
+    "IATA": "NM",
+    "ICAO": "NZM",
+    "website": null,
+    "notes": "Name changed to The Mount Cook Airline Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365852"
+  },
+  {
+    "name": "Trans Tasman Airlines",
+    "IATA": null,
+    "ICAO": "TTE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365867"
+  },
+  {
+    "name": "Virgin Australia Airlines (NZ) Ltd",
+    "IATA": null,
+    "ICAO": "PBN",
+    "website": "www.virginaustralia.com",
+    "notes": "Established in 2003 and commenced operations on 29 January 2004. Name changed from Pacific Blue Airlines (NZ) Limited w.e.f. 07 December 2011. ICAO designator was changed from PBI to PBN w.e.f. 01 August 2007 (local date). All aircraft transferred to Vir",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365886"
+  },
+  {
+    "name": "Waikato Apero Club (Inc)",
+    "IATA": null,
+    "ICAO": "WIK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365902"
+  },
+  {
+    "name": "Wairarapa Airlines",
+    "IATA": "2W",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365917"
+  },
+  {
+    "name": "Waitemata Aero Club (Inc)",
+    "IATA": null,
+    "ICAO": "WTM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:37:52.365932"
+  }
+]

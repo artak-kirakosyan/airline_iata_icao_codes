@@ -1,0 +1,389 @@
+[
+  {
+    "name": "Air Pfunwa",
+    "IATA": null,
+    "ICAO": "PFU",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:40:00.806972"
+  },
+  {
+    "name": "Air Zimbabwe (PVT) Ltd.",
+    "IATA": "UM",
+    "ICAO": "AZW",
+    "website": "www.airzimbabwe.aero",
+    "notes": "Name changed from Air Zimbabwe Corporation",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:40:00.807000"
+  },
+  {
+    "name": "Executive Air",
+    "IATA": null,
+    "ICAO": "LFL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:40:00.807017"
+  },
+  {
+    "name": "Expedition Airways",
+    "IATA": null,
+    "ICAO": "XPD",
+    "website": null,
+    "notes": "Designator FO* recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:40:00.807034"
+  },
+  {
+    "name": "fastjet Zimbabwe Limited",
+    "IATA": "FN",
+    "ICAO": "FJW",
+    "website": "www.fastjet.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:40:00.807051"
+  },
+  {
+    "name": "Fly Kumba",
+    "IATA": null,
+    "ICAO": "FKZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:40:00.807067"
+  },
+  {
+    "name": "Flyafrica Zimbabwe (PVT) Limited",
+    "IATA": null,
+    "ICAO": "FZW",
+    "website": null,
+    "notes": "Designator ZC recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:40:00.807083"
+  },
+  {
+    "name": "J R Investments t/a Halsteds Aviation Corporation",
+    "IATA": null,
+    "ICAO": "JRH",
+    "website": "flyhac.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:40:00.807103"
+  },
+  {
+    "name": "Louella Freight Services",
+    "IATA": null,
+    "ICAO": "LFS",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:40:00.807118"
+  },
+  {
+    "name": "Medical Air Rescue Services (MARS)",
+    "IATA": null,
+    "ICAO": "MRZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:40:00.807134"
+  },
+  {
+    "name": "Mid Airlines",
+    "IATA": null,
+    "ICAO": "MDZ",
+    "website": null,
+    "notes": "Designator MT recalled by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:40:00.807149"
+  },
+  {
+    "name": "Southend Cargo Airlines",
+    "IATA": null,
+    "ICAO": "SYZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:40:00.807164"
+  },
+  {
+    "name": "Tiffany Air Transport",
+    "IATA": null,
+    "ICAO": "TIF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:40:00.807179"
+  },
+  {
+    "name": "United Air Charters",
+    "IATA": null,
+    "ICAO": "UAC",
+    "website": null,
+    "notes": "ICAO designator changed from UAC",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:40:00.807195"
+  },
+  {
+    "name": "Zimbabwe Cargo Airlines",
+    "IATA": null,
+    "ICAO": "ZWD",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:40:00.807211"
+  },
+  {
+    "name": "Affretair (Private) Limited",
+    "IATA": null,
+    "ICAO": "AFM",
+    "website": "www.planet.nu/sunshinecity/affretair/",
+    "notes": "Designator ZL* recalled by IATA. Designator changed from AG",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:40:00.807228"
+  },
+  {
+    "name": "Affretair (Private) Limited",
+    "IATA": "AG",
+    "ICAO": "AFM",
+    "website": "www.planet.nu/sunshinecity/affretair/",
+    "notes": "Designator AG recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:40:00.807245"
+  },
+  {
+    "name": "Air Zambezi",
+    "IATA": "ZT",
+    "ICAO": "TZT",
+    "website": "www.gsaairlines.com/airworld/africa/zt/airzambezi.htm",
+    "notes": "Designator ZT reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:40:00.807261"
+  },
+  {
+    "name": "Air Zambezi",
+    "IATA": "ZT",
+    "ICAO": "TZT",
+    "website": "www.gsaairlines.com/airworld/africa/zt/airzambezi.htm",
+    "notes": "Designator ZT recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:40:00.807279"
+  },
+  {
+    "name": "Air Zimbabwe",
+    "IATA": "WX",
+    "ICAO": "AZW",
+    "website": null,
+    "notes": "IATA designator changed to UM. ICAO designator changed from AZI",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:40:00.807295"
+  },
+  {
+    "name": "Air Zimbabwe Corporation",
+    "IATA": "WX",
+    "ICAO": "AZI",
+    "website": null,
+    "notes": "ICAO designator changed to AZW",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:40:00.807312"
+  },
+  {
+    "name": "Air Zimbabwe",
+    "IATA": "RH",
+    "ICAO": null,
+    "website": null,
+    "notes": "IATA desigantor changed to UM. Name changed from Air Rhodesia",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:40:00.807328"
+  },
+  {
+    "name": "Air Zimbabwe Corporation",
+    "IATA": "UM",
+    "ICAO": "AZW",
+    "website": null,
+    "notes": "Name changed to Air Zimbabwe (PVT) Ltd.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:40:00.807344"
+  },
+  {
+    "name": "AV Cargo Airlines Limited",
+    "IATA": "Z3",
+    "ICAO": "SMJ",
+    "website": "www.avcargo.co.uk",
+    "notes": "Founded in 2013. Ceased operations during 2014.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:40:00.807361"
+  },
+  {
+    "name": "Avient Aviation (Pty) Limited",
+    "IATA": "Z3",
+    "ICAO": "SMJ",
+    "website": "www.avient.aero",
+    "notes": "Placed into administration on 05 April 2013. Founded 1993",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:40:00.807378"
+  },
+  {
+    "name": "Central Air Transpsort Services",
+    "IATA": "ZO",
+    "ICAO": "CEN",
+    "website": "www.centralair.co.zw",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:40:00.807393"
+  },
+  {
+    "name": "CIMAS Emergency Air Rescue Service",
+    "IATA": null,
+    "ICAO": "CRA",
+    "website": "www.cimas.co.zw",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:40:00.807409"
+  },
+  {
+    "name": "Executive Air",
+    "IATA": null,
+    "ICAO": "AXE",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:40:00.807424"
+  },
+  {
+    "name": "Expedition Airways",
+    "IATA": null,
+    "ICAO": "XPD",
+    "website": null,
+    "notes": "Designator FO* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:40:00.807439"
+  },
+  {
+    "name": "NU-Aero (Pvt) Ltd t/a Fly Africa Zimbabwe",
+    "IATA": "ZC",
+    "ICAO": "FZW",
+    "website": null,
+    "notes": "Operations commenced on 01 August 2014.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:40:00.807454"
+  },
+  {
+    "name": "NU-Aero (Pvt) Ltd t/a Fly Africa Zimbabwe",
+    "IATA": "Z7",
+    "ICAO": "FZW",
+    "website": "www.flyafrica.com",
+    "notes": "Operations commenced on 01 August 2014.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:40:00.807473"
+  },
+  {
+    "name": "Flyafrica Zimbabwe (PVT) Limited",
+    "IATA": "ZC",
+    "ICAO": "FZW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:40:00.807488"
+  },
+  {
+    "name": "Flywell Airlines Private Limited",
+    "IATA": null,
+    "ICAO": "FEM",
+    "website": null,
+    "notes": "ICAO callsign changed to Zim Airlink",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:40:00.807504"
+  },
+  {
+    "name": "Fresh Air",
+    "IATA": null,
+    "ICAO": "FZW",
+    "website": "www.fly-fresh.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:40:00.807524"
+  },
+  {
+    "name": "Global Africa Cargo",
+    "IATA": "Z5",
+    "ICAO": "GAA",
+    "website": "globalafricacargo.net",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:40:00.807539"
+  },
+  {
+    "name": "Helbey Air Cargo",
+    "IATA": null,
+    "ICAO": "HCC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:40:00.807555"
+  },
+  {
+    "name": "Majestic Air P/L",
+    "IATA": "6M",
+    "ICAO": "MJC",
+    "website": null,
+    "notes": "Designator 6M recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:40:00.807570"
+  },
+  {
+    "name": "Mid Airlines",
+    "IATA": "MT",
+    "ICAO": "MDZ",
+    "website": null,
+    "notes": "Designator MT recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:40:00.807585"
+  },
+  {
+    "name": "Rainbow Airlines (Private) Limited",
+    "IATA": "RT",
+    "ICAO": "RAT",
+    "website": "www.rainbowairlines.co.zw",
+    "notes": "Planned to commence operation on 25 January 2017.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:40:00.807601"
+  },
+  {
+    "name": "Transport Africa (Zimbabwe) Ltd.",
+    "IATA": null,
+    "ICAO": "TFZ",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:40:00.807617"
+  },
+  {
+    "name": "United Air Charters",
+    "IATA": null,
+    "ICAO": "UNI",
+    "website": null,
+    "notes": "ICAO designator changed to UAC",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:40:00.807632"
+  },
+  {
+    "name": "Flywell Airlines Private Limited t/a Zimbabwe Airlink",
+    "IATA": "YZ",
+    "ICAO": "FEM",
+    "website": null,
+    "notes": "Designator YZ recalled by IATA. ICAO callsign changed from Flywell",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:40:00.807648"
+  },
+  {
+    "name": "Zimbabwe Express Airlines",
+    "IATA": "Z7",
+    "ICAO": "EZX",
+    "website": "www.zimsurf.co.ze/zex",
+    "notes": "Designator Z7 recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:40:00.807664"
+  }
+]

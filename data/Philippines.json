@@ -1,0 +1,677 @@
+[
+  {
+    "name": "Aboitiz Air Transport Corporation d/b/a 2GO Air",
+    "IATA": null,
+    "ICAO": "BOI",
+    "website": "www.2go.com.ph",
+    "notes": "Name changed from Aboitiz Air Transport Corporation.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:13.209763"
+  },
+  {
+    "name": "Air Juan Aviation, Inc.",
+    "IATA": "AO",
+    "ICAO": null,
+    "website": "www.airjuan.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:13.209793"
+  },
+  {
+    "name": "Philippines AirAsia Inc. t/a AirAsia Philippines",
+    "IATA": "Z2",
+    "ICAO": "APG",
+    "website": "www.airasia.com",
+    "notes": "Name changed from Zest Airways Inc. t/a AirAsia Zest. Merged with AirAsia, Inc. Philippines. Name changed from Zest Airways Inc. Name changed from Asian Spirit",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:13.209814"
+  },
+  {
+    "name": "AirSWIFT Transport, Inc.",
+    "IATA": "T6",
+    "ICAO": "ATX",
+    "website": "air-swift.com",
+    "notes": "Name changed from Island Transvoyager, Inc. ICAO Designator changed from ITI. ICAO Callsign changed from Trans Voyager. w.e.f. October 2015.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:13.209834"
+  },
+  {
+    "name": "Cebgo Inc. d/b/a Cebgo",
+    "IATA": "DG",
+    "ICAO": "SRQ",
+    "website": "www.cebupacificair.com",
+    "notes": "Name changed from Tigerair Philippines",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:13.209853"
+  },
+  {
+    "name": "Cebu Air, Inc. d/b/a Cebu Pacific Air",
+    "IATA": "5J",
+    "ICAO": "CEB",
+    "website": "www.cebupacificair.com",
+    "notes": "Name changed CEBU Pacific Air. ICAO designator changed from CPI",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:13.209871"
+  },
+  {
+    "name": "Government of the Philippines",
+    "IATA": null,
+    "ICAO": "RPP",
+    "website": "www.gov.ph",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:13.209890"
+  },
+  {
+    "name": "Island Aviation, Inc.",
+    "IATA": null,
+    "ICAO": "SOY",
+    "website": "islandaviation.com.ph",
+    "notes": "Name changed from Soriano, A. Aviation, Inc.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:13.209907"
+  },
+  {
+    "name": "MET Express Air Corp.",
+    "IATA": null,
+    "ICAO": "AMM",
+    "website": "metexpressair.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:13.209924"
+  },
+  {
+    "name": "Air Philippines Corporation d/b/a PAL Express and Airphil Express",
+    "IATA": "2P",
+    "ICAO": "GAP",
+    "website": "www.flypalexpress.com",
+    "notes": "Name changed from Air Philippines Corporation. W.e.f. 15 March 2013. IATA designator changed from 3G*. ICAO callsign changed from Orient Pacific. Designator 2P reinstated by IATA",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:13.209944"
+  },
+  {
+    "name": "Astro Air International Inc. d/b/a Pan Pacific Airlines",
+    "IATA": null,
+    "ICAO": "AAV",
+    "website": "panpacificair.com",
+    "notes": "Desigantor 8Y* recalled by IATA. No flights operated since December 2022. Named changed from Astro Air International Inc. during 2016 and commenced operations on 27 April 2017.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:13.209963"
+  },
+  {
+    "name": "Philippine Airlines, Inc.",
+    "IATA": "PR",
+    "ICAO": "PAL",
+    "website": "www.philippineairlines.com",
+    "notes": "Name changed from Philippine Air Lines, Inc. (PAL). ICAO callsgin changed from Filairline",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:13.209983"
+  },
+  {
+    "name": "PSI Air 2007, Inc.",
+    "IATA": null,
+    "ICAO": "PHP",
+    "website": "psiair2007.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:13.210001"
+  },
+  {
+    "name": "Royal Star Aviation Inc.",
+    "IATA": null,
+    "ICAO": "RSM",
+    "website": "www.royalstaraviation.com",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:13.210020"
+  },
+  {
+    "name": "Royal Air Charter Service, Inc. t/a royalair philippines",
+    "IATA": "RW",
+    "ICAO": "RYL",
+    "website": "flyroyalair.com",
+    "notes": "Commenced scheduled operations on 14 December 2018. Established on 22 August 2002.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:13.210039"
+  },
+  {
+    "name": "South East Asian Airlines (Seair) International, Inc.",
+    "IATA": "XO",
+    "ICAO": "SGD",
+    "website": "www.flyseair.com",
+    "notes": "IATA Prefix Code 397 recalled.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:13.210056"
+  },
+  {
+    "name": "Magnum Air, Inc. d/b/a Skyjet",
+    "IATA": "M8",
+    "ICAO": "MSJ",
+    "website": "www.skyjetair.com",
+    "notes": "Founded in 2005. Commenced operations on 14 December 2012.",
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:13.210074"
+  },
+  {
+    "name": "Sunlight Express Airways t/a Sunlight Air",
+    "IATA": "2R",
+    "ICAO": "RLB",
+    "website": "sunlightair.ph",
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:13.210092"
+  },
+  {
+    "name": "Aboitiz Air Transport Corporation",
+    "IATA": null,
+    "ICAO": "BOI",
+    "website": null,
+    "notes": "Name changed to Aboitiz Air Transport Corporation d/b/a 2GO Air.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210109"
+  },
+  {
+    "name": "Aero Filipinas, Inc.",
+    "IATA": null,
+    "ICAO": "AFI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210126"
+  },
+  {
+    "name": "Aero Filipinas, Inc.",
+    "IATA": "AJ",
+    "ICAO": "AFI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210141"
+  },
+  {
+    "name": "Aerolift Philippines Corporation",
+    "IATA": null,
+    "ICAO": "LFT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210158"
+  },
+  {
+    "name": "Air Manila, Inc.",
+    "IATA": "UM",
+    "ICAO": "AMI",
+    "website": null,
+    "notes": "Founded in 1964. Merged into Philippine Airlines during 1973.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210175"
+  },
+  {
+    "name": "Air Pacific Crake",
+    "IATA": null,
+    "ICAO": "CRK",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210191"
+  },
+  {
+    "name": "Air Philippines Corporation",
+    "IATA": "2P",
+    "ICAO": "GAP",
+    "website": "www.airphilippines.com",
+    "notes": "ICAO callsign changed to Airphil Express w.e.f. 10 April 2008. Designator 2P reinstated by IATA. IATA designator changed from 3G*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210209"
+  },
+  {
+    "name": "Air Philippines Corporation",
+    "IATA": "2P",
+    "ICAO": "APQ",
+    "website": null,
+    "notes": "ICAO designator changed to GAP. IATA designator changed from 3G*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210225"
+  },
+  {
+    "name": "AirAsia, Inc. Philippines",
+    "IATA": "PQ",
+    "ICAO": "APG",
+    "website": "www.airasia.com/ph/en",
+    "notes": "Merged with Philippines AirAsia Inc. (Z2/EZD) in January 2016.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210242"
+  },
+  {
+    "name": "Zest Airways Inc. t/a AirAsia Zest",
+    "IATA": "Z2",
+    "ICAO": "EZD",
+    "website": "www.flyzest.com",
+    "notes": "Name changed to Philippines AirAsia inc. t/a AirAsia Philippines. Name changed from Zest Airways Inc. Name changed from Asian Spirit",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210261"
+  },
+  {
+    "name": "Air Philippines Corporation d/b/a Airphil Express",
+    "IATA": "2P",
+    "ICAO": "GAP",
+    "website": "www.airphilippines.com",
+    "notes": "Name changed to Air Philippines Corporation d/b/a PAL Express and Airphil Express. IATA designator changed from 3G*. ICAO callsign changed from Orient Pacific. Designator 2P reinstated by IATA.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210281"
+  },
+  {
+    "name": "Alphaland Aviation, Inc",
+    "IATA": "C9",
+    "ICAO": "BIC",
+    "website": "www.alphaland.com.ph",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210298"
+  },
+  {
+    "name": "Asia Overnight Express Corporation",
+    "IATA": null,
+    "ICAO": "AOT",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210313"
+  },
+  {
+    "name": "Asia Pacific Airlines, Inc.",
+    "IATA": null,
+    "ICAO": "APF",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210330"
+  },
+  {
+    "name": "Asian Spirit, Inc.",
+    "IATA": "6K",
+    "ICAO": "RIT",
+    "website": "www.asianspirit.com",
+    "notes": "Established in 1995. Commenced operations in April 1996. Name changed to Zest Airways w.e.f. 30 September 2008. Designator 6K reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210348"
+  },
+  {
+    "name": "Astro Air International, Inc.",
+    "IATA": null,
+    "ICAO": "AAP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210364"
+  },
+  {
+    "name": "Astro Air International Inc.",
+    "IATA": "8Y",
+    "ICAO": "AAV",
+    "website": null,
+    "notes": "Named changed to Astro Air International Inc. d/b/a Pan Pacific Airlines during 2016.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210381"
+  },
+  {
+    "name": "Astro Air International, Inc.",
+    "IATA": null,
+    "ICAO": "AAV",
+    "website": null,
+    "notes": "Ceased operations",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210398"
+  },
+  {
+    "name": "Avia Filipinas International, Inc.",
+    "IATA": null,
+    "ICAO": "FIL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210423"
+  },
+  {
+    "name": "Cards Air Services, Inc.",
+    "IATA": null,
+    "ICAO": "CDI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210439"
+  },
+  {
+    "name": "CEBU Pacific Air",
+    "IATA": "5J",
+    "ICAO": "CPI",
+    "website": null,
+    "notes": "ICAO designator changed to CEB",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210457"
+  },
+  {
+    "name": "CEBU Pacific Air",
+    "IATA": "5J",
+    "ICAO": "CEB",
+    "website": "www.cebupacificair.com",
+    "notes": "Name changed to Cebu Air, Inc. d/b/a Cebu Pacific Air. ICAO designator changed from CPI",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210474"
+  },
+  {
+    "name": "Centennial Air, Inc.",
+    "IATA": null,
+    "ICAO": "CNP",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210490"
+  },
+  {
+    "name": "CLA Air Transport, Inc.",
+    "IATA": null,
+    "ICAO": "CXX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210506"
+  },
+  {
+    "name": "Eagle Trans Asia Airways Corp.",
+    "IATA": null,
+    "ICAO": "ETW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210521"
+  },
+  {
+    "name": "Filipinas Orient Airways, Inc.",
+    "IATA": "FE",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210537"
+  },
+  {
+    "name": "Filipinas Orient Airways, Inc.",
+    "IATA": null,
+    "ICAO": "FOA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210552"
+  },
+  {
+    "name": "Grand International Airways, Inc.",
+    "IATA": "8L",
+    "ICAO": "GDI",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210568"
+  },
+  {
+    "name": "Intercontinental Pacific Airways, Inc.",
+    "IATA": null,
+    "ICAO": "IPC",
+    "website": null,
+    "notes": "IATA designator changed to IO",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210585"
+  },
+  {
+    "name": "Intercontinental Pacific Airways, Inc.",
+    "IATA": "IO",
+    "ICAO": "IPC",
+    "website": "www.ipa.ph",
+    "notes": "IATA designator changed from IS*",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210601"
+  },
+  {
+    "name": "Interisland Airlines",
+    "IATA": null,
+    "ICAO": "ISN",
+    "website": "www.interislandairlines.com",
+    "notes": "AOC revoked on 23 April 2010.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210618"
+  },
+  {
+    "name": "Island Transvoyager, Inc.",
+    "IATA": "T6",
+    "ICAO": "ITI",
+    "website": "www.itiair.com",
+    "notes": "Founded in 2002. Name changed to AirSWIFT Transport, Inc. ICAO designator changed to ATX. ICAO callsign changed to Airswift. w.e.f. October 2015.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210636"
+  },
+  {
+    "name": "Laoag International Airlines",
+    "IATA": "L7",
+    "ICAO": "LPN",
+    "website": null,
+    "notes": "Ceased operations in 2006",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210654"
+  },
+  {
+    "name": "Manila Aviation Services, Inc.",
+    "IATA": "AB",
+    "ICAO": null,
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210670"
+  },
+  {
+    "name": "Metro Manila Airways International, Inc.",
+    "IATA": null,
+    "ICAO": "MMA",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210687"
+  },
+  {
+    "name": "Mosphil Aero Inc.",
+    "IATA": null,
+    "ICAO": "MPI",
+    "website": null,
+    "notes": "Founded in 2005. Commenced operations in 2006.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210704"
+  },
+  {
+    "name": "Pacific East Asia Cargo Airlines, Inc.",
+    "IATA": "4P",
+    "ICAO": "PEC",
+    "website": null,
+    "notes": "Founded on 09 October 1990.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210720"
+  },
+  {
+    "name": "Pacific East Asia Cargo Airlines, Inc.",
+    "IATA": "Q8",
+    "ICAO": "PEC",
+    "website": "www.peacairlines.com",
+    "notes": "Ceased operations on 30 December 2010. Designator Q8 reinstated by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210737"
+  },
+  {
+    "name": "Pacific Pearl Airways Corporation",
+    "IATA": null,
+    "ICAO": "PPM",
+    "website": "www.pacificpearlairways.com",
+    "notes": "Founded in 2006. No operations since earlier 2015.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210755"
+  },
+  {
+    "name": "Pacific Airways Corporation (Pacificair)",
+    "IATA": null,
+    "ICAO": "PFR",
+    "website": "www.pacificair.com.ph",
+    "notes": "Ceased operations.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210772"
+  },
+  {
+    "name": "Astro Air International Inc. d/b/a Pan Pacific Airlines",
+    "IATA": null,
+    "ICAO": "AAV",
+    "website": "panpacificair.com",
+    "notes": "Named changed from Astro Air International Inc. during 2016 and commenced operations on 27 April 2017.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210791"
+  },
+  {
+    "name": "Philippine Air Lines, Inc. (PAL)",
+    "IATA": "PR",
+    "ICAO": "PAL",
+    "website": null,
+    "notes": "Name changed to Philippine Airlines, Inc. ICAO Callsign changed to Philippine",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210810"
+  },
+  {
+    "name": "Philippine Eagle Airlines",
+    "IATA": null,
+    "ICAO": "EAL",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210825"
+  },
+  {
+    "name": "Philippine International Airways Corporation",
+    "IATA": null,
+    "ICAO": "PIX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210842"
+  },
+  {
+    "name": "Royal Air Charter Service, Inc.",
+    "IATA": "RW",
+    "ICAO": "RYL",
+    "website": "www.royalairph.com",
+    "notes": "Established on 22 August 2002.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210859"
+  },
+  {
+    "name": "South East Asian Airlines (Seair) International, Inc.",
+    "IATA": "XO",
+    "ICAO": "SGD",
+    "website": "www.flyseair.com",
+    "notes": "IATA Prefix Code 397 recalled.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210876"
+  },
+  {
+    "name": "South East Asian Airlines (SEAIR) International, Inc.",
+    "IATA": "DG",
+    "ICAO": "SRQ",
+    "website": "www.flyseair.com",
+    "notes": "Name changed to Tigerair Philippines. Name changed from Seair Incorporated",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210895"
+  },
+  {
+    "name": "Seair Incorporated",
+    "IATA": null,
+    "ICAO": "SRQ",
+    "website": null,
+    "notes": "Name changed to South East Asian Airlines",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210911"
+  },
+  {
+    "name": "Soriano, A. Aviation, Inc.",
+    "IATA": null,
+    "ICAO": "SOY",
+    "website": null,
+    "notes": "Name changed to Island Aviation, Inc.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210927"
+  },
+  {
+    "name": "Spirit of Manila Airlines Corp",
+    "IATA": "SM",
+    "ICAO": "MNP",
+    "website": "www.spiritofmanilaairlines.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210943"
+  },
+  {
+    "name": "Star Asia",
+    "IATA": null,
+    "ICAO": "TIM",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210959"
+  },
+  {
+    "name": "Star Borne Chartering Corporation",
+    "IATA": null,
+    "ICAO": "SBC",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210975"
+  },
+  {
+    "name": "Tair Airways, Inc.",
+    "IATA": "T2",
+    "ICAO": "TFB",
+    "website": "www.tairairways.com",
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.210991"
+  },
+  {
+    "name": "Tigerair Philippines",
+    "IATA": "DG",
+    "ICAO": "SRQ",
+    "website": "www.flyseair.com",
+    "notes": "Name changed from South East Asian Airlines (SEAIR) International, Inc. Name changed from Seair Incorporated",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.211007"
+  },
+  {
+    "name": "TransGlobal Airways Corporation",
+    "IATA": "T7",
+    "ICAO": "TCU",
+    "website": null,
+    "notes": "Commenced operations in July 2005.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.211023"
+  },
+  {
+    "name": "Trans-Pacific Orient Airways Inc.",
+    "IATA": null,
+    "ICAO": "PCW",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.211039"
+  },
+  {
+    "name": "Zest Airways Inc.",
+    "IATA": "Z2",
+    "ICAO": "EZD",
+    "website": "www.flyzest.com",
+    "notes": "Name changed from Asian Spirit. Name changed to AirAsia Zest.",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:13.211055"
+  }
+]

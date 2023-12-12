@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Tropical International Airways Ltd.",
+    "IATA": null,
+    "ICAO": "TKX",
+    "website": null,
+    "notes": null,
+    "is_up_to_date": true,
+    "parsed": "2023-12-12 08:38:55.320324"
+  },
+  {
+    "name": "Daystar Airways Ltd d/b/a Nevis Express",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.nevisexpress.com",
+    "notes": "Designator VF* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:55.320356"
+  },
+  {
+    "name": "Daystar Airways Ltd d/b/a Nevis Express",
+    "IATA": null,
+    "ICAO": null,
+    "website": "www.nevisexpress.com",
+    "notes": "Designator VF* recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:55.320378"
+  },
+  {
+    "name": "Tropical International Airways Ltd.",
+    "IATA": "PQ",
+    "ICAO": "TKX",
+    "website": null,
+    "notes": "Designator PQ recalled by IATA",
+    "is_up_to_date": false,
+    "parsed": "2023-12-12 08:38:55.320396"
+  }
+]
